@@ -85,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +193,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "b33abf1f2fd9618e",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
     "Factions/Cult of the Dragon/Black Dragon/Dragonclaws/Frulam Mondath.md",
     "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
