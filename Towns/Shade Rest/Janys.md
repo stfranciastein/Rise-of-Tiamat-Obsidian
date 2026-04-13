@@ -1,0 +1,1 @@
+A female Human working as the Innkeeper at Shade's Rest.

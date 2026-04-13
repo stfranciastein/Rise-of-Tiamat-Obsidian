@@ -1,0 +1,4 @@
+
+Jon did not have much growing up in a remote village like Willowvale. His mother Isabella provided for him as much as she could, which Jon always appreciated growing up. His dad Feldir made sure of that. 
+
+Life on the farm was good. The solitude was sometimes isolating, but there were other kids in the village he could talk to and play with when he was done working the fields. His father would entertain him with a flash of magic every now and then, the occasional adventurer would pay a visit to the Hefty Pint and Jon would hear stories about the outside world through them. He'd always wanted to be one hi

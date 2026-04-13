@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "eeeded4cc0e1034e",
+    "type": "split",
+    "children": [
+      {
+        "id": "29f6b1a987287aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fefdf5868c50d7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1.0 - The Great Hunt"
+            }
+          },
+          {
+            "id": "2df5922fc28a510a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71ad15f255fb9cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae03a6e9361fdabe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdcd5f68fae46272",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b33abf1f2fd9618e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "chapter 2.0",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0e303e97ed5adae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "44379c75f1acca37",
+    "type": "split",
+    "children": [
+      {
+        "id": "252091ae30d475c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e60a29a94242048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 2.0 - Tale of Two Cities"
+            }
+          },
+          {
+            "id": "c1ea500c03f40044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2.0 - Tale of Two Cities"
+            }
+          },
+          {
+            "id": "c3846794f94ca6a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df530263d367b07c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ce174cd16f34392",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b33abf1f2fd9618e",
+  "lastOpenFiles": [
+    "Factions/Cult of the Dragon/Black Dragon/Dragonclaws/Frulam Mondath.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
+    "Noble Houses/House Shadowblade/Contracts with Lucien.md",
+    "Magic/Wonderous Items/Decks/Wildcard's Tarot.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "Magic/Wonderous Items/Decks/Untitled",
+    "Magic/Cataclysm.md",
+    "Adventurers/Group B/The Bush Whackers.md",
+    "Magic/Wonderous Items/Decks/Deck of Mischief.md",
+    "Adventurers/Group B/Caradil Anduin/Renblades.md",
+    "Cities/The Sword Coast/Waterdeep/Organisations (Waterdeep)/Renblades.md",
+    "01 - Acts/Act 1 - The Curse of Willowvale/Chapter 1.0 - The Woods.md",
+    "Cities/The Sword Coast/Elturel/Elturel.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
+    "Other Locations/Sylvira-Van.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - Baldur's Gate.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of secrets.md",
+    "Adventurers/Group B/Auron Whitestreak/Auron Whitestreak.md",
+    "Zil's Report 01.md",
+    "Factions/Cult of the Dragon/White Dragon/Alia Sanem 'Talis Kasterel'.md",
+    "Factions/Cult of the Dragon/Red Dragon/Severin Silrajin.md",
+    "Magic/Mutated Dragon.md",
+    "Factions/Lords' Alliance/Orenius Savikas.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Hoard of the Dragon Queen.md",
+    "Adventurers/Group A/Impyerno Lima.md",
+    "Cities/The Sword Coast/Elturel/Organisations (Elturel)/Hellriders/Zevlor.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Il met by Moonlight.md",
+    "The Hells/04 Phlegethos",
+    "Untitled.base",
+    "Magic/Wonderous Items/Decks/Pasted image 20260404213259.png",
+    "Magic/Wonderous Items/Decks",
+    "Magic/Weapons",
+    "Noble Houses/House Melwin",
+    "Cities/The Sword Coast/Waterdeep/Misc NPCs (Waterdeep)",
+    "Cities/The Sword Coast/Elturel/Misc NPCs (Elturel)",
+    "Cities/The Sword Coast/Baldur's Gate/Misc NPCs (Baldur's Gate)",
+    "Factions/Talons of the Raven Queen/Talons",
+    "Untitled.canvas",
+    "Images/a083ad846d6f728ec3a5313c20f61f7e.webp",
+    "Images/046-map-6.02-dms-map.webp",
+    "Images/Pasted image 20260406174237.png",
+    "Images/0pmvgr2j4wsf1.jpeg",
+    "Pasted image 20260405224956.png",
+    "Images/Maps/Act 2/Dragon Hatchery.png",
+    "Pasted image 20260404045319.png",
+    "Pasted image 20260404045256.png",
+    "Untitled 1.canvas",
+    "Pasted image 20251205092317.png"
+  ]
+}

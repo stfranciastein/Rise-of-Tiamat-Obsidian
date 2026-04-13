@@ -1,0 +1,1 @@
+Scornubel is a former trade capital prior to the events of the campaign. In [[Act 2 - Hoard of the Dragon Queen]], it is destroyed by the [[Cult of the Dragon]] in an attack lead and orchestrated by [[Wyrmspeaker Rezmir]] and [[Langdedrosa Cyanwrath]].

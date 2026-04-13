@@ -1,0 +1,1 @@
+An island in the Frozenfar in the Trackless Sea, far to the west of Faerûn. Tuern is a rocky island of black beaches and fuming volcanoes, but as a result of this activity the land is very fertile. There are two main settlements in Tuern, [[Uttersea]] and Dragon's Rest,

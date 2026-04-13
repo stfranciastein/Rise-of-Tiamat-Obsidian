@@ -1,0 +1,1 @@
+The Archduke of [[Avernus]]. Zariel was originally a solar of [[Lathander]] who found herself descending from [[Celestia]] in order to aid the people of [[Elturel]] save their city from an invasion of Devils.

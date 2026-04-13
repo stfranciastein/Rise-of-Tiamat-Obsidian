@@ -1,0 +1,1 @@
+During the events of [[Chapter 1.0 - The Great Hunt]], the players will be subject to an explosion which will completely kill them. This is due to the fact that [[Frulam Mondath]]'s ritual was disrupted before she could finish, which causes the souls of the Abishai to fly into the party instead. 
