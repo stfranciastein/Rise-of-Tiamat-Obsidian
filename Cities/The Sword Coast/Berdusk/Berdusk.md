@@ -39,8 +39,8 @@ _____
 2. [[Flourished Flagon]]: A tavern run by a Gnome woman named [[Vittoria]].
 3. [[Patriarch's Rest]]: A tavern run by [[Amalicia Red-Bone]], an Orc woman.
 4. [[Ruby Shawl]]: A clothes shop maintained by an Orc woman named [[Giselda Light-Finger]].
-5. [[Silver Sword]]: A blacksmithy that is owned by a Minotaur male named [[Flint]], along with his husband [[Steel]].
-6. [[Twilight Hall]]: The seat of the [[Harpers]], and High Harper [[Jaheria]]'s home base.#
+5. [[Silver Sword]]: A blacksmith that is owned by a Minotaur male named [[Flint]], along with his husband [[Steel]].
+6. [[Twilight Hall]]: The seat of the [[Harpers]], and High Harper [[Jaheria]]'s home base.
 7. [[Evensong Tower]]: The seat of government in Berdusk, current meeting place for the [[First Folk]]. 
 8. [[Bellblade's Throne]]: A well-estabished tavern that is owned by the [[Zhentarim]].
 9. [[The Pit]]: A temporary camp outside Berdusk which serves as its prison under the Orcs.

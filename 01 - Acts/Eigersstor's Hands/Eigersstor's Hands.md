@@ -1,4 +1,4 @@
-The city of Neverwinter is home to many skilled individuals. As a bustling metropolis, coin flows through Neverwinter like water. In the Bluelake District, there is a guild of bounty hunters called Eigersstor's Hands lead by a female elf named Mirabelle Everinn. 
+The city of [[Neverwinter]] is home to many skilled individuals. As a bustling metropolis, coin flows through Neverwinter like water. In the Bluelake District, there is a guild of bounty hunters called Eigersstor's Hands lead by a female elf named Mirabelle Everinn. 
 
 The Hands are hired by all manner of clients, tasked with bounties that range from dangerous deliveries to exterminating troublesome bandits. While there is no formal membership, the Hands are always looking for contractors, and your pockets are aching for coin.
 

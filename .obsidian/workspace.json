@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "29f6b1a987287aa5",
+        "id": "998f1b6b9fbf0b93",
         "type": "tabs",
         "children": [
           {
-            "id": "4fefdf5868c50d7c",
+            "id": "d397bac7eb05904b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
+                "file": "Adventurers/Group A/Zilliletha/Zilliletha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1.0 - The Great Hunt"
-            }
-          },
-          {
-            "id": "2df5922fc28a510a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Zilliletha"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chapter 2.0",
+                "query": "candlekeep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "eed9977703b5d50d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,48 +190,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdcd5f68fae46272",
+  "active": "d397bac7eb05904b",
   "lastOpenFiles": [
-    "Factions/Cult of the Dragon/Black Dragon/Dragonclaws/Frulam Mondath.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
-    "Noble Houses/House Shadowblade/Contracts with Lucien.md",
-    "Magic/Wonderous Items/Decks/Wildcard's Tarot.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
-    "Magic/Wonderous Items/Decks/Untitled",
-    "Magic/Cataclysm.md",
-    "Adventurers/Group B/The Bush Whackers.md",
-    "Magic/Wonderous Items/Decks/Deck of Mischief.md",
+    "Factions/Talons of the Raven Queen/Talons of the Raven Queen.md",
+    "Adventurers/Group A/Zilliletha/Zilliletha.md",
+    "Factions/Candlekeep/Candlekeep.md",
+    "Cities/The Sword Coast/Berdusk/Berdusk.md",
+    "Deities/Luthic.md",
+    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Demonic Vengeance.md",
+    "The Entity.md",
+    "Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
+    "Adventurers/Group A/Zilliletha/Kaelis.md",
+    "Adventurers/Group A/Zilliletha/Katarzyna.md",
+    "Adventurers/Group A/Yan Lawntill/Yan 'Keyreeonis' Lawntill.md",
     "Adventurers/Group B/Caradil Anduin/Renblades.md",
-    "Cities/The Sword Coast/Waterdeep/Organisations (Waterdeep)/Renblades.md",
-    "01 - Acts/Act 1 - The Curse of Willowvale/Chapter 1.0 - The Woods.md",
-    "Cities/The Sword Coast/Elturel/Elturel.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
-    "Other Locations/Sylvira-Van.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - Baldur's Gate.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of secrets.md",
+    "Adventurers/Group B/Caradil Anduin/Audric Anduin.md",
+    "Adventurers/Group B/Caradil Anduin/Caradil Anduin.md",
+    "Adventurers/Group B/Aramir Void-Blade/Aramir Void-Blade.md",
     "Adventurers/Group B/Auron Whitestreak/Auron Whitestreak.md",
-    "Zil's Report 01.md",
-    "Factions/Cult of the Dragon/White Dragon/Alia Sanem 'Talis Kasterel'.md",
-    "Factions/Cult of the Dragon/Red Dragon/Severin Silrajin.md",
-    "Magic/Mutated Dragon.md",
-    "Factions/Lords' Alliance/Orenius Savikas.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Hoard of the Dragon Queen.md",
+    "Adventurers/Group B/Soma/Soma.md",
+    "The Shadowfell/Shadowfell.md",
+    "The Shadowfell",
     "Adventurers/Group A/Impyerno Lima.md",
-    "Cities/The Sword Coast/Elturel/Organisations (Elturel)/Hellriders/Zevlor.md",
-    "01 - Acts/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Il met by Moonlight.md",
-    "The Hells/04 Phlegethos",
+    "Adventurers/Group A/Yan Lawntill/Dameon.md",
+    "Adventurers/Group A/Yan Lawntill/Sea Hawks.md",
+    "Adventurers/Group A/Yan Lawntill/Martha.md",
+    "Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 14.md",
+    "Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 13.md",
+    "Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 12.md",
+    "Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 11.md",
     "Untitled.base",
+    "Adventurers/Group B/00 - Session Notes",
+    "Adventurers/Group A/00 - Session Notes/Chapter 1.0 - The Great Hunt",
+    "Adventurers/Session Notes/Untitled",
+    "Adventurers/Group A/00 - Session Notes",
+    "Magic/Wonderous Items/Decks/Untitled",
+    "The Hells/04 Phlegethos",
     "Magic/Wonderous Items/Decks/Pasted image 20260404213259.png",
     "Magic/Wonderous Items/Decks",
     "Magic/Weapons",
-    "Noble Houses/House Melwin",
-    "Cities/The Sword Coast/Waterdeep/Misc NPCs (Waterdeep)",
-    "Cities/The Sword Coast/Elturel/Misc NPCs (Elturel)",
-    "Cities/The Sword Coast/Baldur's Gate/Misc NPCs (Baldur's Gate)",
-    "Factions/Talons of the Raven Queen/Talons",
     "Untitled.canvas",
     "Images/a083ad846d6f728ec3a5313c20f61f7e.webp",
     "Images/046-map-6.02-dms-map.webp",

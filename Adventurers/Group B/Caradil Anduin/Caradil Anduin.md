@@ -1,11 +1,11 @@
-**Bio:** A male Human Ranger (Fey Wanderer)
+**Bio:** A male Human Ranger/Rogue (Fey Wanderer)
 **Age:** 36
 **Status:** Alive
 
 ****
 #### **BACKSTORY**
 
-Caradil never knew his parents, he was raised in the Helm's Hall orphanage in Waterdeep. As he got older, he spent most of his early teens around the ports of Waterdeep, joining a "gang" of youths, they spent most of their time pickpocketing drunken sailors from the hundreds of trading vessels that made their way in and out of the ports. One night, while fleeing the city watch, Caradil was grabbed by a one armed beggar with deep scars across his face who told Caradil of a great kraken that lurked beneath the waves beyond Waterdeeps port. Between the shock of being grabbed by this man and the adrenaline of running from the city watch, this story seemed so vivid it almost felt like a vision, instilling a life long fear of krakens in Caradil. 
+Caradil never knew his parents, he was raised in the Helm's Hall orphanage in [[Waterdeep]]. As he got older, he spent most of his early teens around the ports of Waterdeep, joining a "gang" of youths, they spent most of their time pickpocketing drunken sailors from the hundreds of trading vessels that made their way in and out of the ports. One night, while fleeing the city watch, Caradil was grabbed by a one armed beggar with deep scars across his face who told Caradil of a great kraken that lurked beneath the waves beyond Waterdeeps port. Between the shock of being grabbed by this man and the adrenaline of running from the city watch, this story seemed so vivid it almost felt like a vision, instilling a life long fear of krakens in Caradil. 
 
 Soon after this encounter, a man descended from the rooftops. This man was Audric, a ranger of the Renblades who took Caradil to the local city watch barracks. Caradil was interrogated by a member of the city watch, a dwarf with one blue and one black who demanded Caradil give up the rest of his gang or he would cut off his hands. Caradil refused and before punishment could be given, Audric made him an offer: "You can stay here and the watch'll take your hands or you can come with me and I'll put a bow in them". 
 

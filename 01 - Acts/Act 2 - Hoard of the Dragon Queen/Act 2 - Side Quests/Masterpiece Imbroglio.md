@@ -47,7 +47,7 @@ Upon finishing the [[Guard's Barracks (Docks)]], the adventurers can head to the
 
 *Rain falls as you approach the Warehouses on the far side of the Dragonseye Docks. A tall, well-dressed human man emerges from the inside as you get closer. He is wearing a dark three-piece suit, with a strange looking hat with a wide brim. The hat and the lengthy black trench coat he wears seems to reflect the rain off of his body, keeping him completely dry. In his right hand he appears to be leaning on a cane, the handle tipped with silver and the head carved in the shape of a wolf.*
 
-RENARD: Thank you for coming (with a smile). I'm Renard Belrose. My... 'organisation' would like to hire the you to retrieve a painting that was stolen from us by another thieves guild. For the painting's safe return, we're prepared to pay you 1,500 gold pieces. More if you can do it quietly and cleanly.
+RENARD: Thank you for coming (with a smile). I'm Renard Belrose. My... 'organisation' would like to hire you to retrieve a painting that was stolen from us by another thieves guild. For the painting's safe return, we're prepared to pay you 1,500 gold pieces. More if you can do it quietly and cleanly.
 
 *A few Tieflings pass by the front of the Warehouse and Renard smiles beneath the shade of his hat.*
 
@@ -108,7 +108,7 @@ RENARD: When the job is done come straight back here if you can. I'll keep an ey
 
 *Renard laughs and reaches inside his inner coat once more. He tosses a small black leather bag towards the adventurers and it lands on the table in front of you with a heavy thud.*
 
-RENARD: There's 500 in there now as a down payment. The rest will come once the job is done.Oh and don't try to double-cross me. The [[Zhentarim]] may be a large organisation, but they won't be able nor willing to protect you against mine's retaliation if you do.
+RENARD: There's 500 in there now as a down payment. The rest will come once the job is done. Oh and don't try to double-cross me. The [[Zhentarim]] may be a large organisation, but they won't be able nor willing to protect you against mine's retaliation if you do.
 
 _____
 ### PART III - The Heist
@@ -365,7 +365,7 @@ The Cognoscenti Esoterica was wrong about one thing: Guildmaster Dusk has no int
 
 Trap. Canisters of poisonous gas are hidden in the wall behind the painting. Removing the painting from its hooks without first disabling the trap causes the gas to spew from tiny holes previously concealed by the painting. Each creature in the room when the gas is released must make a DC 14 Constitution saving throw, taking 36 (8d8) poison damage on a failed save, or half as much damage on a successful one.
 
-A character who searches the alcove for traps spots the holes behind the painting with a successful DC 12 Wisdom (Perception) check. This check is made with advantage if the character saw the trap's sketch in Dusk's diary. Once the trap is detected, a character can spend 1 minute trying to disable it, either by plugging the holes or by placing counterweights on the hooks as someone else carefully lifts the painting. The character trying to disable the trap must make a DC 15 Dexterity (Sleight of Hand) check, disabling the trap on a success and triggering the trap on a failure.
+A character who searches the alcove for traps spots the holes behind the painting with a successful DC 12 Wisdom (Perception) check. This check is made with advantage if the character saw the trap's sketch in Dusk's diary. Once the trap is detected, a character can spend 1 minute trying to disable it, either by plugging the holes or by placing counterweights on the hooks as someone else carefully lifts the painting. The character trying to disable the trap must make a DC 25 Dexterity (Sleight of Hand) check, disabling the trap on a success and triggering the trap on a failure.
 
 #### G28: Cellar
 This room lies at the bottom of a wooden staircase that climbs 15 feet to [area G6](https://5e.tools/adventure.html#kftgv,6,g6%3a%20basement%20staircase,0). The cellar is unlit.
@@ -376,7 +376,7 @@ The crates, barrels, and trunks are all empty.
 
 Secret Door. A secret door in the south wall can't be opened from this side without magic (see [area G33](https://5e.tools/adventure.html#kftgv,6,g33%3a%20western%20maze,0) for details). It leads to area G33.
 
-Thieves' Test. The door leading to area G29 is unlocked and has the following note (handwritten in Common) tacked to it:
+Thieves' Test. The door leading to area G29 is unlocked and has the following note (handwritten in Common) tacked to it.
 
 Here are the rules. Look for keys and keyholes. Watch out for my pets. Follow the arrows, but don't let them hit you. Trust your ears, and remember: a little pressure can be a good thing. Get out alive. Remember, you wanted this. Good luck, grunt.—Dusk
 

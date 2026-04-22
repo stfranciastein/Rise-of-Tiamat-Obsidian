@@ -1,0 +1,11 @@
+### 1.3 The Feast
+
+A fight broke out as Impyerno Lima fought bravely against two enraged minotaurs that were decimating the members of the Emerald Enclave. Unfortunately, they managed to save only one member of the rival team. 
+
+Moving forward with the Hunt, the adventurers found themselves atop one of the Troll Mountain's peaks, where they discovered three Kobolds who were attempting to summon 'Tiamat' in a lake at the behest of a masked stranger. The party soon discovered that it was not Tiamat, but a Hydra that was lurking beneath the waters. After a difficult fight, one that nearly cost Ryn his life, Impyerno Lima was able to succesfully defeat the creature with Zil landing both of the final blows.
+
+The fight, the party briefly considered going after Lord Goldmane who they believed would find a way to cheat the Hunt but ultimately decided against it. However, more trouble followed soon after as they descended down the mountain and ran into an Arcane Brotherhood Assassin that demanded Yan return to his mentor. Yan refused, and the the dwarf woman made a promise that if he did not go to Elturel to meet with his mentor Thuram, they would kill Impyerno Lima one by one. 
+
+The party arrived in Greenest early, going about their preparations for the feast. At night, they dressed up in fine clothes for their final night here. The merriment did not last long as they began to question the Lord Goldmane with the assisstance of Aestree Silvermoon, a Paladin of Selune. Their act did not land well with the audience nor the other judges. As a result Impyerno Lima found themselves disgraced as the dashing Lord smooth talked his way out of their line of questioning. Zil ran off, followed closely by Lioran as her First Talon eyed her with disappointment.
+
+But it did not end there. As Zil and Lioran recovered from the embarassment at the Feast, a flash of lightning streaked across the sky. Thunder quaked in the distance, and with it, death by the name of Lennithon approached the town of Greenest.

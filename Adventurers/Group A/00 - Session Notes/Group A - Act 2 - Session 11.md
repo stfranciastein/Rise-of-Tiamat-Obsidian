@@ -1,0 +1,9 @@
+### 2.3 - Down, Down, Down by the River
+
+As Impyerno Lima journeyed to Elturel, the party made quite a few revelations. Firstly, they discovered that Yan's mentor Thuran had visited Lioran's mother in her home. They also discovered that the Cult of the Dragon had destroyed yet another village after another vision of death. This time, they saw the gargantuan figure of Tiamat in the clouds as a shadowy figure clad in red robes threatened them with their imminent transformation. Thankfully, Lioran was able to protect the group and delayed the curse from progressing once more.
+
+During their travels, they also found themselves in the company of a Red Wizard of Thay by the name of Azbara Jos. Speaking to the Red Wizard, they learned that Jos was on a diplomatic mission from Thay to alleviate any concerns the people of the Sword Coast may have towards his fellow countrymen. The following morning, the party found themselves accosted by Dragon Cultists ordered by Langdedrosa Cyanwrath. Azbara Jos was assassinated by the Cultists, and Zil finished the job for them with her rapier.
+
+After the fight, the party was forced to leave the ship by Captain Saltbeard, who tossed Yan into the waters below. On the riverbank, they searched the woods for any signs of their companions. After speaking to an owl who stole from them, Ulena met a squirrel named Deekstras Nuttsworth who told them that Glass and the others fought off Cultists just a day or so ago and were headed north. Up the riverbank, they found themselves reunited with their companions alongside a Green Djinn.
+
+A brief conversation followed wherein 'Mr. Greenie' told Ulena about a druid woman who was eager to meet her, but did not reveal any more information than that. Deep in the Northern Reaching Forest,the party was able to find her; a human woman clad in druid's robes and armour bearing a striking and uncanny resemblance to their own companion. A woman Ulena immediately recognised as her mother.

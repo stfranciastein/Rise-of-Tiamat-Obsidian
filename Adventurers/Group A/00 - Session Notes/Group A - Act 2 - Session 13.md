@@ -1,0 +1,9 @@
+### 2.5 - Elturel, the Holy City
+
+Impyerno Lima arrived in Elturel after helping the Hellriders Reya and Zevlor deal with Dragon Cultists in the fields of Elturgard. At the gates, Yan barely managed to escape with his life, but thankfully Lioran managed to save him from being imprisoned. While Lioran reported back to Onthar Frume, the rest of the party explored for a bit to get in some relaxation time. 
+
+Yan, Ryn, Grace and Varia explored the markets for a while where they ran into Sylvira's husband Orenius Savikas. Orenius asked them to look out for Traxigor, a runaway mage from Candlekeep. Yan and Ryn agreed to look out for him and parted ways with Orenius. Zil and Ulena explored the northeast of Elturel, heading into Ilmater's Library, a second-hand bookshop. While there, Ulena found a mysterious book on the Life Cycle of Dragons which was annotated with notes from a mysterious individual named 'TK'. 
+
+Later, Impyerno Lima was invited by the Zhentarim to meet at the Bent Helm Tavern where they enjoyed a strange drink. There, they met with the Tabaxi Zhentarim agent Thrynn. The Tabaxi gave the party a small task, to retrieve a bag marked with the number 6 inside the Guards Barracks in the Docks. After a series of scouting missions using the entire party's arsenal, they were able to retrieve two satchels from the barracks. Inside one of the bags, Impyerno Lima discovered Traxigor was transformed into an otter and demanded to be released. The party did so eventually and was threatened by the otter that 'he'll remember [their] faces.'
+
+Satisfied with the results, Thrynn sent the party on their way to the main job for the Zhentarim where they met a well-dressed magical man and his prisoner.

@@ -7,7 +7,7 @@ ____
 
 [[Phoere]] can create a Bag of Holding for 500 Gold, or a Handy Haversack for 1000. In addition to this, she also sells the following magic items:
 1. Scroll of Beast Sense for 240 GP.
-2. Goggles of Night for 2000 GP.
+2. ~~Goggles of Night for 2000 GP.~~
 3. Wand of Magic Missiles for 1000 GP.
 4. Circlet of Blasting for 3000 GP.
 5. 10 Potions of Healing 55 GP each.

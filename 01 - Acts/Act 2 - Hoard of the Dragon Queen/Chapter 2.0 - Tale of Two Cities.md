@@ -55,20 +55,33 @@ GOBLIN: I-I-I'm sorry ser, it won't 'appen again!
 
 *You walk towards the Inner Chamber District and find yourself standing in front of Twilight Hall. This building stands out from the others as it seems Elven in architecture. Where the other structures in Berdusk are characterised by their sharp, pointed angles, Twilight Hall is rounded and elegant without being ostentatious.
 
-*The outer courtyard is highlighted by two large stone posts. The columns seems to be decorated in painted artwork of an exagerrated starry night. The tops of the posts have a small metallic tube sticking out from the stone with blue candlelight burning atop them. A large white and blue banner with the symbol of a harp hangs just above the large rounded doors.*
+*The outer courtyard is highlighted by two large stone posts. The columns seems to be decorated in painted artwork of an exaggerated starry night. The tops of the posts have a small metallic tube sticking out from the stone with blue candlelight burning atop them. A large white and blue banner with the symbol of a harp hangs just above the large rounded doors.*
 
 *When you step inside the building, the inner foyer is something to behold. The floor is made up of finely polished granite, and the walls are a mixture of wood and stonework. A massive sprawling blue carpet leads your eyes towards another gorgeous set of double doors at the end of the hallway, and the three pairs of rounded stone pillars reaching up to touch the ceiling.*
 
-*Maps of Faerun and paintings commisoned from various artists hang on the walls leading up to what you assume is the audience chamber. As you stand there admiring the view, an Orc sees your group enter and begins to walk towards you. His Orcish features are rugged, but softened to by what looks like a touch of Human ancestry. He appears to be wearing a white shirt and black pants, with a heavy Calamshite sash wrapped around his waist which is secured by a brown belt.*
+*Maps of Faerun and paintings commissioned from various artists hang on the walls leading up to what you assume is the audience chamber. As you stand there admiring the view, an Orc sees your group enter and begins to walk towards you. His Orcish features are rugged, but softened to by what looks like a touch of Human ancestry. He appears to be wearing a white shirt and black pants, with a heavy Calamshite sash wrapped around his waist which is secured by a brown belt.*
 
-There is something familiar about this Orc, and on a DC 8 History check the adventurers will notice an uncanny resemblance to someone they've met before. [[Arif Wolf-Blood]] is, of course, [[Batuu Wolf-Blood]]'s paternal twin. Unlike his sister, however, Arif has joined the [[Harpers]]. Initially he did so in hopes of finding and redeeming his sister from the path she went on, but in the wake of her death he stayed to help put a stop to the [[Cult of the Dragon]]. 
+There is something familiar about this Orc, and on a DC 8 History check the adventurers will notice an uncanny resemblance to someone they've met before. [[Arif Wolf-Blood]] is, of course, [[Batuu Wolf-Blood]]'s paternal twin. Unlike his sister, however, he has joined the [[Harpers]]. Initially he did so in hopes of finding and redeeming his sister from the path she went on, but in the wake of her death he stayed to help put a stop to the [[Cult of the Dragon]]. 
 
 ARIF: She might be gone, but the Cult of the Dragon still remains. I will help in the fight as much as I can. The High Harper has told us this may be a long battle, but I'm ready to do what it takes.
 
 The players will be able to call on Arif for help while they're in [[Berdusk]] and potentially recruit him.
+
 Later, High Harper [[Jaheria]] will meet with the party after having a debrief with [[Leosin Erlanthar]]. She will inform the adventurers that their time to act on their transformation is short, for soon they will permanently lose their body and souls to whatever Devil the [[Cult of the Dragon]] has promised them to. She will offer to use her druidic magic to delay the progression of the curse which prevents it from spreading past their hands. [[Jaheria]] gives the party estimates that the party's transformation will resume in 6 months, after which she will need to recast the spell to stop its spread. She states that in order to end it for good they will need to kill or convince the source of the curse to stop it. [[Jaheria]] will then tell the players to get some rest and to meet with her in the morning. 
 
-On their first night in Berdusk, the party will have a collective dream of Rezmir's face as she and her forces completely obliterate the caravan city of [[Scornubel]] like they did with [[Greenest]]. However, unlike with Greenest there are no defenders strong enough to stop them and the city is flattened by the Cult's Dragons. In the morning, the itching from their curse will have stopped and the scales will have disappeared, for now.
+On their first night in [[Berdusk]], the party will have a collective dream of Rezmir's face as she and her forces completely obliterate the caravan city of [[Scornubel]] like they did with [[Greenest]]. However, unlike with Greenest there are no defenders strong enough to stop them and the city is flattened by the Cult's Dragons. In the morning, the itching from their curse will have stopped and the scales will have disappeared, for now.
+
+*In your dreams you find yourself standing in the middle of a burning city. Dozens of people run feebly as a group of three dragons decimate the buildings. The large terrifying form of Lennithon soars overhead, flanking him are two adult dragons. In the distance you can see smaller, young dragons joining the fray.* 
+
+*A female Half-Dragon approaches your party. Her black scales glisten in the flames. Her shining black armour reflects the green lightning covering her form, exuding with raw power. She smirks as she gets closer, her toothy grin full of evil and quiet menace.*
+
+REZMIR: Come to see the show? I half expected you to be one of them by now.
+
+*She points up to the sky and there you can see dozens of Abishai flying around. She laughs and pushes past your group, and your body dissipates for a moment as she passes by. You realise you're not truly here, but somehow Rezmir can see you. She turns as she stands in front of a young family, cowering in fear as the Cult held them in place.*
+
+REZMIR: Mellara was a good tool, and even I must admit I found it quite impressive how you bested her. But the reign of Dragons is upon us. Soon enough you'll see.
+
+*As she walks off into the distance, a man comes into view. His opulent red robes, seem to catch the light. His face,*
 
 Upon meeting with [[Leosin Erlanthar]] again, he tells the party that there has been talks among the [[Harpers]] and [[Emerald Enclave]] of a [[Council of Waterdeep]] forming, though it is currently in its infancy. After informing the Harper of their dream, Leosin strongly advises them to seek out [[Onthar Frume]] in [[Elturel]] to inform him about the Council and to mobilise his forces. He suggests journeying there via a boat, but the party is free to go back on the road on horses.
 
@@ -188,7 +201,7 @@ ONNTHAR: If the [[Cult of the Dragon]] is planning on targeting [[Elturel]] next
 
 LEOSIN: Their dragons have not been spotted in the area. Perhaps they're planning on attempting the use of a small strike force instead?
 
-If [[Alia Sanem 'Talis Kasterel']] is present, she will disclose her findings with [[Onthar Frume]]. In reaction to this information, [[Onthar Frume]] will task the characters with heading out to deal with this problem. He will either send [[Mira]] or [[Caldus Merevain]] to accompany them, depending on the choice of the adventurers. Both will agree to go, but only one can be taken. There are no consequences to this.
+If [[Alia Sanem 'Talis Kasterel']] is present, she will disclose her findings with [[Onthar Frume]]. In reaction to this information, [[Onthar Frume]] will task the characters with heading out to deal with this problem. He will either send [[Mira Fenwillow]] or [[Caldus Merevain]] to accompany them, depending on the choice of the adventurers. Both will agree to go, but only one can be taken. There are no consequences to this.
 
 ____
 ### 2.6 The Mysterious Client
@@ -214,7 +227,7 @@ The [[Arcane Brotherhood]] has a presence here in [[Elturel]] but [[Onthar Frume
 
 THURAN: A pleasure to meet your acquaintance, my name is Thuran Yale. I'm sure you've not heard of me, but I've heard so much about you.
 
-*Thuran's hands remain at his back as the Tiefling and Goliath next to him spread out to either side of him and watch your party closely. Their garb is noticably less intricate than Thuran's, and what little you can see of their face does give much in the way of insight to their intent.*
+*Thuran's hands remain at his back as the Tiefling and Goliath next to him spread out to either side of him and watch your party closely. Their garb is noticeably less intricate than Thuran's, and what little you can see of their face does give much in the way of insight to their intent.*
 
 THURAN: I apologise for my friends here, but I have a proposal for you, if I may. We were sent by our organisation from the North to deliver a letter to one [[Azbara Jos]] of Thay. We believe he arrived here via boat not too long ago.
 

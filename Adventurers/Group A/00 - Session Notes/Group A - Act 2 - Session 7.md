@@ -1,0 +1,7 @@
+### Chapter 2.0 A Tale of Two Cities
+
+Upon their escape from the Dragon Hatchery, Impyerno Lima found themselves unsure of what to do next. In the time they spent bickering, a storm had picked up and signaled the arrival of Lennithon, the Ancient Blue Dragon that had terrorized Greenest. As the creature landed in the Raider Camp, Impyerno Lima found themselves separated from Glass, Grace and the caravan. Deciding to help their little ones, Zil and Yan headed south to meet their doom. Neither of them were a match for Lennithon's cunning and sharp senses and found themselves defeated by the Living Storm who dealt with them with ease.
+
+In the mean time Ryn, Lioran and Ulena decided to keep heading east with Leosin and the Green Dragon Egg in order to keep the prisoners safe. On their journey eastwards towards Ryn's home, they found themselves subject to a horrid transformation as their hands began to grow thick black scales. Unfortunately, their troubles did not end there as the group found themselves accosted by a group of Orc riders. Thankfully, Leosin was able to talk them out of trouble and even found themselves an escort to the city of Beregost.
+
+Zil and Yan's troubles did not end there, however, as even though they narrowly managed to escaped from death, they now find themselves separated from their friends and in the hands of more Orcish riders without anyone to help or advocate for them.

@@ -1,0 +1,9 @@
+### 2.1 - Berdusk
+
+In Berdusk, Impyerno Lima learned that the city had been reclaimed by the Orcs who had overthrown the majority of their human counterparts in the First Folk. Tension is high in the streets and many of Berdusk's folk are unhappy with their new neighbors, but for now order has been established by the governing body. 
+
+While there they went with Leosin to meet with High Harper Jaheria in Twilight Hall, the Harper Headquarters. There they learned of their impending transformation into Abishai, after having been cursed by the statue of Tiamat in the Dragon Hatchery. While the druid was able to stem the progress of their affliction, she gave them a grave warning that sooner or later their transformation will complete, rendering their bodies and souls lost. 
+
+Jaheria and her companion explained to the group that they suspect there to be some sort of pact struck by the Cult of the Dragon with an unknown Devil from Avernus. While the terms of the Pact are uncertain, she believes that the ritual sacrifices Frulam Mondath and the other Clerics in the Cult have made are a transaction, one that leads to the creation of these devilish, draconic beings. In order to free their souls of this curse, Impyerno Lima must either beg or bargain with the Devil who their souls have been promised to. Either that or put an end to the spellcaster responsible for the creation of this curse.
+
+Meanwhile, Impyero Lima finds themselves conflicted as they find themselves at a crossroads. Will they contend with a serial-killer/creature that seems to have been set loose in the city, as well as deal with Ryn's troubled past? Or will they rush to Elturel in order to begin the process of gathering their allies for the Council of Waterdeep, at the behest of the High Harper?

@@ -15,7 +15,7 @@ Candlekeep has four orders of accordance.
 
 In addition is protected by several enchantments. One is that any flames will automatically be reduced to the size of a candle. Another is Candlekeep cannot be teleported to. Flying creatures who enter from outside unless permitted are forced to the ground. Finally, stealing from the library will result in the book reappearing on the shelf by magic.
 
-[[Miirym, the Sentinel Wyrm]] is also guarding Candlekeep, still enslaved by her punishment. She has since calmed down from her days
+[[Miirym, the Sentinel Wyrm]] is also guarding Candlekeep, still enslaved by her punishment. She has since calmed down and now values her role in the fortress.
 
 ____
 ### RANKS
@@ -23,10 +23,10 @@ ____
 #### Avowed: 
 The Avowed are the guardians and servants of Candlekeep. You take orders from the High Acolyte and the Keeper of Tomes, [[Lorcan Ravenshade]]. Classes: Barbarians, Clerics (Knowledge Domain), Druids, Monks, Paladins (Oath of the Ancients) Rangers.
 
-#### Watchers
+#### Watcher
 The Watchers are sworn to protect the library and its contents. Classes: Bards, Clerics (non-Knowledge Domain), Fighters, Rogues.
 
-#### Professors:
+#### Professor:
  These are the researchers and teachers of Candlekeep. You seek to add to the knowledge stored in the library. You report to the First Reader. Classes: Artificers, Sorcerers, Warlocks, Wizards.
 
 ____

@@ -1,0 +1,11 @@
+### Chapter 1.0 - The Great Hunt
+
+### 1.1 Upcoming Heroes
+
+When Impyerno Lima departed from Shade Rest, they found themselves one member down as Thavion chose not to join them in Greenest for the Great Hunt. Instead, after a brief period of time with Tamae in the Moonshae Isles, the Silver Dragonborn chose to go on a separate venture to the Wood of Sharp Teeth. There, Thavion began rebuilding in earnest what was once lost to the fires of Fero's past.
+
+Upon arriving in Greenest, the party received an enthusiastic greeting as a blue-skinned Tiefling named Azure  gushed over their presence in town. As new upcoming heroes of the Sword Coast, the other townsfolk were more than excited to witness them and the arrival of the other esteemed guests of the Great Hunt. However others were not quite as pleased, as Yan and the others realised that the Talons of the Raven Queen had also been invited. While Cormyc did not attempt to confront Yan, Xaria Trevisa, his Second Talon, insisted on Yan's destruction. Fortunately for Yan, Cormyc managed to calm her down.
+
+As the second day of the festival began, Impyerno Lima attended the carnival along with a new friend, a white tiefling named Lioran who was here to represent the Order of the Gauntlet. At the carnival, a pale elf named Zilliletha, a new recruit to the Talons found herself forced to attend as well and 'have fun' under Cormyc's orders. Lioran, Ulena and Yan received ominious visions of their future while Ryn won several competitions of strength and dexterity. The group even went off to participate in a pie-eating competition, which Ulena and Ryn emerged as the victors. The night took a turn however, as they went into the Big Top to watch the final show with the Red Half-Dragon named Redflame the Destroyer was set to fight 3 young humans. Redflame managed to take down the two young lads, but was then disintegrated in 1 hit by a female Wizard, receiving mixed reactions from the audience.
+
+Later that night, Yan and the others had a night of fun with the Hero of Phandalin Torbar Dragonsbane and found themselves immediately hammered after they drank the Dragonspirit Gin. Torbar also informed Yan that the Talons would no longer harm him as things have been revealed to them by the 'big lady upstairs' about his fate, to which an inebriated Yan gained some clarity on when he confronted Cormyc.

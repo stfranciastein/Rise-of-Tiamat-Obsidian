@@ -1,0 +1,11 @@
+### 1.5 The Road
+
+As morning came, Impyerno Lima met with Governor Nighthill's small council to discuss their next steps. During their meeting, the party learned that Aestree suspects there to be a powerful necromancer behind the Cult, as the way their troops seem to have a touch of infernal magic to them. Governor Nighthill offered them a reward from his personal vaults but they declined, insisting he use it to rebuild Greenest. After getting their supplies in check, the party left the town along with their new temporarily allies Lioran Ivayn and Żilliletha aboard the Sylvira-Van.
+
+On their second day on the road, they met a curious human girl named Grace stuck atop a tree being attacked by Gnolls. They saved the wizard-prodigy who thanked them for their help. The girl explained she was on her way to Elturel in hopes of becoming a famous wizard one day and is accompanied by her trusty Donkey named Lonkey.
+
+The next morning, Lioran was befuddled as Grace woke up in a cheery mood surrounded by vines and flowers, eating a sandwich nobody had made for her. Later, Yan spent some time in the morning trying to teach Grace a few spells. He quickly realised how skilled she was when she replicated his cantrip perfectly and a wild magic surge followed shortly after. Grace told Yan about her imaginary friend Mr. Greenie that often visits her when she's alone and that she's always been really good with magic.
+
+As their third day on the road continued, Zil spotted a group of Dragon Cultists near a grove. The party did battle with them and witnessed the birth of an Abishai from the body of a Cultist of Zariel, quickly learning that the Cult seems to be planning on perverting the bodies of their prisoners into these fiendish beings.
+
+When they returned to the Sylvira-Van, the party met with Lucien once more as the handsome, dashing and well-dressed nobleman with piercing, beautiful blue eyes appeared to them in a puff of radiant infernal flames. He kindly and freely offered them his sage and trusted knowledge, telling them that there is something far more special about Grace than they could've guessed. He told them not to bring her to the Arcane University, but instead to leave her with a Druid's grove where her powers will blossom and be of better use there.

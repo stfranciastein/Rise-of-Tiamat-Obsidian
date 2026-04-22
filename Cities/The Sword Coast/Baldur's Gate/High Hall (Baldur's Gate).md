@@ -1,0 +1,1 @@
+The High Hall in [[Baldur's Gate]].
