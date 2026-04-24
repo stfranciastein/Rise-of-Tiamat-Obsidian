@@ -13,5 +13,10 @@ If the weapon is destroyed, anyone attuned is immediately disintegrated along wi
 
 The curse can only be broken by a [spell]Remove Curse[/spell] spell cast by a Cleric of Bahamut in a ritual using a freshly harvested heart of an Adult or older Chromatic Dragon. When the curse is removed, the weapon turns into a mundane greatsword and loses all other properties.
 
-#### Amendment
+____
+### Amendment
+
 If [[Auron Whitestreak]] is alive, he will be able to perform this ritual but only after the party has arrived in [[Waterdeep]] and his personal quest in Act 2 has been resolved. Otherwise, a Cleric of [[Bahamut]] will perform the ritual for 1000 GP, only charging for the cost of the materials needed.
+
+____
+

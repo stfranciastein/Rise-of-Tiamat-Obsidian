@@ -251,7 +251,7 @@ Opening the letter will require a DC 25 Arcana check, as it is sealed for anyone
 	
 	Kind Regards,
 	Thuran Yale
-	Wizard of the Arcane Brotherhood
+	Inquisitor of the Arcane Brotherhood
 
 Refusing and killing [[Thuran Yale]] then and there will yield the same letter. If allowed to walk away, [[Thuran Yale]] along with [[Lotar Fay]] and [[Haymon Dowling]] will be found at the [[Phontyr's Unicorn]] where they have been staying for the past few days. The mostly keep to themselves but the latter two can often be found wandering the streets near the Dock District. 
 

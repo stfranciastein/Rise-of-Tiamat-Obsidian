@@ -10,5 +10,5 @@ Frume will lecture your friend, but I am extremely disappointed in your incompet
 
 If you're set on killing whenever you feel like it, perhaps consider joining the Zhentarim or the Cult. I had confidence that you were the right fit for the job, but perhaps I was wrong. Your initiation shall reveal if the Queen still thinks you're worthy of being a Talon.
 
-Lord Cormyc Ravenshade
+Lord Cormyc Ravenshade.
 First Talon of the Raven Queen
