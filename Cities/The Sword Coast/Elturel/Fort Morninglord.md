@@ -1,0 +1,1 @@
+Close to [[Elturel]], the location of the climax for [[Chapter 2.0 - Tale of Two Cities]].

@@ -41,7 +41,7 @@ _____
 4. [[Ruby Shawl]]: A clothes shop maintained by an Orc woman named [[Giselda Light-Finger]].
 5. [[Silver Sword]]: A blacksmith that is owned by a Minotaur male named [[Flint]], along with his husband [[Steel]].
 6. [[Twilight Hall]]: The seat of the [[Harpers]], and High Harper [[Jaheria]]'s home base.
-7. [[Evensong Tower]]: The seat of government in Berdusk, current meeting place for the [[First Folk]]. 
+7. [[Evensong Tower]]: The seat of government in [[Berdusk]], current meeting place for the [[First Folk]].
 8. [[Bellblade's Throne]]: A well-estabished tavern that is owned by the [[Zhentarim]].
 9. [[The Pit]]: A temporary camp outside Berdusk which serves as its prison under the Orcs.
 
@@ -60,3 +60,4 @@ There is a monument to the reclamation lead by [[Kurtog Chain-Smasher]] in the m
 4. Riverroad Gate (South).
 5. Drowner's Gate (Southeast).
 6. Vale Gate (Northeast).
+

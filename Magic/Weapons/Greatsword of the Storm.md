@@ -20,3 +20,6 @@ If [[Auron Whitestreak]] is alive, he will be able to perform this ritual but on
 
 ____
 
+While attuned to this item, you gain a +2 to Animal Handling and Nature checks.
+
+**Ring of the Forest.** This item is cursed. While attuned to it, you cannot voluntarily end the attunement, and you cannot remove the ring from your possession unless the curse is broken or you are forced to. You lose all ability to speak any language you know, and instead learn to speak with animals. This curse can be removed by casting the spell remove curse.

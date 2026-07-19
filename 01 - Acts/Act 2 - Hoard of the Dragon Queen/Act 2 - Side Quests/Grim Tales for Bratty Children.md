@@ -160,7 +160,7 @@ THE VOICE: You're a tenacious lot, aren't you. Up we go, up, up and up to our in
 
 JOSEPH: Greetings, I don't believe we've met, I am Prince Joseph, [[Joseph Kreeg]].
 
-The players will be approached by the Prince, a tall human man with golden hair, a handsome but boyish face, and a five o'clock shadow. He introduces himself as Lord [[Joseph Kreeg]]. On a DC 15 History check, the players will realise this is High Observer [[Thavius Kreeg]]'s son, and a recruit of the Order of the Gauntlet. [[Lioran]] will immediately recognise him as being a new recruit before he left for [[Greenest]]. On a failed check, they will still be able to ascertain that Joseph is not a fictional character as soon as they touch because he does not feel like others. 
+The players will be approached by the Prince, a tall human man with golden hair, a handsome but boyish face, and a five o'clock shadow. He introduces himself as Lord [[Joseph Kreeg]]. On a DC 15 History check, the players will realise this is High Observer [[Thavius Kreeg]]'s son, and a recruit of the Order of the Gauntlet. [[Lioran Thorne]] will immediately recognise him as being a new recruit before he left for [[Greenest]]. On a failed check, they will still be able to ascertain that Joseph is not a fictional character as soon as they touch because he does not feel like others. 
 
 If at any point they tell him that he is trapped here, he will begin bleeding profusely from his nose as he wakes up. He will then tell the party that he doesn't know how long he's been here, that they're not truly in a book but a pocket of the Feywild. 
 

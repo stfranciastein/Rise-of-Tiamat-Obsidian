@@ -1,0 +1,1 @@
+Human male with dark skin. He has tightly shaved hair and a long forked beard. He is large and intimidating, especially for a human but always joyous and well tempered.

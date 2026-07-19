@@ -1,16 +1,19 @@
 Aramir is an awakened Aasimar from an estate in between the [[Neverwinter]] Wood and [[Neverwinter]] river.
 
-He was the youngest of 3 sons and 1 daughter  The Daughter was the oldest child in the family. The Daughter treated Aramir as sort of her own child as opposed to a younger brother, often telling him off for getting into trouble, and soothing him when he was sick or hurt.
-(The eldest daughter is actually his mother but she fell in love with a wandering knight who was not of noble blood (so think family disgrace/secret) His father is still alive wandering the coast and is aware of his existance but has not met him) so her father and mother pretended that aramir was their own and raised him as such aramir does not know this however but his father does but has neglected to tell him
+____
+### BACKSTORY
 
-Hi Aasimar Lineage was awoken at the age of 14 when an Orc raiding party descenced on his family estate (halfway between neverwinter and the neverwinter wood) The Orc raid was nothing more than senseless violence and raiding. The plentyleaf estate was rich in both produce (pipeweed) and gold and was often only lightly defended owing to the need for men in the city dealing with the then open chasm.
-Only he and his father survived, leaving him the sole heir of the Plentyleaf estate.
-Until his father remarried to a woman from the city who had a certain hatred towards Aramir.
-Despite being the sole heir to the family estate Aramir was quickly sent to the side lines when his new "step-mother" became pregnant and gave birth to two twin boys  who despite being much younger, quickly became the favourties of his father.
-Since the raid on his families estate he has taken the oath of zeal, consumed by hatred for those who prey on the innocent for either nothing more than material gain, pleasure, or the furthering of some evil cause.
-Aramir was sent south to greenest by his father to "bring honour to the family" despite Aramir cutting his teeth in lord dagults service learning the intricacies of court life from a relatively young age.
-He then showed distinction following in his fathers footsteps helping turn back the tides of the undead in the city of neverwinter.
-He earned the moniker "Void-Blade" during one of many defenses against the undead in the city where his paladins smite would explode in radiant silver and void black energy.
+Aramir was raised as the youngest of three sons and one daughter in the wealthy [[House Plentyleaf]]. The eldest child, a daughter, treated him more like her own son than a younger brother. She often scolded him for getting into trouble and comforted him whenever he was sick or hurt.
+
+Unknown to Aramir, this eldest “sister” is actually his biological mother. As a young woman she fell in love with a wandering knight of no noble blood—an affair that would have brought disgrace upon the family. To hide the scandal, her parents (Aramir’s grandparents) pretended the boy was their own child and raised him as the youngest son of the Plentyleaf line. Aramir still believes the story he was told. His true father, the knight, is still alive and wanders the Sword Coast. He knows of Aramir’s existence but has never met his son and has chosen to keep the secret.
+
+Aramir’s aasimar lineage awakened when he was fourteen. An orc raiding party descended on the Plentyleaf estate—located halfway between Neverwinter and the Neverwinter Wood—in a senseless act of violence. The estate was rich in both pipeweed fields and gold but was only lightly defended, as many of the household guards had been called to the city to deal with the open chasm. In the massacre, only Aramir and his father (the man he believes is his father) survived. Aramir became the sole heir to the Plentyleaf lands.
+
+Soon afterward, his father remarried a woman from Neverwinter who openly despised Aramir. When she later gave birth to twin boys, the new stepmother quickly turned the old lord’s favor toward her own sons. Despite being the rightful heir, Aramir found himself pushed aside in his own home.
+
+Since the raid, Aramir has burned with hatred for those who prey on the innocent for material gain, personal pleasure, or the advancement of evil causes. He swore the Oath of Zeal and dedicated himself to protecting the weak. His father eventually sent him south to the town of Greenest “to bring honor to the family name.” By then Aramir had already spent years serving in the court of Lord Dagult Neverember, where he learned the intricacies of noble life from a young age. He later distinguished himself helping turn back the tides of undead that plagued Neverwinter.
+
+It was during one of the many desperate defenses of the city that he earned the moniker “Void-Blade.” When he unleashed his paladin smite, radiant silver light and swirling void-black energy erupted from his blade—an unmistakable sign of his awakened aasimar heritage.
 
 
 Nedes (Ned) - Father/Grandfather (ALIVE)

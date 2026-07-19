@@ -81,9 +81,9 @@ REZMIR: Come to see the show? I half expected you to be one of them by now.
 
 REZMIR: Mellara was a good tool, and even I must admit I found it quite impressive how you bested her. But the reign of Dragons is upon us. Soon enough you'll see.
 
-*As she walks off into the distance, a man comes into view. His opulent red robes, seem to catch the light. His face,*
+*As she walks off into the distance, a man comes into view. His opulent red robes are covered in all manner of gold detailing, his red turban a mix of dark and light fabrics. The glinting golden pauldrons of draconic design seems to catch the light of the flames all around him. When your eyes make their way to his face, you're just barely able to discern where it is as it is shrouded in darkness.*
 
-Upon meeting with [[Leosin Erlanthar]] again, he tells the party that there has been talks among the [[Harpers]] and [[Emerald Enclave]] of a [[Council of Waterdeep]] forming, though it is currently in its infancy. After informing the Harper of their dream, Leosin strongly advises them to seek out [[Onthar Frume]] in [[Elturel]] to inform him about the Council and to mobilise his forces. He suggests journeying there via a boat, but the party is free to go back on the road on horses.
+Upon meeting with [[Leosin Erlanthar]] and High Harper [[Jaheria]] again, they tells the party that there has been talks among the [[Harpers]] and [[Emerald Enclave]] of a [[Council of Waterdeep]] forming, though it is currently in its infancy. After informing the Harper of their dream, Leosin strongly advises them to seek out [[Ontharr Frume]] in [[Elturel]] to inform him about the Council and to mobilise his forces. He suggests journeying there via a boat, but the party is free to go back on the road on horses.
 
 ****
 ### **2.2 - Murders in Berdusk
@@ -101,12 +101,22 @@ ____
 
 [[Flint]] the Blacksmith will have a job posting up on the board of [[Patriarch's Rest]] and the [[Flourished Flagon]] taverns about a job. When asked, he will say he's looking for someone to retrieve the Belt of Giant's Strength for him, with the promise of 750 Gold for those who can retrieve it. He will not be open for any bargains either way, and will only pay up once the belt is on him. 
 
-He will direct the party to the Sunset Mountains. According to him, there is a Hobgoblin Champion in a village at the foot of the mountains who is currently in possession of it. It is a three day's walk to the foot of the mountains. Once the party arrives, they will begin the [[Il met by Moonlight]] side quest.
+He will direct the party to the Sunset Mountains. According to him, there is a Hobgoblin Champion in a village at the foot of the mountains who is currently in possession of it. It is a three day's walk to the foot of the mountains. Once the party arrives, they will begin the [[Ill met by Moonlight]] side quest.
 
 ____
-### 2.4 Trouble on the Road
+### 2.4 Down, Down Down by the River
 
-Regardless of whether or not the adventurers take the River Chionthar or the Trade Way, they will be accosted by Dragon Cultists consisting of a warrior, a cleric, a ranger and a spellcaster. On their body, there will be orders from [[Langdedrosa Cyanwrath]], stating the following: 
+#### The Tidecutter
+
+*As the Tidecutter disembarks from Berdusk, you all find yourselves atop the deck of the ship. Several crewmen make their way back and forth as Captain Saltbeard occasionally barks out an order.*
+
+There are several NPCs of note aboard the Tidecutter, most notably [[Azbara Jos]] and [[Khasar the Blooded]]. If the party speaks with [[Azbara Jos]] before [[Khasar the Blooded]], the Orc will accost them and demand to know what their business with a Red Wizard of Thay is. Other NPCs aboard the ship are:
+1. Aldor Urnpoleshurst (Human Male Merchant) - Pale skin, messy brown hair, spectacles, scraggly beard, merchant's clothes - Relocating from Berdusk to anywhere but Berdusk. He makes outrageous accusations against everyone, believing them to be spies.
+2. Enom Tobun (Male Halfling Soldier) - Dark skin, buzzed hair, thick beard, half-plate - A mercenary on his way to Elturel after leaving Iriaebor.
+3. Orvustia Esseren (Female Tiefling Rogue) - Purple skin, dark hair with a blue tint, leathers and a thick black cloak - A Guild agent on her way to Elturel to meet with an important contact.
+4. [[Thogli Battlehammer]] (Male Dwarf Paladin) - Pale skin, thick brown blonde braided neatly as a silver ring holds it together, holds a warhammer and shield marked with the symbol of a full tankard on it - Is making his way back up north to [[Mithral Hall]] as rumours of the [[Cult of the Dragon]] spread. He is journeying straight to Baldur's Gate.
+
+Regardless of whether or not the adventurers take the River Chionthar or the Trade Way, they will be accosted by Dragon Cultists on the second day. This consisting of a warrior, a cleric, a ranger and a spellcaster. On their body, there will be orders from [[Langdedrosa Cyanwrath]], stating the following: 
 
 	`"Orders from the Wyrmspeaker herself. Lock down the Wilderness near Elturgard, but don't wander too far north. Zariel's cultists are abound and the last thing we need is we raise too much noise that the Hellriders start marching out of their Holy City. Pillage any gold you can manage and head to Baldur's Gate and head for the Zhent hideout."`
 
@@ -128,7 +138,7 @@ REYA: That caravan is pretty impressive. I can feel the magic from here. Not man
 
 REYA: You must be on the way to [[Elturel]], yes? The journey should be clear from here, we've been trying to keep these Cultists out of Elturgard. Guess they thought they could mess with the Hellriders.
 
-If the party mentions the [[Cult of Zariel]], she will find it difficult to believe that [[Zariel]] is anything but what the people of Elturel know her as; a hero and a fallen angel. [[Lioran]] can tell the party this beforehand as he is a native and would know.
+If the party mentions the [[Cult of Zariel]], she will find it difficult to believe that [[Zariel]] is anything but what the people of Elturel know her as; a hero and a fallen angel. [[Lioran Thorne]] can tell the party this beforehand as he is a native and would know.
 
 At the end of this conversation, at the behest of either [[Cormyc Ravenshade]] or [[Tarbaw Nighthill]], the party can ask [[Reya Mantlemorn]] for a way into the city if one of their party members is an undead. Reya will judge the person wanting to enter the city, and if she deems them honourable enough she will give them a [[Hellrider's Pin]], enchanted to provide them immunity from the Companion's radiant damage.
 
@@ -161,17 +171,17 @@ The [[Order of the Gauntlet]] can be visited at any time, but it is the purpose 
 
 TALIS: Oh, hello there. If you're looking for Onthar Frume or... well, anyone. Apparently he's not in his office. I was hoping to talk to him about a lead I had, but it looks like I'm gonna have to come back some other time.
 
-This is [[Alia Sanem 'Talis Kasterel']]. She is looking for [[Onthar Frume]] in order to report the impending arrival of [[Langdedrosa Cyanwrath]]'s forces. She did not go to [[Thavius Kreeg]] or the [[Order of the Companion]] nor the [[Hellriders]] as she believes this is a threat that only the [[Order of the Gauntlet]] is equipped for. When asked about her reasons for coming here, she will refuse to disclose any information to them regardless of who they may bring up or what they may say and state "I will only disclose this intelligence to Frume."
+This is [[Alia Sanem 'Talis Kasterel']]. She is looking for [[Ontharr Frume]] in order to report the impending arrival of [[Langdedrosa Cyanwrath]]'s forces. She did not go to [[Thavius Kreeg]] or the [[Order of the Companion]] nor the [[Hellriders]] as she believes this is a threat that only the [[Order of the Gauntlet]] is equipped for. When asked about her reasons for coming here, she will refuse to disclose any information to them regardless of who they may bring up or what they may say and state "I will only disclose this intelligence to Frume."
 
-If the players offer for [[Alia Sanem 'Talis Kasterel']] to join them as they find [[Onthar Frume]] (or if they already know where he is) she will thank them for their generosity and say they will not regret this. 
+If the players offer for [[Alia Sanem 'Talis Kasterel']] to join them as they find [[Ontharr Frume]] (or if they already know where he is) she will thank them for their generosity and say they will not regret this. 
 
 *You open the smaller wooden section of the massive door and step inside. The smell of lavander hits your nose as you step into the inner hall of the Hall of the Triad. The tiled floor is quite beautiful and an assortment of earth-toned pillars and marbled surfaces greet you as you get deeper within. White busts depicting various heroes of old line the walls.*
 
 *At the end of the hallway you see the a wooden desk with a marble surface. Stacks of papers and other office equipment are visible from here. On the other side of the desk you see a rather bored looking receptionist in the form of a female elf with blonde hair and pale skin. She's wearing a white button-up shirt and a pale blue skirt that sits high on her hips and goes down just past her knees.*
 
-AURELIA: If you're looking for [[Onthar Frume]], like I told that lady he's not here.
+AURELIA: If you're looking for [[Ontharr Frume]], like I told that lady he's not here.
 
-The players can either look around the [[Hall of the Triad]] and speak to the 'receptionist' [[Aurelia Vos]] at the front, or if a character is a member of the [[Order of the Gauntlet]], they will know that if [[Onthar Frume]] is not in his office he will most likely be in the [[Pair of Black Antlers]] right next door where he likes to spend most of his time. When they eventually find his whereabouts they can move to the [[Pair of Black Antlers]] through the [[Hall of the Triad]]'s side door.
+The players can either look around the [[Hall of the Triad]] and speak to the 'receptionist' [[Aurelia Vos]] at the front, or if a character is a member of the [[Order of the Gauntlet]], they will know that if [[Ontharr Frume]] is not in his office he will most likely be in the [[Pair of Black Antlers]] right next door where he likes to spend most of his time. When they eventually find his whereabouts they can move to the [[Pair of Black Antlers]] through the [[Hall of the Triad]]'s side door.
 
 *You walk inside the tavern and find yourself a little dizzy as the smoke and smell of alcohol hits your nose. The inside of the taproom is dimly lit, and despite the large windows light barely penetrates the inside from all of the vapour flying around. Thick stone pillars reach up to the ceiling which is supported by low-hanging beams. Old but beautiful looking dark furniture is littered across the floor and driftglobes aid the chandeliers and windows in providing dim light. The walls all around are heavily decorated like a hunting hall. Trophies, adventurer's finds and other paraphernalia such as well-used weaponry and split-shields, monster heads and ancient maps purporting to detail castle dungeons, crypts, etc. 
 
@@ -179,13 +189,16 @@ The players can either look around the [[Hall of the Triad]] and speak to the 'r
 
 *In the far corner of the room near the hearth is a large table. A rather large but strongly built human man throws his bald head back in laughter, revealing his long but well-groomed beard. His plate armour hugs his body tightly, and his trusty warhammer stands next to his side leaning against the wall. An assortment of Paladins surround him, with one particularly rugged looking gentleman being the most boisterous.*
 
-[[Caldus Merevain]] and [[Onthar Frume]] are long-time drinking buddies. If the adventurers attempt to speak to either of them, Frume will simply tell them to wait just a moment before going back to his stories to the others. Further attempts to verbally get his attention will not work. If the players speak to [[Ggrog]] the Bartender, they'll learn that [[Onthar Frume]] likes to see a good fistfight and one will likely get his attention.
+[[Caldus Merevain]] and [[Ontharr Frume]] are long-time drinking buddies. If the adventurers attempt to speak to either of them, Frume will simply tell them to wait just a moment before going back to his stories to the others. Further attempts to verbally get his attention will not work. If the players speak to [[Ggrog]] the Bartender, they'll learn that [[Ontharr Frume]] likes to see a good fistfight and one will likely get his attention.
 
-It doesn't matter who the players pick a fight with, [[Onthar Frume]] will take note of their loss or victory and order another round of drinks in honour of their fight. He will then finally address the adventurers and say he's been expecting them but didn't expect them to know the culture so well. [[Leosin Erlanthar]] will enter the tavern and be relieved to see that [[Onthar Frume]] is finally speaking. The human will invite them back towards the [[Hall of the Triad]] and up to his office.
+It doesn't matter who the players pick a fight with, [[Ontharr Frume]] will take note of their loss or victory and order another round of drinks in honour of their fight. Each Order member they fistfight with will have an AC of 15 as they are not fully armoured. In order to 'win', players must simply make 3 successful attack rolls on the Gauntlet soldiers while attempting to avoid being hit by 3 themselves.
 
-*The inside of Frume's office is far less brutish. In some ways, it almost resembles a well-maintained mage's study but with far less books and more animal and monster heads. Of note is the skeletal head of what looks like a wyrmling mounted right above his personal fireplace. Leosin pulls on Onthar's curtains, blocking out the light of the Companion and the view from outside. 
+He will then finally address the adventurers and say he's been expecting them but didn't expect them to know the culture so well. After the brawl, [[Ontharr Frume]] will invite them back towards the [[Hall of the Triad]] and up to his office.
 
-*The elf takes a seat in front of Onthar's desk and sets down his staff just as Frume lets out a rather loud burp. Before Leosin can bring up the obvious, Onthar places his gauntleted hand on his chest and clears up his inebriation in a flash of divine magic.*
+#### Plans of War
+*The inside of Frume's office is far less brutish. In some ways, it almost resembles a well-maintained mage's study but with far less books and more animal and monster heads. Of note is the skeletal head of what looks like a wyrmling mounted right above his personal fireplace. Ontharr pulls on the blackout curtains, blocking out the light of the Companion and the view from outside. 
+
+*The human walks around his desk and sets down his warhammer on the table. Onthar places his gauntleted hand on his chest and clears up his inebriation in a flash of divine magic.*
 
 ONTHAR: Torm knows I love being a Paladin (he laughs). Right, to business. We have important business to discuss.
 
@@ -195,13 +208,17 @@ ONTHAR: The Dragon Cult. Those fuckers. At this point, you know almost as much a
 
 ONTHAR: I had hoped that you would have something to give me, but I can understand why you don't. [[Jaheria]]'s council will have to wait, our priority right now is defending [[Elturel]] and I can't be sending valuable men I don't have to attend a Council our chapter may not even be around for.
 
-LEOSIN: I have reports from our scouts near [[Triel]] that the [[Hellriders]] were dealing with some Cultists. Perhaps our friends here can shed some light on that?
+ONTHAR: If the [[Cult of the Dragon]] is planning on targeting [[Elturel]] next, we need to put a stop to them. If the city falls, the rest of Elturgard may as well follow. I don't have a plan of action for you right now. If there is any business you have in the city, attend to it now. I will gather what I can in the meantime.
 
-ONNTHAR: If the [[Cult of the Dragon]] is planning on targeting [[Elturel]] next, we need to put a stop to them. If the city falls, the rest of Elturgard may as well follow.
+##### If [[Leosin Erlanthar]] is present
+LEOSIN: I have reports from our scouts near [[Triel]] that the [[Hellriders]] were dealing with some Cultists. Perhaps our friends here can shed some light on that?
 
 LEOSIN: Their dragons have not been spotted in the area. Perhaps they're planning on attempting the use of a small strike force instead?
 
-If [[Alia Sanem 'Talis Kasterel']] is present, she will disclose her findings with [[Onthar Frume]]. In reaction to this information, [[Onthar Frume]] will task the characters with heading out to deal with this problem. He will either send [[Mira Fenwillow]] or [[Caldus Merevain]] to accompany them, depending on the choice of the adventurers. Both will agree to go, but only one can be taken. There are no consequences to this.
+##### If [[Alia Sanem 'Talis Kasterel']] is present
+ALIA: I know for a fact that one of their Dragonclaws, a Half-Dragon by the name of [[Langdedrosa Cyanwrath]] is in the area. I can tell you exactly where he is and how to get close to him, but I will need some reassurances that my name will not be given to the man.
+
+If [[Alia Sanem 'Talis Kasterel']]'s information is not given, Aurelia will ascend up to the office and let him know that the Elf has been trying to contact him for the past few days. Ontharr will arrange the meeting and discuss with Alia in private.
 
 ____
 ### 2.6 The Mysterious Client
@@ -219,7 +236,7 @@ This begins the quest [[Masterpiece Imbroglio]].
 ____
 ### 2.7 Whispers of the Brotherhood
 
-The [[Arcane Brotherhood]] has a presence here in [[Elturel]] but [[Onthar Frume]] does not know why. The adventurers will need to uncover the purpose of their arrival in the city. During their nightly walk likely after meeting with [[Onthar Frume]], the party will be confronted by [[Thuran Yale]].
+The [[Arcane Brotherhood]] has a presence here in [[Elturel]] but [[Ontharr Frume]] does not know why. The adventurers will need to uncover the purpose of their arrival in the city. During their nightly walk likely after meeting with [[Ontharr Frume]], the party will be confronted by [[Thuran Yale]].
 
 *The city streets are quiet and serene, a strange sighting in what appears to you as stark daylight. Your mind can't comprehend the idea of an everlasting day, but in Elturel this is the reality that many of its citizens must live through. As you find yourself walking down a narrow path, the sound of creaking wood catches your attention. You instinctively look up, only to find nothing there but a cat that was jumping through a rather highly-placed clothesline.*
 
@@ -231,7 +248,7 @@ THURAN: A pleasure to meet your acquaintance, my name is Thuran Yale. I'm sure y
 
 THURAN: I apologise for my friends here, but I have a proposal for you, if I may. We were sent by our organisation from the North to deliver a letter to one [[Azbara Jos]] of Thay. We believe he arrived here via boat not too long ago.
 
-THURAN: Of course, we should've foreseen that such an... important guest of the High Observer would be placed on strict lockdown. Thus, we find ourselves at an impasse. We cannot deliver the letter as promised, but perhaps someone like you could? After all, [[Onthar Frume]] himself seems to trust you. Perhaps the [[Order of the Companion]] would be more inclined to let you speak to him.
+THURAN: Of course, we should've foreseen that such an... important guest of the High Observer would be placed on strict lockdown. Thus, we find ourselves at an impasse. We cannot deliver the letter as promised, but perhaps someone like you could? After all, [[Ontharr Frume]] himself seems to trust you. Perhaps the [[Order of the Companion]] would be more inclined to let you speak to him.
 
 If [[Azbara Jos]] is in good terms with the players, he will simply ask them to invite the man to meet with him and give him a letter. If Jos is not in good terms with the party, he will ask them to break into High Hall to give him the letter. Either way, Thuran will bid the adventurers farewell and walk back down the road along with [[Lotar Fay]] and [[Haymon Dowling]].
 
@@ -241,7 +258,7 @@ Opening the letter will require a DC 25 Arcana check, as it is sealed for anyone
 
 	Lord Jos
 	
-	It has come to my attention that you have recently fled your home country of Thay. The Host Tower of the Arcane extends its sympathies to you. I fact, our leader and High Mage Amicia Lawntill greatly understands what it is like to want to be rid of a sour reputation.
+	It has come to my attention that you have recently fled your home country of Thay. The Host Tower of the Arcane extends its sympathies to you. In fact, our leader and High Mage Amicia Lawntill greatly understands what it is like to want to be rid of a sour reputation.
 	
 	As such, we would like to invite you to join us for dinner in our abode in Luskan where we can discuss our shared troubles and commonalities. Perhaps even a bit of wine? We have imports straight from Thay itself that I'm sure you will enjoy. As we've been told, you are also quite the connoisseur and we're certain you'll enjoy our cook's meals. He is quite practiced and has ample experience cooking dishes from every corner of the Sword Coast and beyond.
 	
@@ -255,15 +272,301 @@ Opening the letter will require a DC 25 Arcana check, as it is sealed for anyone
 
 Refusing and killing [[Thuran Yale]] then and there will yield the same letter. If allowed to walk away, [[Thuran Yale]] along with [[Lotar Fay]] and [[Haymon Dowling]] will be found at the [[Phontyr's Unicorn]] where they have been staying for the past few days. The mostly keep to themselves but the latter two can often be found wandering the streets near the Dock District. 
 
-When the party finishes this favour for Thuram, he will then present them with another request which leads to the side quest [[Keeper of secrets]].
+When the party finishes this favour for Thuram, he will then present them with another request, one on behalf of the 'greater good' and [[Elturel]]. This leads to the side quest [[Keeper of secrets]]. If Thuran is confronted and the fight is finished, the lead on the [[Cult of Vecna]] will instead be found on his person in the form of a small note.
+
+____
+### 2.8 Wrath in Cyan
+
+#### The Plan
+After completing at least one side mission in [[Elturel]], [[Ontharr Frume]] will be ready to meet with the party once more. Upon returning to the [[Hall of the Triad]], Aurelia will immediately let the players know that the Paladin along with [[Leosin Erlanthar]] and [[Alia Sanem 'Talis Kasterel']] are already in talks within the meeting hall.
+
+*Stepping past the main lobby and into the long hallway, you find yourself unable to look away from the rather impressive monster-hunting trophies on the wall. While the structure of the building gives a nod to the piousness of the Order, the walls tell another story. Bathed in sunlight and radiance are countless creatures taxidermized or mounted on plaques. Some look like monstrosities, while others look almost fiendish and demonic.*
+
+*Looking into the inner courtyard you see a dozen or so soldiers of different shapes and sizes practicing their swordplay or spells. It seems that the Order is on edge, and they're preparing for a fight. As you reach the end of the hallway, Aurelia brings you towards a set of large double doors at the end of this marbled hallway. She gives you a respectful bow and clears her throat.*
+
+AURELIA: The others are in there, good luck.
+
+*You step into what looks to be a circular room. The first thing that grabs your attention is the large 20 foot mural on the far wall depicting three gods; Tyr, Ilmater and Torm, also known as the Triad. The three figures seem to be engaged in combat with what looks like devils pouring out from a portal. The roof of this room is domed, with paintings of Devas and Solars scattered across a cloudy sky.*
+
+*In the centre of the room is a large, circular table made of strong wood. There is an outstretched map with what at first looks like a model of the Sword Coast atop it, but upon closer inspection it seems that the table has been carved into a 3d model of this part of Toril. Five figures stand around the table, Ontharr Frume, Leosin Erlanthar, Alia Sanem and two others who you don't recognise.*
+
+ONTHARR: There you are. Come in, we were just discussing the next steps.
+
+ALIA: I have it on good authority that Langdedrosa plans on attacking [[Fort Morninglord]] to the West. That is, if he hasn't already. When, and it is a matter of when he strikes, the soldiers there don't stand a chance.
+
+ONTHARR: And the Dragons?
+
+LEOSIN: I was out scouting with some of your men. I didn't see any signs of them to the East.
+
+*As they discuss, two more figures walk into the room. Mira and Ser Caldus. Both look like they have stern expressions on their face as they step up to the table. Mira and Ser Caldus both give Ontharr a respectful salute before Mira speaks up.*
+
+MIRA: We had some of the Clerics try to scry on them to see where they may be, but no luck. Whatever they're doing, they're doing it in secret.
+
+CALDUS: There is a camp to the far North that may be worth looking into.
+
+MIRA: And another one to the East.
+
+ONTHARR: Too many choices, and we can't hit them all at once. I think it's best we send our new friends to look at Fort Morninglord while another team goes to one of those other locations.
+
+LEOSIN: Shall I accompany them as well?
+
+ALIA: Meaning no offense, Ser Harper, but I will be far more useful to them on the field.
+
+ONTHARR: It is up to you, adventurers. Leosin is a tried and true ally to you already, but Alia here has proven her worth as a good informant on the [[Cult of the Dragon]].
+
+After the players make their choice, the matter of the second location must then be determined. According to [[Caldus Merevain]], he is unsure of what the other camps may hold but he is sure that another Dragonclaw may be nearby. The outcome of this choice will determine whether or not the other team lead by [[Mira Fenwillow]] will succeed. The players will only know the result of their actions at the end of the fight with [[Langdedrosa Cyanwrath]]. When the players have made their choice, they are then told by [[Ontharr Frume]] to journey West to [[Fort Morninglord]].
+
+ONTHARR: You all have your missions. Once you're finished at Fort Morninglord use this to let us know the job is done. Head straight for the Chionthar, Caldus, I want you to be ready to take them to [[Baldur's Gate]]. 
+
+CALDUS: The Gate? Any particular reason?
+
+ONTHARR: Even if we were to foil the Cult's plans here, we don't have time to debrief and plan ahead. The Council needs to be assembled sooner rather than later. Elturel isn't going to be the only city put into great danger. That, and we're going to need help here from the Talons.
+
+*One of the unknown figures, the Orcish man steps up close to the table. His green face is scarred, and the grey hairs on his head and beard suggest some level of experience. The man clears his throat, covering his mouth with his gauntleted hand. his dark leather and half plate glistens in the light of the room.*
+
+KHASAR: Khasar of the Talons. Our third Talon Torbar Dragonsbane is currently... pre-occupied with something else, but Second Talon [[Xaria Trevisa]] remains in our Temple in [[Baldur's Gate]], she will be more than willing to hear you out.
+
+*The other man speaks up. He looks half-elven in appearance and relatively young, which could either mean he's 30 or 80. He appears to have short brown hair, and a similarly thick beard that frames his humanoid face well. A white fur mantle rests atop his leather armour, which encloses an aqua coloured robe. He steps closer towards your party and leans on his staff. *
+
+TIERBHAL: Tierbhal an [[Garrán]]. My father, Archdruid [[Eamir]] will need to be convinced to join this Council, but as one of the Circles of the [[Emerald Enclave]], he has a duty to the Realm. He will listen. If you find yourselves in the [[Misty Forest]], seek him out.
+
+ONTHARR: Then it's settled. If there's nothing else, then let's get a move on. Make any preparations you need to do and go. May the Triad and the Companion shine brightly upon us all. 
+
+#### Part One: Attack on Fort Morninglord
+
+![[GL_RiverwoodTollCastle_Original_Day.jpeg]]
+GRID TILES: 28 x 43
+
+*As the Caravan makes its way up the hill, the sounds of combat fill your ears. Ahead of you, you can see blazing bursts of flame and the crackling sizzle of lightning shine brightly. As you dismount and head for the wall you just about notice the four Hellriders defending the keep. It's a fight!*
+
+There will be a mix of Kobold, Goblin and Cultist enemies assaulting the portcullis. At some point during the fight, [[Venomfang]] will use Sending to speak to one of the players saying he can sense their presence nearby. At the end of the fight [[Venomfang]] will appear in the far distance. He will arrive at the Portcullis in 1 minute (10 rounds). One of the [[Hellriders]] defending the wall (if any remain) will inform the players that they must ascend up the hill and help Commander [[Zevlor]] reclaim the Fort proper in order to activate its defences. 
+
+HELLRIDER: We must ascend up the hill! Commander Zevlor is inside the Fort and needs help. If we can reclaim the Fort we can activate its defenses!
+### Part Two: Reclaiming the Fort
+
+![[GL_RiverwoodTollCastle_Night_Torches.jpeg]]
+
+*Your party ascends up the hill with the Helldivers. The sounds of steel-on-steel fill your ears as another clash of swords greet you up the hill. Venomfang's gaze lingers on your party, looking down at you like cattle. For a second, you could almost swear he smirks right before his scales begin to glow. You watch as a shimmer of green energy envelops the Green Dragon's body as he turns invisible.*
+
+There will be 5 hoards of enemies between the players and the Fort's entrance. Each unit represents 10 creatures each. Their attack patterns are as follows:
+1. 75-100% Health: 4 Attacks.
+2. 50-74% Health: 3 Attacks.
+3. >50% Health: 2 Attacks.
+
+*As you enter the courtyard, a group of Dragon Cultists turn and look towards you. Venomfang's roar shakes the heavens as he gets closer and closer. It seems that they're the last thing standing between you and safety.*
+
+HELLRIDERS: That Dragon's breath can't pierce the walls. Get rid of them and we can win this!
+
+![[GL_RiverwoodTollCastle_Interior_Night.jpeg]]
+
+#### N1. Barracks
+*The interior of this barracks appears messy and turned over. It seems that the Hellriders were unprepared for when the Cult arrived.*
+
+#### N2. Kitchen
+*Looking at this kitchen, it seems that the food was still in the midst of being prepared. It seems that Alia was correct, the Cult took Fort Morninglord by surprise.*
+
+#### N3. South Gate Controls
+There will be four Cultists inside this room. After the fight, the players will realise that they've jammed the wheel so that the Gate can't be closed. On a DC 10 Athletics check, they can unblock the controls and close the gate shut.
+
+#### N4. Smithy
+*As you enter this room, the sound of people speaking fill your ears. The door up ahead is sealed shut, and there appears to be no lock. You make your way to it and get closer, and the sliding metal window opens up to reveal the glowing eyes of a red-skinned Tiefling.*
+
+ZEVLOR: Ah, allies. Come, I've closed the door to prevent those Cultists from getting into the Vault. I'll unlock it now, we should talk.
+
+#### N5. The Office
+*This well-decorated and somewhat tossed-about office currently holds Zevlor and two Tiefling civilians. Looking at their attire, they seem to be what's left of the servants here at the Fort. Zevlor looks at your party and nods towards the safe to the West side of the wall.*
+
+ZEVLOR: Supplies are in there, don't know what the old Commander had leftover but it should be enough to help with the fight.
+
+On a DC 25 Thieves Tools check or a 25 Athletics check, they can unlock the safe and reveal the contents. Inside, there is one diamond (300GP), 50 PP, 1500 GP, 3 Potions of Greater Healing and two Potions of Restful Slumber. There will also be a magical hilt inside, which is a Sun Blade.
+
+ZEVLOR: Take whatever you need. I suspect that you'll have more use for whatever the Old Commander had than any of us. We can't rest yet, however. There are cultists on the other side of that door, I can hear them trying to break the North Gate Controls. Once they're dealt with, we should be able to activate Morninglord's Barrier and stop that lizard from landing.
+
+#### N6. North Gate Controls
+There will be five Cultists in this room. After the fight, the players will need to mend the control wheel.
+
+#### Part Three: Striking Back
+
+*The sound of the barrier activating fill you with hope as the flapping of wings begin fading away into the distance. Venomfang has been repelled, for now, but who knows when he'll be back. Zevlor looks out the window, watching as the other Hellriders begin arriving en-masse and slaughtering the runaway Kobolds.*
+
+ZEVLOR: We've repelled the Cult for now it seems. If you were my men I'd tell you that it's a victory. But you've dealt with these Cultists before. It's nothing but the calm before the storm.
+
+*Reya Mantlemorn walks into the room, sword and armour painted red with the blood of her enemies. She takes her helmet off to reveal her messy auburn hair and gives you all an acknowledging nod.*
+
+REYA: They're retreating North up the hills, just we thought. 
+
+ZEVLOR: And the Dragon?
+
+REYA: Hard to know, it flew off South away from the Horde.
+
+ZEVLOR: I don't like this. This attack didn't feel like a real invasion. It's almost as if they were testing our defenses. Now that they know the Fort is untouchable...
+
+REYA: We can either wait here or pursue them back to their camp. Either way, Cyanwrath won't stop with this attack. It'll only be a matter of time before he strikes.
+
+ZEVLOR: You're right. Gods damn it. 
+
+*Zevlor turns to your group and looks out the window again at the remaining Hellriders. He takes a deep breath and shakes his head before turning back to face you.*
+
+ZEVLOR: I hate to ask more of you, but you've all proven yourself quite capable fighters. You've dealt with the Cult before, you're far more equipped to deal with their general than we are. Our scouts say Cyanwrath has a camp nearby. Probably where he's sending these creatures from.
+
+REYA: Venomfang is injured. Leosin/Alia and I can come with you to the Camp while the Commander holds the keep.
+
+ZEVLOR: You'll be doing us an immense favour. Rest while you can, but not for too long. I suspect that there will be another attack come morning.
+
+The players will have an opportunity to short rest to attune to any newly acquired items/recover their resources. After they've finished preparing, they must journey north in order to face Cyanwrath in his own warcamp.
+
+#### N1. Dwarven Gate
+*As your enter this valley, a door of Dwarven make stands before you. The sound of Draconic laughter can be heard from the other side. As you look down on the ground, there is no mistaking that the heavy foot traffic you see below you is the result of a rather large group of creatures making their way through here.*
+
+There are two Kobold Dragonshields guarding the door. They will ask the players what the password is. The password is 'password'. If the characters speak draconic, they gain advantage on all Charisma ability checks for any effort they make towards asking the Kobolds to let them in.
+
+#### N2. Receiving Area
+*As you walk into this room, several Hobgoblins look upon your party. In the middle of the room stands a 15-foot tall troll, its mossy green skin seemingly flaking off into the ground as it scratches its back with its club. Some of the Kobolds look on in amusement, while the Hobgoblins look unbothered.*
+
+HOBGOBLIN: You, you're not part of the raiding party. State your business.
+
+If the party decides to attack the people in this room, they will engage in combat alongside a horde of Kobolds which will arrive from the mess in 1 turn after combat begins.
+
+#### N3. Othelstan's Office
+*This well-organised table holds what appears to be stacks of several reports bundled up together. What stands out the most is a scroll on the table sealed shut with white wax. A white dragon's head beautifully marks it. As you hold it in your hands, it feels magically enchanted.
+
+The scroll is a note sent to Captain Othelstan. The text is encrpyted and hard to read. Reading the scroll will require the use of three languages; Thieves Cant, Draconic and Infernal. If a group is attempting to decipher the contents of this scroll, it will take them 10 minutes to do so.
+
+	`"Othelstan`
+	
+	`The Serpent will move towards the Gate.`
+	`When Langdedrosa finishes with Elturel, she will strike.
+	She'll have the perfect opportunity to sow discourse amongst the rabble.
+	Rezmir's Dragonclaws don't impress me, but this one is quite promising.
+	
+	I suspect that the 'Heroes of Greenest' will continue building their alliance.
+	Disregard them, they are of no threat.
+	Let Rezmir have her fun when they chase her to Naerythar.
+	
+	Meet me in Parnast, there is a mole in our ranks.`
+	
+	Wyrmspeaker Thaddak"`
+
+On a successful DC 15 Investigation check, they will find a hidden compartment with an opened scroll. The text inside is written in Draconic, and the scroll looks to have been sealed with red wax.
+
+	`"Othelstan
+	
+	The mask has been found, but we need not act on this. 
+	It will come to us, I can see it. Continue the distraction.`
+	
+	`Severin."`
+
+#### N4. Othelstan's Fake Treasury
+*The door to this vault appears well-made and highly secure. A magic aura eminates from it.*
+
+This door is guarding Othelstan's 'treasury', which is an explosives-rigged room. 
+
+On a DC 15 Investigation check, players can notice a heavy aura of magic in the air and are sure something is trapped. On a 20 or higher, they can discern that every chest is marked with Glyphs of Warding. Triggering one of the Glyphs will cause the entire room to explode, dealing 7d8 points of Force damage to creatures that fail a DC 18 Constitution saving throw. 
+
+There is no treasure inside, and what remains in the room is a singular letter that reads:
+
+	`Nice try, idiots.`
+
+#### N5. Living Quarters
+*This room is crudely decorated. It's clear that the furnishings were placed here by the Kobolds and not the original architects of this place.*
+
+#### N6. Kobold Mess Hall
+*A flayed human rests atop the surface of this table. The kobolds merrily eat the human's remains. His or her face seems to have been eaten off, and one of the Kobolds rips off the body's arm to hand it towards you with a bloody, toothy smile and almost looks like child-like wonder.*
+
+There will be a group of 5 Kobold Warriors eating the remains of a human. On a DC 5 Investigation check, they will notice the body has 45 copper.
+
+#### Part Four: The Valley
+*The journey further up the mountain is taxing on your limbs, but you push forward, determined to meet your foe. As you spot the camp in the far distance, you hear the rustling of trees and a flash of white light. To your left, standing next to what appears to be a tree is Thaddak. His face is covered by the White Dragon Mask but there's no denying it's him.*
+
+THADDAK: We meet again, it's been such a long time. I'll keep this short. Know that even if you manage to defeat us here, you cannot stop the coming tide. You've seen our forces at the Hatchery and our numbers grow more and more every day. Thanks to your contributions, of course.
+
+*He smirks as he steps forward, floating slightly down as a vine emerges from behind him and lower him down onto the ground in front of you. He drops the mask on the ground and it disintegrates into ice, and you're face to face with him once more.*
+
+THADDAK: There's still time for you to give up this fight. I can sense Rezmir's curse growing within you. Join us willingly and your souls may yet be spared.
+
+The party will likely attack or disagree with Thaddak, after which he will charge towards the party with a smirk. One single hit will reduce him to a pile of snow. He is not truly there, only present to toy with the party. He will then utter these words telepathically.
+
+THADDAK: Consider my offer carefully. When the Dragon Queen rises again - and she will rise - think of what will happen to your loved ones.
+
+*As you enter the final section of Cyanwrath's camp, you see group of low-level recruits and kobolds watching your party. Before you can step foot any further in, you hear the quake of thunder from up above the sky as the clouds begin to roll in. The wooden wall surrounding the Commander's tent cracks along a seam as a well-hidden door opens up.*
+
+*Langdedrosa steps out into the battlefield and smirks as he sees your party. Electricity crackles around his body and throughout his splint armour as he steps forward into the light. In one hand he has his giant greatsword, while the other holds a crackling spear.*
+
+LANGDEDROSA: Well well well. We meet again. I was wondering how long it would take for you to find your way back to me. You disappointed me back in Greenest / You were impressive back in Greenest. Let's hope that you've improved since.
+
+*The wind around you begins to pick up as the smell of ozone fills the air. Lightning strikes a nearby tree as Langdedrosa gets into a combat stance. He roars into the air shooting a pillar of lighting straight up.*
+
+LANGDEDROSA: To fight the Giantsbanes and the "killers" of Frulam Mondath herself. What a glorious day. Tiamat witness this duel. To the victor go the spoils!
+
+Langdedrosa will call Azureth, a Young Blue Dragon when he becomes bloodied. When he dies, roll a D20. On a 15 or Higher, Langdedrosa's remains will fly towards one of the dead bodies and resurrect with half of his HP. He can only do this once.
+
+##### Azureth's Taunts
+1. This will make a fine hunt for my Queen.
+2. Fear the might of the skies!
+3. I shall crush you under my feet.
+4. My lightning shall burn you to the bone.
 
 ____
 ### CONCLUSION
 
-Upon killing [[Langdedrosa Cyanwrath]], [[Onthar Frume]] tells the party that they must head to [[Baldur's Gate]] and speak to the [[Talons of the Raven Queen]] to get them to send aid to [[Elturel]]. He will suggest two ways of getting there;
+Upon killing [[Langdedrosa Cyanwrath]], they will hear from [[Mira Fenwillow]] as they end their mission as well. The outcome of each choice is as follows:
+1. Send Mira North: Cleared the camp. Hobgoblin with Red Dragon was here. Was a close one but managed to take him down. Farewell. Good luck in Baldur's Gate.
+2. Send Mira East: Can't clear camp. Red Dragonborn. Too powerful. Tell Ontharr, I'm sorry I failed. Get to Baldur's Gate.
 
-The first is to let the players and the [[Sylvira-Van]] board the Warship called the Piercing Light, captained by [[Caldus Merevain]] which will take them to [[Baldur's Gate]] within 3 days. However, once the ship has sailed they will have no chances to stop on the way there.
+Ser [[Caldus Merevain]] will meet up with the party back in Fort Morninglord aboard the Piercing Light, accompanied by [[Glass]] and any other companions they may have left. [[Zevlor]] thanks the 
+party for their service and hopes to see them again in the coming fight. 
 
-Alternatively, they can travel via the [[Sylvira-Van]] which would normally take them a week but they risk running into something [[Onthar Frume]] only knows as the [[Shadow Curse]]. If they take this road, they will need to find a way around it which could offset their journey by a day or two. However, if they travel via the [[Sylvira-Van]], they have a chance to visit one of the [[Emerald Enclave]]'s Circles, the [[Emerald Grove]] lead by the druid [[Halsin]]. 
+*The warship known as the Piercing Light emerges from the horizon before coming to a quick stop in the middle of the Chionthar. Its white sails glint in the light of dawn, with the symbol of the Order of the Gauntlet emblazoned on the centre like a beacon of hope. The familiar sight of the grizzled Paladin Ser Caldus greets you as he comes up to the deck and gives you a soldier's salute.*
 
-Before the decide which path they want to take, [[Onthar Frume]] also strongly advises that they seek out [[Ackyn Selebon]], a former [[Order of the Gauntlet]] member who now operates an equipage business in the Outer City. According to [[Leosin Erlanthar]], the Harpers say that the [[Cult of the Dragon]] were in [[Baldur's Gate]] recently and Ackyn may have information as to what they were doing there.
+CALDUS: All aboard. We need to get you to the Gate as soon as possible.
+
+*The deck hands push out the ladder off the side of the ship and secure it to the side. Before you can leave, Zevlor and Reya make their way down to your group.*
+
+REYA: I wish I could come with you, but my duty is here to the city and to Elturgard.
+
+ZEVLOR: Perhaps we'll see each other again on the battlefield. Though I hope for a swift end to this conflict. Good luck on your mission, heroes. You will always be welcome in [[Elturel]].
+
+*You ascend up the ladder and Ser Caldus helps each of you one-by-one as you find yourself on the deck of a warship once more. In the far horizon, you can almost make out the sea that you once looked at not too long ago at the beginning of your journey in Shade Rest.*
+
+CALDUS: Ontharr passed on some information to me that we should discuss at some point. For now, you should all get some rest. Alia/Leosin is here too, if you want to catch up. It'll be 3 days before we get to Baldur's Gate.
+
+#### The Vision of Death
+After their first long rest, that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
+
+*You open your eyes and find yourself in a familiar scene. Ahead of you is a grim, smouldering ruin of a city warped beyond recognition. The city streets are cracked and broken, and a dark void floats above the crumbling ruin in a blood-red sky. You know that wherever this is, it is not Faerun. You are back in Avernus. A red-robed figure stands at the far end of the street, his face still shrouded in darkness.*
+
+SEVERIN: Well done. You've managed to save the Holy City from the Queen's wrath. You haven't given these heroes enough credit, Rezmir. First Mellara, then Frulam, and now Langdedrosa. 
+
+*A pseudodragon with red scales lands on the man's shoulder. You watch as he feeds the creature and flicks his arm up and forward. The pseudodragon flies straight towards you group and opens its mouth. A large swathe of flames engulf you, but you are not hurt. When you open your eyes again, the man is turned around, the back of his turban faces you.*
+
+*Four figures materialise around him, with two standing on either side. All of them are perpetually shrouded in darkness, making it hard to look at the finer details of their faces. One of the figures steps back, grasping its staff and leaning against it. You see a flash of white fabric jostle in the wind and the glint of white metal. 
+Another figure moves to his left, but this time it steps forward. The figure is covered in black scales, and wears a set of polished black armour marked with silver trim. Her reptilian half-dragon eyes scan your party and your vision blurs for a second.*
+
+REZMIR: Perhaps. You've managed to keep up so far, Heroes of Greenest, but the path between here and Naerytar is quite far. My remaining Dragonclaws will put an end to your meddling.
+
+SEVERIN: I sense a foolish determination in them. Tread carefully, Wyrmspeaker, lest your pride get in the way of the Queen's plans.
+
+REZMIR: They won't be a problem for much longer. They don't have time to be. And time is such a valuable resource don't you think?
+
+*Rezmir raises her hand as a powerful wave of lethargy washes over your body and you contort and bend untill you're forced to drop your knees in pain. Spikes begin to grow out of your back and your skin tears open and breaks. Your blood boils and you feel your vision narrow. You look down at your hands and watch your finger transform into long claws. You feel your legs snap as they're forced into a different shape. As you cry out in indescribable pain Rezmir steps forward and laughs.*
+
+REZMIR: You cannot stop her return. The fates will not allow it.
+
+*The other figures turn on their heel and walk away, disappearing into shadows. The red-robed man is the last to vanish. As Rezmir caresses your cheek, you feel your jaw dislocate and the pain is insufferable. Your bones forcibly extend and elongate as your teeth all fall out. In their place are rows of jagged spikes, complementing your new draconic face. The pain does not stop, however. You feel it, constantly.
+
+REZMIR: You may have divine protection, but it won't last long. This is what awaits you. When your bodies hatch and you shed your souls for good, there won't be anything left of you. You'll all fade into nothingness, not even a footnote in the history books. 
+
+*Rezmir smirks as green lightning arcs through her fingers.*
+
+REZMIR: But we're getting ahead of ourselves. The Gate awaits, Heroes of Greenest.
+
+[[Wyrmspeaker Rezmir]] will then force the players to make a DC 18 Wisdom saving throw. If over half of the party fails, that means that their curse is accelerated and they must use up another charge. 
+
+1. If the party is holding any items from the [[Cult of the Dragon]], they make their rolls with disadvantage. Being attuned to more than two Cult items results in an automatic failure.
+2. If the party has used any charges of their Mark(s) of the Cataclysm, they make their rolls with disadvantage. Using all of them results in an automatic failure.
+3. If it fails, Rezmir will simply laugh and say they're more tenacious than she initially thought and says she looks forward to seeing how far they get.
+
+
+
+
+

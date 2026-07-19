@@ -28,7 +28,7 @@ As of the final chapter, Zeraxes was killed by Yan.
 _____
 ### ACTII: The Teacher
 
-Yan will run into the [[Arcane Brotherhood]] in [[Elturel]] after being tricked by an Assassin posing as [[Lioran]] lures him into the open. [[Thuran Yale]], along with three other [[Arcane Brotherhood]] Wizards will soon appear and accost the party.
+Yan will run into the [[Arcane Brotherhood]] in [[Elturel]] after being tricked by an Assassin posing as [[Lioran Thorne]] lures him into the open. [[Thuran Yale]], along with three other [[Arcane Brotherhood]] Wizards will soon appear and accost the party.
 
 *As Lioran leads you into the alley, a cold and uneasy feeling washes over your soul. The white-skinned Tiefling turns around and faces your party, as another Zil walks around the corner. Her wide smile is gleeful and unsettling, as if she's boasting about how easy it was to trick you into coming out. Then, Ryn comes down from a rooftop, but not the man you know.*
 
@@ -68,11 +68,10 @@ THURAN: Enjoy the time you have left on this world, worm.
 
 *In that moment, lying there on the floor you realise that you are no longer in the body you were previously in. You're back in your own body, for better or for worse. For a second, you realise you're not wearing the Pin of the Hellriders and you instinctively panic and cover yourself from the light of the Companion. Then you realise you can feel the heat of the rays. The chill in the wind. You smack your lips and taste the blood in your mouth, and the sweat forming on your head. You feel a heartbeat inside your chest, faint but it's there. You're not quite alive, but not quite dead. It seems that whatever Thuran did to himself gave you another 'boost' like when you slayed Zeraxes. You rise from the ground, Yan Lawntill once again.*
 
-Yan will no longer be vulnerable to Radiant and gains the Body Snatcher ability.
+Yan will no longer be vulnerable to Radiant and gains the Body Snatcher ability:
 
-#### Body Snatcher
-The death of your second target has changed something within you. You are no longer vulnerable to Radiant damage and have regained awareness of your physical senses. You can transfer your soul to another intact humanoid corpse no larger than medium and that has recently died within the last 10 days. 
+==***Body Snatcher.*** The death of your second target has changed something within you. You are no longer vulnerable to Radiant damage and have regained awareness of your physical senses. You can transfer your soul to another intact humanoid corpse no larger than medium and that has recently died within the last 10 days.== 
 
-If the body you're inhabiting has been gravely injured or missing limbs, it must first be tended to before you can transfer yourself onto it. While you're inhabiting a corpse, you can heal the physical wounds on your person.
+==If the body you're inhabiting has been gravely injured or missing limbs, it must first be tended to before you can transfer yourself onto it. While you're inhabiting a corpse, you can heal the physical wounds on your person.==
 
-Once you use this ability, you cannot do so again until you've finished a long rest.
+==Once you use this ability, you cannot do so again until you've finished a long rest.==

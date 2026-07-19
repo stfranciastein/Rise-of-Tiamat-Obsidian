@@ -23,11 +23,11 @@ Ilara Greypool
 Jory Greypool
 - Human Male with short pale blonde hair, standing at 5'8". The black sheep of the family and Ilara's younger brother, Jory preferred drinking and gambling to patrols and paper work. He begrudgingly did his service and intended on leaving once he had served his 5 years.
 
-Thelvin Kaervath
+[[Thelvin Kaervath]]
 - Human male with dark skin. He has tightly shaved hair and a long forked beard. He is large and intimidating, especially for a human but always joyous and well tempered.
 
 Gorzeen
 - Half orc male with black hair shaved on the sides. He is covered in orcish tattoos. He is an ex convict who was given a second chance much like Caradil. He follows the letter of the law in spite of his criminal past
 
-Amory
+[[Amory Silent-Step]]
 - Elf male. huh hahg uhhhh

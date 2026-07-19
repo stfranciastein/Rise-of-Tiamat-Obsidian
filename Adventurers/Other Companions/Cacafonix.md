@@ -1,0 +1,1 @@
+Bard. [[Exit bear, stage right]].

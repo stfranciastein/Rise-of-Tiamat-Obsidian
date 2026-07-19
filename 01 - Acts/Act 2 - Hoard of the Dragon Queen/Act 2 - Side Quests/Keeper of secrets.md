@@ -3,7 +3,7 @@
 Either [[Thuran Yale]] or [[Azbara Jos]] will tell players that they believe there is a clutch of Necromancers plotting something beneath [[Elturel]]. They will tell the adventurers to head to the [[Grand Cemetary]] later that night when the Necromancers plan on meeting. This is not a tip to be taken lightly, and the players will likely at least check if this is true.
 
 ____
-### Chapter One - Dead Man's Message
+### PART 1 - Dead Man's Message
 
 Upon arriving at the spot that the Wizard outlines, they will encounter [[Kevori Fearnehart]] standing over the body of her dead brother in an alleyway.
 
@@ -27,7 +27,7 @@ A Detect Magic spell or similar effect reveals an aura of divination magic aroun
 Following the activated eyeball's directions leads the characters to a catacomb entrance near one of the tombs in the [[Grand Cemetary]] of [[Elturel]].
 
 _____
-### Chapter Two - Into the Catacombs
+### PART 2 - Into the Catacombs
 
 Several months ago, cultists dedicated to Vecna commandeered sections of [[Elturel]]'s catacombs for their nefarious purposes. The sect the characters are pursuing is in the western ruins of the city.
 
@@ -72,7 +72,7 @@ What the Ghost Knows. At first, the ghost remembers nothing about Delvin, the cu
 - Zombie Infestation. The crypt to the south of the rotunda was desecrated and now swarms with zombies.
 
 #### N5: Tomb of the Mage
-The smell of old parchment fills this tomb. Bookshelves carrying various tomes and scholarly implements stand against the walls. At the center is a stone, gold-painted sarcophagus, the sides of which bear a beautiful relief carving of two humanoid women exploring a forest together.
+*The smell of old parchment fills this tomb. Bookshelves carrying various tomes and scholarly implements stand against the walls. At the center is a stone, gold-painted sarcophagus, the sides of which bear a beautiful relief carving of two humanoid women exploring a forest together.*
 
 This is the tomb of Makalia Siannodel, a female elf mage and the partner of the knight entombed in area N6.
 
@@ -171,6 +171,7 @@ The notes spread across the table detail the cult's experiments and history. A c
 
 - Cult Experiments. The cult's leader, Zalryr, is experimenting with ways to magically siphon secrets from an individual's soul. Early experiments reduced volunteers to piles of necrotic sludge, which were disposed of in the sewerage ([area N9](https://5e.tools/adventure.html#vnotee,0,n9%3a%20sewerage%20chamber,0)). 
 - Others? The cultists here are but one sect of many that have infiltrated Neverwinter. The other sects have chosen different areas of the city's catacombs as their respective hideouts.
+- There are reports of a red-skinned Dragonborn having taken something from Vecna. According to Zalryr he was spotted up North alongside a Blue Tortle and a rather large brown-skinned Minotaur.
 
 Trapped Lockbox. A character who inspects the shelves and succeeds on a DC 10 Intelligence (Investigation) check finds a small ebony box. The box is locked; Zalryr in area N15 has the key. The box can be picked open by a creature that makes a successful DC 13 Dexterity (Sleight of Hand) check using thieves' tools, or it can be forced open with a successful DC 15 Strength (Athletics) check.
 
@@ -208,9 +209,9 @@ VECNA: Oh don't get that look on your face. I do not plan on enacting vengeance 
 Vecna bestows one of two supernatural gifts on each character. Have each player roll a die, with the result determining which charm their character receives: the Charm of the Creeping Hand if the die roll is an odd number or the Charm of the Eldritch Eye if the die roll is an even number. While in possession of either charm, the character has the unshakeable feeling that they are being watched. A Remove Curse spell will not cleanse it from the characters and no magic will detect this on them.
 
 ____
-### Conclusion
+### CONCLUSION
 
-After the quest is concluded, the adventurers will likely want to report their findings to a figure of authority. If [[Onthar Frume]] is told, he will advise the players to make their way up [[The Gardens]] and inform a member of the [[Order of the Companion]]. If a member of the [[Order of the Companion]] is told directly, the will escort them to [[High Hall (Elturel)]] themselves. 
+After the quest is concluded, the adventurers will likely want to report their findings to a figure of authority. If [[Ontharr Frume]] is told, he will advise the players to make their way up [[The Gardens]] and inform a member of the [[Order of the Companion]]. If a member of the [[Order of the Companion]] is told directly, the will escort them to [[High Hall (Elturel)]] themselves. 
 
 *The tall white walls of the High Hall loom overhead. The stone almost glistens in the light of the Companion, moreso than any other building in the city below. The arched windows and doors and flying buttresses create an unmatched extravagance. Two guards look down from the top of the walls and nod as your escort leads you through the portcullis. Closer to the structure now, you can see the towers of the keep are capped with pointed blue roofs, making them look like fingers that scratch the clouds themselves. If there were any place to be close to the gods, it would be right here.*
 

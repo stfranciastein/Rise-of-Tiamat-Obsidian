@@ -41,7 +41,7 @@ He steps back, lowering his stance and letting the tension bleed out in his shou
 
 OR
 
-"I never told you how I found out about the blight on Willowvale, did I?" Matreous says. "It happened by chance, you know. Magic in Candlekeep can be amplified given the right preparations. I was preparing a variation of a scrying ritual and needed somewhere to look. So I looked to the surrounding area. During that reading, I found two strong corruptions in the Weave. One in the Cloakwood, and one in the Cloud Peaks, far to the south. I thought nothing of it at the time, but when [[Feldir]] reached out to me to speak of the blight. Well... the rest is history."
+"I never told you how I found out about the blight on Willowvale, did I?" Matreous says. "It happened by chance, you know. Magic in Candlekeep can be amplified given the right preparations. I was preparing a variation of a scrying ritual and needed somewhere to look. So I looked to the surrounding area. During that reading, I found two strong corruptions in the Weave. One in the Cloakwood, and one in the Cloud Peaks, far to the south. I thought nothing of it at the time, but when [[Feldir Whitefyre]] reached out to me to speak of the blight. Well... the rest is history."
 
 ****
 

@@ -1,0 +1,1 @@
+**Tags:** #NPC #Paladin #Elf #WoodElf #Helm #OrderOfTheGauntlet

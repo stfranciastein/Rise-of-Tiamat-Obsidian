@@ -37,6 +37,8 @@ During [[Lucien]]'s introduction, Ryn will be told that his old rival is still a
 ***
 ### ACTII: The Prodigal Monk
 
+
+#### Coming Home
 In [[Chapter 2.0 - Tale of Two Cities]] when the party arrives in Berdusk, Ryn will instantly recognise [[Tovan]] in the crowd. When the two make eye contact, the Orc runs off into the distance. If Ryn gives chase, [[Tovan]] will disappear into the crowd. Monks aligned with [[Shar]] will strike the party in the streets regardless of whether or not they choose to pursue him. After the fight, if Ryn chooses to focus in on the markings, he will receive a vision of his memory of the fire in his village.
 
 [[Flint]] the Blacksmith may ask the party to retrieve the Inert [[Belt of the Giant]], in which case they will be directed to the Sunset Mountains in order to retrieve it from a Goblin village named [[Sunset Camp]]. Their Champion and Ryn (unbeknownst to either) are facing the same foe; a Vampire named Florian.
@@ -45,7 +47,7 @@ Florian is a handsome man with pale white skin, white hair and gleaming yellow e
 
 To make nice, Florian offers to restore a memory Ryn has lost and will cast Greater Restoration on him. Ryn will then get a flashback of his earliest memory of being in the burning village, only this time he is holding a dagger, both of his hands covered in blood. He will see a vision of [[Kaelor]] 'rescuing' him as he remembers, but he overhears one of the senior monks say that he should be put down.
 
-While this is helpful, the reality is that this is a trap by Florian to lure him in as he is a Vampire. Florian and his spawn have been using the old, abandoned [[Il met by Moonlight]] as a base of operations. His 2 Gnoll vampires and 2 Vampire Spawn will attack the party. Defeating Florian is no simple task, and he will run away should his lackeys be defeated. If he is killed during the day, Florian will crumble into ash. If killed during the night, his body teleports back to the Temple.
+While this is helpful, the reality is that this is a trap by Florian to lure him in as he is a Vampire. Florian and his spawn have been using the old, abandoned [[Ill met by Moonlight]] as a base of operations. His 2 Gnoll vampires and 2 Vampire Spawn will attack the party. Defeating Florian is no simple task, and he will run away should his lackeys be defeated. If he is killed during the day, Florian will crumble into ash. If killed during the night, his body teleports back to the Temple.
 
 After learning about his past, Ryn gains the ability Reaching Darkness & Pull of the Abyss:
 
@@ -53,7 +55,7 @@ After learning about his past, Ryn gains the ability Reaching Darkness & Pull of
 
 ==_**Pull of the Abyss.**_ Whenever you hit with your Unarmed Strike, you can cause it to deal Necrotic damage rather than its normal damage type. You can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 5 feet towards you, as dark energy swirls around it.==
 
-In the [[Il met by Moonlight]], Ryn will run into [[Tovan]] one more time who demands he answer for what he has done to [[Kaelor]]. He will be beyond reason until Florian reappears and attacks the party again. After emerging victorious, [[Tovan]] will ask Ryn why he really came back here before telling him the grim reality:
+In the [[Ill met by Moonlight]], Ryn will run into [[Tovan]] one more time who demands he answer for what he has done to [[Kaelor]]. He will be beyond reason until Florian reappears and attacks the party again. After emerging victorious, [[Tovan]] will ask Ryn why he really came back here before telling him the grim reality:
 
 TOVAN: So, you really don't know, do you?
 
@@ -83,7 +85,9 @@ TOVAN: [[Kaelor]] never told you, did he? Well I guess he's dead, so now is as g
 
 TOVAN: If you really want to avenge our family and find answers, let me leave. There's a group of Sharrans up north in the Dessarin valley. I've got Sharrans down in Amn to kill, but if you want answers they'll know more.
 
-At this point, Ryn can either choose to kill or spare [[Tovan]]. If Ryn chooses to spare him, Tovan will make good on his word and venture to Amn to hunt down one of the other members of the Sharrans that slaughtered the monks in the [[Il met by Moonlight]]. If Ryn chooses to kill him, Tovan will simply say this is a waste of time and he will only regenerate the next day. If [[Yan 'Keyreeonis' Lawntill]] asks, Tovan will say he gained the ability to regenerate his body after killing his second target. In either case, the party will leave the Temple and return to Berdusk.
+At this point, Ryn can either choose to kill or spare [[Tovan]]. If Ryn chooses to spare him, Tovan will make good on his word and venture to Amn to hunt down one of the other members of the Sharrans that slaughtered the monks in the [[Ill met by Moonlight]]. If Ryn chooses to kill him, Tovan will simply say this is a waste of time and he will only regenerate the next day. If [[Yan 'Keyreeonis' Lawntill]] asks, Tovan will say he gained the ability to regenerate his body after killing his second target. In either case, the party will leave the Temple and return to Berdusk.
+
+#### Baldur's Gate
 
 ****
 ### ACTIII: The Cursed Child

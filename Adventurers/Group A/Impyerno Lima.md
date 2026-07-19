@@ -1,8 +1,8 @@
-A band of adventurers who were tasked by [[Feldir]] of [[Willowvale]] to seek out the wizard [[Matreous Melwin]] in [[Candlekeep]]. This party originally consisted of [[Thavion Brightfell]], [[Ulena Kiln]], [[Yan 'Keyreeonis' Lawntill]], [[Fero Mörktträ]] and [[Ryn Fenrath]]. 
+A band of adventurers who were tasked by [[Feldir Whitefyre]] of [[Willowvale]] to seek out the wizard [[Matreous Melwin]] in [[Candlekeep]]. This party originally consisted of [[Thavion Brightfell]], [[Ulena Kiln]], [[Yan 'Keyreeonis' Lawntill]], [[Fero Mörktträ]] and [[Ryn Fenrath]]. 
 
 After the events of [[Act 1 - The Curse of Willowvale]], [[Fero Mörktträ]] fell in battle to [[Mellara, the Terror of the Sword Coast]]. [[Thavion Brightfell]] retired once more and left the party. He ventured to the Wood of Sharp Teeth where he began to rebuild [[Fero Mörktträ]]'s home. 
 
-In their place, [[Lioran]] and [[Zilliletha]] joined the party in [[Act 2 - Hoard of the Dragon Queen]]. 
+In their place, [[Lioran Thorne]] and [[Zilliletha]] joined the party in [[Act 2 - Hoard of the Dragon Queen]]. 
 
 ____
 ### EXTRA INFORMATION

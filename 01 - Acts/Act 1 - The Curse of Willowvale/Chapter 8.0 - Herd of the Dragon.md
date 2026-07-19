@@ -3,7 +3,6 @@ This chapter can begin in two different ways. If the players are aware that the 
 ### 8.1 Ashes of Nashkel
 
 
-
 ### **8.2 The Ruins**
 
 *As you reach the summit of the mountain, you come upon a door of Dwarven make. The symbol etched on the front, however, is out of place. A silver dragon depicted in fine detail makes up the middle portion of the door. It has been defaced, painted over with blood and acid in the crude shape of Tiamat's form. The towering stone double door before you is also adorned with two arrow slits, one on each side of the door and each about 10 feet above the ground, guarding the entrance.*

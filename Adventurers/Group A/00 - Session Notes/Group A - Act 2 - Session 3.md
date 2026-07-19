@@ -9,3 +9,6 @@ The fight, the party briefly considered going after Lord Goldmane who they belie
 The party arrived in Greenest early, going about their preparations for the feast. At night, they dressed up in fine clothes for their final night here. The merriment did not last long as they began to question the Lord Goldmane with the assisstance of Aestree Silvermoon, a Paladin of Selune. Their act did not land well with the audience nor the other judges. As a result Impyerno Lima found themselves disgraced as the dashing Lord smooth talked his way out of their line of questioning. Zil ran off, followed closely by Lioran as her First Talon eyed her with disappointment.
 
 But it did not end there. As Zil and Lioran recovered from the embarassment at the Feast, a flash of lightning streaked across the sky. Thunder quaked in the distance, and with it, death by the name of Lennithon approached the town of Greenest.
+____
+### Reminders
+- After the feast, the players will have reached level 6.

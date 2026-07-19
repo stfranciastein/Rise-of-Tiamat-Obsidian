@@ -3,8 +3,8 @@
 For Act 1, potential new players can choose any sort of motivation they want. The only caveat is 
 they cannot be evil and must have a reason to care about saving [[Willowvale]] and agree to go to [[Candlekeep]]. You can either roll a D4 and let the dice choose for you, or you can choose to add any of these to your character's backstory.
 
-1. You are a local from [[Willowvale]]. Your close friend, [[Feldir]] has requested you visit [[Candlekeep]] and meet with a wizard by the name of [[Matreous Melwin]] for only he knows how to end the 'curse' that has befallen the land.
-2. You ran into trouble with the law and found shelter in the town of [[Willowvale]]. The Flaming Fist caught up to you and threatened to arrest you, but [[Feldir]] convinced them that you've been hired as his envoy and that he'll keep you out of trouble.
+1. You are a local from [[Willowvale]]. Your close friend, [[Feldir Whitefyre]] has requested you visit [[Candlekeep]] and meet with a wizard by the name of [[Matreous Melwin]] for only he knows how to end the 'curse' that has befallen the land.
+2. You ran into trouble with the law and found shelter in the town of [[Willowvale]]. The Flaming Fist caught up to you and threatened to arrest you, but [[Feldir Whitefyre]] convinced them that you've been hired as his envoy and that he'll keep you out of trouble.
 3. You are a fortune-seeking traveller coming to or from [[Baldur's Gate]]. You stopped in [[Willowvale]] in hopes of getting supplies for the road, only to find a town that has been struck by famine. Moved by their plight, you agreed to help them find a cure to end their famine.
 4. You are a refugee from [[Nashkel]]. The [[Herd of the Dragon]] attacked your village and slaughtered your friends and family. You've come to [[Willowvale]] seeking aid to exact vengeance on those that wronged you.
 
@@ -19,7 +19,7 @@ For Act 2, potential new players must pick one of the following hooks. You can e
 
 3. You were born and raised in the town of [[Greenest]]. For the past year, every five nights, you've been having a strange sequence of dreams. The world is destroyed by cold choking fumes, lightning storms, waves of acid and horrible fire. Each time, the dream ends with ten evil eyes glaring at you from the darkness. 
 
-4. You are a new but respected member of the [[Order of the Gauntlet]]. Your leader, [[Onthar Frume]] has been summoned to [[Greenest]] in order to attend the Great Hunt. He has sent you in his place in order to make sure the Order is represented well. ==(Character is in the Order of the Gauntlet)==
+4. You are a new but respected member of the [[Order of the Gauntlet]]. Your leader, [[Ontharr Frume]] has been summoned to [[Greenest]] in order to attend the Great Hunt. He has sent you in his place in order to make sure the Order is represented well. ==(Character is in the Order of the Gauntlet)==
 
 5. You've overheard rumours that your close friend [[Alia Sanem 'Talis Kasterel']] was kidnapped by the [[Cult of the Dragon]]. You headed to [[Greenest]] in order to attend the Great Hunt, as some of the Heroes of the Sword Coast have dealt with them before. They must know something. 
 
@@ -42,7 +42,7 @@ For Act 3, players must pick one of the following act hooks if they are to join 
 
 2. After your performance during a mission in the Western Heartlands, High Harper [[Jaheria]] asked you to accompany her to the [[Council of Waterdeep]], considering you to be one of her most skilled agents. ==(Character is a Harper)==
 
-3. [[Onthar Frume]] has asked you to be one of his witnesses to his dealings in the [[Council of Waterdeep]] as you are a loyal and pious Order member. ==(Character is an Order of the Gauntlet Member)==
+3. [[Ontharr Frume]] has asked you to be one of his witnesses to his dealings in the [[Council of Waterdeep]] as you are a loyal and pious Order member. ==(Character is an Order of the Gauntlet Member)==
 
 4. You've been sent by your House to represent themselves in the [[Council of Waterdeep]] to ensure that your family knows what they must do to contribute to the war effort. ==(Character is nobility with a connection to the Lord's Alliance)==
 

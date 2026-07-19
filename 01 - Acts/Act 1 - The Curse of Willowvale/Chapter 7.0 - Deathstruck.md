@@ -11,7 +11,7 @@ Several seconds into eating/drinking the Prisoner's offering, the adventurer wil
 
 The Prisoner will reveal herself to be a changeling known as [[Ysra Deathstrike]], the hidden fifth member of the [[Herd of the Dragon]]'s inner circle. She will then execute the adventurer (or if the adventurer has the [[Essence of Zariel]] from [[Chapter 1.0 - The Woods]], extract the essence via magic first). She then tells the adventurer that their real friend 'made so many interesting noises in their last moments, I wonder what noises you'll make.'
 
-[[Larissa Bonham]] or [[Feldir]] will intervene along with Flaming Fist soldiers just as the player fails all of their death saves. [[Ysra Deathstrike]] laughs and runs off as she is disrupted, Both will attempt to cast Revivify on the dead party member but it will consume either [[Larissa Bonham]]'s only Diamond or [[Feldir]]'s Revivify token on his necklace.
+[[Larissa Bonham]] or [[Feldir Whitefyre]] will intervene along with Flaming Fist soldiers just as the player fails all of their death saves. [[Ysra Deathstrike]] laughs and runs off as she is disrupted, Both will attempt to cast Revivify on the dead party member but it will consume either [[Larissa Bonham]]'s only Diamond or [[Feldir Whitefyre]]'s Revivify token on his necklace.
 
 Regardless of the circumstances, Ysra will have revealed herself and will taunt the party into avenging their fallen friend. If the Prisoner was never saved, Ysra will instead kidnap [[Matreous Melwin]] (if alive) or [[Leosin Erlanthar]].
 

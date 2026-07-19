@@ -9,4 +9,4 @@ Flint is somewhat short for a Minotaur but that does not say much. He grew up in
 ____
 ### IN-GAME
 
-Flint is the proprietor of the [[Silver Sword]]. questgiver for the [[Il met by Moonlight]] side quest, and a witness to [[Demonic Vengeance]].
+Flint is the proprietor of the [[Silver Sword]]. questgiver for the [[Ill met by Moonlight]] side quest, and a witness to [[Demonic Vengeance]].

@@ -1,5 +1,7 @@
 ### TRIGGER
 
+This quest is given by [[Thrynn]] provided the party agreed to help [[Jamna Gleamsilver]] with the [[Heist of Goldmane Manor]].
+
 _____
 ### PART I - Introductions
 
@@ -11,7 +13,7 @@ When the adventurers order the house special at the [[Bent Helm]] for 1 CP, Karl
 
 *The liquid sloshes around in your cup in an unexpected manner. While Karl was pouring it, the drink seemed to have the consistency of any lager or ale, but in the cup it seems viscous and thick. It foams at the sides of the cup and your stomach turns just a little at the sight of it.*
 
-On a DC 10 Medicine or Nature check, they will discover that the drink is alcoholic. The aroma is that of the cherries found in Elturgard called [[Zariel's Dew]] known for its unpleasant smell but great taste. It is completely potable / drinkable. Alternatively, a character who is in the [[Order of the Gauntlet]] under [[Onthar Frume]] will recognise it immediately.
+On a DC 10 Medicine or Nature check, they will discover that the drink is alcoholic. The aroma is that of the cherries found in Elturgard called [[Zariel's Dew]] known for its unpleasant smell but great taste. It is completely potable / drinkable. Alternatively, a character who is in the [[Order of the Gauntlet]] under [[Ontharr Frume]] will recognise it immediately.
 
 *Moments later, the agent arrives. A black tabaxi wearing leathers and a thick dark blue cloak with the hood lowered takes a seat next to you and orders the same thing. He will then pop out a metal device in the shape of a small pipe, stick it into his cup and begin to sip. After chewing for a bit, the tabaxi turns to you and gives you a wry grin*.
 
@@ -36,6 +38,8 @@ There are 3 things to note. [[Thrynn]] will not offer any of this information an
 2. The evidence room is arcanely locked.
 3. There is an alarm spell which is placed on the compound at night, and the windows when closed make it impossible for magic to pass through them.
 
+If [[Traxigor]] was met in [[Berdusk]], he will show up here again in an identical looking bag quite drunk and out of it. He will awaken and recover 
+
 If [[Siddar Rockseeker]] is alive, he will arrive alongside [[Thrynn]] and greet the adventurers. He'll talk about how [[Gundren Rockseeker]] is still back in [[Shade Rest]] while he's back to his old haunts again. [[Thrynn]] will be blindsided but glad that the party has [[Siddar Rockseeker]]'s approval. This will let the players skip the [[Guard's Barracks (Docks)]] side objective.
 
 If [[Siddar Rockseeker]] is dead but [[Gundren Rockseeker]] was freed in [[Chapter 5.0 - Blood of the Wolf]], [[Thrynn]] will bring up how he heard about the events of [[Shade Rest]] and ask about what happened to [[Gundren Rockseeker]] who seems to have stopped keeping contact with the [[Zhentarim]]. On a DC 14 Insight check, players can learn he's asking for nefarious purposes.
@@ -43,7 +47,7 @@ If [[Siddar Rockseeker]] is dead but [[Gundren Rockseeker]] was freed in [[Chapt
 ____
 ### PART II - The Client
 
-Upon finishing the [[Guard's Barracks (Docks)]], the adventurers can head to the Dragonseye Docks Warehouses where they meet [[Renard Belrose]].
+Upon finishing the [[Guard's Barracks (Docks)]], the adventurers can head to the Dragonseye Docks Warehouses where they meet [[Renard 'Absinthe' Belrose]].
 
 *Rain falls as you approach the Warehouses on the far side of the Dragonseye Docks. A tall, well-dressed human man emerges from the inside as you get closer. He is wearing a dark three-piece suit, with a strange looking hat with a wide brim. The hat and the lengthy black trench coat he wears seems to reflect the rain off of his body, keeping him completely dry. In his right hand he appears to be leaning on a cane, the handle tipped with silver and the head carved in the shape of a wolf.*
 
@@ -53,7 +57,7 @@ RENARD: Thank you for coming (with a smile). I'm Renard Belrose. My... 'organisa
 
 RENARD: Let's go inside to escape the rain, shall we? There's someone else I'd like you to meet while you're here.
 
-Attempting to ask [[Renard Belrose]] about what organisation he belongs to will result in him asking for Client privilege. If pressed, he will simply say that he works for very powerful individuals in high places who would like this job done right and done well.
+Attempting to ask [[Renard 'Absinthe' Belrose]] about what organisation he belongs to will result in him asking for Client privilege. If pressed, he will simply say that he works for very powerful individuals in high places who would like this job done right and done well.
 
 *Renard flashes a handsome white smile and lifts up his head a bit. His golden eyes seem to glint in the light for a second and he turns on his heel. His well-polished black shoes click against the docks as his heel makes contact with the paved ground. The rain parts as he makes his way back inside the Warehouse, keeping the door open for the rest of you to come in.*
 
@@ -83,7 +87,7 @@ Grinky can either be persuaded or intimidated (DC of 10 for either) into giving 
 5. Portrait's Location: "I-I-I don't know alwight? But I assume it's with the Guildmastew's Quawtews which is on the second floor or in the basement where the wookies are twained."
 6. Supplys: "Supplies are sometimes delivewed to the base by widews on howseback or by cawts. All supplies are inspected by Lawis Dwot, he's our stablemaster."
 
-If the players fail three of their roles, Grinky will refuse to co-operate further and [[Renard Belrose]] will kill him with three Eldritch Blasts straight through the chest. He can then be made available to cast Speak with Dead to. Regardless, after questioning, [[Renard Belrose]] will tell the players what he knows about the job himself.
+If the players fail three of their roles, Grinky will refuse to co-operate further and [[Renard 'Absinthe' Belrose]] will kill him with three Eldritch Blasts straight through the chest. He can then be made available to cast Speak with Dead to. Regardless, after questioning, [[Renard 'Absinthe' Belrose]] will tell the players what he knows about the job himself.
 
 RENARD: Well that was certainly illuminating.
 
@@ -100,7 +104,7 @@ RENARD: It's likely that the Agile Hand has a buyer for the painting. Therefore 
 [![Map 6.1: Players' Map](https://5e.tools/img/adventure/KftGV/045-06-003.player-map.webp)](https://5e.tools/img/adventure/KftGV/045-06-003.player-map.webp "Map 6.1: Players' Map. Art credit: Mike Schley")
 RENARD: Grinky here was kind enough to provide me with a map with his notes. In case we all forget about his really detailed explanation.
 
-[[Renard Belrose]] will then clarify any questions about the job, but the purpose of the mission is simple. Retrieve the painting and return it to him here at the warehouse. If asked why he doesn't just retrieve it himself, he will say that he was never one for subtlety and he can't be seen or spotted being involved with this heist.
+[[Renard 'Absinthe' Belrose]] will then clarify any questions about the job, but the purpose of the mission is simple. Retrieve the painting and return it to him here at the warehouse. If asked why he doesn't just retrieve it himself, he will say that he was never one for subtlety and he can't be seen or spotted being involved with this heist.
 
 RENARD: In any case. Good luck. Last bit of advice. If Elix likes to frequent [[Phontyr's Unicorn]], he's probably going to flirt with Karyssa, one of the bartenders. She's got plenty of orbiters around her and he's likely one of them. They say they're attracted to the gravitational pull of her... assets.
 
@@ -335,7 +339,7 @@ A [bandit](https://5e.tools/bestiary.html#bandit_mm) stands guard outside the do
 Desk. If the characters search the desk at night, they find a leather-bound ledger in an unlocked drawer, along with a writing quill and a jar of ink. The ledger provides an account of stolen goods acquired by the Agile Hand, but [Constantori's Portrait](https://5e.tools/items.html#constantori's%20portrait_kftgv) is not among the items listed.
 
 #### G25: Shared Bedroom
-Guild members take turns resting here. The room contains two beds, two nightstands, and two trunks (each one packed with linens). Tucked beneath each bed is a copper chamber pot. A hearth in the south corner keeps the room warm.
+*Guild members take turns resting here. The room contains two beds, two nightstands, and two trunks (each one packed with linens). Tucked beneath each bed is a copper chamber pot. A hearth in the south corner keeps the room warm.*
 
 Sleeping Guards. Two [thugs](https://5e.tools/bestiary.html#thug_mm) sleep in the beds. They wake if disturbed and spend their first action scrambling for their weapons.
 
@@ -353,19 +357,25 @@ Leather Trunk. This trunk holds a spare, loaded [light crossbow](https://5e.tool
 Master Key. Guildmaster Dusk keeps a master key on a nightstand next to her bed, and she takes it with her when she leaves the room. The key unlocks all doors in the guildhouse complex.
 
 #### G27: Tower Peak
+*This tower chamber is lit by a pewter chandelier suspended from beams that support a conical roof. A cluttered writing desk and a padded chair are positioned opposite the descending staircase. A gold-framed painting of a beautiful, well-dressed man hangs in a shallow alcove near the top of the stairs.*
+
 This room is situated at the top of the tower and is off limits to everyone except Guildmaster Dusk, who comes here to reflect, doodle in her diary, and gaze upon her latest acquisition: [Constantori's Portrait](https://5e.tools/items.html#constantori's%20portrait_kftgv).
 
-This tower chamber is lit by a pewter chandelier suspended from beams that support a conical roof. A cluttered writing desk and a padded chair are positioned opposite the descending staircase. A gold-framed painting of a beautiful, well-dressed man hangs in a shallow alcove near the top of the stairs.
+Characters who search the guildmaster's cluttered desk find sketches and descriptions of deadly mechanical traps, including a rough sketch of the trap in this room (see "Trap" below). There is also a note that says the following.
 
-Characters who search the guildmaster's cluttered desk find sketches and descriptions of deadly mechanical traps, including a rough sketch of the trap in this room (see "Trap" below).
+	The Serpent's information was correct.
+	The painting will be in our possesion soon.
+	I still don't trust her compeltely, but she came through. 
+	Something about her demeanour is off-putting.
+	Thieves lies I can handle, but a bard's honeyed words I don't know.
 
 Constantori's Portrait. The painting that hangs in the alcove is [Constantori's Portrait](https://5e.tools/items.html#constantori's%20portrait_kftgv) (described at the end of the adventure). Guildmaster Dusk is attuned to the painting and has commanded it to defend itself against all creatures except her. As an action, a character can throw a sheet over the painting, making it unable to cast spells.
 
 The Cognoscenti Esoterica was wrong about one thing: Guildmaster Dusk has no intention of selling the painting. By learning its secrets, she hopes to become as notorious and wealthy as the late Daiyani Grysthorn, the crime lord who commissioned the painting in the first place.
 
-Trap. Canisters of poisonous gas are hidden in the wall behind the painting. Removing the painting from its hooks without first disabling the trap causes the gas to spew from tiny holes previously concealed by the painting. Each creature in the room when the gas is released must make a DC 14 Constitution saving throw, taking 36 (8d8) poison damage on a failed save, or half as much damage on a successful one.
+Trap. Canisters of poisonous gas are hidden in the wall behind the painting. Removing the painting from its hooks without first disabling the trap causes the gas to spew from tiny holes previously concealed by the painting. Each creature in the room when the gas is released must make a DC 15 Constitution saving throw, taking 36 (8d8) poison damage on a failed save, or half as much damage on a successful one. The poison will continue to spew every round unless the Painting is either replaced or the traps are disarmed.
 
-A character who searches the alcove for traps spots the holes behind the painting with a successful DC 12 Wisdom (Perception) check. This check is made with advantage if the character saw the trap's sketch in Dusk's diary. Once the trap is detected, a character can spend 1 minute trying to disable it, either by plugging the holes or by placing counterweights on the hooks as someone else carefully lifts the painting. The character trying to disable the trap must make a DC 25 Dexterity (Sleight of Hand) check, disabling the trap on a success and triggering the trap on a failure.
+A character who searches the alcove for traps spots the holes behind the painting with a successful DC 15 Wisdom (Perception) check. This check is made with advantage if the character saw the trap's sketch in Dusk's diary. Once the trap is detected, a character can spend 10 minutes trying to disable it, either by plugging the holes or by placing counterweights on the hooks as someone else carefully lifts the painting. The character trying to disable the trap must make a DC 25 Thieves Tools check, disabling the trap on a success and triggering the trap on a failure.
 
 #### G28: Cellar
 This room lies at the bottom of a wooden staircase that climbs 15 feet to [area G6](https://5e.tools/adventure.html#kftgv,6,g6%3a%20basement%20staircase,0). The cellar is unlit.
@@ -421,7 +431,7 @@ Secret Door. A secret door at the south end of the hallway is unlocked and can b
 #### G32: Eastern Maze
 Characters who have darkvision or a light source can see the following:
 
-Branches in the tunnel ahead suggest you're entering some sort of maze. You hear the sounds of heavy breathing coming from somewhere ahead.
+*Branches in the tunnel ahead suggest you're entering some sort of maze. You hear the sounds of heavy breathing coming from somewhere ahead.*
 
 Permanent [minor illusion](https://5e.tools/spells.html#minor%20illusion_phb) spells create the sounds of heavy breathing. These sounds originate in the two spaces marked T on [map 6.2](https://5e.tools/adventure.html#kftgv,6,map%206.2%3a%20dm's%20map,0). Any character who succeeds on a DC 10 Wisdom (Perception) check can track the sounds to their points of origin. A character who enters one of these squares steps on a pressure plate that sinks 1 inch into the floor and remains in that position for 1 minute before resetting itself. A character who searches that section of floor before stepping on it must make a DC 13 Wisdom (Perception) check. If the check is successful, the character spots the pressure plate and can avoid it. If the characters depress the two pressure plates here along with the one in G33, the north secret door in area G33 swings open.
 
@@ -476,13 +486,13 @@ ____
 
 RENARD: Welcome back. I assume the job went well?
 
-If asked about Grinky's fate, the man will simply say that nobody crosses his organisation and gets to walk away and nods towards the daggers hovering above Grinky. Grinky will plead for his life, but [[Renard Belrose]] cannot be persuaded into letting him go.
+If asked about Grinky's fate, the man will simply say that nobody crosses his organisation and gets to walk away and nods towards the daggers hovering above Grinky. Grinky will plead for his life, but [[Renard 'Absinthe' Belrose]] cannot be persuaded into letting him go.
 
 He will award the adventurers the 1,500 GP for completing the mission. If the players offer Elix's leather-bound ledger, Renard offers to buy it for an additional 500 GP. He will offer an additional 500 GP for the information decoded from Gwish's raven from G21. He will say the following:
 
 RENARD: Interesting. So one of Dusk's little birds has infiltrated our organisation. Thank you for the help. This has been... an enlightening exchange.
 
-Regardless, after all is said and done he will prepare himself to leave and execute Grinky with his daggers if he's still alive. They will then disappear into the shadows. On a DC 10 Arcana check, they will surmise that [[Renard Belrose]] is a Warlock. Asking him about this will result in him simply smiling and asking for privacy once more.
+Regardless, after all is said and done he will prepare himself to leave and execute Grinky with his daggers if he's still alive. They will then disappear into the shadows. On a DC 10 Arcana check, they will surmise that [[Renard 'Absinthe' Belrose]] is a Warlock. Asking him about this will result in him simply smiling and asking for privacy once more.
 
 RENARD: The rats get quite hungry here at the docks. Don't worry about him. His belongings are over there if you want to have a look, I certainly have no use for them.
 

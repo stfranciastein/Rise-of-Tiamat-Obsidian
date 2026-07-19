@@ -1,0 +1,1 @@
+[[Adventurers/Group B/Caradil Anduin/Renblades]], [[Waterdeep]], [[Berdusk]].

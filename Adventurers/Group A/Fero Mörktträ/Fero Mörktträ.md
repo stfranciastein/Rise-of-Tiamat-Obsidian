@@ -1,3 +1,4 @@
+**Tags:** #Player #Warlock #Elf #WoodElf #Tharizdun
 **Bio:** A male Wood-Elf Warlock (Great Old One).
 **Age:** 116
 **Status:** Dead. Killed by [[Mellara, the Terror of the Sword Coast]] in [[Chapter 8.0 - Herd of the Dragon]].
@@ -35,12 +36,3 @@ At [[Chapter 8.0 - Herd of the Dragon]]'s climax, [[Ysra Deathstrike]] will have
 [[Tharizdun]] hungers as he grows more and more sentient. He will give Fero a vision of an ancient temple beneath the Fields of the Dead which houses another one of the [[Essence of Zariel]]. In exchange for this, [[Tharizdun]] will give Fero the precise location of one of the Minor Lords who were responsible for the death of his parents. If he chooses to deny this, [[Tharizdun]] will simply be discontent. If the third [[Essence of Zariel]] is absorbed, Fero gains an Aura of Chains:
 
 `For one minute, you are surrounded by an Aura of Chains. Creatures of your choice within 10ft of the emanation must make a Dexterity saving throw. On a failed save, targets take 5 (2d10) Fire damage and are considered restrained. On a success, targets only take half damage and are not restrained.`
-
-****
-### ACT II: Alternate
-
-After Fero's death in [[Act 1 - The Curse of Willowvale]], [[Tharizdun]] resurrects his body with the express purpose of making it more powerful to act as his loyal puppet out in the world. Fero will leave behind his Amulet of Lathander to [[Thavion Brightfell]] in [[Shade Rest]], symbolising his departure from the journey he began in life.
-
-Should the party try to scry on him, they will be unable to do so as he is now wearing an Amulet of Mind Protection. In Baldur's Gate's [[Elfsong Tavern]], they will hear rumours of a pale-skinned elf adventurer in black and red robes with a pet Imp who travelled through town recently. According to the barkeep, Fero said he was on his way north to the Fields of the Dead.
-
-If the party is keen on finding him, Fero will be found in the Temple just as he finishes consuming an [[Essence of Zariel]]. He will then tell the party to leave or else. Should the party engage with him in combat, he will cast don his Cloak of Dimension Door and escape. 

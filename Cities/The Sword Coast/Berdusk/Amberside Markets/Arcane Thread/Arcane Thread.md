@@ -12,3 +12,4 @@ ____
 4. Circlet of Blasting for 3000 GP.
 5. 10 Potions of Healing 55 GP each.
 6. 3 Potions of Greater Healing 155 GP each.
+7. 

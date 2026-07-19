@@ -13,9 +13,9 @@ The Great Hunt is a week-long hunting event that Governor [[Tarbaw Nighthill]] l
 
 The first day of the Great Hunt is a parade celebrating the accomplishments of those who are participating. The adventurers will meet all of the participants of this year's Great Hunt. Notable figures that will arrive during this time are [[Cormyc Ravenshade]] & [[Torbar Dragonsbane]], [[Leosin Erlanthar]] & the [[Harpers]], [[Theodore Goldmane]] & the [[Lords' Alliance]]. Representatives from the [[Emerald Enclave]] and [[Order of the Gauntlet]] will also arrive, but their display is far less grand.
 
-*As you step outside of Green's Rest Inn, a bustling crowd blocks a clear view of the road outside. Men, women and everything in between gather at the side of the path as banners of different colours make their way past the town centre.*
+*As you step outside of Green's Rest Inn, a bustling crowd blocks a clear view of the road outside. Men, women and everything in between gather at the side of the path as banners of different colours make their way past the town centre.
 
-*The first thing you see are Blue banners with white trim, the poles *
+If [[Shade Rest]] was saved in [[Act 1 - The Curse of Willowvale]], both [[Cormil Bonham]] and [[Larissa Bonham]] will be present for the festival. [[Leosin Erlanthar]] will also be staying in the the Hunter's Inn, the same Inn & Tavern that the players have been given complimentary rooms in. This is an opportunity for players to get re-acquainted with each other and the NPCs from Act 1. Nothing of note happens on the first day aside from the arrival of the different factions, and the festival on the far side of town is still being set up.
 
 ****
 ### **1.2 The Second Day**

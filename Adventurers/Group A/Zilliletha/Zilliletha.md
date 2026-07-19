@@ -63,12 +63,12 @@ KATARZYNA: Zilesta wanted to be a Cleric of Ilmater. She wanted to 'help those i
 
 *She shakes her head and laughs to herself. The old woman wipes another tear down her cheek as she looks towards a group of young men and women watching your group in the distance.*
 
-KATARZYNA: But I was the fool in the end. You see them? They visit her grave more often than I, and I try to come every other day. I did not realise until the end that she had touched so many people with her kidness, that even if she did not become a hero like Jaheria.
+KATARZYNA: But I was the fool in the end. You see them? They visit her grave more often than I, and I try to come every other day. I did not realise until the end that she had touched so many people with her kindness, that even if she did not become a hero like Jaheria.
 
 #### A Choice Is Made
 During Zil's initiation, she will be tasked with finding the source of the murders of [[Demonic Vengeance]]. [[Xaria Trevisa]] will tell her that they suspect the source to be a powerful spellcaster or a devil. The Clerics under [[Xaria Trevisa]]'s directive have ascertained that there is necromancy involved with this case.
 
-At the end of the questline when [[The Entity]] is revealed to be a greater demon puppeteering bodies through possession, Xaria will be impressed regardless of how Zil decides to end the questline and make her a full talon. Back in the [[Temple of the Raven Queen (Baldur's Gate)]], the scene happens.
+At the end of the questline when [[The Entity (Slaughter Demon)]] is revealed to be a greater demon puppeteering bodies through possession, Xaria will be impressed regardless of how Zil decides to end the questline and make her a full talon. Back in the [[Temple of the Raven Queen (Baldur's Gate)]], the scene happens.
 
 *As you enter the Temple of the Raven Queen, you are brought by a Cleric towards the Ceremony Hall. The absence of the other Talons within alarms you for a brief moment. Then, you see her. Xaria Trevisa stands at the end of the hall, kneeling on the ground looking up at the stained glass window. The red light filtering through the panes makes her shadow look even larger than it should. As she stands up, Xaria's black armour glistens like obsidian in the light and her usually pale skin is basked in deep, dark, crimson.*
 

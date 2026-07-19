@@ -48,7 +48,7 @@ Every man, woman and anyone in between who was born in the 50 years since [[Thav
 	May the light we bring into the world through our faithful service drive back 
 	any and all invading hordes.
 	
-	This I swear, body and soul
+	This I swear, body and soul.
 
 _____
 ### ORGANISATIONS
@@ -68,7 +68,7 @@ To be one of the [[Hellriders]] is an honour as it continues the tradition of th
 Known as the defenders of the city, the [[Order of the Companion]] makes up a small but noticable minority of Elturel's guards. They are highly trained paladins numbered in the hundreds.
 
 #### Order of the Gauntlet
-There is a Chapter of the [[Order of the Gauntlet]] lead by [[Onthar Frume]] in Elturel at the [[Hall of the Triad]] in the North portion of the city. They are well-respected and revered by the locals. Currently, hundreds of Gauntlet members make their home in Elturel.
+There is a Chapter of the [[Order of the Gauntlet]] lead by [[Ontharr Frume]] in Elturel at the [[Hall of the Triad]] in the North portion of the city. They are well-respected and revered by the locals. Currently, hundreds of Gauntlet members make their home in Elturel.
 
 #### Zhentarim
 The [[Zhentarim]] have no formal outpost in Elturel, yet. However, they are trying to establish a presence here by ousting the Agile Hand. [[Thrynn]] is permanently stationed here under their orders, along with a two dozen operatives.
@@ -82,7 +82,7 @@ ____
 4. High Harvest Temple:
 5. Temple of the Morninglord:
 6. Everlight Theatre:
-7. [[Pair of Black Antlers]]: A tavern owned by [[Onthar Frume]]. Right next to it is the [[Hall of the Triad]], the home of the [[Order of the Gauntlet]].
+7. [[Pair of Black Antlers]]: A tavern owned by [[Ontharr Frume]]. Right next to it is the [[Hall of the Triad]], the home of the [[Order of the Gauntlet]].
 8. [[Bent Helm]]:
 9. [[Glowing Goblet]]: A winery owned by [[Lucien]]. 
 10. [[Black Gryphon]]: An inn run by
@@ -92,7 +92,11 @@ ____
 14. [[Hondakar's House]]: A house
 15. [[High Hall (Elturel)]]: The seat of the High Observer [[Thavius Kreeg]].
 16. [[Trade Master's Guild]]:
-17. [[Hell Rider's Hall]]:
+17. [[Hell Rider's Hall]]: 
 18. [[Ancient Temple]]:
-19. [[Radiant Thread]]: A clothing store that largely stocks clothes for Clerics. They specialise in robes and frocks. J
+19. [[Radiant Thread]]: A clothing store that largely stocks clothes for Clerics. They specialise in robes and frocks.
 20. [[Library of Ilmater]]: A charity-based book store in the northeast.
+21. [[Silver Fire Academy]]. ****
+22. [[Zariel's Arms]]: A blacksmith owned by tiefling named Javeski.
+
+10 x 10 
