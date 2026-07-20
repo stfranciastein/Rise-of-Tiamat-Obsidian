@@ -1,0 +1,1 @@
+An adventuring group consisting of [[Rhylrae]], [[Matreous Melwin]], [[Torbar Dragonsbane]] and [[Frulam Mondath]]. Famed for saving the town of Phandalin in 1475 DR, their exploits are still celebrated as of the time of the campaign.

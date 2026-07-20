@@ -1,0 +1,1 @@
+The Archduke of [[Avernus]]. Zariel was originally a solar of [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) who found herself descending from Celestia in order to aid the people of [[Elturel]]. Zariel is hailed as the hero who helped save their city from an invasion of Devils.

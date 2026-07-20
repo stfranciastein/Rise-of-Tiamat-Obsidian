@@ -13,7 +13,7 @@ Tessa will inform the players that [[Margaret Ravenshade]] is only concerned wit
 
 URUK: So yous lot are adventurers, yeah? What's the craziest thing you've ever seen?
 
-Uruk will try to have as much small talk with the party as possible. If prompted, he'll also share his stories about being a guardsman for the [[Ravenshade]] family and his time in the [[Upper City]]. Namely; he will discuss once having watched a Slayer be chased down by the [[Flaming Fist]] and [[Abdel Adrian]] being a [[Bhaalspawn]] himself. He will also tell players that he saw an otter the other day trying to sneak into the mansion but was promptly kicked out into the kerb. When Tessa returns, she will be with [[Margaret Ravenshade]].
+Uruk will try to have as much small talk with the party as possible. If prompted, he'll also share his stories about being a guardsman for [[House Ravenshade]] and his time in the [[Upper City]]. Namely; he will discuss once having watched a Slayer be chased down by the [[Flaming Fist]] and [[Abdel Adrian]] being a [[Bhaalspawn]] himself. He will also tell players that he saw an otter the other day trying to sneak into the mansion but was promptly kicked out into the kerb. When Tessa returns, she will be with [[Margaret Ravenshade]].
 
 *Uruk goes to ask you another question, but the sound of a door opening interrupts the conversation. As you turn, the manor doors are now wide open. Standing next to Tessa is a taller, human woman in her early 50s. Her tan skin stands in contrast to her greying black hair. Her clothes are expensive, but not ridiculously intricate. A fur mantle hangs off of one shoulder of her beautiful black and white dress. As her gaze meets yours, her brown eyes seem to pierce through your very soul.*
 
@@ -35,7 +35,7 @@ ____
 ##### D1. Courtyard
 *This L-shaped courtyard features a trimmed lawn and nicely manicured shrubbery. The yard is decorated with white marble benches and stone fountains, each in the form of a smiling nymph tipping a jug that spills water into a circular stone basin.*
 
-An [invisible](https://5e.tools/conditionsdiseases.html#invisible_phb) [imp](https://5e.tools/bestiary.html#imp_mm) is perched on the southeast fountain. If the characters look as though they intend to cause trouble, the imp observes them quietly until they enter the bathhouse, then flies to [[Vanthampur Villa]] in the [[Upper City ]] to alert [[Thurstwell Vanthampur]], the oldest of [[Duke Vanthampur]]'s sons. [[Thurstwell Vanthampur]] instructs the imp to return to its post but takes no further action, hoping that the characters dispose of his brother, [[Mortlock Vanthampur]].
+An [invisible](https://5e.tools/conditionsdiseases.html#invisible_phb) [imp](https://5e.tools/bestiary.html#imp_mm) is perched on the southeast fountain. If the characters look as though they intend to cause trouble, the imp observes them quietly until they enter the bathhouse, then flies to [[Vanthampur Villa]] in the [[Upper City ]] to alert [[Thurstwell Vanthampur]], the oldest of [[Thalamra Vanthampur]]'s sons. [[Thurstwell Vanthampur]] instructs the imp to return to its post but takes no further action, hoping that the characters dispose of his brother, [[Mortlock Vanthampur]].
 
 ##### D2. Baths
 *The walls of this twenty-foot-high pillared chamber are adorned with frescoes of bathing royalty. Natural light streams through stained-glass windows, creating colourful patterns on the tiles of polished blue marble that cover the floor. Three shallow, sunken pools contain scintillating perfume-scented water. White marble benches bearing stacks of dry towels are situated near the pools, each of which comes equipped with a pair of brass faucets.*
@@ -47,7 +47,7 @@ From dawn to midnight, characters can expect to find 1d6 human [commoners](https
 ##### D3. South Massage Room
 *This room contains a massage table draped in clean towels. Natural light enters through a stained-glass window set into the south wall.*
 
-During the hours in which the bathhouse is open, an androgynous human masseuse (neutral good [commoner](https://5e.tools/bestiary.html#commoner_mm)) named Jabaz works here. Jabaz knows that the bathhouse is owned by [[Duke Vanthampur]] and run by her brutish son, [[Mortlock Vanthampur]].
+During the hours in which the bathhouse is open, an androgynous human masseuse (neutral good [commoner](https://5e.tools/bestiary.html#commoner_mm)) named Jabaz works here. Jabaz knows that the bathhouse is owned by Duke [[Thalamra Vanthampur]] and run by her brutish son, [[Mortlock Vanthampur]].
 
 [[Mortlock Vanthampur]] has given Jabaz strict orders not to hang around the bathhouse after hours. Jabaz suspects that [[Mortlock Vanthampur]] is running some sort of shady business on the side, and that he's using the establishment as a front to conceal his dark dealings without the duke's knowledge. Jabaz knows the location of the secret door in area D4 but won't volunteer that information, fearing [[Mortlock Vanthampur]]'s retaliation. Jabaz doesn't know what lies beyond the secret door.
 
@@ -65,7 +65,7 @@ Upon killing the Zhent of Bane, the following note can be found on their person.
 
 ##### D5. Welcome to the Dungeon
 
-[[Duke Vanthampur]] became aware of this ancient dungeon while she was managing the city's water utilities and sewer system. She built the bathhouse to hide it.
+Duke [[Thalamra Vanthampur]] became aware of this ancient dungeon while she was managing the city's water utilities and sewer system. She built the bathhouse to hide it.
 
 The chamber at the bottom of the staircase is empty, unlit, and flooded with foul-smelling water to a depth of 2 feet (see "Dungeon Features" below for more information).
 

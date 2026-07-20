@@ -1,1 +1,0 @@
-An adventuring group consisting of [[Rhylrae]], [[Matreous Melwin]], [[Torbar Dragonsbane]] and [[Frulam Mondath]].

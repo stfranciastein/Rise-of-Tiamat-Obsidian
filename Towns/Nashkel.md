@@ -4,7 +4,7 @@ ____
 ### IN-GAME
 
 #### Impyerno Lima
-[[Impyerno Lima]] led [[Venomfang]] to Nashkel where the Green Dragon made the horde his new home. The half-dragon [[Harandiir]] and the Dragonborn [[Factions/Cult of the Dragon/Black Dragon/Dragonclaws/Zeraxes|Zeraxes]] In [[Act 2 - Hoard of the Dragon Queen]], they learned that [[Wyrmspeaker Rezmir]] had killed [[Venomfang]] and reclaimed the horde but thanked them for their help.
+[[Impyerno Lima]] led [[Venomfang]] to Nashkel where the Green Dragon made the horde his new home. The half-dragon [[Harandiir]] and the Dragonborn [[Zeraxes|Zeraxes]] In [[Act 2 - Hoard of the Dragon Queen]], they learned that [[Wyrmspeaker Rezmir]] had killed [[Venomfang]] and reclaimed the horde but thanked them for their help.
 
 #### The Bush Whackers
 [[The Bush Whackers]] were not given the location of the hoard and thus did not visit [[Nashkel]]. 

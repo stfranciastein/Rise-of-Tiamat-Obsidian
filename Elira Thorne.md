@@ -1,1 +1,0 @@
-**Tags:** #NPC #Commoner #Tiefling #Ilmater

@@ -1,0 +1,1 @@
+**Tags:** #NPC #Human #Paladin #LawfulGood #Hellriders 
