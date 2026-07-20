@@ -1,0 +1,3 @@
+**Tags:** #NPC #Druid #Dragonborn #LawfulGood 
+
+Myualxeanshtik Zenzys is a Dragonborn druid living in [[Lerwickchester]] with her husband [[Kancinshtuuk Havyre]]. In the past few days, she claims that the land has been drained of its vitality, meaning their deal with [[Lythe]] can no longer continue, especially with the [[Cult of the Dragon]] on the horizon. In truth, the town of [[Lerwickchester]] is suffering from [[Thaddak Ice-Veins]]'s magic.
