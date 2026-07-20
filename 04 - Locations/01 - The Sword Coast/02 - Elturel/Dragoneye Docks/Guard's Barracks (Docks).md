@@ -1,0 +1,3 @@
+**Tags:** #Elturel #DragoneyeDocks #OtherLocations 
+
+Located in the Dragonseye Docks, the Guard's Barracks serves as the base of operations for the [[Order of the Companion]] in the [[Dragoneye Docks]]

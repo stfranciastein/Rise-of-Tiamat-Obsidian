@@ -1,4 +1,5 @@
 **Tags:** #BaldursGate #OuterCity #Shops
+
 - A shop run by a dwarf named Entharl Danthelon. Entharl is a blonde, beardless dwarf that stands at about 4 and a half feet tall. This is where the quest [[Exit bear, stage right]] can begin.
 - Danthelon will offer the following items for sale:
 

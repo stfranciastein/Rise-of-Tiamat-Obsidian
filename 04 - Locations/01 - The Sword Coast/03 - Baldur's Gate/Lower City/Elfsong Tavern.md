@@ -2,7 +2,7 @@
 
 ![[Elfsong Tavern-1784476305874.webp]]
 
-- A ghost that constantly plays music is where the tavern gets its namesake. It normally only ever plays in Common, but when the adventurers stay there for the first time it will sing the following song:
+- A ghost that constantly plays music is where the tavern gets its namesake. It normally only ever plays in Common. People are not sure who it's about but people assume it's about a lover she lost at sea. When the adventurers stay there for the first time it will sing the following song:
 
 	*O sing a song of Elturel*
 	_Of water, woods, and hill_

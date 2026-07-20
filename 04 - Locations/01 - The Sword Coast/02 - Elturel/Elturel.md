@@ -7,6 +7,8 @@ Elturel is a city-state lying on the River Chionthar in the Western Heartlands. 
 
 Elturel has a second sun flying high above the city known as the Companion. It is said by the commoners that [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) blessed the city with it after [[Thavius Kreeg]] called out to the heavens. The Companion appeared soon, and the Vampire Lord and his army of the dead from the city.
 
+There are three districts in Elturel, the [[Dragoneye Docks]], [[Westerly Wall]] and the [[High District]].
+
 ____
 ### FAITH
 
@@ -78,25 +80,19 @@ ____
 
 1. Torm's Reach: A cozy inn
 2. Torm's Blade: A companion inn to
-3. Hell's Shieldhall Temple:
-4. High Harvest Temple:
-5. Temple of the Morninglord:
-6. Everlight Theatre:
+3. Helm's Shieldhall:
+4. High Harvest Hall:
+5. Morninglord's Radiance:
+6. [[Everlight Theatre]].
 7. [[Pair of Black Antlers]]: A tavern owned by [[Ontharr Frume]]. Right next to it is the [[Hall of the Triad]], the home of the [[Order of the Gauntlet]].
 8. [[Bent Helm]]:
 9. [[Glowing Goblet]]: A winery owned by [[Lucien]]. 
-10. [[Black Gryphon]]: An inn run by
-11. [[Symbril's House]]: A house owned by that doubles as a hotel for weary travellers.
-12. [[Oar and Wagon]]: 
-13. [[Phontyr's Unicorn]]:
-14. [[Hondakar's House]]: A house
-15. [[High Hall (Elturel)]]: The seat of the High Observer [[Thavius Kreeg]].
-16. [[Trade Master's Guild]]:
-17. [[Hell Rider's Hall]]: 
-18. [[Ancient Temple]]:
-19. [[Radiant Thread]]: A clothing store that largely stocks clothes for Clerics. They specialise in robes and frocks.
-20. [[Library of Ilmater]]: A charity-based book store in the northeast.
-21. [[Silver Fire Academy]]. ****
-22. [[Zariel's Arms]]: A blacksmith owned by tiefling named Javeski.
-
-10 x 10 
+10. [[Black Gryphon]]: A
+11. [[Phontyr's Unicorn]]:
+12. [[Observer's Watch]]: The seat of the High Observer [[Thavius Kreeg]].
+13. [[Hellrider's Hall]]: 
+14. [[Ancient Temple]]:
+15. [[Radiant Thread]]: A clothing store that largely stocks clothes for Clerics. They specialise in robes and frocks.
+16. [[Library of Ilmater]]: A charity-based book store in the northeast.
+17. [[Silver Fire Academy]]. ****
+18. [[Zariel's Arms]]: A blacksmith owned by tiefling named Javeski.

@@ -33,7 +33,7 @@ CALDUS: Wait just a... argh. By the light of the Companion, this woman.
 
 *A man walks out the door, and you immediately recognise him. His greying mutton chops and slicked back hair is a face you've all become too familiar with. From your days as a little boy running around the city to the hours upon hours you spent training in combat. Ser Caldus has seen better days, but he looks particularly frustrated.*
 
-[[Caldus Merevain]] will explain that the woman is simply looking for [[Ontharr Frume]] but the man and a handful of Order members are outside in the fields with [[Ulder Ravengard]] on some important mission regarding a local Cult. The Paladin will tell him that his report to [[Ontharr Frume]] can wait. He will first need to attend the ceremony in [[The Gardens]] district as [[Mira Fenwillow]] is needed elsewhere and the Dawnpriests are otherwise pre-occupied with other duties.
+[[Caldus Merevain]] will explain that the woman is simply looking for [[Ontharr Frume]] but the man and a handful of Order members are outside in the fields with [[Ulder Ravengard]] on some important mission regarding a local Cult. The Paladin will tell him that his report to [[Ontharr Frume]] can wait. He will first need to attend the ceremony in [[High District]] district as [[Mira Fenwillow]] is needed elsewhere and the Dawnpriests are otherwise pre-occupied with other duties.
 
 CALDUS: Their Cleric had a bad case of the tummy aches. The High Observer himself asked if any of us could do it. Mira needs to be looked at, and you're the only other one Onthar would trust to represent the Order. Don't give me that look eh? There will be... far less dragons here compared to where he sent you last. Hopefully.
 

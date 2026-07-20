@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab3b7a87d4c4cad",
+        "id": "bea27b586ff154dc",
         "type": "tabs",
         "children": [
           {
-            "id": "ba846d6a97b397d6",
+            "id": "0d219e4d261c732e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08 - Beastiary/05 - Dragons/Nerkurik.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nerkurik"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 276.5
   },
   "right": {
     "id": "44379c75f1acca37",
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Acts/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Rise of Tiamat - Character Hooks.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2.0 - Tale of Two Cities"
+              "title": "Outgoing links from Rise of Tiamat - Character Hooks"
             }
           },
           {
@@ -189,55 +193,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba846d6a97b397d6",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 18.md",
-    "02 - Adventurers/Group B/Aramir Void-Blade/Aramir Void-Blade.md",
-    "06 - Houses & Clans/01 - Noble Houses/House Shadowblade/Contracts with Lucien.md",
-    "06 - Houses & Clans/01 - Noble Houses/House Shadowblade/Roisin Ravenshade.md",
-    "06 - Houses & Clans/01 - Noble Houses/House Shadowblade/Lucien.md",
-    "Bhaalspawn.md",
-    "08 - Beastiary",
-    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Abdel Adrian.md",
-    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Ardryn Deagle.md",
-    "05 - Organisations/01 - Major Allied Factions/03 - Lords' Alliance/Lord's Alliance.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Aidan.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Britha Torin.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Gundren Rockseeker.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Shade Rest.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Tamae Tideon.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Temple of Chauntea (Shade Rest).md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Siddar Rockseeker.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Marianne.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Larissa Bonham.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Janys.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Gnorma.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Friendly Arms Tavern.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Darine Torin.md",
-    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Cormil Bonham.md",
-    "04 - Locations/00 - Minor Locations/Towns/Greenest/Greenest.md",
-    "04 - Locations/00 - Minor Locations/Towns/Dragon's Rest/Dragon's Rest.md",
-    "04 - Locations/00 - Minor Locations/Towns/Beregost/Red Sheaf Inn.md",
-    "03 - Persons of Note/00 - Misc NPCs/07 - Other",
-    "04 - Locations/00 - Minor Locations/Towns/Beregost/Shops",
+    "08 - Beastiary/05 - Dragons/Venomfang.md",
+    "08 - Beastiary/05 - Dragons/Nerkurik.md",
+    "08 - Beastiary/Untitled 1.md",
+    "08 - Beastiary/Untitled.md",
+    "08 - Beastiary/14 - Undead",
+    "08 - Beastiary/13 - Plants",
+    "08 - Beastiary/12 - Oozes",
+    "08 - Beastiary/11 - Monstrosities",
+    "08 - Beastiary/10 - Humanoids",
+    "08 - Beastiary/09 - Giants",
+    "08 - Beastiary/08 - Fiends",
+    "08 - Beastiary/07 - Fey",
+    "08 - Beastiary/06 - Elementals",
+    "08 - Beastiary/04 - Constructs",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Rise of Tiamat - Character Hooks.md",
+    "02 - Adventurers/Group B/Caradil Anduin/Caradil Anduin.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Demonic Vengeance.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "02 - Adventurers/Group A/Yan Lawntill/Yan 'Keyreeonis' Lawntill.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Outer City.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Rivington.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Little Calimshan.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Sharess's Caress.md",
+    "00 - Images/Little Calimshan-1784586404253.webp",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Wyrm's Rock.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Seatower of Balduran.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Whitkeep Hostel.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Temple of the Open Hand.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Ironspine Keep.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Danthelon's Dancing Axe.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Church of Last Hope.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Black Saddle.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Vanthampur Villa.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Temple of the Raven Queen.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
+    "00 - Images/Observer's Keep-1784580746273.webp",
     "Images/Leosin Erlanthar-1784563874601.webp",
-    "Images/Leosin Erlanthar-1784563800722.webp",
-    "06 - Houses & Clans/01 - Noble Houses/House Neverember/Untitled",
-    "06 - Houses & Clans/01 - Noble Houses/House Neverember",
     "Images/Katarzyna-1784558092857.webp",
     "Images/Renard 'Absinthe' Belrose-1784556748147.webp",
-    "Images",
-    "05 - Organisations/05 - Courts of the Feywild",
-    "05 - Organisations/05 - Courts of the Feywild/Summer Court",
-    "05 - Organisations/06 - Guards & Watchmen/02 - Elturel/Hellriders",
-    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Images/Leosin Erlanthar-1784563800722.webp",
     "00 - Images/Impyerno Lima-1784490606737.webp",
     "00 - Images/The Bush Whackers-1784489832929.webp",
     "00 - Images/Grace-1784488921933.webp",
-    "00 - Images/Glass-1784487832690.webp",
-    "00 - Images/Cacafonix-1784487663757.webp",
-    "00 - Images/Baldur's Gate-1784480935453.webp"
+    "00 - Images/Glass-1784487832690.webp"
   ]
 }

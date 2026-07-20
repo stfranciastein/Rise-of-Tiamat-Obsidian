@@ -7,3 +7,5 @@ A tavern in the [[Lower City]] of [[Baldur's Gate]] located in the Heapside dist
 - The barkeep of the Blushing Mermaid is a human man named Bosun Gannet. He's about 5ft 8, mid-40s and has a receeding hairline. (Cockney accent).
 
 - Captain Grisly is the owner of the Blushing Mermaid, a human female in her mid 30s. She has dark skin, curly hair and wears an eyepatch over one of her brown eyes. (Cockney accent).
+
+- Most of the patrons of the Blushing Mermaid are grizzled old sea dogs. The [[Guild (Baldur's Gate)]] often use the Mermaid as a meeting spot.
