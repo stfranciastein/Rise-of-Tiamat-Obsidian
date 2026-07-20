@@ -1,6 +1,6 @@
-**Bio:** A male Human Wizard of [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir).
-**Age**: 80
-**Status:** Alive
+**Tags:** #NPC #Wizard #Human #LawfulNeutral #Candlekeep
+**Accent:** American, Old Man (Very Slow).
+
 ____
 ### BACKSTORY
 

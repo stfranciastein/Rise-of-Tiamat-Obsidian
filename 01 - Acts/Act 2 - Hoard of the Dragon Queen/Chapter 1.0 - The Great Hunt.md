@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Greenest
+
+____
 ### **1.1 Introduction**
 
 An entire month has passed since the events of [[Chapter 8.0 - Herd of the Dragon]]. The reason for the party being here will depend on how the final fight with [[Mellara, the Terror of the Sword Coast]] went.

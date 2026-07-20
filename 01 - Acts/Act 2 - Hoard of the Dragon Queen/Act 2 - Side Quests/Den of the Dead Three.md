@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate #LordsAlliance #CultOfTheDeadthree
+
+____
 ### TRIGGER
 
 This quest is only given by [[Margaret Ravenshade]] from [[Raven's Arbor]]. The party can either visit [[Raven's Arbor]] of their own volition or they can be directed there after an encounter with Bhaal Cultists at night in the [[Lower City]].

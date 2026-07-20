@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate #Candlekeep 
+
+____
 ### TRIGGER
 
 This quest is given by [[Traxigor]] in [[Baldur's Gate]]. [[Glass]] will inform the players on their second day in the Gate that [[Sylvira Savikas]] informed him a 'friend' of hers is in the city who can help him enchant the caravan with the sending station. The quest begins upon meeting [[Traxigor]] in the [[Blushing Mermaid]].

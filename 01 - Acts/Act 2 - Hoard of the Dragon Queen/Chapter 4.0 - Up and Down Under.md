@@ -1,3 +1,7 @@
+**Tags:** #Act2 #Underdark #Feywild
+
+____
+
 After concluding the events of [[Baldur's Gate]], the party learns that the [[Cult of the Dragon]] is using the Underdark in order to smuggle their goods north of the Sword Coast and bypass the High Moor. However, they also learn that [[Wyrmspeaker Rezmir]] is still with her forces and have been lighting up the Trade Way, thus making a direct confrontation impossible.
 
 [[Ackyn Selebon]] will advise for the party to make their way through the Fields of the Dead instead, as hugging the Sword Coast will eventually make them run into the Troll Hills and make progressing via the [[Sylvira-Van]] difficult. There is no 'choice' to be made here unless the adventurers wish to see their end, they will have to avoid the [[Cult of the Dragon]]'s path if they do not wish to provoke a direct confrontation.

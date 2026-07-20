@@ -9,7 +9,7 @@
 
 One night, the village was attacked without warning. Ryn tried to fight back, but the flames overwhelmed everything. When he woke, his left arm and leg were gone, taken by the fire and the faceless attackers who left only ruins behind. A wandering monk by the name of Master [[Kaelor Shadow-Strike]] found him in the ashes and saved his life. 
 
-The monks at the [[Monestary of the Moonmaiden]] forged new metal limbs to replace what had been lost. Ryn then spent his recovery in that hidden monastery, a place dedicated to silence, discipline, and purpose.  Ryn trained with unshakable dedication, rising faster than anyone expected. Master [[Kaelor Shadow-Strike]] saw incredible potential in him and often chose him to demonstrate advanced techniques. To Ryn, this was gratitude and hard work. To [[Tovan]], a senior student who had spent years trying to earn [[Kaelor Shadow-Strike]]’s approval, it was an insult. 
+The monks at the [[Monastary of the Moonmaiden]] forged new metal limbs to replace what had been lost. Ryn then spent his recovery in that hidden monastery, a place dedicated to silence, discipline, and purpose.  Ryn trained with unshakable dedication, rising faster than anyone expected. Master [[Kaelor Shadow-Strike]] saw incredible potential in him and often chose him to demonstrate advanced techniques. To Ryn, this was gratitude and hard work. To [[Tovan]], a senior student who had spent years trying to earn [[Kaelor Shadow-Strike]]’s approval, it was an insult. 
 
 [[Tovan]]’s resentment grew into open hostility. He pushed too hard during sparring, glared from across the training hall, and muttered that a Tiefling outsider didn’t belong in the order. Ryn tried to ignore him, but the tension only grew. 
 

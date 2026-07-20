@@ -1,7 +1,7 @@
 **D&D Beyond Link:*** N/A
 **Tags:** #NPC #Djinn #LawfulGood 
 **Status:** Alive
-**Accent:** Foreign Adult (Deep)
+**Accent:** Foreign, Deep.
 
 ____
 

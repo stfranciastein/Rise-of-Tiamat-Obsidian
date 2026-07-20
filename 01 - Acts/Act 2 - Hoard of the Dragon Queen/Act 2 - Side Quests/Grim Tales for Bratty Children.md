@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Berdusk #OrderOfTheGauntlet #EmeraldEnclave 
+
+____
 ### TRIGGER
 
 *The front cover of this book is worn and soiled. Opening it reveals quite the opposite, however, as each page contained within is pristine and well-preserved.*

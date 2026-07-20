@@ -1,3 +1,6 @@
+**Tags:** #Act1  
+
+____
 ### **1.1 Introduction**
 
 The adventure begins offscreen, in the town of [[Willowvale]]. The intent is to place the characters immediately into a practical adventure rather than a roleplay-heavy session as a start. As the story begins, read the following text:

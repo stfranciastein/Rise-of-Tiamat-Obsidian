@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate #EmeraldEnclave 
+
+____
 ### TRIGGER
 
 This quest is triggered upon inquiring about Entharl Danthelon's missing shipments or by looking at the bounty board in the [[Elfsong Tavern]] or the [[Blushing Mermaid]]. Speaking to [[Lorgan Brandis]] or [[Sister Éabha]] will also lead to both directing the party to Entharl Danthelon.

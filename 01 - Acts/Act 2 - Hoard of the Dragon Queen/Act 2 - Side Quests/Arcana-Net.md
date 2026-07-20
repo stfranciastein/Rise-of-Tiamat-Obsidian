@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate #FlamingFist 
+
+____
 ### TRIGGER
 
 Entering [[Whitkeep Hostel]] in [[Baldur's Gate]] will trigger this quest.
@@ -40,12 +43,10 @@ ____
 
 ### PART III - Possible Endings
 ### Good Ending
-If the PCs help Prole and Ardryn acquire the blueprints 5x Mirror, Steel(5gp each) and 100 Gold worth of Unrefined Ioun Stones, they promise to reward the PCs four "Arcana-net" mirrors which among other things, allow the players to communicate up to 2 miles apart from each other.
-
+If the PCs help [[Pernilla 'Prole' Cabrenock]] and [[Ardryn Deagle]] acquire the blueprints 5x Mirror, Steel(5gp each) and 100 Gold worth of Unrefined Ioun Stones, they promise to reward the PCs four "Arcana-net" mirrors which among other things, allow the players to communicate up to 2 miles apart from each other.
 ### Bad Ending
-The mage that is now in charge of the fortress on Wrym's Rock, Gardak Horn [NE M Shield Dwarf |mage|], is interested in learning what they might be working on. If he finds out what they are working on he offers the PCs 2x health potions and 100gp if they can steal a working prototype of the device. He wants it for himself so that he can sell it as a premium product to the Patriarchs in the Upper City. [reputation increase w/ anyone in magic guild].
+The mage that is now in charge of the fortress on Wrym's Rock, [[Gardak Brighthorn]], is interested in learning what they might be working on. If he finds out what they are working on he offers the PCs 2x health potions and 100gp if they can steal a working prototype of the device. He wants it for himself so that he can sell it as a premium product to the Patriarchs in the Upper City.
 
-**The Flaming Fist** - If you report this to any flaming soldier that isn't at Wrym's Rock they will bring you to their unit captain. The captain seeing this as a prime opportunity for an easy promotion offers the PCs 50gp and 2x Silvered Javelin's that he confiscated from some traders. The Flaming Fist sees these as a threat to security and moves in to shut them down. Prole and Ardryn can either work for The Flaming Fist and their Patriars handlers, whom they loath, or hand over all schematics and devices to The Flaming Fist. [reputation increase w/ flaming fist and Patriars]
-
+**The Flaming Fist** - If you report this to any flaming soldier that isn't at [[Wrym's Rock]] they will bring you to their unit captain. The captain seeing this as a prime opportunity for an easy promotion offers the PCs 50gp and 2x Silvered Javelin's that he confiscated from some traders. The Flaming Fist sees these as a threat to security and moves in to shut them down. Prole and Ardryn can either work for The Flaming Fist and their Patriars handlers, whom they loath, or hand over all schematics and devices to The Flaming Fist.
 ### Neutral Ending
-**The Guild** - If the Guild finds out about his project they will provide you with all necessary supplies and pay you 150gp to ensure he finishes it. If you can find and copy the gnomes schematics on his desk at his workshop they will pay you an additional 100gp. [reputation increase w/ the guild, thiefs and such respect you]
+**The Guild** - If the Guild finds out about his project they will provide you with all necessary supplies and pay you 150gp to ensure he finishes it. If you can find and copy the gnomes schematics on his desk at his workshop they will pay you an additional 100gp.

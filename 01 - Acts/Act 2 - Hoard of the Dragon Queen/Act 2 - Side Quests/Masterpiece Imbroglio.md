@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Elturel #Zhentarim
+
+____
 ### TRIGGER
 
 This quest is given by [[Thrynn]] provided the party agreed to help [[Jamna Gleamsilver]] with the [[Heist of Goldmane Manor]].

@@ -1,7 +1,7 @@
 **D&D Beyond Link:*** https://www.dndbeyond.com/characters/158263898
 **Tags:** #NPC #Artificer #Kobold #Bahamut #NeutralGood
 **Status:** Alive
-**Accent:** Koboldian (sounds like that one Argonian from ESO).
+**Accent:** American, Koboldian (sounds like that one Argonian from ESO).
 
 ____
 <img src="Glass-1784487832690.webp" alt="Glass" width="300" style="float:left; margin: 0 16px 12px 0;">

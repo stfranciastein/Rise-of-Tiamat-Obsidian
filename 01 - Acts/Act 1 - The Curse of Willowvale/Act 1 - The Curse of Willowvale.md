@@ -1,3 +1,6 @@
+**Tags:** #Act1 
+____
+
 This first act takes the players to level 5. The story begins with a blight affecting the town of [[Willowvale]]. The local wizard [[Feldir Whitefyre]] tasks the party with travelling to the library-fortress of [[Candlekeep]] to meet with the wizard [[Matreous Melwin]] and uncover the source of the curse. After a short but troublesome journey, they find themselves in [[Candlekeep]]. They soon realise, however, that their mission is not as simple as they were initially lead to believe. Matreous is missing and has been for days after being unknowingly whisked away into a book known as [[The Joy of Extradimensional Spaces (Book)]], and they must rescue him if they want answers. 
 
 Throughout this act, the party clashes with the [[Herd of the Dragon]], starting in the town of [[Shade Rest]]. The Herd is a small army led by the goliath barbarian [[Mellara, the Terror of the Sword Coast]]. Her generals include [[Batuu Wolf-Blood]] (Half-Orc Ranger), [[Thaddak Ice-Veins]] (Bugbear Shadow-Druid), [[Kevdor Redflame]] (Hobgoblin Warlock), and [[Ysra Deathstrike]] (Changeling Wizard). 

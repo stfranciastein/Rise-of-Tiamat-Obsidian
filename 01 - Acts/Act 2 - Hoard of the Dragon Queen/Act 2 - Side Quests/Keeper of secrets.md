@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Elturel #Vecna
+
+____
 ### TRIGGER
 
 Either [[Thuran Yale]] or [[Azbara Jos]] will tell players that they believe there is a clutch of Necromancers plotting something beneath [[Elturel]]. They will tell the adventurers to head to the [[Grand Cemetary]] later that night when the Necromancers plan on meeting. This is not a tip to be taken lightly, and the players will likely at least check if this is true.

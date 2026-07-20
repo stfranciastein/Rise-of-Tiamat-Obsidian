@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Berdusk #Renblades
+
+____
 ### TRIGGER
 
 This quest is given by [[Thelvin Kaervath]] in [[Berdusk]]. He will be found either in the [[Patriarch's Rest]] or the [[Flourished Flagon]] in [[Berdusk]]. If the first part of this quest is not completed, he will complete it himself and part 2 continues in [[Baldur's Gate]].

@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Berdusk #Elturel 
+
+____
 ### **2.1 - Berdusk, the City of Pariahs
 
 After the events of [[Chapter 1.0 - The Great Hunt]], the characters emerge from the Dragon Hatchery with little direction. If they should choose, they may be able to catch up to the runaway Cultist. Otherwise, they exit the back entrance safely.

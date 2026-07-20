@@ -1,7 +1,7 @@
 **D&D Beyond Link:*** https://www.dndbeyond.com/monsters/6345589-grace-wildflower
 **Tags:** #NPC #Sorcerer #HalfElf #Eladrin #ChaoticGood 
 **Status:** Alive
-**Accent:** American Child
+**Accent:** American, Child
 
 ____
 

@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Elturel #EmeraldEnclave #CultOfTheDragon
+
+____
 ### TRIGGER
 
 This quest is triggered upon inquiring about a Giant in the vicinity of [[Elturel]] or hearing about it through Flint after the completion of [[Ill met by Moonlight]].

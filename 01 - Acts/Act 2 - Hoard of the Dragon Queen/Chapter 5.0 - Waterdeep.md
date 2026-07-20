@@ -1,3 +1,7 @@
+**Tags:** #Act2 #Waterdeep
+
+____
+
 As a result of the climax of [[Chapter 4.0 - Up and Down Under]], the characters can either be separated from the [[Cult of the Dragon]] caravan or remain with them. Thus, one of the following two scenarios can occur.
 
 ****

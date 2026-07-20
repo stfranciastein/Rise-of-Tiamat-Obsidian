@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate 
+
+____
 ### 3.1 - Not-Quite-There
 
 #### Part One: The Briefing

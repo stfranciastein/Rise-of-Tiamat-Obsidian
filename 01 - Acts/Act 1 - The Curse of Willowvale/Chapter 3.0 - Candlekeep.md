@@ -1,3 +1,6 @@
+**Tags:** #Act1 #Candlekeep 
+
+____
 ### **3.1 Journey to Candlekeep**
 
 The journey to Candlekeep can either be initiated either before or after [[Chapter 5.0 - Blood of the Wolf]]. 

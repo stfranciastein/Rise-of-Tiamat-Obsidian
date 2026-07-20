@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Berdusk #Elturel #BaldursGate #OrderOfTheGauntlet #TalonsOfTheRavenQueen #Harpers
+
+____
 ### TRIGGER
 
 This quest 'begins' after players visit their second shop in [[Berdusk]]. If no shops have been visited, they will skip the encounter with the creature and instead find out that a gruesome murder has happened again.

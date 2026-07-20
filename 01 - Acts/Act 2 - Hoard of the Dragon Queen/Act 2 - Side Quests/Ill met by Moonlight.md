@@ -1,3 +1,6 @@
+**Tags:** #Act2 #Berdusk #Shar
+
+____
 ### TRIGGER
 
 This quest is given by Flint at the [[Silver Sword]]. It can also be 'accepted' by the players and investigated without consulting him through looking at the bounty boards in [[Berdusk]].
@@ -19,11 +22,11 @@ GOB 1: If yiz want to help, head inside and speak to our champion, Jaflin.
 
 *Inside the tent, the interior of the tent matches the civility of the outside, and for a moment you could almost mistake it for a merchant's tent. A bed of decent make sits on the far left, a kitchenette on the far right. In the center you see him before he spots you. A large, yellow-skinned Hobgoblin wearing half-plate with no sleeves sits by a campfire. His left sleeve is completely gone, exposing his scarred bicep. An intricate tattoo crawls from the top of his shoulder and disappears into his gauntlet. What draws your attention the most, however, is the Belt he wears over his armour. There is no mistaking it, this is the Belt that Flint was looking for.*
 
-The players will meet [[Jaflin Stormcrown]]. This is indeed the former leader of the [[Herd of the Dragon]] but was replaced when [[Mellara, the Terror of the Sword Coast]] left him for dead and assumed his position as the Herd's leader. Since his betrayal, he has been in hiding at the Sunset Mountains to live out the rest of his days in peace. If [[Stone]] is present, he will sympathise with [[Jaflin Stormcrown]]'s position and tell the party that they must do all they can to help this village.
+The players will meet [[Jaflin Storm-Crown]]. This is indeed the former leader of the [[Herd of the Dragon]] but was replaced when [[Mellara, the Terror of the Sword Coast]] left him for dead and assumed his position as the Herd's leader. Since his betrayal, he has been in hiding at the Sunset Mountains to live out the rest of his days in peace. If [[Stone]] is present, he will sympathise with [[Jaflin Storm-Crown]]'s position and tell the party that they must do all they can to help this village.
 
-The players can partake in some conversation with the local Goblins. They will discover that when the [[Cult of the Dragon]] tried to recruit them, they hid [[Jaflin Stormcrown]] from them until the Cult attempted a hostile takeover. The Hobgoblin defended his fellow villagers and strung up their bodies in front of the camp as a warning the next day.
+The players can partake in some conversation with the local Goblins. They will discover that when the [[Cult of the Dragon]] tried to recruit them, they hid [[Jaflin Storm-Crown]] from them until the Cult attempted a hostile takeover. The Hobgoblin defended his fellow villagers and strung up their bodies in front of the camp as a warning the next day.
 
-If the players agree to help, [[Jaflin Stormcrown]] will tell the players they can either leave during the day or at night. At night, the creatures are out in full force. In the daytime, the creatures are in hiding and may be harder to spot but are weaker.
+If the players agree to help, [[Jaflin Storm-Crown]] will tell the players they can either leave during the day or at night. At night, the creatures are out in full force. In the daytime, the creatures are in hiding and may be harder to spot but are weaker.
 
 ____
 ### PART 2 - Temple of the Moon Maiden
@@ -86,7 +89,7 @@ On a DC 10 Investigation check, players can determine that the gate can be manip
 
 *As you walk into this room, you see a figure standing in front of what looks like an altar. His shock of white hair flows down to his back, and his beautiful noble's clothes gives him a regal air. He turns as you enter and flashes you a toothy grin.*
 
-FLORIAN: I didn't think anyone would ever come here, you know. Other than the Goblins, I suppose. (If [[Jaflin Stormcrown]] is present). It looks like you've brought me quite the delectable snack!
+FLORIAN: I didn't think anyone would ever come here, you know. Other than the Goblins, I suppose. (If [[Jaflin Storm-Crown]] is present). It looks like you've brought me quite the delectable snack!
 
 FLORIAN: Allow me to introduce myself, my name is Florian Montebank and I am so very pleased to meet your acquaintance. Of course, now that you've entered by lair and killed quite a lot of my guests, our relationship is quite soured.
 

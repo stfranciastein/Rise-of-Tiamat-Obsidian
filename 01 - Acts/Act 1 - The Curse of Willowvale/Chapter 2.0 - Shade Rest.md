@@ -1,3 +1,6 @@
+**Tags:** #Act1
+
+____
 ### **2.1 Arrival at Shade Rest**
 
 The party arrives in [[Shade Rest]] after clearing out the Underground hideout.

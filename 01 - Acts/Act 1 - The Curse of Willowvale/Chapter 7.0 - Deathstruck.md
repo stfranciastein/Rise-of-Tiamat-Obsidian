@@ -1,3 +1,7 @@
+**Tags:** #Act1 
+
+____
+
 Depending on the choice made in [[Chapter 2.0 - Shade Rest]], the party will either return to [[Willowvale]] or [[Shade Rest]] in order to rest. They contact [[Matreous Melwin]] or [[Rhylrae]] via sending stone in order to tell them about the 'artifact' that the [[Herd of the Dragon]] has found. The party's respective mentor will tell them they will need to make haste for the Cloud Peaks as Mellara cannot be allowed to retrieve whatever this artifact is for [[Wyrmspeaker Rezmir]].
 
 **** 

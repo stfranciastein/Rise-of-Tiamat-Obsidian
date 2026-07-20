@@ -1,3 +1,6 @@
+**Tags:** #Act2 #BaldursGate 
+
+____
 ### TRIGGER
 
 This quest can be triggered by entering [[Whitkeep Hostel]] and speaking to [[Natasha 'Tasha' the Dark]].

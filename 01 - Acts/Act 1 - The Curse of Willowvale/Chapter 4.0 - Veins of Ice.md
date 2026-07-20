@@ -1,3 +1,7 @@
+**Tags:** #Act1  
+
+____
+
 There are two ways the adventurers can learn the precise location of Thaddak's Hideout, either from speaking with [[Matreous Melwin]] at the end of [[Chapter 3.0 - Candlekeep]] who will explicitly tell the party he can be found deep in the [[Cloak Wood]], or from [[Lorcan Ravenshade]] if Matreous is dead who will provide similar information.
 
 In order to discover Thaddak's Hideout, the players must first venture to [[Old Shade Rest]]. This can either be done by succeeding 3 survival checks with a DC of 13 (10 if all players have Darkvision) or finish 1 encounter for every survival check failed. They can also bypass the checks by being lead by either [[Tamae Tideon]] or [[Larissa Bonham]], both of whom make regular trips to visit [[Marianne]]. The journey into [[Old Shade Rest]] takes precisely 2 hours. By the time the adventurers enter the woods, [[Thaddak Ice-Veins]] has already begun corrupting dead bodies from within.

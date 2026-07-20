@@ -1,3 +1,7 @@
+**Tags:** #Act1 
+
+____
+
 This chapter can begin in two different ways. If the players are aware that the [[Herd of the Dragon]] is storing their horde in [[Nashkel]], then they can either approach from there and make their way up the Cloudpeaks, or be directed straight to the Mask Vault by [[Matreous Melwin]].
 
 ### 8.1 Ashes of Nashkel
