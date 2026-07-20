@@ -8,7 +8,7 @@ The adventure begins offscreen, in the town of [[Willowvale]]. The intent is to 
 
 *"We won't survive another year if things go on like this. Please you must go to [[Candlekeep]] Hall. Find [[Matreous Melwin]]. Find whatever you can about this curse. We'll be forever in your debt."*
 
-If the party only has 2 party members, [[Tierbhal Garrán]], a druid from [[Garrán]] in the [[Misty Forest]] will join their party. He is eager to learn more to learn about the plague that has befallen the land. Allow the others to roleplay their trek through the woods before continuing on with the following.
+If the party only has 2 party members, [[Tierbhal an Garrán]], a druid from [[Garrán]] in the [[Misty Forest]] will join their party. He is eager to learn more to learn about the plague that has befallen the land. Allow the others to roleplay their trek through the woods before continuing on with the following.
 
 ****
 ### **1.2 Saving Grace**

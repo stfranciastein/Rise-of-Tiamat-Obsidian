@@ -31,7 +31,7 @@ ____
 
 When the party leaves [[Berdusk]] after the events of [[Chapter 2.0 - Tale of Two Cities]], Soma will be given a vision of a hag preying upon children in a forest where the river splits the woods into two. A DC 10 History check will reveal that this is likely the Reaching Woods just North East of the Chionthar. The party will reunite with [[Glass]] and [[Grace]] alongside [[Mr. Greenie]] who will tell them about the druid in the woods that they need to go help.
 
-They will run into [[Rynae Kiln]] who Soma and [[Tierbhal Garrán]] will immediately recognise as being charmed by a hag. [[Rynae Kiln]] will not trust Soma whatsoever, despite what the rest of the party may say and immediately engage in combat.
+They will run into [[Rynae Kiln]] who Soma and [[Tierbhal an Garrán]] will immediately recognise as being charmed by a hag. [[Rynae Kiln]] will not trust Soma whatsoever, despite what the rest of the party may say and immediately engage in combat.
 
 *As you make your way through the woods you find yourself in a clearing. It's peaceful and serene here, but something immediately catches your eye as you exit the treeline. A woman with dark skin and long curly black hair sits atop a tree stump, staff to the side. She wears a long green dress, her leather armour covered in leaves and vines. She picks up on your party's arrival immediately and stands up, staff in hand.*
 

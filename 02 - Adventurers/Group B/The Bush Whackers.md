@@ -1,6 +1,6 @@
 ### OVERVIEW
 
-<img src="The Bush Whackers-1784489832929.webp" alt="The Bush Whackers" width="300" style="float:left; margin: 0 16px 12px 0;">A band of adventurers who were hired by [[Feldir Whitefyre]] of [[Willowvale]] to seek out the wizard [[Matreous Melwin]] in [[Candlekeep]]. This party originally consisted of [[Ambrosius]], [[Caradil Anduin]] and [[Tierbhal Garrán]].
+<img src="The Bush Whackers-1784489832929.webp" alt="The Bush Whackers" width="300" style="float:left; margin: 0 16px 12px 0;">A band of adventurers who were hired by [[Feldir Whitefyre]] of [[Willowvale]] to seek out the wizard [[Matreous Melwin]] in [[Candlekeep]]. This party originally consisted of [[Ambrosius]], [[Caradil Anduin]] and [[Tierbhal an Garrán]].
 
 During the events of [[Act 1 - The Curse of Willowvale]], they recruited [[Larissa Bonham]], [[Vargrach]] the Kobold and [[Stone]] the Goliath. In the final confrontation with [[Mellara, the Terror of the Sword Coast]] [[Ambrosius]] did not survive their encounter and fell in battle. 
 
@@ -12,14 +12,14 @@ During their adventures so far they've also recruited the Talon [[Khasar the Blo
 ****
 ### EXTRA INFORMATION
 
-The two horses they purchased to pull the [[Sylvira-Van]] are named Snow and Jo-Ey. Snow was named by [[Tierbhal Garrán]], and Jo-Ey was named by [[Caradil Anduin]].
+The two horses they purchased to pull the [[Sylvira-Van]] are named Snow and Jo-Ey. Snow was named by [[Tierbhal an Garrán]], and Jo-Ey was named by [[Caradil Anduin]].
 
 ____
 ### POTENTIAL FOLLOWERS
 
 #### Emerald Enclave
 1. Barbarian (Path of the World Tree) - Goliath Male - [[Stone]]
-2. Druid (Circle of Stars) - Elf Male - [[Tierbhal Garrán]]
+2. Druid (Circle of Stars) - Elf Male - [[Tierbhal an Garrán]]
 #### Harpers
 1. Monk (Warrior of Kensei) - Orc Male - [[Arif Wolf-Blood]]
 2. Wizard (Evocation Magic) - Hobgoblin Female - [[Mazernath]]

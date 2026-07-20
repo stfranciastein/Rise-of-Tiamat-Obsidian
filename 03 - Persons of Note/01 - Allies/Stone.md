@@ -1,6 +1,7 @@
 **D&D Beyond Link:** https://www.dndbeyond.com/characters/156133057
 **Tags:** #NPC #Barbarian #Goliath #ChaoticGood #Neutral #EmeraldEnclave
 **Status:** Alive
+**Voice:** None.
 
 ____
 ### BACKSTORY

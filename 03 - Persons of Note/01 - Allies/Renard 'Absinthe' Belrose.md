@@ -1,5 +1,5 @@
 **Tags:** #NPC #Warlock #Human #Devil #LawfulEvil
-**Accent:** English
+**Accent:** English, Generic.
 
 ____
 
