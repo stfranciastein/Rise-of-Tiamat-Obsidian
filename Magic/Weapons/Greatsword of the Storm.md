@@ -16,10 +16,6 @@ The curse can only be broken by a [spell]Remove Curse[/spell] spell cast by a Cl
 ____
 ### Amendment
 
-If [[Auron Whitestreak]] is alive, he will be able to perform this ritual but only after the party has arrived in [[Waterdeep]] and his personal quest in Act 2 has been resolved. Otherwise, a Cleric of [[Bahamut]] will perform the ritual for 1000 GP, only charging for the cost of the materials needed.
+If [[Auron Whitestreak]] is alive, he will be able to perform this ritual but only after the party has arrived in [[Waterdeep]] and his personal quest in Act 2 has been resolved. Otherwise, a Cleric of [Bahamut](https://forgottenrealms.fandom.com/wiki/Bahamut) will perform the ritual for 1000 GP, only charging for the cost of the materials needed.
 
 ____
-
-While attuned to this item, you gain a +2 to Animal Handling and Nature checks.
-
-**Ring of the Forest.** This item is cursed. While attuned to it, you cannot voluntarily end the attunement, and you cannot remove the ring from your possession unless the curse is broken or you are forced to. You lose all ability to speak any language you know, and instead learn to speak with animals. This curse can be removed by casting the spell remove curse.

@@ -1,15 +1,14 @@
-**Bio:** A male Half-Elf Wizard (Evocation)
-**Age:** 23
-**Status:**
-- [[Impyerno Lima]]: Player, alive (died after [[Chapter 6.0 - The Mentor]] but revived as a Revenant) 
-- [[The Bush Whackers]]: NPC, alive.
+**D&D Beyond Link:** https://www.dndbeyond.com/characters/154165144
+**Tags:** #Player #Wizard #HighElf #Elf #HalfElf #Revenant #ChaoticGood
+**Status:** Alive
 
 ****
-#### **BACKSTORY**
+### **BACKSTORY**
 
-Born in the island of [[Tuern]] in a quiet village known as [[Dragon's Rest]], far from [[Uttersea]]. Keyreeonis grew up in a cramped cottage with his older sister [[Andora Lawntill]], his father Dameon and his bedridden grandmother [[Martha]]. Life in Tuern was harsh, but his family made it easier. His father broke his body working at the mines. Andora earned what she could, and Keyreeonis spent most of his early life caring for his grandmother, Mamma Martha. 
+<img src="Yan 'Keyreeonis' Lawntill-1784472505435.webp" alt="Yan 'Keyreeonis' Lawntill" width="300" style="float:left; margin: 0 16px 12px 0;">Born in the island of [[Tuern]] in a quiet village known as [[Dragon's Rest]], far from [[Uttersea]]. Keyreeonis grew up in a cramped cottage with his older sister [[Andora Lawntill]], his father Dameon and his bedridden grandmother [[Martha]]. Life in Tuern was harsh, but his family made it easier. His father broke his body working at the mines. Andora earned what she could, and Keyreeonis spent most of his early life caring for his grandmother, Mamma [[Martha]].
 
-Keyreeonis grew up not knowing much of his mother, Amicia and her mysterious disappearance. One day she broke her silence with a letter, from the [[Host Tower of the Arcane]] in [[Luskan]], inviting him and his sister to join her. This sparked a collapse in the family, ending with Andora leaving to seek answers by herself while leaving him behind to take care of what remained of their family. 
+Keyreeonis grew up not knowing much of his mother, Amicia and her mysterious disappearance. 
+One day she broke her silence with a letter, from the [[Host Tower of the Arcane]] in [[Luskan]], inviting him and his sister to join her. This sparked a collapse in the family, ending with Andora leaving to seek answers by herself while leaving him behind to take care of what remained of their family. 
 
 Years passed without a word from Andora, and with time his father aged and weakened. Keyreeonis joined the Tuern Pirates known as the [[Sea Hawks]], gaining a bloody reputation among them. One day, upon returning to his home he found nothing but ruins covered in ash and snow. Standing in the rubble was [[Thuran Yale]], his mother's right hand man and his soon-to-be mentor. Thuran was a cruel and abusive master, but an effective one. 
 

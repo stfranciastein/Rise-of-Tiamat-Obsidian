@@ -1,15 +1,21 @@
-**Bio:** A male Human Ranger/Rogue (Fey Wanderer)
-**Age:** 36
+**D&D Beyond Link:** [https://www.dndbeyond.com/characters/154195203](https://www.dndbeyond.com/characters/154195203 "https://www.dndbeyond.com/characters/154195203")
+**Tags:** #Player #Ranger #Rogue #Human #Mielikki #LawfulNeutral
 **Status:** Alive
 
 ****
-#### **BACKSTORY**
+### **BACKSTORY**
 
-Caradil never knew his parents, he was raised in the Helm's Hall orphanage in [[Waterdeep]]. As he got older, he spent most of his early teens around the ports of Waterdeep, joining a "gang" of youths, they spent most of their time pickpocketing drunken sailors from the hundreds of trading vessels that made their way in and out of the ports. One night, while fleeing the city watch, Caradil was grabbed by a one armed beggar with deep scars across his face who told Caradil of a great kraken that lurked beneath the waves beyond Waterdeeps port. Between the shock of being grabbed by this man and the adrenaline of running from the city watch, this story seemed so vivid it almost felt like a vision, instilling a life long fear of krakens in Caradil. 
+<img src="Caradil Anduin-1784474916586.webp" alt="Caradil Anduin" width="300" style="float:left; margin: 0 16px 12px 0;">Caradil never knew his parents, he was raised in the [[Helm's Hall]] orphanage in [[Waterdeep]]. As he got older, he spent most of his early teens around the ports of Waterdeep, joining a "gang" of youths, they spent most of their time pickpocketing drunken sailors from the hundreds of trading vessels that made their way in and out of the ports. 
 
-Soon after this encounter, a man descended from the rooftops. This man was Audric, a ranger of the Renblades who took Caradil to the local city watch barracks. Caradil was interrogated by a member of the city watch, a dwarf with one blue and one black who demanded Caradil give up the rest of his gang or he would cut off his hands. Caradil refused and before punishment could be given, Audric made him an offer: "You can stay here and the watch'll take your hands or you can come with me and I'll put a bow in them". 
+One night, while fleeing the [[The Watch (Waterdeep)]], Caradil was grabbed by a one armed beggar with deep scars across his face who told Caradil of a great kraken that lurked beneath the waves beyond [[Waterdeep]]'s port. 
 
-Needless to say, Caradil joined Audric and the Renblades, a company of urban rangers who assisted the city watch in the general defense of the city. While the city watch kept order from the streets, the Rens kept watchful eyes from roof tops and vantage points. Caradil spent years under the wing of Audric, learning to be a ranger and eventually a fully fledged member of the Rens. 
+Between the shock of being grabbed by this man and the adrenaline of running from the city watch, this story seemed so vivid it almost felt like a vision, instilling a life long fear of krakens in Caradil. 
+
+Soon after this encounter, a man descended from the rooftops. This man was [[Audric Anduin]], a ranger of the[[ Renblades]] who took Caradil to the local City Watch barracks. Caradil was interrogated by a member of the city watch, a dwarf with one blue and one black who demanded Caradil give up the rest of his gang or he would cut off his hands. Caradil refused and before punishment could be given, [[Audric Anduin]] made him an offer: 
+
+`You can stay here and the watch'll take your hands or you can come with me and I'll put a bow in them`
+
+Needless to say, Caradil joined [[Audric Anduin]] and the [[Renblades]], a company of urban rangers who assisted the city watch in the general defense of the city. While the city watch kept order from the streets, the Rens kept watchful eyes from roof tops and vantage points. Caradil spent years under the wing of Audric, learning to be a ranger and eventually a fully fledged member of the Rens. 
 
 As time passed Audric rose through the ranks of the Renblades, becoming High Captain, the leader of the Renblades and a relatively influential person within Waterdhavian society. At the same time, Caradil began patrolling on his own or with his companion Ssississass, a red dragonborn and fellow member of the Renblades. Caradil would call her Sisi for short, which she only tolerated because of their strong companionship. It was on one of these patrols that Caradil met Rune, a baby Blood Hawk in an abandoned nest. Caradil took in the bird and raised her to adulthood. Acting as a second pair of eyes, Rune assisted Caradil in tracking criminals through the winding streets and alleys of Waterdeep. 
 
@@ -23,7 +29,7 @@ ____
 ### ACT II - The Hunter Hunted
 
 #### The Hunter
-In [[Berdusk]], Caradil will run into [[Thelvin Kaervath]] in [[Patriarch's Rest]] or the [[Flourished Flagon]] depending on where the party made their beds during their stay in the city. The man will tell him he's been on the run ever since the [[Adventurers/Group B/Caradil Anduin/Renblades]] were dissolved.
+In [[Berdusk]], Caradil will run into [[Thelvin Kaervath]] in [[Patriarch's Rest]] or the [[Flourished Flagon]] depending on where the party made their beds during their stay in the city. The man will tell him he's been on the run ever since the [[Renblades]] were dissolved.
 
 *Stepping into the interior of the Patriarch's Rest, you're immediately surprised by the sound of a man calling out your name. A large, dark-skinned man walks up to you. For a second, you almost mistake him for a Goliath given how large he is, but he's human in appearance.*
 
@@ -39,7 +45,7 @@ THELVIN: This place is strange, but at least the food is good. Eat!
 
 THELVIN: It's probably for the best too, eh? I hear Dragons destroyed that place. Good to see you made it out in one piece!
 
-He will then tell Caradil that he has been trying to find previous members of the [[Adventurers/Group B/Caradil Anduin/Renblades]], starting with the Greypools. He found the pair hiding out in [[Triel]] and tried to convince them to join him on their hunt for the truth about why the [[Adventurers/Group B/Caradil Anduin/Renblades]] were ordered to be disbanded but they declined.
+He will then tell Caradil that he has been trying to find previous members of the [[Renblades]], starting with the Greypools. He found the pair hiding out in [[Triel]] and tried to convince them to join him on their hunt for the truth about why the [[Renblades]] were ordered to be disbanded but they declined.
 
 THELVIN: What about you, have you run into any of the others since you left the city?
 

@@ -5,7 +5,7 @@
 ____
 ### BACKSTORY
 
-Once served as the Chosen of the [[Raven Queen]].
+Once served as the Chosen of the [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen).
 Has two children, [[Lorcan Ravenshade]] and [[Niamh Ravenshade]]. The latter died in an attack in [[Baldur's Gate]] orchestrated by [[House Vanthampur]] in an attempt to intimidate [[Margaret Ravenshade]] into stepping down from her position.
 
 

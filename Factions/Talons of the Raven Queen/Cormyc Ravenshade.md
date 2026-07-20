@@ -1,4 +1,4 @@
-**Bio:** A male Aasimar Paladin (Oath of Vengeance) of the [[Raven Queen]].
+**Bio:** A male Aasimar Paladin (Oath of Vengeance) of the [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen).
 **Age:** 32
 **Status:**
 - [[Impyerno Lima]]: Alive. Last spotted meeting with [[Lorcan Ravenshade]].

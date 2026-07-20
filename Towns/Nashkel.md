@@ -1,4 +1,4 @@
-A once bustling village on the foot of the Cloudpeak Mountains. Nashkel was built on the side of the mountain, and had a large Temple to [[Bahamut]] overlooking the village. As of present day, Nashkel is a ruin as it was one of the first targets of [[Mellara, the Terror of the Sword Coast]] and where they stored their collection of the horde for [[Tiamat]].
+A once bustling village on the foot of the Cloudpeak Mountains. Nashkel was built on the side of the mountain, and had a large Temple to [Bahamut](https://forgottenrealms.fandom.com/wiki/Bahamut) overlooking the village. As of present day, Nashkel is a ruin as it was one of the first targets of [[Mellara, the Terror of the Sword Coast]] and where they stored their collection of the horde for [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat).
 
 ____
 ### IN-GAME

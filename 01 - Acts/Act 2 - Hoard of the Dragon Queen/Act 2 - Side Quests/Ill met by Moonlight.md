@@ -1,6 +1,6 @@
 ### TRIGGER
 
-This quest is given by [[Flint]] at the [[Silver Sword]]. It can also be 'accepted' by the players and investigated without consulting him through looking at the bounty boards in [[Berdusk]].
+This quest is given by Flint at the [[Silver Sword]]. It can also be 'accepted' by the players and investigated without consulting him through looking at the bounty boards in [[Berdusk]].
 
 ____
 ### PART 1 - It came in the night
@@ -101,4 +101,4 @@ On the altar is a collection of four gems, with each gem is worth 200 Gold. On a
 ____
 ### CONCLUSION
 
-Upon returning to [[Flint]] he will be curious to hear the tale of how they managed to retrieve the item. He will then reward the players 750 GP for completing the quest and return the [[Belt of the Giant]] to the party in one day.
+Upon returning to Flint he will be curious to hear the tale of how they managed to retrieve the item. He will then reward the players 750 GP for completing the quest and return the [[Belt of the Giant]] to the party in one day.

@@ -1,5 +1,3 @@
-
-
 ### BACKSTORY
 
 Sylvira is married to [[Orenius Savikas]].

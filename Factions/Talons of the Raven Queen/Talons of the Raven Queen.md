@@ -2,9 +2,9 @@
 
 ### BACKGROUND
 
-The Talons of the Raven Queen are a devout sect that worship the [[Raven Queen]], a powerful deity that resides on the [[Shadowfell]]. The Talons are tasked with preserving the natural cycle of life, and helping lost or bound souls find their way to their rightful resting place, wherever that may be.
+The Talons of the Raven Queen are a devout sect that worship the [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen), a powerful deity that resides on the [[Shadowfell]]. The Talons are tasked with preserving the natural cycle of life, and helping lost or bound souls find their way to their rightful resting place, wherever that may be.
 
-One of the greatest secrets of the Talons of the Raven Queen is their ability to use the [[Shadowfell]] to traverse the Material Plane. Powerful spellcasters who are attuned deeply to the [[Raven Queen]] can enter and exit the [[Shadowfell]] at will. While the [[Shadowfell]] is a dark 'echo' of the Material Plane, Talons can see through these distortions and navigate the [[Shadowfell]] without losing their place in the Material Plane. Thus, the Talons are likely to have outposts there.
+One of the greatest secrets of the Talons of the Raven Queen is their ability to use the [[Shadowfell]] to traverse the Material Plane. Powerful spellcasters who are attuned deeply to the [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen) can enter and exit the [[Shadowfell]] at will. While the [[Shadowfell]] is a dark 'echo' of the Material Plane, Talons can see through these distortions and navigate the [[Shadowfell]] without losing their place in the Material Plane. Thus, the Talons are likely to have outposts there.
 
 The Talons abide by the following tenets.
 1. Death has its hour. De do not hasten an innocent's end, nor allow it to be stolen by others.
@@ -81,7 +81,7 @@ _____
 #### BASES OF OPERATION
 
 There are currently four known 'bases' on the Sword Coast which the Talons use.
-1. [[Temple of the Raven Queen (Baldur's Gate)]] - Lead by Third Talon [[Torbar Dragonsbane]].
+1. [[Temple of the Raven Queen]] - Lead by Third Talon [[Torbar Dragonsbane]].
 2. [[Temple of the Raven Queen (Waterdeep)]] - Lead by Second Talon [[Xaria Trevisa]].
 3. [[Temple of the Raven Queen (Neverwinter)]] - Lead by Third Talon [[Atrash Valen]].
 4. [[Raven's Respite]] - [[Cormyc Ravenshade]] resides here.

@@ -17,7 +17,7 @@ The Orcs of Berdusk have largely taken over the cultural lingo of the populace. 
 #### History
 As of today, Berdusk is incorporated into the theocratic realm of Elturgard. Additionally, despite the reclamation by the Orcs, the city's faiths have remained largely untouched. The temples to various gods of the pantheon can be found all over Berdusk, as there are many people of all faiths to be found within the city. 
 
-The most commonly worshiped deity is [[Helm]], and his temple the [[Ready House of the Strong Right Hand]] regularly offers healing and training to people of all faiths free of charge. Thanks to [[Kurtog Chain-Smasher]]'s reclamation, a temple to [[Luthic]] and [[Gruumsh]] is under construction inside the city.
+The most commonly worshiped deity is [Helm](https://forgottenrealms.fandom.com/wiki/Helm), and his temple the [[Ready House of the Strong Right Hand]] regularly offers healing and training to people of all faiths free of charge. Thanks to [[Kurtog Chain-Smasher]]'s reclamation, a temple to [Luthic](https://forgottenrealms.fandom.com/wiki/Luthic) and [Gruumsh](https://forgottenrealms.fandom.com/wiki/Gruumsh) is under construction inside the city.
 
 _____
 ### ORGANISATIONS
@@ -35,13 +35,13 @@ The illusive Black Network of the [[Zhentarim]] has a heavy presence in Berdusk,
 
 _____
 ### NOTABLE LOCATIONS
-1. [[Arcane Thread]]: A magic shop created by Eldarin woman by the name of [[Phoere]].
-2. [[Flourished Flagon]]: A tavern run by a Gnome woman named [[Vittoria]].
-3. [[Patriarch's Rest]]: A tavern run by [[Amalicia Red-Bone]], an Orc woman.
-4. [[Ruby Shawl]]: A clothes shop maintained by an Orc woman named [[Giselda Light-Finger]].
-5. [[Silver Sword]]: A blacksmith that is owned by a Minotaur male named [[Flint]], along with his husband [[Steel]].
+1. [[Arcane Thread]]: A magic shop created by Eldarin woman by the name of Phoere.
+2. [[Flourished Flagon]]: A tavern run by a Gnome woman named Vittoria.
+3. [[Patriarch's Rest]]: A tavern run by Amalicia, a Drow woman.
+4. [[Ruby Shawl]]: A clothes shop maintained by an Orc woman named Giselda.
+5. [[Silver Sword]]: A blacksmith that is owned by a Minotaur male named Flint, along with his husband Steel.
 6. [[Twilight Hall]]: The seat of the [[Harpers]], and High Harper [[Jaheria]]'s home base.
-7. [[Evensong Tower]]: The seat of government in [[Berdusk]], current meeting place for the [[First Folk]].
+7. [[Evensong Towers]]: The seat of government in [[Berdusk]], current meeting place for the [[First Folk]].
 8. [[Bellblade's Throne]]: A well-estabished tavern that is owned by the [[Zhentarim]].
 9. [[The Pit]]: A temporary camp outside Berdusk which serves as its prison under the Orcs.
 

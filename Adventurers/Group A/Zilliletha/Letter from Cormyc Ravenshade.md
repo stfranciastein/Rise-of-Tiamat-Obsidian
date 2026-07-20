@@ -1,3 +1,6 @@
+**Written by:** [[Cormyc Ravenshade]]
+**Tags:** #LettersAndNotes 
+
 Pinion.
 
 I certainly hope that you found yourself satisfied with what you did on the Chionthar. 

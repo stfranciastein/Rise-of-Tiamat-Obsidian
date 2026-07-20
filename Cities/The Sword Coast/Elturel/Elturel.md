@@ -3,9 +3,9 @@
 ____
 ### BACKGROUND
 
-Elturel is a city-state lying on the River Chionthar in the Western Heartlands. It is the center for agriculture and trade in the region, and is renowned for its elite mounted defenders, the [[Hellriders]]. It is the current capital of the realm of Elturgard, a theocracy of [[Torm]] the True and defended by its paladin knighthood, the [[Order of the Companion]].
+Elturel is a city-state lying on the River Chionthar in the Western Heartlands. It is the center for agriculture and trade in the region, and is renowned for its elite mounted defenders, the [[Hellriders]]. It is the current capital of the realm of Elturgard, a theocracy of [Torm](https://forgottenrealms.fandom.com/wiki/Torm) the True and defended by its paladin knighthood, the [[Order of the Companion]].
 
-Elturel has a second sun flying high above the city known as the Companion. It is said by the commoners that [[Lathander]] blessed the city with it after [[Thavius Kreeg]] called out to the heavens. The Companion appeared soon, and the Vampire Lord and his army of the dead from the city.
+Elturel has a second sun flying high above the city known as the Companion. It is said by the commoners that [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) blessed the city with it after [[Thavius Kreeg]] called out to the heavens. The Companion appeared soon, and the Vampire Lord and his army of the dead from the city.
 
 ____
 ### FAITH

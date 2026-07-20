@@ -3,7 +3,7 @@
 
 Candlekeep is a library-fortress on the Sword Coast and famed for being the greatest collection of books and scrolls in Faerûn. Exceptional scholars and wizards visit Candlekeep at least once in their lifetimes, if not many more times. Because of this, the monks have many allies to call upon if Candlekeep is ever in danger. Powerful archmages such as [[Alustriel Silverhand]], [[Elminster Aumar]] and the Simbul will all come to the library's aid if needed.
 
-Candlekeep is considered a great temple to many of the gods of knowledge, including [[Oghma]], ][[Gond]], [[Deneir]] and [[Milil]]. It has been the home to many of the world's most famous sages, including the great prophet, [[Alaundo]].
+Candlekeep is considered a great temple to many of the gods of knowledge, including [Oghma](https://forgottenrealms.fandom.com/wiki/Oghma), [Gond](https://forgottenrealms.fandom.com/wiki/Gond), [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir) and [Milil](https://forgottenrealms.fandom.com/wiki/Milil). It has been the home to many of the world's most famous sages, including the great prophet, [[Alaundo]].
 
 The librarians of Candlekeep have one absolute rule: *"Those who destroy knowledge, with ink, fire, or sword, are themselves destroyed"*
 
@@ -32,7 +32,7 @@ The Watchers are sworn to protect the library and its contents. Classes: Bards, 
 ____
 ### NOTABLE LOCATIONS
 
-1. The Arched Gates: Protected by five priests of [[Deneir]]; [[Ara Silverfire]], [[Filandra Asala]], [[Astara Vox]], [[Sildur Yentris]], [[Darrieth Brightflame]]. On the off-nights, they are replaced by Storr, Saryn, Illaro, Illarya and Darron, [[Darrieth Brightflame]]'s son.
+1. The Arched Gates: Protected by five priests of [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir); [[Ara Silverfire]], [[Filandra Asala]], [[Astara Vox]], [[Sildur Yentris]], [[Darrieth Brightflame]]. On the off-nights, they are replaced by Storr, Saryn, Illaro, Illarya and Darron, [[Darrieth Brightflame]]'s son.
 2. House of Rest: the receptionist is an Air Genasi named Cloudia.
 3. The Hearth: Run by a human woman named [[Yedda]], formerly run by Filmur.
 4. Granary Tower: Bird's nest for animal messenging.

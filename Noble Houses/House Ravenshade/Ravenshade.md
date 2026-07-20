@@ -1,4 +1,4 @@
-A patriar family in [[Baldur's Gate]] that dealt in the gem and jewelry trade, as well as the dye and ink trade. As trade specialists, their manor is located in the central-west area of [[Manorborn]]. 
+A patriar family in [[Baldur's Gate]] that dealt in the gem and jewelry trade, as well as the dye and ink trade. As trade specialists, their manor is located in the central-west area of Manorborn.
 ****
 **Notable Members**
 - [[Lorcan Ravenshade]]: Patriarch of the House and the High Acolyte of [[Candlekeep]].

@@ -1,4 +1,4 @@
-**Bio:** A female Green Dragonborn Wizard of [[Deneir]].
+**Bio:** A female Green Dragonborn Wizard of [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir).
 **Age**: 50.
 
 ____

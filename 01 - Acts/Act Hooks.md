@@ -23,7 +23,7 @@ For Act 2, potential new players must pick one of the following hooks. You can e
 
 5. You've overheard rumours that your close friend [[Alia Sanem 'Talis Kasterel']] was kidnapped by the [[Cult of the Dragon]]. You headed to [[Greenest]] in order to attend the Great Hunt, as some of the Heroes of the Sword Coast have dealt with them before. They must know something. 
 
-6. The [[Raven Queen]] has taken you under her wing. As one of the [[Talons of the Raven Queen]], you have infiltrated the Cult and are familiar with its inner workings. You agreed to meet with your leader, [[Cormyc Ravenshade]] to report back as he attends the Great Hunt in [[Greenest]]. ==(Character is a Talon of the Raven Queen)==
+6. The [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen) has taken you under her wing. As one of the [[Talons of the Raven Queen]], you have infiltrated the Cult and are familiar with its inner workings. You agreed to meet with your leader, [[Cormyc Ravenshade]] to report back as he attends the Great Hunt in [[Greenest]]. ==(Character is a Talon of the Raven Queen)==
 
 7. On their deathbed, your parent confessed that they had become involved with a group calling itself the [[Cult of the Dragon]]. They paid them to smuggle goods across the Sword Coast. Wracked by guilt, they begged you to undo all the evil they may have helped foster. They urged you to begin your search in the town of [[Greenest]] which he once used as a meeting point for his contacts in the Cult. ==(Character is a Zhentarim smuggler)==
 

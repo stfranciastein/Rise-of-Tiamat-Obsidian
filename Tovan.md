@@ -5,7 +5,7 @@
 ****
 #### **BACKSTORY**
 
-Tovan is a former member of the Temple of the Moonmaiden in the Sunset Mountains and a former devout Selunite. He was murdered by [[Shar]]rans in the Temple along with everyone there. After being hung from the rafters, a voice whispered to him and offered him bloody vengeance. Little did he know at the time, it was [[Vecna]] the Whispered one. Now Tovan walks Faerun hunting down the [[Shar]]rans that killed him and his family.
+Tovan is a former member of the Temple of the Moonmaiden in the Sunset Mountains and a former devout Selunite. He was murdered by [Shar](https://forgottenrealms.fandom.com/wiki/Shar)rans in the Temple along with everyone there. After being hung from the rafters, a voice whispered to him and offered him bloody vengeance. Little did he know at the time, it was [Vecna](https://forgottenrealms.fandom.com/wiki/Vecna) the Whispered one. Now Tovan walks Faerun hunting down the [Shar](https://forgottenrealms.fandom.com/wiki/Shar)rans that killed him and his family.
 
 ____ 
 ### Group A: [[Impyerno Lima]]
@@ -14,4 +14,4 @@ ____
  
 ____
 ### Group B: [[The Bush Whackers]]
-- In Act 1: [[The Bush Whackers]] discovered a note between the Cult of [[Vecna]] and the [[Cult of the Dragon]]. 
+- In Act 1: [[The Bush Whackers]] discovered a note between the Cult of [Vecna](https://forgottenrealms.fandom.com/wiki/Vecna) and the [[Cult of the Dragon]]. 

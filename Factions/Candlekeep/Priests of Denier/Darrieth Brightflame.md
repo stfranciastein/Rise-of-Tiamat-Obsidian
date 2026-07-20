@@ -1,4 +1,4 @@
-**Bio:** A male Human Wizard of [[Deneir]].
+**Bio:** A male Human Wizard of [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir).
 **Age**: 80
 **Status:** Alive
 ____

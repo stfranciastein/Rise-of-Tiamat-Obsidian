@@ -4,7 +4,7 @@ Throughout this act, the party clashes with the [[Herd of the Dragon]], starting
 
 As the players progress, they confront these generals one by one. After defeating [[Thaddak Ice-Veins]] in his lair—later revealed to be a simulacrum—they learn he was leeching magic from the land and causing the blight around [[Willowvale]]. His destruction does not end the curse, and the party learns that whatever sustains it is likely in Mellara’s possession. They also recover a tome written in Ancient Infernal detailing a ritual sacrifice, but its contents are undecipherable.
 
-The party soon discovers the Herd is gathering a hoard for the [[Cult of the Dragon]], a secretive group seeking to restore the Dragon Queen [[Tiamat]] as the rightful “Duke of Avernus.” If left unchecked, every village along the Coast Way will fall.
+The party soon discovers the Herd is gathering a hoard for the [[Cult of the Dragon]], a secretive group seeking to restore the Dragon Queen [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat) as the rightful “Duke of Avernus.” If left unchecked, every village along the Coast Way will fall.
 
 Meanwhile, [[Ysra Deathstrike]] infiltrates the party by taking the form of a trusted NPC. She gathers their plans and, before fleeing, attempts to assassinate one of the adventurers. The party manages to save their companion, but Ysra teleports away. Continuing to pursue Mellara, the party is attacked in [[Beregost]] by dozens of goblins and kobolds. However, they quickly realise that the forces sent were mere cannon fodder sent to slow them down.
 

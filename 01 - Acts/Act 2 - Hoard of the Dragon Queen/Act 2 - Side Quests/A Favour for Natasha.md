@@ -47,7 +47,7 @@ TASHA: As for the Vault's location, well that's up to you to figure out isn't it
 ![[061-08-003.players-map.webp]]
 
 ____
-### PART I - Preparations
+### PART II - Preparations
 
 #### Casing the Joint
 *The vault stands in the rundown neighborhood of the Lower City, but the street and alleyways around the vault are unobstructed. Small windows glint from high on the vault's stone walls. Two guards keep watch on the second-floor balcony, while another guard patrols around the structure at ground level.*
@@ -127,7 +127,7 @@ If the characters set off any audible alarms in the building, a guard immediatel
 If the characters neutralize all nine interior guards, the party has the run of the building until the next shift's guards show up. However, the three guards outside the building remain alert to loud noises inside the vault and enter the building to investigate suspicious sounds. A new shift starts every four hours, and six guards show up at each shift change.
 
 ____
-### PART II - The Heist
+### PART III - The Heist
 
 ![[Pasted image 20260619171719.png]]
 
@@ -190,7 +190,7 @@ A character using thieves' tools can try to unlock a safe, which takes 1 minute.
 	
 - Serpent's Kiss. There are a bundle of letters that stand out the least, but contains quite serious information. According to this note, the Cult of the Dragon has quite a lot of information about the Council of Four from an insider.
   
-  One letter suggests that Duke [[Belynne Stelmane]] is close to death, another heavily speculates that Grand Duke [[Ulder Ravengard]] may not return from his journey to [[Elturel]]. One talks about [[Thalamara Vanthampur]]'s connection to a 'rival' organisation being a problem. Lastly, there are detailed plans here regarding the involvement of [[Dillard Portyr]]'s daughter, [[Liara Portyr]], being a 'useful idiot' in sowing chaos in [[Baldur's Gate]]. All of these letters are not signed by their author, but marked with the symbol of a snake.
+  One letter suggests that Duke [[Belynne Stelmane]] is close to death, another heavily speculates that Grand Duke [[Ulder Ravengard]] may not return from his journey to [[Elturel]]. One talks about [[Thalamra Vanthampur]]'s connection to a 'rival' organisation being a problem. Lastly, there are detailed plans here regarding the involvement of [[Dillard Portyr]]'s daughter, [[Liara Portyr]], being a 'useful idiot' in sowing chaos in [[Baldur's Gate]]. All of these letters are not signed by their author, but marked with the symbol of a snake.
   
   The last letter in this bundle seems to be written by a different hand. The word 'Serpent' is encircled. It seems that Vidorant is interested in learning who is in the [[Cult of the Dragon]]'s pocket/the identity of the Serpent. Her writings suggest that she suspects that there is likely more than one mole feeding them information; a Patriar and a commoner.
 
@@ -330,7 +330,7 @@ A character can disable a particular rune (and its linked [alarm](https://5e.too
 ---
 
 
-### PART III - Vidorant Arrives
+### PART IV - Vidorant Arrives
 
 Once the characters obtain the diadem, they must escape the vault to complete the heist.
 
@@ -361,4 +361,4 @@ VIDORANT: So, to summise, you take my ring and tell Tasha that you either gave u
 ____
 ### CONCLUSION
 
-Upon returning to [[Whitkeep Hostel]] with the Diadem, [[Jives]] will be pleased and give the players 300PP. If the players do not return with the Diadam, Jives will not be as happy but will agree to pass the message on to [[Natasha 'Tasha' the Dark]]. He will provide the party with a lowered reward of 1500GP instead for the attempt.
+Upon returning to [[Whitkeep Hostel]] with the Diadem, Jives will be pleased and give the players 300PP. If the players do not return with the Diadam, Jives will not be as happy but will agree to pass the message on to [[Natasha 'Tasha' the Dark]]. He will provide the party with a lowered reward of 1500GP instead for the attempt.

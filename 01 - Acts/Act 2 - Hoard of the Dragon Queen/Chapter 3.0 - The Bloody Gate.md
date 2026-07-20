@@ -439,7 +439,7 @@ When the players arrive in [[Baldur's Gate]], they will dock in the Outer City j
 
 CALDUS: This is as far as we I can take you. Rivington is just up the hill. If it were up to me, I'd get you all to head up to Ackyn as soon as possible. But knowing him he's probably busy with customers. Place like the Gate gets a lot of business from caravans entering and leaving the city and his is the most practical place for them to rest their wheels.
 
-CALDUS: I'll be heading straight to [[Waterdeep]] from here. Hopefully I'll see you there in a month's time. Good luck on your mission. May [[Ilmater]] watch over us all, and may [[Helm]] protect us in our journeys.
+CALDUS: I'll be heading straight to [[Waterdeep]] from here. Hopefully I'll see you there in a month's time. Good luck on your mission. May [Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater) watch over us all, and may [Helm](https://forgottenrealms.fandom.com/wiki/Helm) protect us in our journeys.
 
 *Caldus tips a goodbye salute to your party and boards the Piercing Light once more. Glass is already disembarking the Caravan from the ship, and the crew all give him a wave as the van rolls onto the docks at Rivington. The ship will remain here for a while, but you will not be able to join him on his journey to Waterdeep without endangering him or yourselves.*
 
@@ -495,11 +495,11 @@ DEVELLA: Liara has a lot of big ideas. Talks big about 'removing the corruption 
 ____
 ### 3.3 An Invitation
 
-While in Rivington, if any player is a member of the [[Talons of the Raven Queen]] or [[Khasar the Blooded]] is present, they will receive word from a Watcher that the [[Temple of the Raven Queen (Baldur's Gate)]] has been made aware of their arrival and will prepare the ceremony for their/[[Khasar the Blooded]]'s formal initiation. This will take 4 days in total to happen.
+While in Rivington, if any player is a member of the [[Talons of the Raven Queen]] or [[Khasar the Blooded]] is present, they will receive word from a Watcher that the [[Temple of the Raven Queen]] has been made aware of their arrival and will prepare the ceremony for their/[[Khasar the Blooded]]'s formal initiation. This will take 4 days in total to happen.
 
 *A man in a black hooded cloak approaches your group. As his face hits the light, the Drow gives you a respectful bow before extending his hand out to present your party a letter. The letter is sealed with black wax and stamped with what looks to be the symbol of a Raven's head.*
 
-DROW: You've been invited to see the Queen, though preparations must be made before your arrival. When four nights have passed, come to the [[Temple of the Raven Queen (Baldur's Gate)]]. Second Talon [[Xaria Trevisa]] will be waiting for you.
+DROW: You've been invited to see the Queen, though preparations must be made before your arrival. When four nights have passed, come to the [[Temple of the Raven Queen]]. Second Talon [[Xaria Trevisa]] will be waiting for you.
 
 This will continue and conclude the quest [[Demonic Vengeance]].
 
@@ -524,36 +524,11 @@ ____
 ### 3.5 When In Rivington...
 During their time in [[Rivington]], players can visit the following locations:
 
-1. Temple of Ilmater: In the [[Temple of the Open Hand (Baldur's Gate)]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Temple of the Open Hand (Quest)]] and also prompts the [[Exit bear, stage right]] quest.
-2. Danthelon's Dancing Axe: [[Danthelon's Dancing Axe]] is owned by [[Entharl Danthelon]]. He will discuss rumours about a Sunbear disrupting his shipments from coming in. This will begin the [[Exit bear, stage right]] quest.
+1. Temple of Ilmater: In the [[Temple of the Open Hand]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Temple of the Open Hand (Quest)]] and also prompts the [[Exit bear, stage right]] quest.
+2. Danthelon's Dancing Axe: [[Danthelon's Dancing Axe]] is owned by Entharl Danthelon. He will discuss rumours about a Sunbear disrupting his shipments from coming in. This will begin the [[Exit bear, stage right]] quest.
 3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Arcana-Net]] quest.
 
-There should be no time crunch apart from the [[Cataclysm]] for the players to want to rush the main quest. When the party makes their way to the [[Black Saddle]], they will formally and finally meet the former [[Order of the Gauntlet]] member [[Ackyn Selebon]]. The following random events also occur in no particular order;
-
-##### Rebels and Rocks 
-Location: Baldur's Gate Lower City
-
-Three children wearing dirty clothing stand on the roof of a nearby building. Each of them
-has a handful of rocks, which they pelt at the people passing beneath. They exclusively target people wearing fine clothes or armor, and they hoot triumphantly if their rocks strike a target.
-
-If a character is struck by one of the rocks, they take 1 bludgeoning damage.
-If someone acknowledges the children in any way, either to ask what they are doing or to tell them to stop, the children yell back insulting remarks. They yell that the Guild rules this city now, and everyone wearing fancy gear best behave or get a proper pelting with something nastier than rocks. 
-
-The children are urchins working for the Guild as pickpockets and are using the current lack of military power in the city to have some fun. If a character attempts to get to the roof or some Flaming Fists show up in the area, the children flee across the rooftops until out of sight
-
-
-##### Rabid Ritual
-Location: Outer City, after [[Exit bear, stage right]].
-
-*As you approach the surrounds of Baldur's Gate, you overhear a fearful yelp in the distance. As Glass drives the Sylvira-Van closer, you can see her clearly; a Flaming Fist manip strung up in a sacrificial ritual. She dangles above the ground over what looks to be a ritual circle.
-
-The Cult of the Dead Three has strung up a Flaming Fist manip for a sacrificial ritual. The grievously wounded manip (a veteran with 15 hit points remaining) dangles 10 feet above the ground over a large, bronze ritual bowl. The rope wrapped around the manip's wrists runs through the mouth of a protruding roof gargoyle and into the hands of a muscular worshipper of Bhaal (berserker). Two chanting cult fanatics of Bane and Myrkul see to it that the ritual continues uninterrupted.
-
-As blood trickles from the dying Flaming Fist manip into the bowl below, it begins to coagulate and take shape. At initiative count 10 each round, the manip loses 1d6 hit points to blood loss. If the manip dies, a shadow demon forms from the blood and begins to wreak havoc.
-
-Characters can stop the ritual by defeating the cultists, saving the Flaming Fist manip, or by dumping the blood from the bowl. If the characters cut the rope, the manip takes 3 (1d6) bludgeoning damage and falls into the bowl. The rope has 11 AC and 5 hit points. Ranged attacks against the rope are made with disadvantage. Tipping the bowl requires a successful DC 18 Strength (Athletics) check.
-
-
+There should be no time crunch apart from the [[Cataclysm]] for the players to want to rush the main quest. When the party makes their way to the [[Black Saddle]], they will formally and finally meet the former [[Order of the Gauntlet]] member [[Ackyn Selebon]]. 
 
 ____
 ### 3.2 - The Lower City
@@ -565,9 +540,9 @@ The [[Flaming Fist]] will inform the adventurers to be careful as the [[Lower Ci
 ___
 ### 3.3 - The Upper City
 
-The players will not be permitted to enter the [[Upper City]] until a [[Patriars]] grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Margaret Ravenshade]] will notice them at the gates, and they will be allowed to enter with their party.
+The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Roisin Ravenshade]] will notice them at the gates, and they will be allowed to enter with their party.
 
-1. [[Temple of the Raven Queen (Baldur's Gate)]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of an undead creature. This will continue and conclude the [[Demonic Vengeance]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
+1. [[Temple of the Raven Queen]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of a demonic creature associated with the undead. This will continue and conclude the [[Demonic Vengeance]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
 2. [[Raven's Arbor]]: [[Margaret Ravenshade]] is running for the position of Duke as [[Belynne Stelmane]] has been largely unable to rule due to a stroke she suffered recently. In order to help her win the position of Duke, she asks the players to investigate the gruesome murders in the city. This will begin the [[Den of the Dead Three]] quest.
 
 ____

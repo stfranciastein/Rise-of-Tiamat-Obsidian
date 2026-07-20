@@ -1,11 +1,13 @@
-**Bio:** A non-binary Hexblood Sorceror (Draconic Sorcery).
-**Age:** 80
+**D&D Beyond Link:** https://www.dndbeyond.com/characters/159677841
+**Tags:** #Player #Sorcerer #Tiefling #Hexblood #Hagspawn #ChaoticGood
 **Status:** Alive
 
 ____
 ### BACKSTORY
 
-Soma is the result of a deal between two vicious creatures who sought to further their agendas through the union. While the hag (mother) sought to secure her legacy and hold in the region, the dragon (father) wished for something far greater - a soldier who'd be their eyes and ears, and who'd exercise his will indiscriminately. Born from magic, Soma has faced expectations that they could never truly jump. Torn between two beings who both tried to distance the child from the other one, they would learn the methods of each of them. The hag taught him magic and deception, and the dragon would teach they about fear, and how to use terror as a weapon. Despite it all, Soma had love for both of their parents - they were never abused, but they continue to be blind to the fact that they were trained to be used from birth.
+<img src="Soma-1784475185736.webp" alt="Soma" width="300" style="float:left; margin: 0 16px 12px 0;">Soma is the result of a deal between two vicious creatures who sought to further their agendas through the union. While the hag (mother) sought to secure her legacy and hold in the region, the dragon (father) wished for something far greater - a soldier who'd be their eyes and ears, and who'd exercise his will indiscriminately. Born from magic, Soma has faced expectations that they could never truly jump. 
+
+Torn between two beings who both tried to distance the child from the other one, they would learn the methods of each of them. The hag taught him magic and deception, and the dragon would teach they about fear, and how to use terror as a weapon. Despite it all, Soma had love for both of their parents - they were never abused, but they continue to be blind to the fact that they were trained to be used from birth.
 
 Come their teenage years, however, when they rummaged through an adventurer's abandoned bag, they found a book. It was the most stereotypical book about a hero and their adventures, and yet it captivated Soma's mind and heart. The story of the good deeds, and the world described within, captured their imagination, and lit the candle of curiosity within their chest - what's it like to be good? To DO good? It was against everything that they had heard and knew before, but it gave them a goal to achieve that was actually theirs, and not their parents. To be a hero.
 

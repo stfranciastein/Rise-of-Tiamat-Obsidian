@@ -1,4 +1,4 @@
-**Bio:** A male Blue Half-Dragon Paladin (Oath of Conquest) of [[Tiamat]].
+**Bio:** A male Blue Half-Dragon Paladin (Oath of Conquest) of [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat).
 **Age:** 45
 **Status:** Alive
 

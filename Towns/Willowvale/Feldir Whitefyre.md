@@ -1,3 +1,3 @@
-A human mage in his 40s. Feldir has salt and pepper hair tied up into a bun and a scraggly beard. He wears simple robes adorned with the symbol of Bahamut.
+A human mage in his 40s. Feldir has salt and pepper hair tied up into a bun and a scraggly beard. He wears simple robes adorned with the symbol of [Bahamut](https://forgottenrealms.fandom.com/wiki/Bahamut).
 
-Feldir was born and raised in [[Baldur's Gate]], but moved to [[Willowvale]] in order to get away from city life. A kind, loyal and devoted follower of [[Bahamut]], Feldir is gravely concerned with the disturbance in the Weave in his home town.
+Feldir was born and raised in [[Baldur's Gate]], but moved to [[Willowvale]] in order to get away from city life. A kind, loyal and devoted follower of [Bahamut](https://forgottenrealms.fandom.com/wiki/Bahamut), Feldir is gravely concerned with the disturbance in the Weave in his home town.

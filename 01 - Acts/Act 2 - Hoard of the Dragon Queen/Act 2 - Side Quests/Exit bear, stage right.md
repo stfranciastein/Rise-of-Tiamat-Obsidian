@@ -1,6 +1,6 @@
 ### TRIGGER
 
-This quest is triggered upon inquiring about [[Entharl Danthelon]]'s missing shipments or by looking at the bounty board in the [[Elfsong Tavern]] or the [[Blushing Mermaid]]. Speaking to [[Lorgan Brandis]] or [[Sister Éabha]] will also lead to both directing the party to [[Entharl Danthelon]].
+This quest is triggered upon inquiring about Entharl Danthelon's missing shipments or by looking at the bounty board in the [[Elfsong Tavern]] or the [[Blushing Mermaid]]. Speaking to [[Lorgan Brandis]] or [[Sister Éabha]] will also lead to both directing the party to Entharl Danthelon.
 
 ____
 ### PART I - Introduction
@@ -9,7 +9,7 @@ ____
 
 ENTHARL: Gods-damned shipments are still gods-damned missing! Dumathoin help me I- Oh, customers! Sorry about that. Eh, what can I do for you?
 
-When pressed over what the problem seems to be, [[Entharl Danthelon]] will discuss his grief over his missing shipments. He will impress upon the players that it will likely be solved by the [[Flaming Fist]] but it may take days.
+When pressed over what the problem seems to be, Entharl Danthelon will discuss his grief over his missing shipments. He will impress upon the players that it will likely be solved by the [[Flaming Fist]] but it may take days.
 
 ENTHARL: My shipments from Amn have gone missing. First it was those blasted Rockseeker Dwarves disappearing on me and now this! I thought the Coast Way was supposed to be safe now that the Goliath is gone.
 
@@ -173,6 +173,6 @@ Upon finishing this quest, the players will be invited to spend the night with t
 
 After the celebrations are over, [[Pyrax]] makes a full recovery and pulls one or more of the party aside in order to pass them one of their other findings. They will tell the party that they suspect that the [[Winter King]]'s activities in the Feywild may have forced more creatures to cross the barrier. They will then say the following:
 
-PYRAX: I didn't tell (the Wizard) this because I didn't think to add more to their worries here, but I suspect that more events like this will occur as time goes on. The Winter King's ambitions will surely lead to further disruption across the Sword Coast. Be on the lookout for strange activity in nature, friends. May [[Silvannus]] guide your path.
+PYRAX: I didn't tell (the Wizard) this because I didn't think to add more to their worries here, but I suspect that more events like this will occur as time goes on. The Winter King's ambitions will surely lead to further disruption across the Sword Coast. Be on the lookout for strange activity in nature, friends. May [Silvannus](https://forgottenrealms.fandom.com/wiki/Silvanus) guide your path.
 
-Upon returning to [[Entharl Danthelon]] in [[Baldur's Gate]], he will award the party with the agreed upon gold price and thank them for their service. After two days he will have a replenished inventory and will provide players a 10% discount on all purchases.
+Upon returning to Entharl Danthelon in [[Baldur's Gate]], he will award the party with the agreed upon gold price and thank them for their service. After two days he will have a replenished inventory and will provide players a 10% discount on all purchases.

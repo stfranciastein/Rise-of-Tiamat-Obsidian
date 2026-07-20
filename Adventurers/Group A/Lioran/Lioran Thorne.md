@@ -1,13 +1,15 @@
-**Tags:** #Player #Cleric #Tiefling #Aasimar #OrderOfTheGauntlet #Ilmater
-**Age:** 24
+**Tags:** #Player #Cleric #Tiefling #Aasimar #OrderOfTheGauntlet #Ilmater 
 **Status:** Alive
 
 ****
-#### **BACKSTORY**
+### **BACKSTORY**
 
-Lioran was born in [[Elturel]] to [[Elira Thorne]], a devout follower of [[Ilmater]]. From his earliest days, he accompanied his mother to temples and shrines, learning to pray, comfort the suffering, and endure hardship with quiet strength. Even as a child, he displayed an uncanny patience—tending to scraped knees, consoling the sick, and standing strong when others faltered. His mother, gentle yet determined, taught him that compassion was a strength, not a weakness.
+<img src="Lioran Thorne-1784471398416.webp" alt="Lioran Thorne" width="300" style="float:left; margin: 0 16px 12px 0;">
+Lioran was born in [[Elturel]] to [[Elira Thorne]], a devout follower of [Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater). From his earliest days, he accompanied his mother to temples and shrines, learning to pray, comfort the suffering, and endure hardship with quiet strength. Even as a child, he displayed an uncanny patience—tending to scraped knees, consoling the sick, and standing strong when others faltered. His mother, gentle yet determined, taught him that compassion was a strength, not a weakness.
 
-Through [[Elira Thorne]], Lioran became acquainted with the [[Order of the Gauntlet]], particularly Sir [[Caldus Merevain]], a veteran knight and close friend of the family. [[Caldus Merevain]] was one of the first to notice Lioran’s potential. Stern, disciplined, and unwavering, he saw in the boy a rare combination of endurance, moral clarity, and purpose. Over the years, [[Caldus Merevain]] became a stepfather figure, guiding Lioran in faith, combat, and personal growth. He taught him that righteousness is proven by deeds, not miracles, and that true strength is measured in one’s willingness to stand for the weak.
+Through [[Elira Thorne]], Lioran became acquainted with the [[Order of the Gauntlet]], particularly Sir [[Caldus Merevain]], a veteran knight and close friend of the family. [[Caldus Merevain]] was one of the first to notice Lioran’s potential. Stern, disciplined, and unwavering, he saw in the boy a rare combination of endurance, moral clarity, and purpose.
+
+Over the years, [[Caldus Merevain]] became a stepfather figure, guiding Lioran in faith, combat, and personal growth. He taught him that righteousness is proven by deeds, not miracles, and that true strength is measured in one’s willingness to stand for the weak.
 
 Caldus’s best friend, [[Ontharr Frume]], was a more boisterous mentor figure in Lioran’s life. Fun-loving, competitive, and skilled in combat, [[Ontharr Frume]] often took Lioran on sparring sessions, horse-back riding contests, arm-wrestling matches, and the occasional drink. While [[Ontharr Frume]] and his approach was far less disciplined than Ser [[Caldus Merevain]]'s, his guidance inspired courage, resourcefulness, and the drive to act decisively when the innocent were in danger. Through them, Lioran learned both the virtues of serious study and the value of camaraderie.
 
@@ -41,13 +43,13 @@ CALDUS: Their Cleric had a bad case of the tummy aches. The High Observer himsel
 
 *The blazing golden orb shines brightly above you as it always has. Its radiant warmth and comforting, and makes you feel so secure. It's a stark contrast to the cold and all-enveloping darkness you became all too familiar with after dealing with the Cult of the Dragon on multiple occasions these past few days. For a second, standing here amongst your people you feel safe.*
 
-A Dawnpriest of [[Lathander]] will step up to the podium first and begin the ceremony. He will first begin by reading the Unity Prayer ([[Elturel]]), then he will defer to Lioran and allow him to say his blessings from [[Ilmater]]. The Dawnpriest will then take the helm and begin the Oathtaking ceremony, reading out the Creed Resolute. At the end of the ceremony, Lioran will notice a man is watching him closely from the distance.
+A Dawnpriest of [Lathander](https://forgottenrealms.fandom.com/wiki/Lathander) will step up to the podium first and begin the ceremony. He will first begin by reading the Unity Prayer ([[Elturel]]), then he will defer to Lioran and allow him to say his blessings from [Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater). The Dawnpriest will then take the helm and begin the Oathtaking ceremony, reading out the Creed Resolute. At the end of the ceremony, Lioran will notice a man is watching him closely from the distance.
 
 *As the ceremony concludes, a man approaches you. He seems to be wearing scavenged looking half-plate on top of his grey robes. A red sash hangs on his belt. A small child walks next to him, she looks to be about 8 or 9 years old and is carrying what looks like a toy sword.*
 
 KROMTAR: Good day, or maybe night? Sorry. I've never been one for conversation, but I have to say I really liked your service.
 
-This is [[Fero Mörktträ]], but now operating under a different name while [[Tharizdun]] possesses his body and soul. If Lioran tries to convince Kromtar into joining the faith, Kromtar says perhaps in another life he would've been more suited to joining the ranks of the faithful. He will then walk away with his daughter and bid him farewell.
+This is [[Fero Mörktträ]], but now operating under a different name while [Tharizdun](https://forgottenrealms.fandom.com/wiki/Tharizdun) possesses his body and soul. If Lioran tries to convince Kromtar into joining the faith, Kromtar says perhaps in another life he would've been more suited to joining the ranks of the faithful. He will then walk away with his daughter and bid him farewell.
 
 At this point, [[Elira Thorne]] will appear and hug Lioran from behind. She will say she was on her way to the [[Sunwake Oven]] to pick up her son's favourite, Pierogi. Elira will ask if Lioran can go pick up some wine from the [[Glowing Goblet]] before he comes home. She will then give him a bushel of flowers because she knows he will likely want to go visit his friend before dinner. 
 
@@ -58,8 +60,7 @@ At this point, [[Elira Thorne]] will appear and hug Lioran from behind. She will
 *You take a second to just bask in the feeling and after a while you walk away. It's not long blook upon your humble abode, a small but roomy 3-bedroom house. The seagulls sit on the roofs like they always did, and your mother seems to have pulled down the blackout curtains for dinner. When you step inside it feels like a weight is lifted off your back, and you're finally home.*
 
 #### Guardian of Faith
-In [[Baldur's Gate]], Lioran will be approached by Father [[Lorgan Brandis]] and inform him that a local group of [[Order of the Gauntlet]] members went missing. They delved into a place called the [[Sunless Citadel]] and never returned. Two members of that party were a brother and sister named Talgen and Sharwyn Hucrele. They 
-
+In [[Baldur's Gate]] at the end of [[Chapter 3.0 - The Bloody Gate]], Lioran will be approached by Father [[Lorgan Brandis]] and will inform him that a local group of [[Order of the Gauntlet]] members went missing. They delved into a place called the [[Sunless Citadel]] and never returned. Two members of that party were a brother and sister named Talgen and Sharwyn Hucrele.
 
 ****
 ### ACTIII: The Cursed Child

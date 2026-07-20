@@ -6,7 +6,7 @@ Governor [[Tarbaw Nighthill]] from the town of [[Greenest]] will be throwing a G
 
 [[Greenest]] is the biggest town along the Uldoon Trail, and serves as an important hub for travellers coming to and from the cities. As a result of its location, many merchants ply their trade in Greenest. When the adventurers arrive, the town is in the midst of preparing for the the Great Hunt. The townsfolk are beyond excited and will tell them that they look forward to this event as it brings not only commerce but all sorts of interesting characters to their otherwise peaceful town. 
 
-The Great Hunt is a week-long hunting event that Governor [[Tarbaw Nighthill]] likes to throw at least once every four years. The original festival was done in reverence of the town's patron deity [[Mielikki]], though most of the hunters that participate these days do so for the sport of it. The legendary ranger [[Drizzt Do'Urden]] participated in one of the first Great Hunts, boosting its popularity across Faerun.
+The Great Hunt is a week-long hunting event that Governor [[Tarbaw Nighthill]] likes to throw at least once every four years. The original festival was done in reverence of the town's patron deity [Mielikki](https://forgottenrealms.fandom.com/wiki/Mielikki), though most of the hunters that participate these days do so for the sport of it. The legendary ranger [[Drizzt Do'Urden]] participated in one of the first Great Hunts, boosting its popularity across Faerun.
 
 ****
 ### **1.1 The First Day**
@@ -43,7 +43,7 @@ The second part of the Great Hunt is the beginning of the festival. There are a 
    The adventurer must pay 3 silver per try to attempt to dunk the gnome. However, what the characters don't know is that the game is rigged and they must get +22 on a strength check. A DC 15 Insight check reveals that something isn't quite right with the gnome and he's far too comfortable sitting in that chair. Confronting Alicia reveals Bryn just doesn't like getting wet so they made it close to impossible for them to lose. They will pay the adventurers with an Alchemy Jug if they let them keep going.
 
 5. An Acrobatics/Athletics Course: Run by a Dragonborn Monk from Beregost named Xaloxan
-   Xaloxan is a Silver Dragonborn and a Monk of Bahamut working for the [[Order of the Gauntlet]]. He was once a devout follower of the Platinum Dragon but left the Order to 'retire' to a less dangerous line of work.
+   Xaloxan is a Silver Dragonborn and a Monk of [Bahamut](https://forgottenrealms.fandom.com/wiki/Bahamut) working for the [[Order of the Gauntlet]]. He was once a devout follower of the Platinum Dragon but left the Order to 'retire' to a less dangerous line of work.
    
    The game is simple. Characters must pass 5 Acrobatics or Athletics skill checks in order. The DC begins at 5 and goes up by 5 each time. By the end of the course, if the adventurers succeed in running it they receive the Slippers of Spider Climbing.
    
@@ -125,7 +125,7 @@ If no characters are members of the [[Talons of the Raven Queen]], [[Cormyc Rave
 The people of Windpeak are cagey and afraid. There's tension high in the air. They will be short with their answers and be paranoid about speaking to people for too long.
 
 The following characters can be encountered.
-1. [[Auron Whitestreak]]: A Dragonborn Cleric of [[Chauntea]], currently holding a quiet service. He will tell the players that he may have to shut down his temple soon as he seems to have lost faith. A DC 10 Persuasion check reveals this is because the [[Cult of the Dragon]] has started recruiting here. He has an amulet belonging to the [[Cult of the Dragon]] in his chambers.
+1. [[Auron Whitestreak]]: A Dragonborn Cleric of [Chauntea](https://forgottenrealms.fandom.com/wiki/Chauntea), currently holding a quiet service. He will tell the players that he may have to shut down his temple soon as he seems to have lost faith. A DC 10 Persuasion check reveals this is because the [[Cult of the Dragon]] has started recruiting here. He has an amulet belonging to the [[Cult of the Dragon]] in his chambers.
 2. Brie: A Gnome Fighter and a mercenary. She be in the tavern telling players that she plans on leaving soon as the wealth in Windpeak seems to have dried up.
 3. James: A Human child. He will tell players that they're not the first cool looking people to come here and that two Shadar-Kai and a Tabaxi was here not too long ago. He will say they were asking about the warehouse but then were gone the next day.
 4. Wilma: A Tiefling woman who used to be the quartermaster but was outsted from her job by very dangerous men. She says she still has a copy of the key and is afraid of what they may do.
@@ -191,17 +191,17 @@ If the recruits are followed, it is revealed that they wish to defect from the c
 
 *When you approach the Eastern part of camp, that's when you see him again. A monsterously large Half-Dragon, blue in his scales and 8 feet tall if not taller. Lightning flashes across his body with every step he takes, arcing between his fingers and his dark splint armour. Langdedrosa Cyanwrath parts the sea of Cultists like a druid does water. The recruits almost seem like they're shaking at the sight of him, and as soon as they enter his vision they all salute in respect and fear, placing their hands on their chest in a fist to reveal the black-marked glove.*
 
-If a player/the players do not salute, a Dragon Cultist Warrior and other full-blooded Cultists strike the players and force them to kneel or salute. [[Langdedrosa Cyanwrath]] will laugh at this and say they have the fire of [[Tiamat]] in their veins. He will then deliver a speech to the crowd.
+If a player/the players do not salute, a Dragon Cultist Warrior and other full-blooded Cultists strike the players and force them to kneel or salute. [[Langdedrosa Cyanwrath]] will laugh at this and say they have the fire of [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat) in their veins. He will then deliver a speech to the crowd.
 
 CYANWRATH: Soldiers! Hear me now.
 
 *The camp stills as every single head turns to look at the Half-Dragon in earnest.* 
 
-CYANWRATH: Greenest was just the beginning. We've struck a mighty blow against the forces of tyranny that govern this wretched land. [[Wyrmspeaker Rezmir]], our Wyrmspeaker, one of [[Tiamat]]'s most trusted has given us the Dragon Queen's decree. We will take, we will plunder and we will destroy every village, town and city that stands between us and bring forth their riches to the Dragon Queen herself. 
+CYANWRATH: Greenest was just the beginning. We've struck a mighty blow against the forces of tyranny that govern this wretched land. [[Wyrmspeaker Rezmir]], our Wyrmspeaker, one of [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat)'s most trusted has given us the Dragon Queen's decree. We will take, we will plunder and we will destroy every village, town and city that stands between us and bring forth their riches to the Dragon Queen herself. 
 
 *The camp around him cheers and pound their weapons against the ground, their shields beating like thunderous drums in the hollow of this valley. A small raincloud forms as the Blue Dragon resting nearby opens its wings.*
 
-CYANWRATH: With [[Lennithon]] and more dragons on our side, we will take our rightful place as the new rulers of the Sword Coast. With [[Tiamat]]'s aid, we will REBUILD this land which is ours. With FIRE, with COLD, with POISON, ACID and LIGHTNING!!
+CYANWRATH: With [[Lennithon]] and more dragons on our side, we will take our rightful place as the new rulers of the Sword Coast. With [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat)'s aid, we will REBUILD this land which is ours. With FIRE, with COLD, with POISON, ACID and LIGHTNING!!
 
 *The Blue Dragon roars mightily in the air as a Black Dragon flies overhead, rider on its back. Rezmir, it seems, was watching intently. When one recruit runs, a Cultist Ranger knocks an arrow but Cyanwrath stops him. In almost the blink of an eye, the Black Dragon sweeps down and picks up the humanoid. His hood and mask pull back just enough to reveal his face, just a scared Tiefling man who picked the wrong time to run.*
 
@@ -213,7 +213,7 @@ CYANWRATH: Do not be afraid. With the Dragon Queen on our side, we cannot stand 
 
 Most cultists here will have something to say, but the general information is:
 - Not everyone here is a full-fledged member, many are new recruits and some are mercenaries with loose morals looking to make a quick profit.
-- The kobolds are here because their worship for [[Tiamat]] made it easy for [[Langdedrosa Cyanwrath]] and [[Wyrmspeaker Rezmir]] to manipulate them.
+- The kobolds are here because their worship for [Tiamat](https://forgottenrealms.fandom.com/wiki/Tiamat) made it easy for [[Langdedrosa Cyanwrath]] and [[Wyrmspeaker Rezmir]] to manipulate them.
 - Goblins are here because after the death of [[Mellara, the Terror of the Sword Coast]], they had nowhere else to go and decided to stay with the [[Cult of the Dragon]].
 - The Cult has been ranging far and wide, but operating in stealth.
 - All of the prisoners have been taken to the Hatchery for [[Frulam Mondath]]'s use.

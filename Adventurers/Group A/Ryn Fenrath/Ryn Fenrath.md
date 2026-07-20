@@ -1,15 +1,15 @@
-**Bio:** A male Tiefling Monk (Warrior of Shadow)
-**Age:** 28
+**D&D Beyond Link:**
+**Tags:** #Player #Monk #Tiefling #Selune #Shar #Neutral
 **Status:** Alive
 
 ****
-#### **BACKSTORY**
+### **BACKSTORY**
 
-Ryn grew up in a small mountain village where he was never fully accepted. His Tiefling horns and glowing eyes made him an outcast, and the villagers whispered devil child whenever he passed. He learned to stay quiet and keep to the edges of a place that feared him. 
+<img src="Ryn Fenrath-1784470191105.webp" alt="Ryn Fenrath" width="300" style="float:left; margin: 0 16px 12px 0;">Ryn grew up in a small mountain village where he was never fully accepted. His Tiefling horns and glowing eyes made him an outcast, and the villagers whispered devil child whenever he passed. He learned to stay quiet and keep to the edges of a place that feared him. 
 
-One night, the village was attacked without warning. Ryn tried to fight back, but the flames overwhelmed everything. When he woke, his left arm and leg were gone, taken by the fire and the faceless attackers who left only ruins behind. A wandering monk found him in the ashes, saved his life, and forged new metal limbs to replace what had been lost. The monk brought Ryn to a hidden monastery, a place dedicated to silence, discipline, and purpose. 
+One night, the village was attacked without warning. Ryn tried to fight back, but the flames overwhelmed everything. When he woke, his left arm and leg were gone, taken by the fire and the faceless attackers who left only ruins behind. A wandering monk by the name of Master [[Kaelor]] found him in the ashes and saved his life. 
 
-Ryn trained with unshakable dedication, rising faster than anyone expected. Master [[Kaelor]], the monk who had rescued him, saw incredible potential in him and often chose him to demonstrate advanced techniques. To Ryn, this was gratitude and hard work. To [[Tovan]], a senior student who had spent years trying to earn [[Kaelor]]’s approval, it was an insult. 
+The monks at the [[Monestary of the Moonmaiden]] forged new metal limbs to replace what had been lost. Ryn then spent his recovery in that hidden monastery, a place dedicated to silence, discipline, and purpose.  Ryn trained with unshakable dedication, rising faster than anyone expected. Master [[Kaelor]] saw incredible potential in him and often chose him to demonstrate advanced techniques. To Ryn, this was gratitude and hard work. To [[Tovan]], a senior student who had spent years trying to earn [[Kaelor]]’s approval, it was an insult. 
 
 [[Tovan]]’s resentment grew into open hostility. He pushed too hard during sparring, glared from across the training hall, and muttered that a Tiefling outsider didn’t belong in the order. Ryn tried to ignore him, but the tension only grew. 
 
@@ -25,23 +25,20 @@ Ryn bowed deeply and walked into the night.
 
 Now he travels the world as a quiet protector, helping those who cannot help themselves. He moves unseen, shaped by the discipline of the monastery and haunted by memories of fire. But he also carries something else within him. Sometimes, in the quiet moments, darker thoughts whisper from deep inside a part of him shaped by his Tiefling nature, a part he does not understand. 
 
-Ryn tries to do good. He wants to do good. 
-
-But the shadow inside him thinks differently, and he doesn’t even know it’s there.
+Ryn tries to do good. He wants to do good. But the shadow inside him thinks differently, and he doesn’t even know it’s there.
 
 _____
 ### ACTI: Rumours of a Foe
 
-During [[Lucien]]'s introduction, Ryn will be told that his old rival is still alive and kicking and is quite aligned with a certain Necromancer, [[Vecna]]. If the sealed letter from [[Chapter 5.0 - Blood of the Wolf]] is mentioned or given to him to read, [[Lucien]] will proclaim this has nothing to do with Ryn's foe.
+During [[Lucien]]'s introduction, Ryn will be told that his old rival is still alive and kicking and is quite aligned with a certain Necromancer, [Vecna](https://forgottenrealms.fandom.com/wiki/Vecna). If the sealed letter from [[Chapter 5.0 - Blood of the Wolf]] is mentioned or given to him to read, [[Lucien]] will proclaim this has nothing to do with Ryn's foe.
 
 ***
 ### ACTII: The Prodigal Monk
 
-
 #### Coming Home
-In [[Chapter 2.0 - Tale of Two Cities]] when the party arrives in Berdusk, Ryn will instantly recognise [[Tovan]] in the crowd. When the two make eye contact, the Orc runs off into the distance. If Ryn gives chase, [[Tovan]] will disappear into the crowd. Monks aligned with [[Shar]] will strike the party in the streets regardless of whether or not they choose to pursue him. After the fight, if Ryn chooses to focus in on the markings, he will receive a vision of his memory of the fire in his village.
+In [[Chapter 2.0 - Tale of Two Cities]] when the party arrives in Berdusk, Ryn will instantly recognise [[Tovan]] in the crowd. When the two make eye contact, the Orc runs off into the distance. If Ryn gives chase, [[Tovan]] will disappear into the crowd. Monks aligned with [Shar](https://forgottenrealms.fandom.com/wiki/Shar) will strike the party in the streets regardless of whether or not they choose to pursue him. After the fight, if Ryn chooses to focus in on the markings, he will receive a vision of his memory of the fire in his village.
 
-[[Flint]] the Blacksmith may ask the party to retrieve the Inert [[Belt of the Giant]], in which case they will be directed to the Sunset Mountains in order to retrieve it from a Goblin village named [[Sunset Camp]]. Their Champion and Ryn (unbeknownst to either) are facing the same foe; a Vampire named Florian.
+Flint the Blacksmith may ask the party to retrieve the Inert [[Belt of the Giant]], in which case they will be directed to the Sunset Mountains in order to retrieve it from a Goblin village named [[Sunset Camp]]. Their Champion and Ryn (unbeknownst to either) are facing the same foe; a Vampire named Florian.
 
 Florian is a handsome man with pale white skin, white hair and gleaming yellow eyes. He initially presents himself as a fellow Selunite, simply 'basking in the Moonmaiden's grace'. He will even make small talk with the adventurers, and nothing short of Divine Sense or Detect Good and Evil will reveal his true nature for he glamours himself quite well.
 
@@ -86,8 +83,6 @@ TOVAN: [[Kaelor]] never told you, did he? Well I guess he's dead, so now is as g
 TOVAN: If you really want to avenge our family and find answers, let me leave. There's a group of Sharrans up north in the Dessarin valley. I've got Sharrans down in Amn to kill, but if you want answers they'll know more.
 
 At this point, Ryn can either choose to kill or spare [[Tovan]]. If Ryn chooses to spare him, Tovan will make good on his word and venture to Amn to hunt down one of the other members of the Sharrans that slaughtered the monks in the [[Ill met by Moonlight]]. If Ryn chooses to kill him, Tovan will simply say this is a waste of time and he will only regenerate the next day. If [[Yan 'Keyreeonis' Lawntill]] asks, Tovan will say he gained the ability to regenerate his body after killing his second target. In either case, the party will leave the Temple and return to Berdusk.
-
-#### Baldur's Gate
 
 ****
 ### ACTIII: The Cursed Child

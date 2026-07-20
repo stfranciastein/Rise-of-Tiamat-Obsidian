@@ -1,3 +1,6 @@
+**Written by:** [[Sylvira Savikas]]
+**Tags:** #LettersAndNotes
+
 *Caradil,
 
 *Your letter is appreciated and all is well here in Candlekeep. I heard about what happened in Greenest, grateful that you and the rest of your company are keeping well.*

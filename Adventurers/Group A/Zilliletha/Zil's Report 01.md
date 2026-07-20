@@ -1,4 +1,7 @@
-Report to the Cormyc
+**Written by:** [[Żilliletha]]
+**Tags:** #LettersAndNotes 
+
+Report to Cormyc
 
 Political:
 

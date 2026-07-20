@@ -99,7 +99,7 @@ The details of this mission are outlined in [[Demonic Vengeance]].
 ____
 ### 2.3 The Belt of Giant's Strength
 
-[[Flint]] the Blacksmith will have a job posting up on the board of [[Patriarch's Rest]] and the [[Flourished Flagon]] taverns about a job. When asked, he will say he's looking for someone to retrieve the Belt of Giant's Strength for him, with the promise of 750 Gold for those who can retrieve it. He will not be open for any bargains either way, and will only pay up once the belt is on him. 
+Flint the Blacksmith will have a job posting up on the board of [[Patriarch's Rest]] and the [[Flourished Flagon]] taverns about a job. When asked, he will say he's looking for someone to retrieve the Belt of Giant's Strength for him, with the promise of 750 Gold for those who can retrieve it. He will not be open for any bargains either way, and will only pay up once the belt is on him. 
 
 He will direct the party to the Sunset Mountains. According to him, there is a Hobgoblin Champion in a village at the foot of the mountains who is currently in possession of it. It is a three day's walk to the foot of the mountains. Once the party arrives, they will begin the [[Ill met by Moonlight]] side quest.
 

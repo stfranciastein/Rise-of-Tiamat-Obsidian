@@ -1,13 +1,16 @@
-**Bio:** A female Earth Genasi Druid (Circle of the Moon).
-**Age:** 116
+**D&D Beyond Link**: https://www.dndbeyond.com/characters/154168126
+**Tags:** #Player #Druid #Genasi #EarthGenasi #Selune #NeutralGood
 **Status:** Alive
 
 ****
-#### **BACKSTORY**
+### **BACKSTORY**
 
-Ulena, a Genasi born of a human mother and a genie father, grew up in the diverse yet isolating region of Silvermoon, where arcane creatures were common but her elemental nature still set her apart. 
+<img src="Ulena Kiln-1784472168807.webp" alt="Ulena Kiln" width="300" style="float:left; margin: 0 16px 12px 0;">Ulena, a Genasi born of a human mother and a genie father, grew up in the diverse yet isolating region of Silvermoon, where arcane creatures were common but her elemental nature still set her apart. 
 
 Her father [[Sossa Kiln]], a Dao, was distant, but not cruel. His emotional coldness hid a deep fear that his presence put Ulena in danger. Her mother [[Rynae Kiln]] loved her, but carried a secret that slowly consumed her. 
+
+
+
 
 When Ulena overheard their argument, it wasn’t just marital tension, it was a final decision. Her father had been commanded to return to his own realm, or else risk bringing calamity to his family. His sad glance as he left revealed his helplessness. 
 
@@ -67,7 +70,7 @@ MARIANNE: Now, I've been nice, but sure look yous gobshites have been quite the 
 
 *[[Marianne]] emerges from inside of the house to reveal herself, blue-skinned and grey-haired with a brown robe giving her the false appearance of a senile old woman. She flashes a book in your direction and tosses it down towards you.*
 
-*The book on the ground is quite dusty and covered in bits of soil and overgrowth. The cover page reads '[[Grim Tales for Bratty Children]]'. As you gaze upon the book it begins to open. The inside is quite in contrast; it's pristine, as if the pages were just printed moments ago. As you start to read the words, "Once upon a time" an unnatural sleep creeps over your body. [[Zilliletha]] and [[Yan 'Keyreeonis' Lawntill]], even the two of you find yourselves being lulled to rest.*
+*The book on the ground is quite dusty and covered in bits of soil and overgrowth. The cover page reads '[[Grim Tales for Bratty Children]]'. As you gaze upon the book it begins to open. The inside is quite in contrast; it's pristine, as if the pages were just printed moments ago. As you start to read the words, "Once upon a time" an unnatural sleep creeps over your body. [[Żilliletha]] and [[Yan 'Keyreeonis' Lawntill]], even the two of you find yourselves being lulled to rest.*
 
 MARIANNE: Bye bye now sweetness. 
 
