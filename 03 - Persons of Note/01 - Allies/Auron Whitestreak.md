@@ -1,5 +1,6 @@
 **Tags:** #NPC #Cleric #Dragonborn #Bahamut #LawfulGood 
-**Voice:** American, Deep.
+**Status:** Alive
+**Accent:** American, Deep
 
 _____
 ### BACKSTORY

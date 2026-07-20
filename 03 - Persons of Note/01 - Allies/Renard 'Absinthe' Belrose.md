@@ -1,5 +1,6 @@
 **Tags:** #NPC #Warlock #Human #Devil #LawfulEvil
-**Accent:** English, Generic.
+**Status:** Alive
+**Accent:** English, Generic
 
 ____
 

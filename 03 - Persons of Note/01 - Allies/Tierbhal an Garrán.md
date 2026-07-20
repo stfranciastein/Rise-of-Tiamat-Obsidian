@@ -1,4 +1,6 @@
 **Tags:** #NPC #Druid #Elf #WoodElf #NeutralGood
+**Status:** Alive
+**Accent:** European, Deep
 
 ****
 #### **BACKSTORY**

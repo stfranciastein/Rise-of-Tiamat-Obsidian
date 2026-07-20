@@ -1,5 +1,6 @@
 **Tags:** #NPC #Fighter #Orc #Lycanthrope #TalonsOfTheRavenQueen #LawfulNeutral 
-**Accent:** American, Southern.
+**Status:** Alive
+**Accent:** American, Southern
 
 ____
 ### BACKSTORY

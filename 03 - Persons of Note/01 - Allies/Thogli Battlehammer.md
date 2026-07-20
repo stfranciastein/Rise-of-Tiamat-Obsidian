@@ -1,2 +1,3 @@
 **Tags:** #NPC #Paladin #GoldDwarf #Dwarf #NeutralGood 
-**Accent:** Scottish.
+**Status:** Alive
+**Accent:** Scottish
