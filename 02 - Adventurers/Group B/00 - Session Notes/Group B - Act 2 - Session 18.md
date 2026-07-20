@@ -14,3 +14,4 @@ ____
 - Sell your shit
 - Buy some diamonds
 - buy some potions
+- Find a cleric to use with speak dead with the golden skull (Githzerai).
