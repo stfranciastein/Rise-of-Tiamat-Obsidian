@@ -95,7 +95,9 @@ The humanoid entrails were left on the altar as an offering to the god of murder
 
 ##### D8. Moldy Tapestry
 
-The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming. Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](https://5e.tools/trapshazards.html#yellow%20mold_dmg) (see [chapter 5 of the Dungeon Master's Guide](https://5e.tools/trapshazards.html#yellow%20mold_dmg)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
+*The back wall of this dry alcove is hung with a 5-foot-wide, 7-foot-tall tapestry. It depicts a grisly scene of four faceless figures ripping apart a fifth figure, who is screaming.* 
+
+Characters who inspect the tapestry without touching it notice yellow mold growing around its edges. In fact, a 5-foot-square patch of [yellow mold](https://5e.tools/trapshazards.html#yellow%20mold_dmg) (see [chapter 5 of the Dungeon Master's Guide](https://5e.tools/trapshazards.html#yellow%20mold_dmg)) clings to the back of the tapestry and releases its deadly spores if the tapestry is disturbed.
 
 ##### D9. The Dead Three Doors
 
@@ -147,11 +149,11 @@ The suit of armor is a helmed horror.
 
 Unless the characters approach this room quietly and without light sources, they alert the occupants here. Describe the area to the players as follows:
 
-This partially collapsed room has three wooden beams bracing its ceiling. Situated between the beams is a scorched wooden table with a human cadaver resting atop it. A frighteningly thin woman in a black robe is studying the corpse, her face largely hidden under a cowl. Around her feet creep a swarm of [skeletal rats](https://5e.tools/bestiary.html#skeletal%20rats_bgdia).
+*This partially collapsed room has three wooden beams bracing its ceiling. Situated between the beams is a scorched wooden table with a human cadaver resting atop it. A frighteningly thin woman in a black robe is studying the corpse, her face largely hidden under a cowl.*
 
-The necromancer looming over the corpse is Flennis, a female human [master of souls](https://5e.tools/bestiary.html#master%20of%20souls_bgdia) and the highest-ranking follower of Myrkul in the dungeon. Use the [swarm of rats](https://5e.tools/bestiary.html#swarm%20of%20rats_mm) stat block in the [Monster Manual](https://5e.tools/book.html#mm) to represent Flennis' [skeletal rats](https://5e.tools/bestiary.html#skeletal%20rats_bgdia), which are undead instead of beasts. The swarm can be turned by any character with the Turn Undead feature, but spells that target beasts have no effect on it.
+FLENNIS: What's this my lord? What's this? New subjects for me?
 
-Flennis is preparing to make a zombie out of the corpse on the table, but the [animate dead](https://5e.tools/spells.html#animate%20dead_phb) spell takes 1 minute to cast, which means she must deal with the characters first. Her [skeletal rats](https://5e.tools/bestiary.html#skeletal%20rats_bgdia) attack the nearest foe, and she casts spells while using the table for cover.
+The necromancer looming over the corpse is Flennis, a female human [master of souls](https://5e.tools/bestiary.html#master%20of%20souls_bgdia) and the highest-ranking follower of Myrkul in the dungeon. Flennis is preparing to make a zombie out of the corpse on the table, but the [animate dead](https://5e.tools/spells.html#animate%20dead_phb) spell takes 1 minute to cast, which means she must deal with the characters first. Her [skeletal rats](https://5e.tools/bestiary.html#skeletal%20rats_bgdia) attack the nearest foe, and she casts spells while using the table for cover.
 
 Treasure. In addition to her robe and her flail, Flennis carries a dusty spellbook that contains all the spells she has prepared. The book has black leather covers and sports a tiny, skull-shaped locking mechanism. Flennis has the key to the lock stuck in her hair. A character can also pick the lock with a successful DC 10 Dexterity check made with [thieves' tools](https://5e.tools/items.html#thieves'%20tools_phb).
 
@@ -159,19 +161,17 @@ The first time a creature other than Flennis opens the book, a wisp of black smo
 
 ##### D14. Hungry Rat
 
-An ordinary [rat](https://5e.tools/bestiary.html#rat_mm) scurries around this room, looking for scraps of food. If the characters use a [speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb) spell or similar magic to communicate with the rat, it can share its knowledge of the dungeon with them. It warms to characters who offer it food.
+An ordinary [rat](https://5e.tools/bestiary.html#rat_mm) named Ratthew scurries around this room, looking for scraps of food. If the characters use a [speak with animals](https://5e.tools/spells.html#speak%20with%20animals_phb) spell or similar magic to communicate with the rat, it can share its knowledge of the dungeon with them. It warms to characters who offer it food.
 
 The rat's knowledge is limited to places it has visited—specifically [areas D5](https://5e.tools/adventure.html#bgdia,1,d5.%20welcome%20to%20the%20dungeon,0) through [D26](https://5e.tools/adventure.html#bgdia,1,d26.%20bhaal's%20rest,0). It doesn't know the location of secret doors, so it's unaware of [areas D27](https://5e.tools/adventure.html#bgdia,1,d27.%20echoes%20of%20battle,0) through [D33](https://5e.tools/adventure.html#bgdia,1,d33.%20covenant%20of%20the%20dead%20three,0), which are hidden behind the secret door in [area D23](https://5e.tools/adventure.html#bgdia,1,d23.%20secret%20door%20and%20sentry,0).
 
 ##### D15. Flooded Room
 
-The flooded, rubble-strewn tunnels leading to and from this room narrow to a width of 2½ feet in places. Four rotting wooden beams rise from the murky water to brace the ceiling here. Rubble piled in the northwest corner contains nothing of interest.
+*The flooded, rubble-strewn tunnels leading to and from this room narrow to a width of 2½ feet in places. Four rotting wooden beams rise from the murky water to brace the ceiling here. Rubble piled in the northwest corner contains nothing of interest.*
 
 ##### D16. Flooded Crypt
 
-Murky, foul-smelling water surrounds an open stone sarcophagus resting in the middle of this crypt, its stone lid lying broken in three pieces under the water north of it. A [detect magic](https://5e.tools/spells.html#detect%20magic_phb) spell reveals an aura of evocation magic around the sarcophagus. Characters who pull the lid fragments out of the water see that the lid was carved in the likeness of a screaming, axe-wielding barbarian.
-
-Exposure to the dampness has rotted the bones in the sarcophagus, reducing them to black sludge.
+*Murky, foul-smelling water surrounds an open stone sarcophagus resting in the middle of this crypt, its stone lid lying broken in three pieces under the water north of it. A [detect magic](https://5e.tools/spells.html#detect%20magic_phb) spell reveals an aura of evocation magic around the sarcophagus. Characters who pull the lid fragments out of the water see that the lid was carved in the likeness of a screaming, axe-wielding barbarian.* *Exposure to the dampness has rotted the bones in the sarcophagus, reducing them to black sludge.
 
 Trap. If the contents of the sarcophagus are disturbed, a ghostly battleaxe appears above the sarcophagus. The battleaxe is created by magic similar to a [spiritual weapon](https://5e.tools/spells.html#spiritual%20weapon_phb) spell and is treated as a 2nd-level spell effect for the purpose of dispelling it. The ghostly battleaxe can't be harmed, can't leave the room, and targets only creatures, acting on initiative count 20. On each of its turns, it moves up to 10 feet and makes a melee spell attack (+5 to hit) against an available target, dealing 6 (1d8 + 2) force damage on a hit. The effect ends when there are no longer any creatures in the room, and the trap resets after 24 hours.
 
@@ -179,23 +179,23 @@ Trap. If the contents of the sarcophagus are disturbed, a ghostly battleaxe appe
 
 Read or paraphrase the following boxed text to the players when their characters first enter the room:
 
-This dry, partially collapsed room contains a stone altar with humanoid skulls and bones piled around it. The top of the altar is covered with dozens of half-melted candles made of black wax, all currently unlit.
+*This dry, partially collapsed room contains a stone altar with humanoid skulls and bones piled around it. The top of the altar is covered with dozens of half-melted candles made of black wax, all currently unlit.*
 
 If one or more of the black candles on the altar are lit, they shed a green light that reveals black writing on the walls. The writing, which is not visible otherwise, says in Common, "RISE AND BE COUNTED!" If these words are spoken aloud within 5 feet of the altar, the words vanish as bones hidden under the debris at the north end of the room rise up and knit together, forming three animated human [skeletons](https://5e.tools/bestiary.html#skeleton_mm). The skeletons are evil undead, but they obey the commands of whoever spoke the words that raised them, serving that individual until they're destroyed or their master is killed.
 
 ##### D18. Gas Buildup
 
-The ceiling of this flooded room is supported by numerous wooden beams. The air here smells like rotten eggs, a putrid stench that carries beyond the room. Any character approaching this area who succeeds on a DC 10 Wisdom (Survival) check realizes that the stench is an indicator of flammable gas in the room. This gas disperses before reaching other areas of the dungeon, and the Dead Three cultists extinguish their torches before moving through this area.
+*The ceiling of this flooded room is supported by numerous wooden beams. The air here smells like rotten eggs, a putrid stench that carries beyond the room. Any character approaching this area who succeeds on a DC 10 Wisdom (Survival) check realizes that the stench is an indicator of flammable gas in the room. This gas disperses before reaching other areas of the dungeon, and the Dead Three cultists extinguish their torches before moving through this area.*
 
 Bringing a lit torch or other open flame into the gas-filled room triggers an explosion that fills the chamber. Creatures fully immersed in the water take no damage, but all others must succeed on a DC 15 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. All the wooden beams that support the ceiling are destroyed in the explosion, which could cause a roof collapse (see "[Dungeon Features](https://5e.tools/adventure.html#bgdia,1,d5.%20welcome%20to%20the%20dungeon,0)" in [area D5](https://5e.tools/adventure.html#bgdia,1,d5.%20welcome%20to%20the%20dungeon,0)). The explosion also burns away the gas, which builds up slowly and becomes dangerous again after 24 hours.
 
 ##### D19. Partially Collapsed Crypt
 
-Much of this room has fallen in, with the debris field mostly burying a stone sarcophagus that was looted years ago. Nothing of interest remains.
+*Much of this room has fallen in, with the debris field mostly burying a stone sarcophagus that was looted years ago. Nothing of interest remains.*
 
 ##### D20. Half-Plundered Crypt
 
-An open sarcophagus stands at the back of this dusty crypt, its heavy stone lid lying on its side between the sarcophagus and the south wall. The north-facing side of the sarcophagus bears faded frescoes of spear-wielding warriors charging across golden plains on horseback.
+*An open sarcophagus stands at the back of this dusty crypt, its heavy stone lid lying on its side between the sarcophagus and the south wall. The north-facing side of the sarcophagus bears faded frescoes of spear-wielding warriors charging across golden plains on horseback.*
 
 Treasure. A casual search of the sarcophagus turns up nothing but dust and a few scattered humanoid bones. Any character who conducts a thorough search realizes that the sarcophagus has a false bottom made of inch-thick plaster. Smashing through this plaster layer reveals a cavity below that contains a human mummy floating in a shallow pool of red brine. The mummy has two moonstones (50 gp each) embedded in its eye sockets and a [bag of beans](https://5e.tools/items.html#bag%20of%20beans_dmg) where its heart would normally be. Characters must intentionally tear open the mummy's chest to find the hidden bag. The mummy is inanimate and doesn't protest the theft.
 
@@ -203,7 +203,7 @@ Treasure. A casual search of the sarcophagus turns up nothing but dust and a few
 
 Characters who listen at the door to this room hear faint humanoid moans in the room beyond. Describe the area to the players as follows:
 
-Six moaning humans with rotting flesh shamble about this dusty crypt, which reeks of death. An open stone sarcophagus rests against the back wall, its shattered lid lying in pieces on the floor around it.
+*Six moaning humans with rotting flesh shamble about this dusty crypt, which reeks of death. An open stone sarcophagus rests against the back wall, its shattered lid lying in pieces on the floor around it.*
 
 The shambling corpses are six [zombies](https://5e.tools/bestiary.html#zombie_mm) created by Flennis (see [area D13](https://5e.tools/adventure.html#bgdia,1,d13.%20morgue,0)) from the remains of the Dead Three cultists' murder victims. The zombies obey only their creator and attack all others, including other members of the Dead Three cult.
 
@@ -211,13 +211,11 @@ Carved into the north-facing side of the sarcophagus are ghastly images of human
 
 ##### D22. Torture Chamber 
 
-Followers of Bane torture and interrogate prisoners here. Describe this room to the players as follows:
+*The walls and floor of this room are covered with streaks and splashes of dried blood. Two dangling bodies are shackled to the east and south walls. One is an elderly male human; the other, a young female tiefling. Both are covered in bloody gashes, and neither is moving.*
 
-The walls and floor of this room are covered with streaks and splashes of dried blood. Two dangling bodies are shackled to the east and south walls. One is an elderly male human; the other, a young female tiefling. Both are covered in bloody gashes, and neither is moving. In the middle of the room is a sturdy wooden chair with a bloody whip draped over it. A bucket half filled with salt sits on the floor nearby.
+*In the middle of the room is a sturdy wooden chair with a bloody whip draped over it. A bucket half filled with salt sits on the floor nearby. An unresponsive human male is strapped to the chair, his eyes blindfolded.
 
-The followers of Bane rub salt into the wounds of the prisoners they torture here. Yignath the iron consul (see [area D12](https://5e.tools/adventure.html#bgdia,1,d12.%20bane's%20altar,0)) carries the keys to both sets of shackles, which have AC 19, 10 hit points, and immunity to poison and psychic damage. A character with [thieves' tools](https://5e.tools/items.html#thieves'%20tools_phb) can unlock a set of shackles with a successful DC 15 Dexterity check.
-
-The male human is dead. He was Effinax Zalbor, a caravan coordinator employed by the Jhasso patriar family, which is part-owner of a trading coster that operates throughout the Western Heartlands (see [area D12](https://5e.tools/adventure.html#bgdia,1,d12.%20bane's%20altar,0)).
+The male human is dead. He was Effinax Zalbor, a caravan coordinator employed by the Jhasso patriar family, which is part-owner of a trading coster that operates throughout the Western Heartlands.
 
 The female tiefling has 0 hit points, and is [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb) but stable. She is Vendetta Kress, a neutral [commoner](https://5e.tools/bestiary.html#commoner_mm) who speaks Common and Infernal. She has resistance to fire damage and darkvision out to a range of 60 feet. Vendetta distributes wine and spirits for the Oathoon patriar family of Baldur's Gate, and was attacked in the Lower City, knocked [unconscious](https://5e.tools/conditionsdiseases.html#unconscious_phb), and brought here to be tortured. Under interrogation, she gave her captors information regarding the Oathoons and their security arrangements. She also witnessed the interrogation and death of Effinax, who was questioned at length about the Jhasso family.
 
@@ -261,26 +259,25 @@ This flooded room was once a cellar, with the collapsed eastern passage marking 
 
 ##### D29. Mortlock Vanthampur
 
-The sounds of combat intensify as the characters approach this area. Describe the scene to the players as follows:
+*Beyond the hall, a flooded chamber opens up with rough-hewn steps climbing to the south, north, and northeast. The floor buckles up above the water line in the middle of the room, forming a small island. Corpses and doused torches float in the water around the island, atop which two men circle each other with weapons bared.*
 
-Beyond the hall, a flooded chamber opens up with rough-hewn steps climbing to the south, north, and northeast. The floor buckles up above the water line in the middle of the room, forming a small island. Corpses and doused torches float in the water around the island, atop which two men circle each other with weapons bared. One of the men—a tall, unarmored brute with a greatclub and a scarred face—towers above his opponent but is gravely wounded. The smaller figure is muscular and bare-chested. He clutches a bloody dagger in one hand and a torch in the other, and has no flesh covering his skull.
+*One of the men—a tall, armoured brute dressed in black with a greataxe a scarred face—towers above his opponent. He appears to be the size of a Goliath, but on closer inspection is actually a disfigured human. The smaller figure is equally as muscular but not as tall. It's clear that the other man is another Iron Consul, as his armour bears the Black Hand of Bane.*
 
-The man with the greatclub is twenty-nine-year-old [Mortlock Vanthampur](https://5e.tools/bestiary.html#mortlock%20vanthampur_bgdia), who has 30 hit points left. His opponent is an uninjured [death's head of Bhaal](https://5e.tools/bestiary.html#death's%20head%20of%20bhaal_bgdia) named Vaaz. Four other Dead Three cultists lie dead in the water, their skulls caved in by Mortlock.
+MORTLOCK: Little rats, scurrying about. Come out of the shadows, rats. I can sense you're here.
 
-Mortlock is tolerated by his mother, [Duke Thalamra Vanthampur](https://5e.tools/bestiary.html#duke%20thalamra%20vanthampur_bgdia), and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance. He was sent to the bathhouse dungeon by his mother to help the followers of the Dead Three coordinate attacks against the city. When it became clear that the Dead Three cultists could function without Mortlock's support, Thurstwell and Amrik conspired with several Bhaal cultists to assassinate Mortlock without their mother's knowledge.
+*He picks up his greataxe and rests it against his shoulder. An infernal chain that glows with fire attaches it to his wrist. The Iron Consul raises his warhammer and gets into a battlestance.*
 
-Mortlock and Vaaz stop fighting when the characters arrive. Believing them to be Mortlock's associates, Vaaz disengages from the fight on his next turn and withdraws to [area D33](https://5e.tools/adventure.html#bgdia,1,d33.%20covenant%20of%20the%20dead%20three,0), where he makes his final stand. Vaaz takes his torch with him. Rather than pursuing, Mortlock tries to forge an alliance with the characters. If they come to terms with Mortlock, he gives them the following information in exchange for a promise of amnesty:
+MORTLOCK: Who sent you, rats? Was it the Order of the Gauntlet? Or maybe it was Lady Ravenshade, still desperately lookin' to usurp Duke [[Belynne Stelmane]]'s place.
 
-- "I was betrayed. These assassins conspired with my brothers to kill me. If you hadn't come along, I'd be dead. I owe you my life."
-- "My family is paying the Dead Three cultists to murder people in the city. Our goal is to prove that the Flaming Fist can't do its job. Once the city stops paying them, the Flaming Fist will have less of a reason to stay in Baldur's Gate. With them gone, no one can stand in the way of my mother becoming the city's next grand duke. If she gets her way, Baldur's Gate will share Elturel's fate and get dragged down into the Nine Hells."
-- "My mother is one of the three remaining members of the Council of Four, which governs Baldur's Gate. She was instrumental in convincing [Ulder Ravengard](https://5e.tools/bestiary.html#ulder%20ravengard_bgdia) to travel to Elturel and meet with its high overseer, [Thavius Kreeg](https://5e.tools/bestiary.html#thavius%20kreeg_bgdia). With Ravengard gone, the Flaming Fist is leaderless and vulnerable."
-- "The Dead Three cultists receive regular payments from my brother, Amrik, who runs his own moneylending business out of a tavern called the Low Lantern. My mother doesn't expect much of me, but she thinks the world of Amrik. He's always been her favorite."
-- "My oldest brother, Thurstwell, uses imps as spies throughout the city. He has the bathhouse under surveillance and probably knows you're here. He's very sickly and seldom leaves our mother's estate."
-- "If you've made it this far, you've killed most of the leaders of the Dead Three cult. Without them, the cult will break up. The cultists keep their treasure nearby." (Mortlock points toward [area D30](https://5e.tools/adventure.html#bgdia,1,d30.%20tiamat's%20stolen%20treasure,0).)
+*The Iron Consul steps forward and his eyes glow.*
 
-If the characters let him go, Mortlock hides in the city until he can book passage on a ship and leave Baldur's Gate. He has no intention of ever returning.
+MORTLOCK: Wait, I do know you. She's told me all about you. The saviours of [[Elturel]]. She wants you to know, sooner or later that city will fall. No matter what you try to do.
 
-Mortlock is afraid to confront his mother or his brothers. That said, a successful DC 14 Charisma (Persuasion) check can convince him to help the characters capture or kill Amrik at the [Low Lantern](https://5e.tools/adventure.html#bgdia,1,low%20lantern,0). After doing so, Mortlock leaves the city as quickly as possible to escape his mother's wrath.
+*Mortlock thumps his chest and roars into the air as he enters a Barbarian rage. He smirks as his greatsword lights ablaze, his eyes glowing with bright orange power for a split second.*
+
+MORTLOCK: Come rats. FIGHT!
+
+Upon [[Mortlock Vanthampur]]'s death, he will use his dying breath to chuckle at the party's victory. He will proclaim that their victory means nothing, and that her plan is already in motion.
 
 ##### D30. Tiamat's Stolen Treasure
 
@@ -306,6 +303,12 @@ Nine wooden crates are scattered throughout this room. Scurrying among them are 
 
 Treasure. Six of the crates are empty except for packing straw. The other three contain stolen goods that the cultists have not yet disbursed, including ten days' worth of rations, a [bag of twenty caltrops](https://5e.tools/items.html#caltrops%20\(bag%20of%2020\)_phb), three [flasks of alchemist's fire](https://5e.tools/items.html#alchemist's%20fire%20\(flask\)_phb), six sets of [manacles](https://5e.tools/items.html#manacles_phb), four [tinderboxes](https://5e.tools/items.html#tinderbox_phb), nine [daggers](https://5e.tools/items.html#dagger_phb), and four [potions of healing](https://5e.tools/items.html#potion%20of%20healing_dmg) in glass vials.
 
+There is also a note stating the following information:
+
+	The Dead Three cultists receive regular payments from Mortlock's brother, Amrik, who runs his own moneylending business out of a tavern in the Lower City called the Low Lantern. 
+
+This information greatly aids the efforts of Lady [[Margaret Ravenshade]], who will be greatly interested in this piece of information and will award the party for it.
+
 ##### D33. Covenant of the Dead Three
 
 If Vaaz fled [area D29](https://5e.tools/adventure.html#bgdia,1,d29.%20mortlock%20vanthampur,0), he's standing in front of the statues in the west section of the room, his sputtering torch lying on the floor near his feet. Describe the room to the players as follows:
@@ -323,3 +326,14 @@ Bane Statue. The statue of the armored man represents Bane. Its spear is real bu
 Bhaal Statue. This statue's harlequin mask is a separate piece that can be unhinged and removed, revealing Bhaal's ghastly, skull-like visage underneath.
 
 Myrkul Statue. Anyone who desecrates this statue is cursed by the Lord of Bones. Until the curse is ended with a [remove curse](https://5e.tools/spells.html#remove%20curse_phb) spell or similar magic, the offender gains no benefit from magical healing.
+
+____
+### CONCLUSION
+
+After returning to [[Raven's Arbor]], it is likely that the [[Flaming Fist]] will have heard of what happened at the Bathhouse. [[Margaret Ravenshade]] will award the players with 4,000 GP and two diamonds worth 300 GP. If they bring her proof that [[House Vanthampur]] is involved, she will award them an extra She says that the information they gained will be helpful in securing her a place on the [[Council of Four]]. 
+
+MARG: I admit that this omen Mortlock spoke of about [[Elturel]] concerns me greatly, moreso than my own ambitions for the [[Council of Four]]. I will need to think on this.
+
+*She rubs her forehead with the tips of her finger, careful not to smudge her makeup too much or move a single hair from her head out of place. For a second, you see her strength falter but then she breathes in and composes herself. Just like that, she's fine again.*
+
+MARG: If you are interested in looking into this, please, pursue this lead to the [[Lower City]]. Meet with me again as soon as possible if and when you find something from Amrik.

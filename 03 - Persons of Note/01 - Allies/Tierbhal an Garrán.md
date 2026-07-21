@@ -1,3 +1,4 @@
+**D&D Beyond Link**: https://www.dndbeyond.com/characters/154315551
 **Tags:** #NPC #Druid #Elf #WoodElf #NeutralGood
 **Status:** Alive
 **Accent:** European, Deep

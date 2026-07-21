@@ -3,7 +3,7 @@
 ____
 ### TRIGGER
 
-Entering [[Whitkeep Hostel]] in [[Baldur's Gate]] will trigger this quest.
+Entering [[Whitkeep Hostel]] in [[Baldur's Gate]] will trigger this quest. A pair of Gnomes can be heard arguing in the distance as the players enter for the first time.
 
 ____
 ### PART I - Revolution is afoot
@@ -40,7 +40,6 @@ There are several ways players can locate Gardak. The simpliest way is to approa
 Speaking to Gardak will reveal he confiscated the schematics because [[Ardryn Deagle]] refuses to sell the plans to the [[Flaming Fist]]. He will agree to let go of the plans only if Ardryn returns to working on the object for [[Baldur's Gate]] and for profit.
 
 ____
-
 ### PART III - Possible Endings
 ### Good Ending
 If the PCs help [[Pernilla 'Prole' Cabrenock]] and [[Ardryn Deagle]] acquire the blueprints 5x Mirror, Steel(5gp each) and 100 Gold worth of Unrefined Ioun Stones, they promise to reward the PCs four "Arcana-net" mirrors which among other things, allow the players to communicate up to 2 miles apart from each other.

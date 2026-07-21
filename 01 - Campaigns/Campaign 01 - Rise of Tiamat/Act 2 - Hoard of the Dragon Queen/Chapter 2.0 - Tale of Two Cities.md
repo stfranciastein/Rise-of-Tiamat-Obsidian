@@ -97,7 +97,7 @@ While walking around [[Berdusk]] and shopping for supplies, the party will run i
 
 *You try to turn the man but he doesn't want to budge. As you step forward to confront him, you feel shock and horror as you realise he has no face. Instead, all you find is a gaping hole that reveals the inside of his skull. You see his lower jaw still remains, and his throat gargles at you in a gutteral growl. As you prepare yourself for a confrontation, the man's body contorts and twists as his arms and legs elongate unnaturally. Before you could have a chance to react, he jumps to the wall and crawls off into the distance.*
 
-The details of this mission are outlined in [[Demonic Vengeance]].
+The details of this mission are outlined in [[Cold, Red-Blooded Murder]].
 
 ____
 ### 2.3 The Belt of Giant's Strength

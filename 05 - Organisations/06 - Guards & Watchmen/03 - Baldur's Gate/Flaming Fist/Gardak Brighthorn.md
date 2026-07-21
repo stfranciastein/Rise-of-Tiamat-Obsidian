@@ -1,1 +1,1 @@
-[[Flaming Fist]], [[Arcana-Net]], [[Baldur's Gate]].
+[[Flaming Fist]], [[Welcome to the Arcana-Net]], [[Baldur's Gate]].

@@ -326,7 +326,7 @@ The book is a Kelemvor prayer book. Inside there is a key to the basement. With 
 
 JENNA: Who are you? Is the town safe? Can we leave?
 
-Jenna will explain that she has no idea why the town of Vermeillon is being attacked by Ghosts and Demons. On a successful DC 15 Insight check, players can determine she's not telling the complete truth. If pressed, Jenna will reveal that she is one of the Red-Bloods and assumes that she's cursed. If the first part of [[Demonic Vengeance]] has been completed and Jenna has either been notified or is told of the fate of her other companions, she will express her regret for partaking in the raid but says she's turned her life around since. Unfortunately, [[The Entity (Slaughter Demon)]]
+Jenna will explain that she has no idea why the town of Vermeillon is being attacked by Ghosts and Demons. On a successful DC 15 Insight check, players can determine she's not telling the complete truth. If pressed, Jenna will reveal that she is one of the Red-Bloods and assumes that she's cursed. If the first part of [[Cold, Red-Blooded Murder]] has been completed and Jenna has either been notified or is told of the fate of her other companions, she will express her regret for partaking in the raid but says she's turned her life around since. Unfortunately, [[Pacted Slaughter Demon]]
 is blood-bound to kill her and the other Red-Bloods. 
 
 ____
@@ -337,7 +337,7 @@ ____
 
 *As Jenna and you speak, one of the commoners begin to convulse and contort. A human girl with brown hair and brown eyes lets out a sharp shriek before coming to a stop. Her back breaks, and their legs and arms snap like twigs. The others scream in horror as the woman's jaw falls to the ground and is squashed by her body. Then, she rises, as if being pulled by puppet strings. Her eyes sink into her body, her clothes tear and her mouth begins to spill black ichor.*
 
-[[The Entity (Slaughter Demon)]] will appear and engage the party in combat. At the end of the fight, there will be no civilians left. Jenna will be dying, succumbing to the poison from the Slaughter Demon. The darkness over the town will not be gone as the Demon was not responsible for this. Jenna will say in her dying breath that the demon Shemshime must be contained as the barrier has weakened.
+[[Pacted Slaughter Demon]] will appear and engage the party in combat. At the end of the fight, there will be no civilians left. Jenna will be dying, succumbing to the poison from the Slaughter Demon. The darkness over the town will not be gone as the Demon was not responsible for this. Jenna will say in her dying breath that the demon Shemshime must be contained as the barrier has weakened.
 
 JENNA: Listen to me... Brightwall's notes... if they're right there's a Caprathorn further in. Devil of the Hunt. They tried to lock it away, but its power is too strong. I don't know how, but the seal is broken. It must be.... must be getting power from the killings. You won't be able to kill it... but if you can take its power...
 
@@ -504,7 +504,7 @@ While in Rivington, if any player is a member of the [[Talons of the Raven Queen
 
 DROW: You've been invited to see the Queen, though preparations must be made before your arrival. When four nights have passed, come to the [[Temple of the Raven Queen]]. Second Talon [[Xaria Trevisa]] will be waiting for you.
 
-This will continue and conclude the quest [[Demonic Vengeance]].
+This will continue and conclude the quest [[Cold, Red-Blooded Murder]].
 
 ____
 ### 3.4 The Vault
@@ -529,7 +529,7 @@ During their time in [[Rivington]], players can visit the following locations:
 
 1. Temple of Ilmater: In the [[Temple of the Open Hand]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Temple of the Open Hand (Quest)]] and also prompts the [[Exit bear, stage right]] quest.
 2. Danthelon's Dancing Axe: [[Danthelon's Dancing Axe]] is owned by Entharl Danthelon. He will discuss rumours about a Sunbear disrupting his shipments from coming in. This will begin the [[Exit bear, stage right]] quest.
-3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Arcana-Net]] quest.
+3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Welcome to the Arcana-Net]] quest.
 
 There should be no time crunch apart from the [[Cataclysm]] for the players to want to rush the main quest. When the party makes their way to the [[Black Saddle]], they will formally and finally meet the former [[Order of the Gauntlet]] member [[Ackyn Selebon]]. 
 
@@ -545,7 +545,7 @@ ___
 
 The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Roisin Ravenshade]] will notice them at the gates, and they will be allowed to enter with their party.
 
-1. [[Temple of the Raven Queen]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of a demonic creature associated with the undead. This will continue and conclude the [[Demonic Vengeance]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
+1. [[Temple of the Raven Queen]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of a demonic creature associated with the undead. This will continue and conclude the [[Cold, Red-Blooded Murder]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
 2. [[Raven's Arbor]]: [[Margaret Ravenshade]] is running for the position of Duke as [[Belynne Stelmane]] has been largely unable to rule due to a stroke she suffered recently. In order to help her win the position of Duke, she asks the players to investigate the gruesome murders in the city. This will begin the [[Den of the Dead Three]] quest.
 
 ____
