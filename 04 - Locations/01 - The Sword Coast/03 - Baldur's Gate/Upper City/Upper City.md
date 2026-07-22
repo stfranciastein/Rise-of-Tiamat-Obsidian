@@ -6,9 +6,9 @@ ____
 ##### Discontent 
 Location: Upper City, near the Wide.
 
-*You approach what appears to be a rather sturdily built tent. A strong, proud looking Shield Dwarf stands behind what appears to be a long table. A stone edifice sits next to him, not quite finished. A halfling man walks back and forth as uniformed labourers work on the site.*
+*You approach what appears to be a rather sturdily built tent. A strong, proud looking Shield Dwarf stands behind what appears to be a long table. His long grey beard is braided neatly into five, and his brushed back hair is framed by a thick silver circlet. A stone edifice sits next to him, not quite finished. A halfling man with buzzed hair and a short beard walks back and forth as uniformed labourers work on the site.*
 
-High Constable and Master of Walls Osmurl Havanack (lawful neutral shield dwarf veteran) stands behind a long table outside a stone edifice. The purse master (lawful neutral halfling commoner) oversees the disbursement of wages to a line of ten guards in the Watch.
+High Constable and Master of Walls [[Osmurl Havanack]] (lawful neutral shield dwarf veteran) stands behind a long table outside a stone edifice. The purse master (lawful neutral halfling commoner) oversees the disbursement of wages to a line of ten guards in the Watch.
 
 The purse master checks each guard’s papers, then pays them 50 gp. A character can attempt to disguise themself as a member of the watch to collect wages, though they must succeed on a DC 18 Charisma (Deception) check to fool the purse master and High Constable Havanack.
 
