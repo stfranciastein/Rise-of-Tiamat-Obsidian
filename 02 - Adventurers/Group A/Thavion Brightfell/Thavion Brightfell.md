@@ -17,7 +17,7 @@ Now his mornings don't start with prayers for victory. They start with prayers f
 
 The temple that once called him the One Born of Bahamut turned on him when he walked away—said he'd failed, said he'd thrown away his destiny. But Willowvale, the little town near Candlekeep that took him in, never saw him that way. They didn't love him for being dragon-born. They loved him because he showed up with mercy instead of fire. When storms tear through town, he's the one out rebuilding fences and patching roofs. The kids just know him as the big, gentle farmer who fixes things. He lives simply now, works the land, and honestly—for someone built like he is—farming suits him. It's hard work, but it settles something in him.
 
-Then there's Feldir.
+Then there's [[Feldir Whitefyre]].
 
 Thavion spent his whole life being one of two things: revered by priests or feared by everyone else, soldiers and townsfolk alike. He had a mentor he loved like a father, but never really a friend. Feldir broke that pattern. Somewhere between his wit and his mischief and this quiet kindness he has, Feldir cracked open a part of Thavion that thirty-some years of living had never touched. For the first time, someone looked at him and saw a person, not a symbol, not something holy or something to fear. An equal. Someone he could actually call a brother.
 

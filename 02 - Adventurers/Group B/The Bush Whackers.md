@@ -2,12 +2,9 @@
 
 <img src="The Bush Whackers-1784489832929.webp" alt="The Bush Whackers" width="300" style="float:left; margin: 0 16px 12px 0;">A band of adventurers who were hired by [[Feldir Whitefyre]] of [[Willowvale]] to seek out the wizard [[Matreous Melwin]] in [[Candlekeep]]. This party originally consisted of [[Ambrosius]], [[Caradil Anduin]] and [[Tierbhal an Garrán]].
 
-During the events of [[Act 1 - The Curse of Willowvale]], they recruited [[Larissa Bonham]], [[Vargrach]] the Kobold and [[Stone]] the Goliath. In the final confrontation with [[Mellara, the Terror of the Sword Coast]] [[Ambrosius]] did not survive their encounter and fell in battle. 
+During the events of [[Act 1 - The Curse of Willowvale]], they recruited [[Larissa Bonham]], [[Vargrach]] the Kobold and [[Stone]] the Goliath. In the final confrontation with [[Mellara, the Terror of the Sword Coast]] [[Ambrosius]] did not survive their encounter and fell in battle. [[Vargrach]] left the party in his grief, and [[Larissa Bonham]] stayed in [[Shade Rest]] to deal with hers.
 
-[[Vargrach]] left the party in his grief, and [[Larissa Bonham]] stayed in [[Shade Rest]] to deal with hers.
-At the beginning of  [[Act 2 - Hoard of the Dragon Queen]], the nobleman [[Aramir Void-Blade]] and the Hexblood [[Soma]] joined their party for the Great Hunt.  
-
-During their adventures so far they've also recruited the Talon [[Khasar the Blooded]], the Alliance Noble [[Thogli Battlehammer]], the former Cultist [[Auron Whitestreak]].
+At the beginning of  [[Act 2 - Hoard of the Dragon Queen]], the nobleman [[Aramir Plentyleaf]] and the Hexblood [[Soma]] joined their party for the Great Hunt. During their adventures so far they've also recruited the Talon [[Khasar the Blooded]], the Alliance Noble [[Thogli Battlehammer]], the former Cultist [[Auron Whitestreak]].
 
 ****
 ### EXTRA INFORMATION

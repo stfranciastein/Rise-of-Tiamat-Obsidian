@@ -331,7 +331,7 @@ KHASAR: Khasar of the Talons. Our third Talon Torbar Dragonsbane is currently...
 
 *The other man speaks up. He looks half-elven in appearance and relatively young, which could either mean he's 30 or 80. He appears to have short brown hair, and a similarly thick beard that frames his humanoid face well. A white fur mantle rests atop his leather armour, which encloses an aqua coloured robe. He steps closer towards your party and leans on his staff. *
 
-TIERBHAL: Tierbhal an [[Garrán]]. My father, Archdruid [[Eamir]] will need to be convinced to join this Council, but as one of the Circles of the [[Emerald Enclave]], he has a duty to the Realm. He will listen. If you find yourselves in the [[Misty Forest]], seek him out.
+TIERBHAL: Tierbhal an [[Garrán]]. My father, Archdruid [[Eamir an Garrán]] will need to be convinced to join this Council, but as one of the Circles of the [[Emerald Enclave]], he has a duty to the Realm. He will listen. If you find yourselves in the [[Misty Forest]], seek him out.
 
 ONTHARR: Then it's settled. If there's nothing else, then let's get a move on. Make any preparations you need to do and go. May the Triad and the Companion shine brightly upon us all. 
 

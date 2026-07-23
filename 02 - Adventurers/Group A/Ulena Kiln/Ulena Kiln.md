@@ -86,7 +86,7 @@ RYNAE: I don't know how much you already know, but Silverymoon is in grave dange
 
 Neither Ulena or [[Rynae Kiln]] is strong enough to be able to jump between planes, and even if they were neither of them are prepared to venture into the Feywild proper. [[Rynae Kiln]] explains that in order to get back to Silverymoon and rescue its citizens, they will need something from Silverymoon to make teleport back much more efficient as well as a tuning fork attuned to the Feywild.
 
-RYNAE: There is a Druid's Grove in the Misty Forest called [[Garrán]]. An old friend of mine, Archdruid [[Eamir]] oversees the Circle, and he still owes me quite a few favours. I know you have your business here, but meet me there and perhaps we can petition him to lend us a hand. If there are any others you may know who could be of help, we'll need them as well.
+RYNAE: There is a Druid's Grove in the Misty Forest called [[Garrán]]. An old friend of mine, Archdruid [[Eamir an Garrán]] oversees the Circle, and he still owes me quite a few favours. I know you have your business here, but meet me there and perhaps we can petition him to lend us a hand. If there are any others you may know who could be of help, we'll need them as well.
 
 ****
 ### ACT III: Moonmaiden's Guidance

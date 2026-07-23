@@ -42,9 +42,13 @@ THURAN: After some thinking, I think I've decided to change my mind. Why take ba
 He will then initiate combat if the players have not done so already. During the battle, [[Thuran Yale]] will taunt the players by discussing their deepest insecurities one at a time. The list of his taunts are as follows.
 
 1. Lioran: A half-spawn child looking for a father who couldn't even care enough to leave him a sign. You pretend to be good, a beacon of hope for others to look to but you're no such thing. No matter, your story will end here, stuck in this pathetic city like your friend, like the rest of the fools that make this cesspit their home.
+
 2. Ryn Fenrath: A killer with a heart of a coward. Do you even know the extent of your savagery, what you've done? Do you even want to know? Or will you run away from your past again, like you always do? Finding the bottom of the bottle is much easier than facing your mistakes. Run like the wind, monk, it's what you're good at isn't it?
+
 3. Ulena: How does it feel, Genasi, knowing your father will die because your mother insisted they fight for you? Poor old fool, having to live out his days alone and afraid, thinking you and your mother died for a mistake he made when it was your existence that doomed him. Perhaps it would've been better if you weren't born, then maybe they'd be safe, happy.
+
 4. Zilliletha: Poor dear old Zilliletha, scratching and clawing towards the light looking for meaning. You will amount to nothing, Shadar-kai, just another pawn for your Queen, another blind subject, a statistic, a casualty. When you fall, your memory will fade. After all, who wants to sing the songs of the woman who brought nothing but death in her wake. Your life amounts to nothing. Just like the names on that wall. 
+
 5. Yan: I never told you how your grandmother and father cried for mercy, did I? I took my time with them, you know, hoping you'd get back just in time to see the light vanish from their eyes. Martha begged the most, I could hear it in her mind, she pleaded with me to stop the pain.
 
 If [[Thuran Yale]] becomes bloodied, he will use his ace of Feeblemind on the character who has dealt the most damage. He will tell the group that he does not plan on this being the last time they meet. He then switches tack and goes into full-aggression. Upon his death, he will melt into a pile of snow. [[Thuran Yale]] will then speak into Yan's mind directly, but Yan cannot sense him.
