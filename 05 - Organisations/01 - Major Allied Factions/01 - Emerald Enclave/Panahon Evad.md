@@ -1,11 +1,10 @@
-**Bio:** A male Eladrin Barbarian (Path of the World Tree)
-**Age:** 329
+**Tags:** #NPC #Barbarian #Eladrin #Elf #ChaoticNeutral #EmeraldEnclave
 **Status:** Alive
 
 ____
 ### BACKSTORY
 
-Panahon 'Pan' Evad was born as the youngest child in a family of six. His mother Primavera noticed he had an affinity with nature and would often call on him to help tend their garden. She could see what his father Verano could not; the child's affinity for nature and a way of communicating with the branches below their feet. As a boy, Pan would often wander the woods, leaping from tree to tree and warding away any who would bring them harm. In return for his protection and company, the trees would 'help' Pan traverse the woods, protecting him with their magic.
+Panahon 'Pan' Evad is a 329 year old Eladrin, born as the youngest child in a family of six. His mother Primavera noticed he had an affinity with nature and would often call on him to help tend their garden. She could see what his father Verano could not; the child's affinity for nature and a way of communicating with the branches below their feet. As a boy, Pan would often wander the woods, leaping from tree to tree and warding away any who would bring them harm. In return for his protection and company, the trees would 'help' Pan traverse the woods, protecting him with their magic.
 
 At the age of 15, a fire broke out in his village. Pan was away in the woods, and by the time he returned it had taken the lives of his entire family, leaving him orphaned. While Pan was in the orphanage, he developed a rage that terrified his peers and any who got too close. As he grew older he eventually learned to harness that rage into controlled bursts, a skill that came in handy when he joined the Army of Summer. During his days as a soldier, he served his time with dignity and honour. His peers respected his quiet, reserved nature and he made many friends in both the service and in the city. 
 

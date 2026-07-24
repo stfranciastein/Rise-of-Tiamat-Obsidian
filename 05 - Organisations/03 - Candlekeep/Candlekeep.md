@@ -1,4 +1,7 @@
 [![](https://5e.tools/img/book/MaBJoV/015.webp)]
+**Tags:** #Candlekeep #Organisations #SwordCoast
+
+****
 ### BACKGROUND
 
 Candlekeep is a library-fortress on the Sword Coast and famed for being the greatest collection of books and scrolls in Faerûn. Exceptional scholars and wizards visit Candlekeep at least once in their lifetimes, if not many more times. Because of this, the monks have many allies to call upon if Candlekeep is ever in danger. Powerful archmages such as [[Alustriel Silverhand]], [[Elminster Aumar]] and the Simbul will all come to the library's aid if needed.

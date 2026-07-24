@@ -3,6 +3,12 @@
 
 To use the deck, declare the amount of cards you want to draw. You must then roll D20s equal to the amount you declared and an effect occurs corresponding to the number(s) you rolled. Once a card has been drawn, it vanishes and will return to the deck within 24 hours of it being drawn. If you roll the same card twice, you must roll again until you get a unique number.
 
+
+| Roll | Card Effect                        | Card Name and Description |
+| ---- | ---------------------------------- | ------------------------- |
+| 1    | Everyone grows a beard for the day | Mark a man out of you     |
+
+
 ![[Pasted image 20260404213259.png]]
 
 ____

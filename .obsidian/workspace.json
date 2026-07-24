@@ -8,17 +8,87 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d8dd6e1435c4e1d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Upper City"
+            }
+          },
+          {
             "id": "6b6cdad1ebf46a4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
+                "file": "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Letter from Cormyc Ravenshade"
+              "title": "Wildcard's Tarot"
+            }
+          },
+          {
+            "id": "b8973ae347a5ebd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Baldur's Gate"
+            }
+          },
+          {
+            "id": "1a60aba4d16978ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A Favour for Natasha"
+            }
+          },
+          {
+            "id": "411506c05abda20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elfsong Tavern"
+            }
+          },
+          {
+            "id": "910bf544a8c0a6e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Den of the Dead Three"
             }
           }
         ]
@@ -53,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "osmurl",
+                "query": "Sebra Mil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,47 +263,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b6cdad1ebf46a4e",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
-    "02 - Adventurers/Group A/Zilliletha/Zil's Report 01.md",
-    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
-    "02 - Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
-    "02 - Adventurers/Group A/Yan Lawntill/Yan 'Keyreeonis' Lawntill.md",
-    "02 - Adventurers/Group A/Impyerno Lima.md",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
-    "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Misty Forest.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 18.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Whitkeep Hostel.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
+    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Baldur's Mouth.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Temple of the Raven Queen.md",
+    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Xaria Trevisa.md",
+    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Talons of the Raven Queen.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
+    "02 - Adventurers/Group B/Caradil Anduin/Caradil Anduin.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Gond's House of Wonders.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Low Lantern.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Sorcerous Sundries.md",
+    "04 - Locations/02 - The North/06 - Silverymoon",
+    "04 - Locations/02 - The North/05 - Citadel Felbarr",
+    "04 - Locations/02 - The North/04 - Citadel Adbar",
+    "04 - Locations/02 - The North/03 - Mithral Hall",
+    "04 - Locations/10 - Underdark",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Untitled",
-    "03 - Persons of Note/01 - Allies/Roan Lyxerias.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Anya an Garrán.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Eamir an Garrán.md",
-    "03 - Persons of Note/01 - Allies/Stone.md",
-    "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
     "00 - Images/Tierbhal an Garrán-1784762057280.webp",
-    "02 - Adventurers/Group A/Thavion Brightfell/Thavion Brightfell.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
-    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Torbar Dragonsbane.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
-    "02 - Adventurers/Group B/Soma/Soma.md",
-    "02 - Adventurers/Group B/The Bush Whackers.md",
-    "02 - Adventurers/Group B/Aramir Void-Blade/Aramir Plentyleaf.md",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Khanduq Ward/Khanduq Ward.md",
-    "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
-    "03 - Persons of Note/01 - Allies/Auron Whitestreak.md",
-    "03 - Persons of Note/01 - Allies/Panahon Evad.md",
-    "02 - Adventurers/Group A/Ryn Fenrath/Ryn Fenrath.md",
     "00 - Images/Roan Lyxerias-1784749965915.webp",
     "00 - Images/Untitled-1784749328826.webp",
     "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Quill Ward",
     "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Wizard Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Hill Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Dock Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Grand Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Hook Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Harvest Ward",
     "00 - Images/A New Duke-1784679878319.webp",
     "00 - Images/A New Duke-1784673979716.webp",
     "00 - Images/A New Duke-1784673968584.webp",

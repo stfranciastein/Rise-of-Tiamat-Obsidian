@@ -1,6 +1,6 @@
 **Tags:** #BaldursGate #UpperCity #Gond #OtherLocations 
 
-*You approach a massive building just next to High Hall. The front of the building appears squared off and flat, with many pillars holding up the overhanging alcove up above. A taller, rounded roofed structure sticks out from the middle sectiopn extending all the way to the back of the building. Scholars, tinkerers and investors of all shapes and sizes walk back and forth through the wide open bronze doors.*
+*You approach a massive building just next to High Hall. The front of the building appears squared off and flat, with many pillars holding up the overhanging alcove up above. A taller, rounded roofed structure sticks out from the middle section extending all the way to the back of the building. Scholars, tinkerers and investors of all shapes and sizes walk back and forth through the wide open bronze doors.*
 
 Gond's House of Wonders is a building in the [[Upper City]] of [[Baldur's Gate]] that serves as a vast workshop for many of the crafters and inventors that the temple houses. 
 

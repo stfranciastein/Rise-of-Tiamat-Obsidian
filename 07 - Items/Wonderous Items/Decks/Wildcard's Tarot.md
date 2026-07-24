@@ -1,3 +1,7 @@
+**Tags:** #MagicItems
+**Location:** Can be bought in [[Sorcerous Sundries]] in [[Baldur's Gate]].
+
+____
 ### Wildcard's Tarot Effects (Upright)
 
 | Card                 | Effect                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
