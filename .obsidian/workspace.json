@@ -4,91 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "04b8f15f4cf7db83",
+        "id": "8a5d241e03736314",
         "type": "tabs",
         "children": [
           {
-            "id": "d8dd6e1435c4e1d9",
+            "id": "3fe7237a2cc28e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
+                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upper City"
+              "title": "Group A - Act 2 - Session 28"
             }
           },
           {
-            "id": "6b6cdad1ebf46a4e",
+            "id": "8bf21448578a8880",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
+                "file": "Water Queen's House.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wildcard's Tarot"
-            }
-          },
-          {
-            "id": "b8973ae347a5ebd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baldur's Gate"
-            }
-          },
-          {
-            "id": "1a60aba4d16978ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A Favour for Natasha"
-            }
-          },
-          {
-            "id": "411506c05abda20f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elfsong Tavern"
-            }
-          },
-          {
-            "id": "910bf544a8c0a6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Den of the Dead Three"
+              "title": "Water Queen's House"
             }
           }
         ]
@@ -123,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Sebra Mil",
+                "query": "vidorant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -263,34 +207,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdcd5f68fae46272",
+  "active": "3fe7237a2cc28e85",
   "lastOpenFiles": [
+    "Water Queen's House.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 18.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Whitkeep Hostel.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
-    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Baldur's Mouth.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
+    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Ardryn Deagle.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Whitkeep Hostel.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Baldur's Mouth.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Temple of the Raven Queen.md",
     "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Xaria Trevisa.md",
     "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Talons of the Raven Queen.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
     "02 - Adventurers/Group B/Caradil Anduin/Caradil Anduin.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Gond's House of Wonders.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Low Lantern.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Sorcerous Sundries.md",
     "04 - Locations/02 - The North/06 - Silverymoon",
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
     "04 - Locations/02 - The North/04 - Citadel Adbar",
