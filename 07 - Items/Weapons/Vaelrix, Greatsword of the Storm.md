@@ -1,5 +1,11 @@
 After defeating [[Mellara, the Terror of the Sword Coast]], she will drop her Greatsword amidst her ashes. Nothing short of a Cleric using Divination will tell players that this weapon is cursed.
 
+***Lightning-Step (2 charges).*** As a bonus action, you move up to 90 ft. in a line towards a point you can see. Creatures caught in your path must make a DC 14 Dexterity saving throw, taking 1d6 Lightning damage on a failed save, or half as much on a successful one. 
+
+***Electrifying Burst (3 charges).*** As an action, you lash out and cause up to 4 creatures of your choice within 15 ft. of you that you can see to make a DC 14 Dexterity saving throw, taking 2d6 Lightning damage on a failed save, or half as much on a successful one. 
+
+***Call of the Storm (4 charges).*** As an action you plant this sword into the ground and activate its power, allowing you to call a lightning bolt to strike a point that you can see within 90 feet of you. Each creature within 5 feet of that point must make a DC 14 Dexterity saving throw, taking 4d10 lightning damage on a failed save, or half as much damage on a successful one.
+
 #### Curse Effects
 _**Draconic Hunger.**_ This weapon is cursed. While attuned to it, you cannot voluntarily end the attunement, and the weapon cannot be removed from your possession unless the curse is broken. If the sword remains 5ft away from you for longer than 1 round, you take 2d10 Psychic damage and have [rules]disadvantage[/rules] on attack rolls and ability checks until you retrieve it. If a creature other than you attempts to wield or attune to the sword, it lashes out uncontrollably, dealing 2d10 lightning damage to the would-be wielder at the start of each of their turns. 
 
