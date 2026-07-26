@@ -24,7 +24,7 @@ TRAXIGOR: Now, the problem. I've never read it myself, but an Avowed tried to re
 
 *Traxigor lets out another puff of smoke and takes a sip from one of the nearby drinks before he shapeshifts into the form of a handsome young man that passed by earlier. As he stretches out, he orders a drink for himself at the bar and comes right back.*
 
-TRAXIGOR: While this all sounds very interesting to you I'm pretty sure, I find it quite repugnant to talk and walk around in this form. I was eh... doing reconnaissance on Sylvira's tower just in case one of those Changelings ever returned and found out you're in need of a sending station for your caravan, yes? Do this for me and I'll help your Kobold install it. Free of charge.
+TRAXIGOR: While this all sounds very interesting to you I'm pretty sure, I find it quite repugnant to talk and walk around in this form. I was eh... doing reconnaissance on Sylvira's tower just in case one of those Changelings ever returned and found out you're in need of aid for some adventure or whatnot. So in return for your help I'll provide you five scrolls of Revivify. Free of charge.
 
 If the players agree to take on this quest, he will then call on his companion on the far side of the room. A Tiefling Purple Dragon Knight named Valor.
 

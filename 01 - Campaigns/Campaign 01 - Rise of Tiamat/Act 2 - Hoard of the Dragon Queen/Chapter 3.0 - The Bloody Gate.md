@@ -529,28 +529,28 @@ During their time in [[Rivington]], players can visit the following locations:
 
 1. Temple of Ilmater: In the [[Temple of the Open Hand]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Temple of the Open Hand (Quest)]] and also prompts the [[Exit bear, stage right]] quest.
 2. Danthelon's Dancing Axe: [[Danthelon's Dancing Axe]] is owned by Entharl Danthelon. He will discuss rumours about a Sunbear disrupting his shipments from coming in. This will begin the [[Exit bear, stage right]] quest.
-3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Welcome to the Arcana-Net]] quest.
+3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Welcome to the Arcana-Net]] quest. At the end of this mission, [[Ardryn Deagle]] will provide [[Glass]] the plans to make a Sending Station for the [[Sylvira-Van]].
 
 There should be no time crunch apart from the [[Cataclysm]] for the players to want to rush the main quest. When the party makes their way to the [[Black Saddle]], they will formally and finally meet the former [[Order of the Gauntlet]] member [[Ackyn Selebon]]. 
 
 ____
-### 3.2 - The Lower City
+### 3.6 - The Lower City
 
 The [[Flaming Fist]] will inform the adventurers to be careful as the [[Lower City]] has proven to be dangerous as of late. While inside the city, the players can visit the following locations:
-1. [[Elfsong Tavern]]: [[Traxigor]] will greet the players and introduce himself as a friend of [[Sylvira Savikas]]. He will ask them to look into the disappearance of one of the books from [[Candlekeep]]. This begins the [[Mazfroth's Mighty Digressions]] quest. At the end of this mission, [[Traxigor]] will provide [[Glass]] the plans to make a Sending Station for the [[Sylvira-Van]].
+1. [[Elfsong Tavern]]: [[Traxigor]] will greet the players and introduce himself as a friend of [[Sylvira Savikas]]. He will ask them to look into the disappearance of one of the books from [[Candlekeep]]. This begins the [[Mazfroth's Mighty Digressions]] quest.
 2. [[Blushing Mermaid]]: [[Roisin Ravenshade]] will be seen getting kicked out of the establishment. She will recognise either a Pinion from the [[Talons of the Raven Queen]] or an Upcoming Hero. After their introduction, she will give them the [[Flowers in Remembrance]] quest.
 
 ___
-### 3.3 - The Upper City
+### 3.7 - The Upper City
 
-The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Roisin Ravenshade]] will notice them at the gates, and they will be allowed to enter with their party.
-
+The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Order of the Gauntlet]] or mentions [[Ontharr Frume]], they will be permitted to enter the [[Upper City]] normally. This does not preclude them from paying 5 silver.
 1. [[Temple of the Raven Queen]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of a demonic creature associated with the undead. This will continue and conclude the [[Cold, Red-Blooded Murder]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
 2. [[Raven's Arbor]]: [[Margaret Ravenshade]] is running for the position of Duke as [[Belynne Stelmane]] has been largely unable to rule due to a stroke she suffered recently. In order to help her win the position of Duke, she asks the players to investigate the gruesome murders in the city. This will begin the [[Den of the Dead Three]] quest.
 
 ____
-### 3.11 Hidden Claw
+### 3.8 Hidden Claw
 
+#### Ambushed!
 After completing at least four side quests in [[Baldur's Gate]], [[Alia Sanem 'Talis Kasterel']] and [[Leosin Erlanthar]] will ask to meet up with the party once more in the [[Elfsong Tavern]]. This message will arrive via the Sending spell from [[Alia Sanem 'Talis Kasterel']] who says the following;
 
 ALIA: News about Dragonclaw. Come to Elfsong when you're ready.
@@ -559,14 +559,18 @@ Upon arriving in the Elfsong tavern, the party will notice that there aren't as 
 
 *Leosin notices your party enter and nods his head at you. Alia returns to her seat and subtly sits next to the Half-Elf. Their faces look quite serious, ready to talk business.*
 
-ALIA: Thanks to the information you gathered we have a solid idea of who this Dragonclaw is.
+ALIA: Thanks to the information you gathered we have a solid idea of where this Dragonclaw might strike next.
 
-LEOSIN: Preliminary evidence places her as a skilled Monk, able to manipulate the Elements to her will.
+LEOSIN: We believe that the Serpent will strike at Little Calimshan during the Feast of the Moon.
 
-ALIA: Judging by what you found, she 
+ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars, commoners. Whatever they have planned will be seen and heard by a good number of the populace.
+
+[[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them on sight. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]].
 
 
-CONCLUSION
+
+____
+### CONCLUSION
 
 Killing Returning to [[Ackyn Selebon]] at the end of the week will allow the adventurers to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north. 
 
