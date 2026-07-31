@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #Wilderness #OrderOfTheGauntlet 
+**Tags:** #Act2 #BaldursGate #Wilderness #OrderOfTheGauntlet #SideQuest
 
 ____
 ### TRIGGER

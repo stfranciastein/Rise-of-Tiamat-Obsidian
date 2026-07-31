@@ -7,7 +7,7 @@
 
 <img src="Thavion Brightfell-1784471912665.webp" alt="Thavion Brightfell" width="300" style="float:left; margin: 0 16px 12px 0;">Thavion used to be a beacon, silver and shining, the kind of paladin evil learned to fear. These days he's something quieter—a gentle giant who still serves Bahamut, just not from the front lines anymore. He spends his time looking after the people of a small town that took him in when the rest of the world wouldn't.
 
-He was found as a hatchling, inside a human city of all places, by priests of Bahamut who took it as a sign. They raised him in the temple, silver halls and all, teaching him to keep his emotions in check and pour them instead into service—lawful, good, disciplined. 
+He was found as a hatchling, inside the city of [[Neverwinter]] of all places, by priests of Bahamut who took it as a sign. They raised him in the Temple to Bahamut, silver halls and all, teaching him to keep his emotions in check and pour them instead into service—lawful, good, disciplined. 
 
 Every prayer was devotion. Every lesson was for Bahamut. The congregation looked at him like he was a blessing straight from the Platinum Dragon, a kid destined to grow up and defend the faith itself. Once he'd grown past childhood, the priests handed him off to a traveling Paladin of the Platinum Order, a knight who saw exactly what the temple had been promising for years. Under him, Thavion learned to fight, sure, but also how to actually serve—with humility, not just strength. People used to say his whole life had been written the moment he was found. Temple child to holy knight, carrying Bahamut's light out past the walls. It was a lot to live up to. Too much, really.
 

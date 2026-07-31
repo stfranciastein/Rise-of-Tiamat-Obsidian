@@ -1,3 +1,3 @@
-**Tags:** #Act2 #Waterdeep #LordsAlliance 
+**Tags:** #Act2 #Waterdeep #LordsAlliance #SideQuest
 
 ____

@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #FlamingFist 
+**Tags:** #Act2 #BaldursGate #FlamingFist #SideQuest
 
 ____
 ### TRIGGER
@@ -42,7 +42,7 @@ Speaking to Gardak will reveal he confiscated the schematics because [[Ardryn De
 ____
 ### PART III - Possible Endings
 ### Good Ending
-If the PCs help [[Pernilla 'Prole' Cabrenock]] and [[Ardryn Deagle]] acquire the blueprints 5x Mirror, Steel(5gp each) and 100 Gold worth of Unrefined Ioun Stones, they promise to reward the PCs four "Arcana-net" mirrors which among other things, allow the players to communicate up to 2 miles apart from each other.
+If the PCs help [[Pernilla 'Prole' Cabrenock]] and [[Ardryn Deagle]] acquire the blueprints 5x Mirror, Steel(5gp each) and 100 Gold worth of Unrefined Ioun Stones, they promise to reward the PCs four "Arcana-net" mirrors which among other things, allow the players to communicate up to 2 miles apart from each other. He will also provide the [[Sylvira-Van]] with the 'Sending Station' upgrade.
 ### Bad Ending
 The mage that is now in charge of the fortress on Wrym's Rock, [[Gardak Brighthorn]], is interested in learning what they might be working on. If he finds out what they are working on he offers the PCs 2x health potions and 100gp if they can steal a working prototype of the device. He wants it for himself so that he can sell it as a premium product to the Patriarchs in the Upper City.
 

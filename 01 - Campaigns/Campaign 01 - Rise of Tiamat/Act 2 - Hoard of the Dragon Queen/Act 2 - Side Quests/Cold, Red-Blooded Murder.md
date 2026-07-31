@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Berdusk #Elturel #BaldursGate #OrderOfTheGauntlet #TalonsOfTheRavenQueen #Harpers
+**Tags:** #Act2 #Berdusk #Elturel #BaldursGate #OrderOfTheGauntlet #TalonsOfTheRavenQueen #Harpers #SideQuest
 
 ____
 ### TRIGGER

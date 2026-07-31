@@ -1,4 +1,7 @@
 [![](https://5e.tools/img/book/MaBJoV/023.webp)]
+**Tags:** #Harpers #Organisations #SwordCoast 
+
+____
 ### BACKGROUND
 
 The Harpers are an old and influential organization of nobles, spellcasters and spies. They are secretive and most members have almost complete autonomy to operate how they want. Most Harpers work alone or in small groups. They freely share information between members, but rarely do they have coordinated strategies.

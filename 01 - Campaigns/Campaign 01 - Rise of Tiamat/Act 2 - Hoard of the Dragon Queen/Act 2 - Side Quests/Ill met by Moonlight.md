@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Berdusk #Shar
+**Tags:** #Act2 #Berdusk #Shar #SideQuest
 
 ____
 ### TRIGGER

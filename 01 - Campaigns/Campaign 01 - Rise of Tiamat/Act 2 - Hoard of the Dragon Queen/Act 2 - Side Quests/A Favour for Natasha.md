@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate 
+**Tags:** #Act2 #BaldursGate #SideQuest
 
 ____
 ### TRIGGER

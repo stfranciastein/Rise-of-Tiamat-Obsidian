@@ -1,5 +1,7 @@
 [![](https://5e.tools/img/book/MaBJoV/030.webp)]
+**Tags:** #TalonsOfTheRavenQueen  #Organisations #SwordCoast
 
+____
 ### BACKGROUND
 
 The Talons of the Raven Queen are a devout sect that worship the [Raven Queen](https://forgottenrealms.fandom.com/wiki/Raven_Queen), a powerful deity that resides on the [[Shadowfell]]. The Talons are tasked with preserving the natural cycle of life, and helping lost or bound souls find their way to their rightful resting place, wherever that may be.

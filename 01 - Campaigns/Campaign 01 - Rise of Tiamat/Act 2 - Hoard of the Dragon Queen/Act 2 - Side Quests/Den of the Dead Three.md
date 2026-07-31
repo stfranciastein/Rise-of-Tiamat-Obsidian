@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #LordsAlliance #CultOfTheDeadthree
+**Tags:** #Act2 #BaldursGate #LordsAlliance #CultOfTheDeadthree #SideQuest
 
 ____
 ### TRIGGER
@@ -28,7 +28,7 @@ If the players give her sufficient information, she will invite them inside. Tes
 
 *When you finally come to the sitting room, you catch your breath for a second. The high windows on the south side of this room are decorated with large red curtains patterned with gold flowers that drape all the way down to the ceiling. A beautifully knitted carpet sits on the floor, framing the collection of couches and chairs that sit before a grand, white-marble fireplace. Above the mantle is a large, 8 ft tall painting of four figures dressed in oppulent clothing; a handsome older human man, a beautiful older human woman you can only assume is Lady Ravenshde herself, and two young twins of the opposite sex who appear to be about 12 years old. Atop the mantle is a small shrine with a small painting of the same young woman with a bouquet of night orchids.
 
-MARG: According to my information, several streets northwest of here is a public bathhouse with a walled garden and frolicking nymphs carved into its front gates. Followers of the Dead Three have been seen coming and going from the bathhouse, and I'm told there's a secret door inside that leads to a dungeon. That's where the killers are hiding. Go there and put a stop to this madness, and I will reward your group with 3,000 gold. In addition, you'll have the aid of a powerful member of the [[Lord's Alliance]] and a potential friend in the Council of Four.
+MARG: According to my information, several streets northwest of here is a public bathhouse with a walled garden and frolicking nymphs carved into its front gates. Followers of the Dead Three have been seen coming and going from the bathhouse, and I'm told there's a secret door inside that leads to a dungeon. That's where the killers are hiding. Go there and put a stop to this madness, and I will reward your group with 3,000 gold. In addition, you'll have the aid of a powerful member of the [[Lords' Alliance]] and a potential friend in the Council of Four.
 
 ____
 ### PART II - Dungeon of the Dead Three

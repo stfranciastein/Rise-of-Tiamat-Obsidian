@@ -14,8 +14,9 @@ During that time, Soma split off from the group and found themselves back in the
 
 ____
 ### Reminders
-- The Caravan is MIA for 5 days as its being upgraded.
+- The Caravan is MIA for 8 days as its being upgraded.
 - Soma learned that the killer is part of the Cult of the Dead Three (did not tell the others yet).
 - 3 Arcana-Glass(es).
 - Painting of dragon (a week).
 - Mechanical dragon (3 days).
+- Caradil has an autograph from Tasha on his face and ass (semi permanent)

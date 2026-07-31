@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #LordsAlliance #CultOfTheDeadthree #CultOfZariel
+**Tags:** #Act2 #BaldursGate #LordsAlliance #CultOfTheDeadthree #CultOfZariel #SideQuest
 
 ____
 ### TRIGGER
@@ -24,7 +24,7 @@ The following patrons are in the tavern when they arrive:
 - Jorunn Nighbury (neutral human [commoner](https://5e.tools/bestiary.html#commoner_mm)), a shy horse breeder employed by the Belt patriar family but burdened by gambling debt.
 - Skadric Salakar (neutral evil human [veteran](https://5e.tools/bestiary.html#veteran_mm)), a lazy Flaming Fist soldier who was suspended for a tenday without pay for dereliction of duty.
 - Prynn Derringwhistle (lawful neutral strongheart halfling [commoner](https://5e.tools/bestiary.html#commoner_mm)), a spectacles-wearing barnacle scraper who likes to belt out old sea shanties.
-- Aerith and Beldan (chaotic good [drow](https://5e.tools/bestiary.html#drow_mm)), awkward and inseparable twins who left the Underdark in search of adventure on the surface.
+- [[Aerith Beldan]], a Shield Dwarf Cleric of Ilmater who runs Beldan's House of Healing in the [[Upper City]]. He is currently in debt to [[Amrik Vanthampur]] for 20,000 GP. He paid Amrik already but Amrik keeps expecting a 'protection fee' of 10,000 GP from him on a monthly basis and he has stopped his payments as of late. Aerith has two children named Gulrik and Anise Beldan who help him run the House of Healing.
 - [[Asha Ardeat]] (lawful evil Fire Genasi), a friendly, flirty bard with a passion for playing the flute. She tells players that she visited the [[Low Lantern]] as the [[Elfsong Tavern]] and the [[Helm and Cloak]] were a little too rich for her blood.
 
 If any characters are asked about the location of [[Amrik Vanthampur]], they will direct them upstairs to the lounge deck where he usually makes himself at home.

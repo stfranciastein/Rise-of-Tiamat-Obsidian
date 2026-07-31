@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Elturel #Zhentarim
+**Tags:** #Act2 #Elturel #Zhentarim #SideQuest
 
 ____
 ### TRIGGER

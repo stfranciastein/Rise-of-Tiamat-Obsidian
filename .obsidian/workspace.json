@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a5d241e03736314",
+        "id": "a0a0463d42ca722a",
         "type": "tabs",
         "children": [
           {
-            "id": "3fe7237a2cc28e85",
+            "id": "5e13ce532ceb6b33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 3.0 - The Bloody Gate"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greatsw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,34 +191,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fe7237a2cc28e85",
+  "active": "eed9977703b5d50d",
   "lastOpenFiles": [
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 18.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Water Queen's House.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Up and Down Under.md",
-    "00 - Images/Chapter 3.0 - The Bloody Gate-1785090231605.webp",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
-    "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
-    "07 - Items/Weapons/Vaelrix, Greatsword of the Storm.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
-    "Untitled.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
-    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Upper City.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Ardryn Deagle.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Temple of the Open Hand (Quest).md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mage Prison.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of secrets.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Ill met by Moonlight.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hunting the Hunter.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Heist of Goldmane Manor.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Grim Tales for Bratty Children.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Flowers in Remembrance.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fee-Fi-Fo-Fum.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Whitkeep Hostel.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Baldur's Mouth.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Ardryn Deagle.md",
+    "07 - Items/Sylvira-Van.md",
+    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Aerith Beldan.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
+    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
+    "03 - Persons of Note/01 - Allies/Auron Whitestreak.md",
+    "00 - Images/Chapter 3.0 - The Bloody Gate-1785090231605.webp",
     "04 - Locations/02 - The North/06 - Silverymoon",
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
     "04 - Locations/02 - The North/04 - Citadel Adbar",

@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Elturel #EmeraldEnclave #CultOfTheDragon
+**Tags:** #Act2 #Elturel #EmeraldEnclave #CultOfTheDragon #SideQuest
 
 ____
 ### TRIGGER

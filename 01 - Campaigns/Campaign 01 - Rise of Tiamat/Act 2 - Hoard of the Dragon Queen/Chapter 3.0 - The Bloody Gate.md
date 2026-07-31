@@ -553,7 +553,7 @@ ____
 #### Ambushed!
 After completing at least four side quests in [[Baldur's Gate]], [[Alia Sanem 'Talis Kasterel']] and [[Leosin Erlanthar]] will ask to meet up with the party once more in the [[Elfsong Tavern]]. This message will arrive via the Sending spell from [[Alia Sanem 'Talis Kasterel']] who says the following;
 
-ALIA: News about Dragonclaw. Come to Elfsong when you're ready.
+ALIA: News about Dragonclaw. Come to the Elfsong when you're ready.
 
 Upon arriving in the Elfsong tavern, the party will notice that there aren't as many patrons in the tavern tonight. A small group of adventurers are sitting together on one side of the tavern while a sparse group of individuals sit away from one another.
 
@@ -565,7 +565,9 @@ LEOSIN: We believe that the Serpent will strike at Little Calimshan during the F
 
 ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars, commoners. Whatever they have planned will be seen and heard by a good number of the populace.
 
-[[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them on sight. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]].
+[[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them on sight. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]] they will be attacked by a group of cultists accompanied by a Dragon Cultist Commander.
+
+*As you set your weapons down, you realise that the tavernkeeper is nowhere to be found. A trail of blood leads to the kitchen. Thankfully, when you follow the crimson path it leads to an injured but largely intact half-elf who looks only a little worse for wear. As you free him, he breathes a sigh of relief.*
 
 
 

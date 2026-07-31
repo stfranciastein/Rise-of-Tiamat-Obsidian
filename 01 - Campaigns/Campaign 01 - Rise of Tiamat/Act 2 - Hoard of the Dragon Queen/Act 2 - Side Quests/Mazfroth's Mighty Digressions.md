@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #Candlekeep
+**Tags:** #Act2 #BaldursGate #Candlekeep #SideQuest
 
 ____
 ### TRIGGER

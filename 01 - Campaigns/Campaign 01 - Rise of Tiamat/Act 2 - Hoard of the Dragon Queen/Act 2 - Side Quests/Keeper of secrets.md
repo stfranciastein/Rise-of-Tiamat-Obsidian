@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Elturel #Vecna
+**Tags:** #Act2 #Elturel #Vecna #SideQuest
 
 ____
 ### TRIGGER

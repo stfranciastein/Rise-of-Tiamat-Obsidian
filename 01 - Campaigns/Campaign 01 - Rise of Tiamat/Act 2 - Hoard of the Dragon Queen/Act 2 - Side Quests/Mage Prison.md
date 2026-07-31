@@ -1,4 +1,4 @@
-**Tags:** #Act2 #TheHells #Avernus #CourtOfMetal
+**Tags:** #Act2 #TheHells #Avernus #CourtOfMetal #SideQuest
 
 ____
 

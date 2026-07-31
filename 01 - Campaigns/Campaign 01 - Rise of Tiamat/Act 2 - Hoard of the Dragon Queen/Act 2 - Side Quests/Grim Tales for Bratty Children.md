@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Berdusk #OrderOfTheGauntlet #EmeraldEnclave 
+**Tags:** #Act2 #Berdusk #OrderOfTheGauntlet #EmeraldEnclave #SideQuest
 
 ____
 ### TRIGGER

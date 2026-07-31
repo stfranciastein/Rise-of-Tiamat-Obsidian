@@ -1,4 +1,4 @@
-**Tags:** #Act2 #BaldursGate #EmeraldEnclave 
+**Tags:** #Act2 #BaldursGate #EmeraldEnclave #SideQuest
 
 ____
 ### TRIGGER

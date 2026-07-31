@@ -1,4 +1,4 @@
-**Tags:** #Act2 #Berdusk #Renblades
+**Tags:** #Act2 #Berdusk #Renblades #SideQuest
 
 ____
 ### TRIGGER
