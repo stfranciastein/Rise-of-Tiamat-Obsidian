@@ -11,10 +11,14 @@
             "id": "5e13ce532ceb6b33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Group A - Act 2 - Session 29"
             }
           }
         ]
@@ -191,8 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eed9977703b5d50d",
+  "active": "5e13ce532ceb6b33",
   "lastOpenFiles": [
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 27.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 26.md",
+    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
+    "09 - Rules and Information/Cost of Living.md",
+    "09 - Rules and Information/Expanded Reincarnate Table.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Temple of the Open Hand (Quest).md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
@@ -211,14 +223,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
     "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Ardryn Deagle.md",
-    "07 - Items/Sylvira-Van.md",
-    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Aerith Beldan.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Raven's Arbor.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
-    "03 - Persons of Note/01 - Allies/Auron Whitestreak.md",
     "00 - Images/Chapter 3.0 - The Bloody Gate-1785090231605.webp",
     "04 - Locations/02 - The North/06 - Silverymoon",
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
