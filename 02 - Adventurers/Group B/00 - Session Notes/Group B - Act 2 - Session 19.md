@@ -6,7 +6,7 @@ After looking around Little Calimshan, the party was warned of a killer on the l
 
 To end the day, they found themselves gravitating to Raven's Arbour. Lady Margaret Ravenshade spoke to them about her investigation into the murders in Baldur's Gate, and sent them on a quest to a nearby bathhouse to look into a lead her men found. In return, they would gain a powerful ally amongst the Patriars and the Lord's Alliance. 
 
-The next morning, they confronted Gardak Brighthorn and Soma negotiated the return of Ardryn's schematics. As Caradil the papers to its rightful owner, Ardryn, Glass and Ackyn set off on upgrading the Sylvra-Van for the road ahead.
+The next morning, they confronted Gardak Brighthorn and Soma negotiated the return of Ardryn's schematics. As Caradil handed the papers to its rightful owner, Ardryn, Glass and Ackyn set off on upgrading the Sylvra-Van for the road ahead.
 
 At Whitkeep, they also managed to speak with a famous wizard named Natasha 'Tasha' the Dark and were given another job for the Zhentarim; help Natasha reclaim her lost Diadem from Nixylanna Vidorant in Vidorant's Vault in Seatower and she would happily supply the party for their heist on Goldmane Manor. 
 
@@ -19,4 +19,4 @@ ____
 - 3 Arcana-Glass(es).
 - Painting of dragon (a week).
 - Mechanical dragon (3 days).
-- Caradil has an autograph from Tasha on his face and ass (semi permanent)
+- Caradil has an autograph from Tasha on his face and ass (semi permanent).

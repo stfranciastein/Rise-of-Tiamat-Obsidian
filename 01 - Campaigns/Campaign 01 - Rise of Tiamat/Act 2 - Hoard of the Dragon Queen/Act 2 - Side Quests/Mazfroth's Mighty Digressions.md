@@ -38,7 +38,7 @@ TRAXIGOR: Yes yes tell them what you know so we can hide you away again.
 
 Valor will disclose the following information about herself and where she purchased her books. She will not reveal her true identity as a Purple Dragon Knight of Cormyr, but characters with a passive insight of 15 or higher will note that she seems quite strong and disciplined like a soldier.
 - Thirteen days ago, she arrived at [[Candlekeep]] with Mazfroth's Mighty Digressions as her entrance fee to get into the fortress.
-- She purchased a book from a market stall in the Wide here in [[Baldur's Gate]]. She doesn't remembermuch about the stall because she was in a hurry to leave (it reeks of greed). 
+- She purchased a book from a market stall in the Wide here in [[Baldur's Gate]]. She doesn't remember much about the stall because she was in a hurry to leave (it reeks of greed). 
 - She remembers that the corner she purchased it at was "not the most reputable looking area" of the marketplace and that it smelled of cinnamon nearby.
 - After perusing the library and right before she could leave, the Avowed informed her that her gift has attacked one of them. The wizard killed the monster before it could harm anyone else.
 

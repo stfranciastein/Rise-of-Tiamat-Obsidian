@@ -14,7 +14,7 @@ ____
 
 *The Low Lantern is quiet during the day, with just a few patrons drinking and gambling below decks. From what you can tell, the place comes alive at night, and is a popular site for conducting clandestine meetings with some of the city's least scrupulous inhabitants, including pirates and off-duty Flaming Fist mercenaries. As you enter the tavern, a middle-aged female water genasi approaches you. A crab sits on her shoulder, snipping the air occasionally.*
 
-LARAELRA: Alright mates. The name's Laraelra, but people here call me the Captain. This here's Mr. Snippy. We've got two rules here in the Low Latern, number one; no fighting. Number two; failing that and if you have to fight, make sure you leave me enough money to pay for the damages.
+LARAELRA: Alright mates. The name's Laraelra, but people here call me the Captain. This here's Mr. Snippy. We've got two rules here in the Low Lantern, number one; no fighting. Number two; failing that and if you have to fight, make sure you leave me enough money to pay for the damages.
 
 The Low Lantern serves drinks and snacks, but no meals. At any given time, the staff includes two [kenku](https://5e.tools/bestiary.html#kenku_mm) bartenders and six bouncers (human [thugs](https://5e.tools/bestiary.html#thug_mm)). The staff operates in three eight-hour shifts, with one group leaving as the next shift arrives.
 

@@ -6,7 +6,7 @@
 - 5sp for a room in a poor establishment.
 #### Small Towns
 - 1gp for a room in a normal establishment.
-- 5sp for a room in a poor establishment,.
+- 5sp for a room in a poor establishment.
 
 _____
 ### B. Food & Drink
