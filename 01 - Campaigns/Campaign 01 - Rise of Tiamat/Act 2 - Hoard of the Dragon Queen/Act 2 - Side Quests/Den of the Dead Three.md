@@ -143,8 +143,6 @@ The prisoner hanging on the west wall is Klim Jhasso, a male human noble capture
 
 Klim's shackles have AC 19, 10 hit points, and immunity to poison and psychic damage.
 
-The suit of armor is a helmed horror.
-
 ##### D13. Morgue
 
 Unless the characters approach this room quietly and without light sources, they alert the occupants here. Describe the area to the players as follows:

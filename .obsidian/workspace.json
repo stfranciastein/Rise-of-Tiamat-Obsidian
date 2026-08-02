@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Den of the Dead Three"
+              "title": "Group B - Act 2 - Session 20"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#SideQuest",
+                "query": "mazfro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,22 +227,24 @@
   "active": "5e13ce532ceb6b33",
   "lastOpenFiles": [
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+    "00 - Images/Den of the Dead Three-1785620243544.webp",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Low Lantern.md",
     "09 - Rules and Information/Cost of Living.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Blushing Mermaid.md",
     "02 - Adventurers/Other Companions/Cacafonix.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 27.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 26.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "09 - Rules and Information/Expanded Reincarnate Table.md",
@@ -251,7 +253,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mage Prison.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of secrets.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Ill met by Moonlight.md",
     "00 - Images/Chapter 3.0 - The Bloody Gate-1785090231605.webp",
     "04 - Locations/02 - The North/06 - Silverymoon",
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
@@ -271,7 +272,6 @@
     "00 - Images/A New Duke-1784673968584.webp",
     "00 - Images/A New Duke-1784673955118.webp",
     "00 - Images/A New Duke-1784673947970.webp",
-    "00 - Images/Cold, Red-Blooded Murder-1784656982130.webp",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
