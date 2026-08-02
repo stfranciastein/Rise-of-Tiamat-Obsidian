@@ -11,4 +11,4 @@ ____
 - Soma is cursed.
 - They escaped the corrupt cops.
 - Tierbhal has all of the diamonds
-- 
+- The party levelled up to 8 at the end of this dungeon.

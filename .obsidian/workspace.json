@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e13ce532ceb6b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 20"
-            }
-          },
-          {
             "id": "26687db6e40ebcd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Act 1 - The Curse of Willowvale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A New Duke"
+              "title": "Act 1 - The Curse of Willowvale"
             }
           },
           {
@@ -83,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mazfro",
+                "query": "bard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,35 +210,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e13ce532ceb6b33",
+  "active": "b33abf1f2fd9618e",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 7.0 - Hunting Lodge.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Waterdeep.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Up and Down Under.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 22.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 21.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 23.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 25.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 26.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 27.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
     "00 - Images/Den of the Dead Three-1785620243544.webp",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Baldur's Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Low Lantern.md",
     "09 - Rules and Information/Cost of Living.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Blushing Mermaid.md",
-    "02 - Adventurers/Other Companions/Cacafonix.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Elfsong Tavern.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 27.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 26.md",
-    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
-    "09 - Rules and Information/Expanded Reincarnate Table.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Temple of the Open Hand (Quest).md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mage Prison.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of secrets.md",
     "00 - Images/Chapter 3.0 - The Bloody Gate-1785090231605.webp",
     "04 - Locations/02 - The North/06 - Silverymoon",
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
@@ -271,8 +259,6 @@
     "00 - Images/A New Duke-1784673979716.webp",
     "00 - Images/A New Duke-1784673968584.webp",
     "00 - Images/A New Duke-1784673955118.webp",
-    "00 - Images/A New Duke-1784673947970.webp",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "00 - Images/A New Duke-1784673947970.webp"
   ]
 }
