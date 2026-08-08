@@ -226,6 +226,9 @@ Wax Statue. A 6-foot-tall wax statue in one corner depicts Duke Thalamra Vantham
 
 The staircase to the north descends 15 feet to area V10. Five lawful evil human [guards](https://www.dndbeyond.com/monsters/16915-guard) stand watch here — one by each door. They attack anyone not accompanied by a Vanthampur family member. If they hear trouble elsewhere, the guards can’t be surprised, but they stay put unless ordered to move by a member of the family. Combat here alerts Thurstwell Vanthampur in [area V13](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V13ThurstwellsBedroom "area V13") but he does not act on it.
 
+`The Hobgoblin from that Herd found something in the Cloakwood.`
+`He says he's ready to meet.`
+
 ##### V12. Balcony
 *A crenelated stone battlement encloses this balcony overlooking the front yard.* 
 
@@ -258,7 +261,7 @@ The chest weighs 25 pounds and contains a few drab garments made for a man of [[
 ##### V15. Amrik’s Bedroom
 *This tastefully appointed room contains a bed, a side table, a claw-footed iron bathtub, a fireplace, and an iron-banded wooden chest. A three-foot-wide, six-foot-tall mirror is mounted to the east wall opposite the fireplace. The mirror’s varnished wooden frame is carved with images of rats, ravens, and spiders.*
 
-Treasure. [[Amrik Vanthampur]] chest contains neatly folded and tailored apparel to fit a slender noble, and a jewelry box carved from bone (10 gp). This tiny box contains a gold signet ring (50 gp) bearing the Vanthampur motto, “Stone hearts never bleed.” In his chest is also the Corvidae Cloak. Amrik also has reminders to himself on his walls, one of which discusses having seen a bard sneaking around the [[Low Lantern]] trying to spy on him.
+Treasure. [[Amrik Vanthampur]] chest contains neatly folded and tailored apparel to fit a slender noble, and a jewelry box carved from bone (10 gp). This tiny box contains a gold signet ring (300 gp) bearing the Vanthampur motto, “Stone hearts never bleed.” In his chest is also the Corvidae Cloak. Amrik also has reminders to himself on his walls, one of which discusses having seen a bard sneaking around the [[Low Lantern]] trying to spy on him.
 
 ##### V16. Duke’s Powder Room
 *This room contains a vanity topped with a framed oval mirror, bottles of perfume, brushes, cosmetics, needles, and spools of thread. Other furnishings in the room include a folding wooden partition adorned with a bird of prey rendered in gold leaf, a tall black wardrobe filled with corsets and fine clothes, and a decorative gold rug laid out in front of three unlocked wooden chests. One chest is full of shoes, another contains three old bridal gowns, and the third contains seasonal hats.*
@@ -303,6 +306,8 @@ The prisoner in the southern cage is Kaejil Orûnmar (neutral evil male human [c
 
 ____
 ### PART III - Pride of House Vanthampur
+
+![[A New Duke-1786053497395.webp]]![[A New Duke-1786053493634.webp]]
 
 #### Dungeon Features
 

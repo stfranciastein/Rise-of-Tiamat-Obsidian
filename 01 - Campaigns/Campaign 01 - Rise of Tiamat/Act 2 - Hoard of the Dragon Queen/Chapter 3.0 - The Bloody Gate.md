@@ -527,7 +527,7 @@ ____
 ### 3.5 When In Rivington...
 During their time in [[Rivington]], players can visit the following locations:
 
-1. Temple of Ilmater: In the [[Temple of the Open Hand]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Temple of the Open Hand (Quest)]] and also prompts the [[Exit bear, stage right]] quest.
+1. Temple of Ilmater: In the [[Temple of the Open Hand]], Father [[Lorgan Brandis]] will ask the players to look into the disappearance of one of his monks. This begins the [[Hold Back the Dead]] and also prompts the [[Exit bear, stage right]] quest.
 2. Danthelon's Dancing Axe: [[Danthelon's Dancing Axe]] is owned by Entharl Danthelon. He will discuss rumours about a Sunbear disrupting his shipments from coming in. This will begin the [[Exit bear, stage right]] quest.
 3. Whitkeep Hotel: [[Whitkeep Hostel]] is a Rock Gnome named [[Pernilla 'Prole' Cabrenock]] will be discussing her plans with her companion [[Ardryn Deagle]]. This begins the [[Welcome to the Arcana-Net]] quest. At the end of this mission, [[Ardryn Deagle]] will provide [[Glass]] the plans to make a Sending Station for the [[Sylvira-Van]].
 
@@ -543,7 +543,7 @@ The [[Flaming Fist]] will inform the adventurers to be careful as the [[Lower Ci
 ___
 ### 3.7 - The Upper City
 
-The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Order of the Gauntlet]] or mentions [[Ontharr Frume]], they will be permitted to enter the [[Upper City]] normally. This does not preclude them from paying 5 silver.
+The players will not be permitted to enter the [[Upper City]] until a [Patriar](https://forgottenrealms.fandom.com/wiki/Nobility_of_Baldur%27s_Gate) grants them permission or until one side quest has been completed. If an adventurer is a member of the [[Talons of the Raven Queen]], [[Order of the Gauntlet]] or mentions [[Ontharr Frume]], they will be permitted to enter the [[Upper City]] normally. This does not preclude them from paying 5 silver.
 1. [[Temple of the Raven Queen]]: [[Xaria Trevisa]] is concerned with the murders in [[Baldur's Gate]] and believes this to be the work of a demonic creature associated with the undead. This will continue and conclude the [[Cold, Red-Blooded Murder]] quest. If a player is a member of the [[Talons of the Raven Queen]], this will be their initiation mission. 
 2. [[Raven's Arbor]]: [[Margaret Ravenshade]] is running for the position of Duke as [[Belynne Stelmane]] has been largely unable to rule due to a stroke she suffered recently. In order to help her win the position of Duke, she asks the players to investigate the gruesome murders in the city. This will begin the [[Den of the Dead Three]] quest.
 
@@ -563,7 +563,7 @@ ALIA: Thanks to the information you gathered we have a solid idea of where this 
 
 LEOSIN: We believe that the Serpent will strike at Little Calimshan during the Feast of the Moon.
 
-ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars, commoners. Whatever they have planned will be seen and heard by a good number of the populace.
+ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars and commoners alike. Both [[Margaret Ravenshade]] and [[Dillard Portyr]] are supposed to attend as well. Whatever they have planned will be seen and heard by a good number of the populace.
 
 [[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them on sight. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]] they will be attacked by a group of cultists accompanied by a Dragon Cultist Commander.
 
@@ -574,11 +574,11 @@ ALIA: It's a good opportunity to sow as much chaos as possible. High concentrati
 ____
 ### CONCLUSION
 
-Killing Returning to [[Ackyn Selebon]] at the end of the week will allow the adventurers to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north. 
+After killing [[Asha Ardeat]] and securing [[Xaria Trevisa]]'s quests will conclude the party's main quests in [[Baldur's Gate]]. They can return to [[Ackyn Selebon]] to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north.
 
 *Ackyn appears from beneath the caravan with a bit of grease on his forehead, and oil on his hands. He passes Glass a wrench so the Kobold can make some final adjustments to the vehicle, and the two share a quick high-five in solidarity. The human turns to your group and slaps the side of the wooden surface, flashing you a quick and easy smile.*
 
-ACKYN: She's ready as she can be for the rest of your travels. I took the liberty of making her a little beefier. On the house. Least I could do to contribute to the fight.
+ACKYN: She's ready as she can be for the rest of your travels. Now that we're entering winter you'll need the wheels for the Fields of the Dead. Don't worry about payment, it's on the house. Least I could do to contribute to the fight.
 
 If the first upgrade to the Van's armour has not yet been purchased, he will apply it for them automatically. If it has, he will add another +1 to the Caravan's AC. He suggests heading up north to [[Waterdeep]] as soon as possible but to watch out for the [[Cult of the Dragon]]. Unfortunately, it seems that the Cult has disappeared from sight.
 
@@ -608,4 +608,7 @@ LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow
 
 *Lucien's fingers snap once more and Ackyn falls to the ground and inhales deeply as the air fills his lungs once more. The Devil laughs for just a second, his skin flashing a vibrant red before he cracks his neck to stretch. Lucien gives your party the once over and vanishes from view.
 
-If the players are in good standing with the [[Zhentarim]] (+15) or they completed [[Masterpiece Imbroglio]], [[Jamna Gleamsilver]] will visit the party at night and tell them that she and a few others spotted a few carts heading to the north towards [[Dragonspear Castle]]. 
+#### Zhentarim
+If the players are in good standing with the [[Zhentarim]] (+15) or they completed [[A Favour for Natasha]], [[Jamna Gleamsilver]] will visit the party at night and tell them that she and a few others spotted a few carts heading to the north towards [[Dragonspear Castle]].
+
+
