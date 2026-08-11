@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f8aa998ffb9e94",
+        "id": "35d3a0de3d5bcd81",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5b8b81f65385ca",
+            "id": "ab155a8efdbb2488",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04 - Locations/Known Map of Faerun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Known Map of Faerun"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sharwyn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +79,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,8 +198,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b5b8b81f65385ca",
+  "active": "ab155a8efdbb2488",
   "lastOpenFiles": [
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 28.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 27.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 26.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 25.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 24.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 23.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 22.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 21.md",
     "07 - Items/Shadow Curse.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/The Sunless Citadel.md",
@@ -213,18 +226,8 @@
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Ironspine Keep.md",
     "05 - Organisations/01 - Major Allied Factions/03 - Lords' Alliance/Corlie Halvachar.md",
     "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Torbar Dragonsbane.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-    "03 - Persons of Note/01 - Allies/Roan Lyxerias.md",
     "00 - Images/A New Duke-1786053497395.webp",
     "00 - Images/A New Duke-1786053493634.webp",
-    "02 - Adventurers/Group A/Zilliletha/Untitled.md",
-    "02 - Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 29.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
-    "03 - Persons of Note/01 - Allies/Auron Whitestreak.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 21.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "00 - Images/Den of the Dead Three-1785620243544.webp",
