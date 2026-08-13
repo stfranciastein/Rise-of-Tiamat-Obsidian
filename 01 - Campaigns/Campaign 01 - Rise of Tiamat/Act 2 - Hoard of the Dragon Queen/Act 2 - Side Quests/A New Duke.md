@@ -477,7 +477,7 @@ the devil vows to help the characters stop Tiamat, provided they take the Shield
 Duke [[Thalamra Vanthampur]] and her companion, [[Thavius Kreeg]], have promised to help Gargauth break out of the shield, provided the fiend spreads corruption throughout the city by uniting the patriars behind the duke — and, by extension, behind the archdevil [[Zariel]]. Only then can [[Baldur's Gate]] suffer the same fate as [[Elturel]]. However, Gargauth is happy to take advantage of a more expedient means of returning to the Nine Hells if the characters offer it one. The Hidden Lord has no loyalty to anyone but itself. [[Gargauth]] will not reveal [[Thavius Kreeg]]'s treachery as Kreeg has yet to fulfill his end of [[Zariel]]'s plan and the devil thinks he may still be interested in freeing him from the Shield.
 
 ###### Treasure
-The eight coffers are unlocked and contain money belonging to the Vanthampur family, as well as treasure stolen from Tiamat’s hoard on [[Avernus]]. Duke [[Thalamra Vanthampur]] plans to use this combined treasure to bribe the city’s patriars and government officials into supporting her bid to become the new grand duke.
+The eight coffers are unlocked and contain money belonging to the Vanthampur family, as well as treasure stolen from Tiamat’s hoard on [[Avernus]]. Duke [[Thalamra Vanthampur]] planned on accumulating treasure to bribe the city’s patriars and government officials into supporting her bid to become the new grand duke.
 
 - Coffer 1 contains 30 electrum ingots (10 GP each) belonging to the Vanthampur family.
 - Coffers 2, 3, and 4 each contain 250 GP and 500 SP belonging to the Vanthampur family.
