@@ -25,7 +25,7 @@ LYTHE: Big evils, they smell bad!
 
 ![[05xjhatjuvnb1.jpg]]GRID TILES: 50x60
 
-This camp holds 30 [[Cult of the Dragon]] members, though the majority of them are Kobolds and Goblins. The camp's leader is one of [[Thaddak Ice-Veins]]'s Dragonclaws, a Blue Tiefling named [[Ozereus]]. He largely remains in the captain's tent in the centre of the camp and will only inspect what's happening should any noise happen in the camp.
+This camp holds 30 [[Cult of the Dragon]] members, though the majority of them are Kobolds and Goblins. The camp's leader is one of [[Thaddak Ice-Veins]]'s Dragonclaws, a Blue Tiefling named [[Ozereus the Ghost]]. He largely remains in the captain's tent in the centre of the camp and will only inspect what's happening should any noise happen in the camp.
 
 *A blue-skinned Tiefling exits the captain's tent and smiles as he sees your party. He stands at about 6 feet tall, with short blue-black hair and a goatee which adds to his fiendish appearance. On his back are two scimitars, both of which gleam with silvery light. His blue coat is lined with what looks like Hunters furs. His gloved hand is wrapped with what looks like a white mark.*
 

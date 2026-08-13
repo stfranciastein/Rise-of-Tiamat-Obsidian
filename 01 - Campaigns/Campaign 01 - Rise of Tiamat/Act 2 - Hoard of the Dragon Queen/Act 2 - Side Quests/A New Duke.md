@@ -364,19 +364,14 @@ A character who listens at the double door or one of the secret doors leading to
 
 *Two rows of tall wrought-iron candlesticks light this vaulted chamber, each one bearing nine flickering candles. A seven-foot-tall statue of an angel with white glowing eyes and a longsword stands atop a dais to the south. A six-foot-tall fiend bristling with spines stands west of the statue, glaring at four black-robed cultists who kneel and chant in the middle of the room, their faces hidden behind golden devil masks. Nine tapestries depicting the layers of the Nine Hells adorn the walls.*
 
+###### Barbed Devil and Cultists
 The spined fiend is a [barbed devil](https://www.dndbeyond.com/monsters/16800-barbed-devil) named Odious. Sent by Zariel to serve Duke [[Thalamra Vanthampur]], the devil answers only to those two. The chanting figures are four lawful evil human [cultists](https://www.dndbeyond.com/monsters/16835-cultist) wearing black robes and golden devil masks similar to those worn by the cultists in [area V22](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V22SewerTunnels "area V22"). The devil and the cultists attack intruders on sight, but can be duped by characters wearing disguises (see the “[Disguised Characters](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#DisguisedCharacters "Disguised Characters")” sidebar).
 
-Statue. The statue represents Zariel in her angelic form. It’s a Large object with AC 17, 33 hit points, and immunity to fire, poison, and psychic damage. Toppling the statue with a successful DC 20 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check causes it to shatter on the floor.
+###### Statue
+The statue represents Zariel in her angelic form. It’s a Large object with AC 17, 33 hit points, and immunity to fire, poison, and psychic damage. Toppling the statue with a successful DC 20 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check causes it to shatter on the floor.
 
-Treasure. The statue’s head and neck are hollow. Lodged in this cavity is a [+1 mace](https://www.dndbeyond.com/magic-items/5246-mace-1) that can be removed only if the statue is destroyed. The head of the mace sheds bright light in a 5-foot-radius and dim light for an additional 5 feet. The wielder of the mace can extinguish or ignite its light as an action. (This light is what causes the statue’s eyes to glow.)
-
-##### V27. Escape Tunnel
-Hidden behind a secret door, this tunnel has a wooden ladder at its north end. The ladder climbs a 15-foot-high shaft to a trapdoor that opens into [area V2](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V2StableHouse "area V2").
-
-##### V28. Secret Shrine
-*This room is lit by a pair of tall wrought-iron candlesticks in the northeast and southeast corners. Nine candles burn atop each one, casting flickering light across a claw-footed altar carved from a single block of obsidian, and which has a small angel-shaped flame erupting from its top. A gray-haired woman kneels before the altar.*
-
-This room is hidden behind secret doors (see “[Dungeon Features](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#DungeonFeatures "Dungeon Features")”). The scraping noise either door makes when opened is loud enough to alert the room’s occupant. [[Thalamra Vanthampur]] is here, wearing no arms or armour. Unbeknownst to the party, she possesses magical powers bestowed upon her by Zariel, her infernal patron. Any intrusion is greeted with hostility, and the duke is not squeamish about smashing foes with her bare hands if she finds herself in melee.
+###### Thalamra
+In addition to the cultists, [[Thalamra Vanthampur]] is here, wearing no arms or armour. Unbeknownst to the party, she possesses magical powers bestowed upon her by Zariel, her infernal patron. Any intrusion is greeted with hostility, and the duke is not squeamish about smashing foes with her bare hands if she finds herself in melee.
 
 THALAMRA: So you're the one Amrik was telling me about. The one who seeks the ruin of my House, my family, my pact.
 
@@ -388,18 +383,105 @@ THALAMRA: My lady told me about you, you know. The ones who saved [[Elturel]] fr
 
 THALAMRA: Ravenshade's been a thorn in my side for years, but I didn't think she'd have the balls to finally do something about it. When I'm done with you, her and that blasted house are next. In the name of the Lord of the First. I will destroy you.
 
-Upon her defeat, [[Thalamra Vanthampur]] will chuckle and kneel down onto the ground as her body begins to disintegrate. On a DC 10 Arcana check, the party can learn that she must be returning to Avernus to reconstitute. Thalamra, it seems, has become a devil.
+Upon her defeat, [[Thalamra Vanthampur]] will chuckle and kneel down onto the ground as her body begins to disintegrate. On a DC 10 Arcana check, the party can learn that she must be returning to Avernus to reconstitute.
 
 THALAMRA: See you in hell.
 
 The Duke keeps two keys in a pocket of her dress. One key unlocks the chest in her bedroom ([area V17](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V17MasterBedroom "area V17")); the other key unlocks the door to the vault ([area V36](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V36VanthampurVault "area V36")).
 
-Obsidian Altar. The black altar weighs 800 pounds and has tiny Infernal runes carved in a ring around the nine-inch-tall, angel-shaped flame erupting from its top. This flame bears only a vague resemblance to Zariel. Defacing any of the altar’s runes extinguishes the flame and causes the altar to crack in two.
+Treasure. The statue’s head and neck are hollow. Lodged in this cavity is a [+1 mace](https://www.dndbeyond.com/magic-items/5246-mace-1) that can be removed only if the statue is destroyed. The head of the mace sheds bright light in a 5-foot-radius and dim light for an additional 5 feet. The wielder of the mace can extinguish or ignite its light as an action. (This light is what causes the statue’s eyes to glow.)
+
+##### V27. Escape Tunnel
+Hidden behind a secret door, this tunnel has a wooden ladder at its north end. The ladder climbs a 15-foot-high shaft to a trapdoor that opens into [area V2](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V2StableHouse "area V2").
+
+##### V28. Secret Shrine
+*This room is lit by a pair of tall wrought-iron candlesticks in the northeast and southeast corners. Nine candles burn atop each one, casting flickering light across a claw-footed altar carved from a single block of obsidian, and which has a small angel-shaped flame erupting from its top.
+
+This room is hidden behind secret doors (see “[Dungeon Features](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#DungeonFeatures "Dungeon Features")”). 
+
+Obsidian Altar. The black altar weighs 800 pounds and has tiny Infernal runes carved in a ring around the nine-inch-tall, angel-shaped flame erupting from its top. This flame bears only a vague resemblance to Zariel. Upon closer inspection, the flame moves as the figure acknowledges the party's presence before disappearing.
 
 ##### V29. Prison
 *A broad-shouldered figure with purple skin and a beard of writhing snakelike tentacles stands in the middle of a room lined by iron doors, tightening its grip on a glaive as it glares at you through the darkness. Each door is set with a small barred window, and a ring of keys hangs from the creature’s belt.*
 
-The prison guard is a [bearded devil](https://www.dndbeyond.com/monsters/16803-bearded-devil) named Thoss, which attacks anyone it perceives as an intruder or a threat. Characters disguised as cultists can try to dupe Thoss into allowing them to interrogate or release prisoners (see the “[Disguised Characters](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#DisguisedCharacters "Disguised Characters")”). The keys dangling from the devil’s belt unlock the cell doors.
+The prison guard is a [bearded devil](https://www.dndbeyond.com/monsters/16803-bearded-devil) named Thoss, which attacks anyone it perceives as an intruder or a threat. Characters disguised as cultists can try to dupe Thoss into allowing them to interrogate or release prisoners (see the “[Disguised Characters](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#DisguisedCharacters "Disguised Characters")”). The keys dangling from the devil’s belt unlock the cell doors. Two of the cells contain prisoners. The other four cells are empty, though captured characters might end up here. 
 
-Two of the cells contain prisoners. The other four cells are empty, though captured characters might end up here (see the “[Imprisoned Characters](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#ImprisonedCharacters "Imprisoned Characters")” sidebar). On of the cells holds a man named [[Roan Lyxerias]].
+###### Roan Lyxerias 
+One of the cells holds a Tabaxi man named [[Roan Lyxerias]]. He will explain that he was on a job for [[Candlekeep]] when he ran into [[Amrik Vanthampur]] and was captured by him. He will tell the party that [[Thalamra Vanthampur]] is no longer human and has become a Devil (Erinyes) and they should tread carefully.
+
+Roan also works for [[Sylvira Savikas]]. He was sent by the Great Reader in order to ascertain what [[House Vanthampur]] may know about the [[Essence of Zariel]] as she suspected them to be devil worshippers. If the party reveals that they received the Infernal Puzzle Box from [[Thurstwell Vanthampur]], he will say once their business here is over he can return to [[Candlekeep]] and give [[Sylvira Savikas]] the box in order for her to take a look.
+
+###### Satiir Thione-Hhune
+The second prisoner is a fit, aristocratic human woman in her seventies named Lady Satiir Thione-Hhune. Born into the rich and politically powerful Hhune patriar family, Satiir is a neutral evil [noble](https://www.dndbeyond.com/monsters/16966-noble) with no weapons or armor (AC 11). She was kidnapped by [[Thalamra Vanthampur]] to be used as leverage in the event that the Hhunes find out who stole the [Shield of the Hidden Lord](https://www.dndbeyond.com/magic-items/843176-shield-of-the-hidden-lord) from their family’s crypt.
+
+Unknown to the Vanthampurs, Satiir is a member of a secret evil order whose members call themselves the Knights of the Shield, and who are the self-appointed guardians of the [Shield of the Hidden Lord](https://www.dndbeyond.com/magic-items/843176-shield-of-the-hidden-lord). Satiir doesn’t speak of the shield. Instead, she tells her rescuers that the Vanthampurs were planning to use her to keep the Hhunes from opposing Duke [[Thalamra Vanthampur]] bid to become the new grand duke in light of [[Ulder Ravengard]]'s absence.
+
+If Satiir is allowed to escape, she informs her family and associates that the Vanthampurs stole the shield, destroying [[House Vanthampur]]'s political future in Baldur’s Gate. If the party decides to present the Shield to [[Sylvira Savikas]] themselves, they might encounter more of Satiir’s friends on the way to [[Candlekeep]].
+
+##### V30. Barrier of Iron Bars
+*This sewer tunnel slopes down gradually toward the south, channeling water and sewage into the city’s sewer system. The tunnel is blocked by a 10-foot-square barrier composed of vertical iron bars with 6-inch gaps between them — enough room for a rat to saunter through, but too narrow for normal-sized characters to squeeze through. The bars are embedded deep into the stone of the floor and ceiling.*
+
+A character can bend the bars with a successful DC 25 Strength ([Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check, creating a gap wide enough for a Medium or smaller humanoid to squeeze through.
+
+##### V31. Vestry
+*Four wooden wardrobes stand against the walls in this area. The cultists store their robes and masks in these wardrobes before leaving the dungeon and returning to the city above. The wardrobes along the west wall stand empty.* 
+
+Characters who search the wardrobe on the south wall find four sets of black robes and four gold devil masks, as worn by the cultists encountered elsewhere in the dungeon.
+
+##### V32. Connecting Tunnel
+*The dim light from two of the cultists’ green-glass lanterns doesn’t reach the ends of this corridor, creating pools of darkness there.* 
+
+Two lawful evil human [cult fanatics](https://www.dndbeyond.com/monsters/16836-cult-fanatic) guard the tunnel, one at each end. Characters with [darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) or their own light sources spot the fanatics. Otherwise, the fanatics surprise the characters. Each fanatic wears a black robe and a thin gold devil mask similar to those worn by cultists in other areas.
+
+Sounds of combat here alert the cultists in area V33, who arm themselves but stay where they are.
+
+##### V33. Cultists’ Quarters
+*This room is lit by two tall wrought-iron candlesticks each topped with nine flickering candles. Around the room’s perimeter are ten wooden bunk beds, next to which are unlocked footlockers containing ordinary clothes belonging to the cultists.*
+
+Ten [cultists](https://www.dndbeyond.com/monsters/16835-cultist) gather here, minus any cultists defeated in [area V22](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V22SewerTunnels "area V22"). These cult members are lawful evil humans wearing black robes and thin gold devil masks. Some have dozed off, while others are sitting on their beds, sharing rumors regarding Duke Vanthampur’s plans for Baldur’s Gate. These cultists show intruders no quarter.
+
+Sounds of combat here alert the cult fanatics in [area V32](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V32ConnectingTunnel "area V32"), who investigate immediately.
+
+#### V34. Ritual Chamber
+*This ten-foot-high vaulted chamber has a plaster ceiling painted with images of terrifying winged devils looking down on a symbol embedded in the room’s floor: a circular disk of black stone inscribed with a nine-pointed gold star. Four wrought-iron candlesticks bristling with unlit, half-melted red candles surround the circle.*
+
+The cultists use this chamber to perform diabolical rituals that duplicate the effect of a [divination](https://www.dndbeyond.com/spells/2073-divination) spell, except that the spell’s contact is a devil that manifests as a pillar of smoke above the symbol on the floor. The images on the ceiling are pit fiends, recognizable by any character who succeeds on a DC 15 Intelligence ([Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check.
+
+##### V35. Visitor's Quarters
+*Wrought-iron candlesticks topped with flickering candles light this room, which is heated by a cast-iron stove with clawed feet. Across from the crackling stove is a modest desk with a matching chair. Other furnishings include a small table and chair for dining, a bed, an iron chest resting at the foot of the bed, and two tapestries: one showing spirits rising as lemure devils from the River Styx, and another depicting a dead man dangling like a marionette from hooked chains.*
+
+The occupant or would-be occupant of this room keeps a holy symbol of Torm (a silver pendant shaped like a right-handed gauntlet on the end of a silver chain) in the chest. The holy symbol is worth 25 gp. The chest contains nothing else.
+
+##### V36. Vanthampur Vault
+*This room contains four wooden tables with two small wooden coffers atop each one. Hanging on the wall opposite the door is a beautiful golden shield. Standing in front of the shield is a cloaked figure. His black hood is raised up, and he carries what looks like a crude staff in his hand. As he turns to face the door, you see his glowing yellow eyes first, then a shock of red skin as he smiles.
+
+The door to this room is locked and Duke [[Thalamra Vanthampur]] has the only key. This cannot be opened by any other method, nor can the walls be tunnelled through. The door can be unlocked from the inside without the key. The shield hanging on the wall behind the figure is the [Shield of the Hidden Lord](https://www.dndbeyond.com/magic-items/843176-shield-of-the-hidden-lord).
+
+###### Kevdor! No, Ozereus?!
+The figure will initially introduce himself as [[Kevdor Redflame]], until he grows bored of the act. In reality, this is [[Ozereus the Ghost]] who was sent here by [[Thaddak Ice-Veins]] in order to undermine the [[Cult of Zariel]] by pretending to be [[Thalamra Vanthampur]]'s ally and stealing the Cult's belongings back from her. Realising now that [[Thalamra Vanthampur]] is temporarily unavailable, he will ask the characters 'nicely' if they'd be willing to just let him go. 
+
+In exchange for their co-operation, he will provide them with what he knows about the Serpent; she is a magic caster with an affinity for fire magic and controlling others. If asked why he's helping, he will say that it's all 'friendly competition', and that her death will keep him entertained. If asked why he knows so little he will say he has yet to meet her despite being in [[Baldur's Gate]] for over a week now, which is the truth.
+
+OZEREUS: Now, as for Rezmir's other remaining Dragonclaw... oh ho ho. My my he is quite the character indeed. The dark, brooding type. Moves with unbelievable speed with a squad of other silent killers at his disposal. They kill first, ask questions never. A man after my own heart. Well, the killing part, not the silence. I do enjoy the sound of my own voice. How could I not?
+
+If Ozereus is threatened, he will laugh and say while the party is formidable they are no match for the White Wyrmspeaker's Dragonclaws. He will also say he prefers not to kill the party as he will have to clean their bloodstains out of his recently washed coat. If the party dares to attack him, he will fight openly and aggressively until two people are downed simultaneously before slowly walking off. If they manage to get him bloodied, he will use his scimitar to become ethereal and begin picking the party off silently.
+
+[[Ozereus the Ghost]] will also slyly lure the players into keeping the Shield, claiming it to be the most interesting thing in [[Thalamra Vanthampur]]'s collection. He will claim to be talking to the celestial trapped within. He has no interest in keeping it, however, as he believes shields are for the slow and decrepit. 
+
+###### Shield of the Hidden Lord
+The devil [[Gargauth]] is bound into the [Shield of the Hidden Lord](https://www.dndbeyond.com/magic-items/843176-shield-of-the-hidden-lord) and wants to escape from it. The fiend believes it can break out once the shield is taken to the Nine Hells — and it needs the characters’ help to get there.
+
+[[Gargauth]] senses the presence of the characters when they enter the room and telepathically contacts one of them at random. Referring to itself as 'Samael', a Solar from Mount Celestia, 
+the devil vows to help the characters stop Tiamat, provided they take the Shield with them out of the city and find a way to release the bindings on it. 'Samael' also warns that a secret society is after the shield, and that it’s only a matter of time before its evil members find it. [[Gargauth]] claims that this secret society doesn’t want the shield’s powers to be used for good, which is the truth.
+
+Duke [[Thalamra Vanthampur]] and her companion, [[Thavius Kreeg]], have promised to help Gargauth break out of the shield, provided the fiend spreads corruption throughout the city by uniting the patriars behind the duke — and, by extension, behind the archdevil [[Zariel]]. Only then can [[Baldur's Gate]] suffer the same fate as [[Elturel]]. However, Gargauth is happy to take advantage of a more expedient means of returning to the Nine Hells if the characters offer it one. The Hidden Lord has no loyalty to anyone but itself. [[Gargauth]] will not reveal [[Thavius Kreeg]]'s treachery as Kreeg has yet to fulfill his end of [[Zariel]]'s plan and the devil thinks he may still be interested in freeing him from the Shield.
+
+###### Treasure
+The eight coffers are unlocked and contain money belonging to the Vanthampur family, as well as treasure stolen from Tiamat’s hoard on [[Avernus]]. Duke [[Thalamra Vanthampur]] plans to use this combined treasure to bribe the city’s patriars and government officials into supporting her bid to become the new grand duke.
+
+- Coffer 1 contains 30 electrum ingots (10 GP each) belonging to the Vanthampur family.
+- Coffers 2, 3, and 4 each contain 250 GP and 500 SP belonging to the Vanthampur family.
+- Coffer 5 contains two pieces of a broken ceremonial dagger stolen from Tiamat’s hoard: a curved ivory blade bearing Draconic runes that spell out “Fang,” along with a bone hilt wrapped in leather strips and studded with gemstones. A [mending](https://www.dndbeyond.com/spells/2187-mending) cantrip can make the nonmagical dagger whole again, restoring its value (250 GP).
+- Coffers 6 and 7 each contain 150 PP belonging to the Vanthampur family.
+- Coffer 8 contains twenty azurite gemstones (10 GP each) stolen from Tiamat’s hoard.
 
