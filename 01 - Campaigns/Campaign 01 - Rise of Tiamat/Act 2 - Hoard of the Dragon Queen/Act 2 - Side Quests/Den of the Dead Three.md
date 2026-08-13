@@ -328,10 +328,12 @@ Myrkul Statue. Anyone who desecrates this statue is cursed by the Lord of Bones.
 ____
 ### CONCLUSION
 
-After returning to [[Raven's Arbor]], it is likely that the [[Flaming Fist]] will have heard of what happened at the Bathhouse. [[Margaret Ravenshade]] will award the players with 4,000 GP and two diamonds worth 300 GP. If they bring her proof that [[House Vanthampur]] is involved, she will award them an extra She says that the information they gained will be helpful in securing her a place on the [[Council of Four]]. 
+After returning to [[Raven's Arbor]], it is likely that the [[Flaming Fist]] will have heard of what happened at the Bathhouse. [[Margaret Ravenshade]] will either be happy or annoyed depending on whether or not they are caught leaving the Bathhouse. Regardless, she will say the following:
 
 MARG: I admit that this omen Mortlock spoke of about [[Elturel]] concerns me greatly, moreso than my own ambitions for the [[Council of Four]]. I will need to think on this.
 
 *She rubs her forehead with the tips of her finger, careful not to smudge her makeup too much or move a single hair from her head out of place. For a second, you see her strength falter but then she breathes in and composes herself. Just like that, she's fine again.*
 
 MARG: If you are interested in looking into this, please, pursue this lead to the [[Lower City]]. Meet with me again as soon as possible if and when you find something from Amrik.
+
+If the party has been arrested or seen, she will offer to give them amnesty in exchange for their promise to help take down [[House Vanthampur]]. This will only last for 2 days, as [[Thalamra Vanthampur]]'s power far exceeds her own.

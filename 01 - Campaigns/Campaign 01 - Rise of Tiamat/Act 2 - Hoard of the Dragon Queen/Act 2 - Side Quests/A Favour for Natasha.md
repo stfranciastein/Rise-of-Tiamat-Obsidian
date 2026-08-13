@@ -331,8 +331,6 @@ A character who examines the various treasures and succeeds on a DC 15 Wisdom (P
 A character can disable a particular rune (and its linked [alarm](https://5e.tools/spells.html#alarm_phb) spell) with the [dispel magic](https://5e.tools/spells.html#dispel%20magic_phb) spell or a successful DC 18 Intelligence (Arcana) check. A character who fails the check by 5 or more triggers the alarm. The first time a character successfully disables one of these runes, the DC to do so on the others decreases to 13. Alternatively, a character can slip an item out of its case without triggering the display case alarm by succeeding on a DC 18 Dexterity (Sleight of Hand) check. On a failed check, the audible alarm activates (see "Caught in the Act").
 
 ---
-
-
 ### PART IV - Vidorant Arrives
 
 Once the characters obtain the diadem, they must escape the vault to complete the heist.
@@ -364,4 +362,4 @@ VIDORANT: So, to summise, you take my ring and tell Tasha that you either gave u
 ____
 ### CONCLUSION
 
-Upon returning to [[Whitkeep Hostel]] with the Diadem, Jives will be pleased and give the players 300PP. If the players do not return with the Diadam, Jives will not be as happy but will agree to pass the message on to [[Natasha 'Tasha' the Dark]]. He will provide the party with a lowered reward of 1500GP instead for the attempt.
+Upon returning to [[Whitkeep Hostel]] with the Diadem, Jives will be pleased and give the players 300PP. If the players do not return with the Diadam, Jives will not be as happy but will agree to pass the message on to [[Natasha 'Tasha' the Dark]]. He will provide the party with a lowered reward of 1500GP instead for the attempt. [[Jamna Gleamsilver]] will also be there and will inform the players that due to the change of venue, the final payment for the heist is now 15,000 GP instead of the aforementioned 10,000 GP.

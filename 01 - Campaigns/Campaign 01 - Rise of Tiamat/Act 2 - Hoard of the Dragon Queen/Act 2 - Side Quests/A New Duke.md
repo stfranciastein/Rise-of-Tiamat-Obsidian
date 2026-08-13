@@ -192,7 +192,7 @@ Four invisible imps lurk among the vases on the high shelf, one in each corner. 
 
 Pleasant aromas fill this area throughout the day as cook Gabourey D’Vaelan (see “[Servants](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#Servants "Servants")”) prepares meals for the Vanthampurs and their staff. Gabourey doesn’t like other people in the kitchen while she works.
 
-Slobberchops the [tressym](https://www.dndbeyond.com/monsters/17353-tressym) prowls the kitchen, killing rats and eating whatever Gabourey drops on the floor. Slobberchops has no loyalty to [[House Vanthampur]] and detests [[Thurstwell Vanthampur]] and his imp spies. The tressym befriends any character who feeds it, following that character around the house and using its Detect Invisibility trait to warn of [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) imps nearby.
+Slobberchops the [tressym](https://www.dndbeyond.com/monsters/17353-tressym) prowls the kitchen, killing rats and eating whatever Gabourey drops on the floor. The tressym befriends any character who feeds it, following that character around the house and using its Detect Invisibility trait to warn of [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition) imps nearby.
 
 ##### V6. Pantry
 Food and drink is stored on shelves in this musty room.
@@ -224,7 +224,7 @@ Wax Statue. A 6-foot-tall wax statue in one corner depicts Duke Thalamra Vantham
 ##### V11. Upstairs Hall
 *Lanterns hang from the rafters of this drafty hall. A set of guards stand here, one by each door.* 
 
-The staircase to the north descends 15 feet to area V10. Five lawful evil human [guards](https://www.dndbeyond.com/monsters/16915-guard) stand watch here — one by each door. They attack anyone not accompanied by a Vanthampur family member. If they hear trouble elsewhere, the guards can’t be surprised, but they stay put unless ordered to move by a member of the family. Combat here alerts Thurstwell Vanthampur in [area V13](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V13ThurstwellsBedroom "area V13") but he does not act on it.
+The staircase to the north descends 15 feet to area V10. Five lawful evil human [guards](https://www.dndbeyond.com/monsters/16915-guard) stand watch here — one by each door. They attack anyone not accompanied by a Vanthampur family member. If they hear trouble elsewhere, the guards can’t be surprised, but they stay put unless ordered to move by a member of the family. Combat here alerts [[Thurstwell Vanthampur]] in [area V13](https://www.dndbeyond.com/sources/dnd/bgdia/a-tale-of-two-cities#V13ThurstwellsBedroom "area V13") but he does not act on it.
 
 `The Hobgoblin from that Herd found something in the Cloakwood.`
 `He says he's ready to meet.`
@@ -235,21 +235,17 @@ The staircase to the north descends 15 feet to area V10. Five lawful evil human 
 It's possible to jump from this balcony onto the dirt. On a DC 5 investigation check, the players can determine that it is a 15-foot drop from the balcony to the ground.
 
 ##### V13. Thurstwell’s Bedroom
-*Drab curtains cover the windows of this plain room, which contains a bed, a padlocked iron chest, a claw-footed iron bathtub, and a fireplace.*
-
-Standing in the middle of the room is [[Thurstwell Vanthampur]], a frail and sorry forty-two-year-old man clutching an [infernal puzzle box](https://www.dndbeyond.com/magic-items/842254-infernal-puzzle-box) (see “Treasure” below). If alerted to intruders, Thurstwell has locked the puzzle box in the iron chest and tucked the key into his robe pocket.
-
-[[Thurstwell Vanthampur]] commands several imp spies who enter and leave his room through the chimney, but only one such creature is present when the characters arrive. This [imp](https://www.dndbeyond.com/monsters/16933-imp) is [invisible](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InvisibleCondition), lurks in the fireplace, and attacks anyone who threatens Thurstwell.
+*Drab curtains cover the windows of this plain room, which contains a bed, a padlocked iron chest, a claw-footed iron bathtub, and a fireplace. Standing in the middle of the room is a sickly, male human wearing fine clothing. He clutches a box in his hands, and he appears to be trying to open it.*
 
 THURSTWELL: Oh! Adventurers! There you are! Please, come in, be quiet and close the door behind you. I've been waiting for so long.
 
 Upon greeting him, he will nonthreateningly invite the players to huddle close to him near his bed. He will tell the party that his mother, Duke [[Thalamra Vanthampur]] is in the dungeon below the villa with an unknown man. According to Thurstwell, she and him are plotting to sieze control of [[Baldur's Gate]]. If [[Amrik Vanthampur]] is alive, Thurstwell also informs the party of his presence.
 
-According to Thurstwell, [[Amrik Vanthampur]] recently smuggled the [Shield of the Hidden Lord](https://www.dndbeyond.com/magic-items/843176-shield-of-the-hidden-lord) from a crypt under the city. A powerful devil named Gargauth is trapped in the shield, and has vowed to help [[House Vanthampur]] conquer Baldur’s Gate if released.
-
-The Infernal Buzzle Box in his possession was given to him by [[Thalamra Vanthampur]] at the request of her guest. Unbeknownst to the players, this particular box belongs to [[Thavius Kreeg]] and was entrusted to Duke [[Thalamra Vanthampur]] for safekeeping. 
+According to Thurstwell, [[Amrik Vanthampur]] recently smuggled artifacts from a crypt under the city as well which is being held in the Vanthampur Vault. The Infernal Buzzle Box in his possession was given to him by [[Thalamra Vanthampur]] at the request of her guest. Unbeknownst to the players, this particular box belongs to [[Thavius Kreeg]] and was entrusted to Duke [[Thalamra Vanthampur]] for safekeeping. 
 
 Curious to know what’s inside the box, the duke gave it to Thurstwell — supposedly her smartest son — to see if he could open it, but he’s had no luck so far. Opening the box is beyond the ability of any of the characters. The box holds a copy of the contract [[Thavius Kreeg]] forged with Zariel to doom the city of [[Elturel]].
+
+[[Thurstwell Vanthampur]] will also offer to surrender himself to [[House Ravenshade]] at the end of this quest, provided that the remaining members of [[House Vanthampur]] will no longer be able to harm him. This is a complete truth and he has no plans of acting against his word.
 
 The padlock on the chest can be picked by a character with thieves’ tools who succeeds on a DC 15 Dexterity check. The chest weighs 50 pounds and contains a jumble of wrinkled garments, red wax candles, quills, blank sheets of parchment, and jars of ink. It also holds an unlocked wooden coffer containing 573 gp, 120 sp, and a Potion of Supreme Healing, as well as a black-covered tome titled Apocalypto — a poetic prophecy by an unknown author envisioning the end of the multiverse (worth 50 gp).
 
@@ -484,4 +480,21 @@ The eight coffers are unlocked and contain money belonging to the Vanthampur fam
 - Coffer 5 contains two pieces of a broken ceremonial dagger stolen from Tiamat’s hoard: a curved ivory blade bearing Draconic runes that spell out “Fang,” along with a bone hilt wrapped in leather strips and studded with gemstones. A [mending](https://www.dndbeyond.com/spells/2187-mending) cantrip can make the nonmagical dagger whole again, restoring its value (250 GP).
 - Coffers 6 and 7 each contain 150 PP belonging to the Vanthampur family.
 - Coffer 8 contains twenty azurite gemstones (10 GP each) stolen from Tiamat’s hoard.
+
+____
+### CONCLUSION
+
+*As you walk towards Raven's Arbor, you come upon a familiar scene. Dozens of Constabulary forces surround the manor, and citizens of both noble and common backgrounds whisper to themselves. As your party approaches, the guards move out of your way and salute you. The door to the manor is wide open, and a bloody trail leads from the door to the sitting room. As you all begin to make your way to where you'd expect Margaret to be, you instead find her and Cormyc speaking to an officer.*
+
+Upon their return to [[Raven's Arbor]], they will see that Tessa and Uruk are missing from their posts as they have been injured but are alive. After being questioned, they will discover that [[Cormyc Ravenshade]] and [[Margaret Ravenshade]] were attacked by Cultists, one of which has been kept alive by [[Cormyc Ravenshade]] who will state that they were moving rather erratically and unlike themselves. The remaining cultist, a human man will speak in an ethereal female voice:
+
+SERPENT: A simple acknowledgement on my part, for services rendered. With Thalamra out of the Material Plane, the Dragon Queen no longer has the 'First Lord' Zariel standing in her way. She should've known better, anyway, her contract isn't up until next year. Nevertheless, I thank you, adventurers. And I hope to see you soon, Margaret.
+
+[[Margaret Ravenshade]] will assume that the Serpent means to strike during the [[Feast of the Moon]] where her and many patriars and commoners will be celebrating. Despite any warnings from both [[Cormyc Ravenshade]] and the party, she will refuse to not attend as she believes that showing up in the face of danger is what the city needs to see in these trying times.
+
+ After their business is concluded, [[Margaret Ravenshade]] will award the players with 4,000 GP and two diamonds worth 300 GP. If they bring her extra proof, she will award them an extra 200 GP for each piece of crucial information. She says that the information they gained will be helpful in securing her a place on the [[Council of Four]], though she is far more concerned about [[Thalamra Vanthampur]]'s collaborator. 
+
+If [[Thurstwell Vanthampur]] is alive and his deal was accepted, he will enter at this point with his imp companions and surrender himself to [[House Ravenshade]] for questioning. In return, all he asks for is the ability to continue working with animals.
+
+Additionally, if [[Cold, Red-Blooded Murder]] is not completed, [[Cormyc Ravenshade]] will recommend the party deal with [[Xaria Trevisa]] next as the outcome of the 'death' of Duke [[Thalamra Vanthampur]] will likely cause chaos in the city in the near future. He will also warn them that even with [[Thalamra Vanthampur]]'s death, the Cult of the Dead Three may still be active as Thalamra was simply using them instead of leading them.
 
