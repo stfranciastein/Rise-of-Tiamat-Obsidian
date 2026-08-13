@@ -74,7 +74,51 @@ ____
 
 In Baldur's Gate, [[Xaria Trevisa]] will task either [[Khasar the Blooded]] or one of the adventurers with investigating a threat in [[Tumbledown]], a district of the  [[Outer City]] just past Cliffgate. The Talon under initiation will be tasked with finding a wizard known as the [[Harvester]]. 
 
-XARIA: Outside the city walls, there is a refugee from [[Berdusk]] who is rumoured to be responsible for the reawakening of the undead in [[Tumbledown]]. Go there, be the Raven Queen's eyes. And may the darkness protect you.
+*As you are brought into the common room of the Temple of the Raven Queen, you make note of the high arches and dark furnishing within. A constant purple light bathes the interior of the building, broken only by bubbles of warm light from the candles and sconces. A flock of ravens and crows fly between rooms freely, though they don't seem to be like any common birds. As your party sits in this grand living area the flames of the massive fireplace give you a warm embrace, just before you feel Xaria's presence.*
+
+*A set of double doors next to the fireplace opens, and in comes a shorter than average Shadar-Kai woman. Her eyes are pitch black, her skin is a steely cool grey and her hair is a shock of white tied into a long wavy ponytail. Her black armour glistens with purple light as she walks closer, her hand never leaving the sword on her left hip.*
+
+XARIA: Let's not mince words, you came here to secure the presence of the Talons in the [[Council of Waterdeep]], yes? The First Talon has entrusted me with ensuring this Council is worth our time. So in order to see how competent you all are, I have a request.
+
+*She brings her hands to her hip and takes out a quill and begins to write in the air. With each intentional stroke, a golden line is drawn in the air.*
+
+XARIA: There is a Tiefling woman staying in the [[Blushing Mermaid]], someone who is able to contact spirits from the fugue plane named [[Elena]]. Not a necromancer, as far as I know, just particularly gifted with magic.
+
+[[Xaria Trevisa]] will explain that [[Elena Ynfante]] is a College of Spirits Bard working with the [[Flaming Fist]] in order to investigate the murders in the [[Lower City]]. Regardless of whether or not [[A New Duke]] has been finished, she will say she cares little for the murders themselves and is far more concerned with the rumours shes heard about what Elena has also discovered.
+
+XARIA: Go to the Mermaid, speak with her. It will be clear what you must do next.
+
+#### Elena the Whisperer
+
+In the [[Blushing Mermaid]], the barkeep - Bosun Gannet -  will claim that Elena is currently gone, either at Bloomridge Park investigating a murder from last night or at Candulhallows in order to look at a body from the night before. If asked, he will say that the patrons have been spooked because she keeps talking about how she suspects there is a necromancer in [[Baldur's Gate]] that is defiling the dead. He will say that she seems like a nice enough woman, that she has a beautiful singing voice and is quite skilled with magic.
+
+GANNET: You know, I saw her once playing her flute with a magic hand. When the flute was playing it were even shootin' out some magic fire! Never seen that before.
+
+##### Candulhallows
+[[Elena Ynfante]] will not be at Candulhallows, but one of the staffers, an elven woman named Leylenna Candulhallow will approach the party and say she's likely at the park with the [[Flaming Fist]] investigating one of the murders. Leylenna will say that she hopes the business with the murders ends soon, as shes been getting a lot of vandals and the Fist haven't been able to patrol her part of the street as much as they could.
+
+LEYLENNA: You know, just yesterday I saw two of the crypts were broken into! Two! Thank the Gods Grand Duke Abdel Adrian's crypt is locked up tight. You know, the strangest thing is they didn't even take any of the treasure. Just rattled the bodies around a bit. Ghastly business.
+
+##### Bloomridge Park
+*As you approach the park, you can feel the presence of nature emerge from the heart of the stone city. Children and their parents walk to and fro, and stands and stalls of street food are interspersed throughout. However, the further in you get the more quiet it grows. Up ahead a group of Flaming Fist soldiers seem to have cordoned off a section of Bloomridge.*
+
+*A Flaming Fist soldier - young, human, trying very hard to look like he's seen worse than this - holds up his hand as you approach. His skin is pale, and he looks like he's about to get sick.*
+
+FIST: Sorry citizens, roads closed past this point. Official investigation.
+
+*Behind him just past the rope tied to two lamp posts that cordons off the street you can see the scene; a stretch of trampled grass near a reflecting pool, gone quiet in a way though the birds are still singing. In the pool, a body floats, face down in the water. Two more Fist soldiers stand nearby in their full heavy chain armour. While they don't seem quite as flustered as the boy before you, they don't seem to be in their element either. On the other hand, there's a pink-skinned Tiefling with a stern expression and a maroon long coat that billows in the wind looking unbothered.*
+
+ELENA: Let them in. Might as well have some live company. No offense, lads.
+
+*As your party approaches, the woman doesn't even move. She stays hunched over the side of the pool, looking at the body then at the branches up above. Closer now you can see the body floating in the water. It appears to be woman. Where you're expecting a missing hand, however, it would appear that she has both. Though the stain of blood makes it hard to make out much detail.*
+
+ELENA: Kid found the body this morning. Ran home crying to his Mama. If I were to guess, it's another victim of the serial killer, or killers depending on who you ask. Say, one of you help with the body, why don't you? This lot is quite useless. I'll bring it over, one of you lift it out of the water and onto the ground just here.
+
+*She pulls out a flute and begins to play a tune. In an instant, a spectral pink hand appears in front of her and goes to grab the body in the water. When she realises it's too heavy, she guides the hand and instead pushes it closer.*
+
+Upon retrieving the body, the party will learn that the body belongs to a drow woman. If the party has encountered the Cult of the Dead Three, they will likely inspect her to see if she has any missing limbs. However, it appears she has both hands. What's missing from her person are both of her eyes are gouged out and her stomach has been split open.
+
+refugee from [[Berdusk]] who is rumoured to be responsible for the reawakening of the undead in [[Tumbledown]]. Go there, be the Raven Queen's eyes. And may the darkness protect you.
 
 #### Tumbledown
 
