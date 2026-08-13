@@ -498,3 +498,8 @@ If [[Thurstwell Vanthampur]] is alive and his deal was accepted, he will enter a
 
 Additionally, if [[Cold, Red-Blooded Murder]] is not completed, [[Cormyc Ravenshade]] will recommend the party deal with [[Xaria Trevisa]] next as the outcome of the 'death' of Duke [[Thalamra Vanthampur]] will likely cause chaos in the city in the near future. He will also warn them that even with [[Thalamra Vanthampur]]'s death, the Cult of the Dead Three may still be active as Thalamra was simply using them instead of leading them.
 
+Lastly, if [[Lorgan Brandis]] has not been spoken to, [[Margaret Ravenshade]] will tell the party that if they are looking for more allies in the [[Lords' Alliance]], they will want to look into [[Ironspine Keep]] in the Fields of the Dead. To her understanding, the keep is supposed to be a bastion that symbolises unity between the allied cities but it has recently stopped reporting.
+
+MARG: Our point of contact is a gnome woman named [[Corlie Halvachar]], the Guard Captain of Ironspine, I believe. Father [[Lorgan Brandis]] from the Temple of the Open Hand also had a few of his monks disappear on their mission to the fortress. It would greatly help both the faith and the Alliance if you could see what has happened.
+
+This begins the quest [[Hold Back the Dead]].
