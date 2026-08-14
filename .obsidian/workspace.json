@@ -135,8 +135,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab155a8efdbb2488",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
     "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 Session - 31.md",
