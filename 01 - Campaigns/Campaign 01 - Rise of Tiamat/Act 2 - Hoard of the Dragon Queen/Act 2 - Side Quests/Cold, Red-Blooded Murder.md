@@ -90,7 +90,7 @@ XARIA: Go to the Mermaid, speak with her. It will be clear what you must do next
 
 #### Elena the Whisperer
 
-In the [[Blushing Mermaid]], the barkeep - Bosun Gannet -  will claim that Elena is currently gone, either at Bloomridge Park investigating a murder from last night or at Candulhallows in order to look at a body from the night before. If asked, he will say that the patrons have been spooked because she keeps talking about how she suspects there is a necromancer in [[Baldur's Gate]] that is defiling the dead. He will say that she seems like a nice enough woman, that she has a beautiful singing voice and is quite skilled with magic.
+In the [[Blushing Mermaid]], the barkeep - Bosun Gannet -  will claim that [[Elena Ynfante]] is currently gone, either at Bloomridge Park investigating a murder from last night or at Candulhallows in order to look at a body from the night before. If asked, he will say that the patrons have been spooked because she keeps talking about how she suspects there is a necromancer in [[Baldur's Gate]] that is defiling the dead. He will say that she seems like a nice enough woman, that she has a beautiful singing voice and is quite skilled with magic.
 
 GANNET: You know, I saw her once playing her flute with a magic hand. When the flute was playing it were even shootin' out some magic fire! Never seen that before.
 

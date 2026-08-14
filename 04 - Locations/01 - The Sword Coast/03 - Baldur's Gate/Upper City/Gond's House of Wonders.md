@@ -15,4 +15,4 @@ lecture and teach apprentices and novices. There is a wing for nearly every disc
 
 - Enver Gortash frequents the House of Wonders, working with a few gnomes on building something called a Steel Watcher.
 
-- The Hall of Wonders (Museum): has many models of ships and inventions such as the shell of a Gondian Runepower Bomb, the ship of Balduran, a mechanical model of [[Candlekeep]] and replicas of famous weapons such as Blackrazor.
+- The Hall of Wonders (Museum): has many models of ships and inventions such as the shell of a Gondian Runepower Bomb, the ship of Balduran, a mechanical model of [[Candlekeep]] and replicas of famous weapons such as Blackrazor. Entrance costs 5 SP.
