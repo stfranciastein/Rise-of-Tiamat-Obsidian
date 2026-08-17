@@ -17,7 +17,10 @@ Soon afterward, his father remarried a woman from Neverwinter who openly despise
 
 Since the raid, Aramir has burned with hatred for those who prey on the innocent for material gain, personal pleasure, or the advancement of evil causes. He swore the Oath of Zeal and dedicated himself to protecting the weak. His father eventually sent him south to the town of Greenest “to bring honor to the family name.” By then Aramir had already spent years serving in the court of Lord Dagult Neverember, where he learned the intricacies of noble life from a young age. He later distinguished himself helping turn back the tides of undead that plagued Neverwinter.
 
-It was during one of the many desperate defenses of the city that he earned the moniker “Void-Blade.” When he unleashed his paladin smite, radiant silver light and swirling void-black energy erupted from his blade—an unmistakable sign of his awakened aasimar heritage.
+It was during one of the many desperate defenses of the city that he earned the moniker “Void-Blade.” When he unleashed his paladin smite, radiant silver light and swirling void-black energy erupted from his blade—an unmistakable sign of his awakened Aasimar heritage.
+
+Jon Greenwood
+Eddard Greenwood
 
 ____
 ### ACT II - Prodigal Son

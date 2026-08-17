@@ -326,8 +326,7 @@ The book is a Kelemvor prayer book. Inside there is a key to the basement. With 
 
 JENNA: Who are you? Is the town safe? Can we leave?
 
-Jenna will explain that she has no idea why the town of Vermeillon is being attacked by Ghosts and Demons. On a successful DC 15 Insight check, players can determine she's not telling the complete truth. If pressed, Jenna will reveal that she is one of the Red-Bloods and assumes that she's cursed. If the first part of [[Cold, Red-Blooded Murder]] has been completed and Jenna has either been notified or is told of the fate of her other companions, she will express her regret for partaking in the raid but says she's turned her life around since. Unfortunately, [[Pacted Slaughter Demon]]
-is blood-bound to kill her and the other Red-Bloods. 
+Jenna will explain that she has no idea why the town of Vermeillon is being attacked by Ghosts and Demons. On a successful DC 15 Insight check, players can determine she's not telling the complete truth. If pressed, Jenna will reveal that she is one of the Red-Bloods and assumes that she's cursed. If the first part of [[Cold, Red-Blooded Murder]] has been completed and Jenna has either been notified or is told of the fate of her other companions, she will express her regret for partaking in the raid but says she's turned her life around since. Unfortunately, [[Pacted Slaughter Demon]] is blood-bound to kill her and the other Red-Bloods. 
 
 ____
 If [[Fero Mörktträ]] is present, he will say the following before summoning devils to attack the party. He will then melt into the floor and slip through the gaps.
