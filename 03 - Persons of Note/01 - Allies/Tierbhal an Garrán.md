@@ -6,7 +6,7 @@
 ****
 #### **BACKSTORY**
 
-<img src="Tierbhal an Garrán-1784762057280.webp" alt="Roan Lyxerias" width="300" style="float:left; margin: 0 16px 12px 0;">Tierbhal was born and raised in the [[Misty Forest]] in 1414. As the second oldest child, his human mother [[Adaya Smithwake]] would often lean on him and his oldest sister [[Anya an Garrán]] to help keep an eye on his two younger sisters, Eileen and Eideen. 
+<img src="Tierbhal an Garrán-1784762057280.webp" alt="Tierbhal an Garrán" width="300" style="float:left; margin: 0 16px 12px 0;">Tierbhal was born and raised in the [[Misty Forest]] in 1414. As the second oldest child, his human mother [[Adaya Smithwake]] would often lean on him and his oldest sister [[Anya an Garrán]] to help keep an eye on his two younger sisters, Eileen and Eideen. 
 
 Raised in the Druid's Grove of [[Garrán]], Tierbhal didn't know much about the outside world growing up. His Elven father, Archdruid [[Eamir an Garrán]], was also quite overprotective of him and his family and sequestered them within the bounds of the grove. As a result, he spent most of his time in worship to Eilistraee, their Patron God. 
 
