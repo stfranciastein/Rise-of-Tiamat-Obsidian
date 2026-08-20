@@ -1,6 +1,6 @@
 ### 3.13 A New Duke
 
-As Impyerno Lima confronted Kevdor Redflame, Ryn found himself unable to hold back as he tried to kill the Hobgoblin once more. Unfortunately, he was quickly defeated when 'Kevdor' revealed himself to be Ozereus the Ghost, another Wyrmspeaker in disguise. Thankfully, with a donation of Yan's gold he managed to survive as Ozereus forgave his transgression and let the party go.
+As Impyerno Lima confronted Kevdor Redflame, Ryn found himself unable to hold back as he tried to kill the Hobgoblin once more. Unfortunately, he was quickly defeated when 'Kevdor' revealed himself to be Ozereus the Ghost, another Dragon Cultist in disguise. Thankfully, with a donation of Yan's gold he managed to survive as Ozereus forgave his transgression and let the party go.
 
 Upon their return to Raven's Arbour, they found themselves at a gruesome sight. Blood painted the walls of the pristine manor and Constabulary guards surrounded the premises. Inside, where they dreaded to find the remains of the Ravenshades, they found both Margaret and Cormyc alive and well. They found out later on that this had been a set-up by the Serpent, not a formal attack per say but a 'thank you' message for getting rid of Thalamra and her Zarielites.
 
@@ -15,3 +15,4 @@ ____
 - Zil met the Raven Queen and was shown a vision of her mission.
 - Ulena wants the Staff from Glass.
 - Party was given Protander's Thesis.
+- Ryn owes Yan 500 GP.
