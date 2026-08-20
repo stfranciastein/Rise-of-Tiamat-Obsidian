@@ -59,15 +59,16 @@ Flipping through the pages, it names several people.
 
 The party can choose to get Jos imprisoned at any point, but the day after his imprisonment another murder will occur. Jos has no recollection whatsoever of any of the events of the murder. He will explain that the only difference is that he has been feeling a lot more tired lately and doesn't hang out with his friends as much as he used to.
 
+If the [[Pacted Slaughter Demon]] is allowed to move bodies from Jos, locating it will become next to impossible short of a Divination spell or with [[Lucien]]'s intervention. There is no way to save Jos's soul short of exorcising the demon from his body. If Jos is confronted, he will turn into the [[Pacted Slaughter Demon]] and attack the party. There is no reward for this part of the quest.
 
 ____
 ### PART II - Elturel
 
 The conclusion of all of these facts are:
-- Serena was involved in a raid on a fishing village on the River Chionthar many years ago. Her adventuring party included the other two victims and three others who are now in [[Elturel]]. 
+- Serena was involved in a raid on a fishing village on the River Chionthar many years ago. Her adventuring party/mercenary group called the 'Red-Bloods' included the other two victims and three others who are now in [[Elturel]]. 
 - The Demon is contract-bound to look for and kill every single member of the party that helped destroy that village, though its origins are unknown. It is physically incapable and unwilling to stop doing what it was told to do.
 
-The quest will then continue during [[Chapter 3.0 - The Bloody Gate]]'s introduction.
+The quest will then continue during [[Chapter 3.0 - The Bloody Gate]]'s introduction where Jenna Maris can either be saved or slain by the [[Pacted Slaughter Demon]].
 
 ____
 ### PART III - Baldur's Gate
@@ -82,22 +83,35 @@ XARIA: Let's not mince words, you came here to secure the presence of the Talons
 
 *She brings her hands to her hip and takes out a quill and begins to write in the air. With each intentional stroke, a golden line is drawn in the air.*
 
-XARIA: There is a Tiefling woman staying in the [[Blushing Mermaid]], someone who is able to contact spirits from the fugue plane named [[Elena]]. Not a necromancer, as far as I know, just particularly gifted with magic.
+XARIA: There is a Tiefling woman staying in the [[Blushing Mermaid]], someone who is able to contact spirits from the fugue plane named Mavis. Not a necromancer, as far as I know, just particularly gifted with magic.
 
-[[Xaria Trevisa]] will explain that [[Elena Ynfante]] is a College of Spirits Bard working with the [[Flaming Fist]] in order to investigate the murders in the [[Lower City]]. Regardless of whether or not [[A New Duke]] has been finished, she will say she cares little for the murders themselves and is far more concerned with the rumours shes heard about what Elena has also discovered.
+[[Xaria Trevisa]] will explain that [[Mavis Ephanté]] is a College of Spirits Bard working with the [[Flaming Fist]] in order to investigate the murders in the [[Lower City]]. Regardless of whether or not [[A New Duke]] has been finished, she will say she cares little for the murders themselves and is far more concerned with the rumours shes heard about what Mavis has also discovered.
 
 XARIA: Go to the Mermaid, speak with her. It will be clear what you must do next.
 
-#### Elena the Whisperer
-
-In the [[Blushing Mermaid]], the barkeep - Bosun Gannet -  will claim that [[Elena Ynfante]] is currently gone, either at Bloomridge Park investigating a murder from last night or at Candulhallows in order to look at a body from the night before. If asked, he will say that the patrons have been spooked because she keeps talking about how she suspects there is a necromancer in [[Baldur's Gate]] that is defiling the dead. He will say that she seems like a nice enough woman, that she has a beautiful singing voice and is quite skilled with magic.
+#### Mavis the Whisperer
+In the [[Blushing Mermaid]], the barkeep - Bosun Gannet -  will claim that [[Mavis Ephanté]] is currently gone, either at Bloomridge Park investigating a murder from last night or at Candulhallows in order to look at a body from the night before. If asked, he will say that the patrons have been spooked because she keeps talking about how she suspects there is a necromancer in [[Baldur's Gate]] that is defiling the dead. He will say that she seems like a nice enough woman, that she has a beautiful singing voice and is quite skilled with magic.
 
 GANNET: You know, I saw her once playing her flute with a magic hand. When the flute was playing it were even shootin' out some magic fire! Never seen that before.
 
 ##### Candulhallows
-[[Elena Ynfante]] will not be at Candulhallows, but one of the staffers, an elven woman named Leylenna Candulhallow will approach the party and say she's likely at the park with the [[Flaming Fist]] investigating one of the murders. Leylenna will say that she hopes the business with the murders ends soon, as shes been getting a lot of vandals and the Fist haven't been able to patrol her part of the street as much as they could.
+[[Mavis Ephanté]] will not be at Candulhallows, but one of the staffers, an elven woman named Leylenna Candulhallow will approach the party and say she's likely at the park with the [[Flaming Fist]] investigating one of the murders. Leylenna will say that she hopes the business with the murders ends soon, as shes been getting a lot of vandals and the Fist haven't been able to patrol her part of the street as much as they could.
 
 LEYLENNA: You know, just yesterday I saw two of the crypts were broken into! Two! Thank the Gods Grand Duke Abdel Adrian's crypt is locked up tight. You know, the strangest thing is they didn't even take any of the treasure. Just rattled the bodies around a bit. Ghastly business.
+
+If the party is with [[Mavis Ephanté]] or with a successful DC 15 Persuasion check, Leylenna will allow them to investigate the most recent intake and the broken-into crypt.
+
+*Several coffins line the walls of this room, tools and satchels containing all-manner of embalming or surgical equipment are littered about. The scent of lavander hangs in the air, and as you all look to your right you see a solitary lit candle attempting to snuff out the smell of death from this room.*
+
+- The most recent intake is in the back, with her eyes gouged out and her stomach sliced open, though Leylenna has stitched it closed. She will say that she seems to be a human female. On a DC 10 Investigation check, they will a tattoo on the body's arm depicting drops of blood in red ink. If they check on the tattoo, Leylenna will say the following.
+
+LEYLENNA: Funny that one, I was preparing it for a burial and then I...
+
+*Leylenna takes a piece of cloth from her pouches, wetting it on a washbasin before walking towards the body. She looks all of you in the eyes once as she goes to press the fabric onto the skin. It takes some effort on her part, but slowly and surely it begins to rub off.*
+
+- **The Body.** After a successful DC 10 Medicine check, they notice that the body seems scarred and her hands have several callouses that would indicate she was a mercenary.
+- **Bootprints.** On a DC 10 Perception check, the party will notice a set of footprints on the ground. If they investigate Leylenna's footwear, it does not match her print whatsoever. On a DC 16 Investigation check, the party will learn it could belong to either a young man or an adult woman of average height.
+- **Vandals.** If the party asks about the vandalism again at this point, she will tell the party that she recently interred two men from the recent murders. She will remark that the bodies seemed to deteriorate faster as they were missing more pieces of skin when she went to go bury them. She will remark that other funeral homes have also been saying similar things. She will say it began in the funeral home in Tumbledown several months back but has since stopped.
 
 ##### Bloomridge Park
 *As you approach the park, you can feel the presence of nature emerge from the heart of the stone city. Children and their parents walk to and fro, and stands and stalls of street food are interspersed throughout. However, the further in you get the more quiet it grows. Up ahead a group of Flaming Fist soldiers seem to have cordoned off a section of Bloomridge.*
@@ -106,19 +120,62 @@ LEYLENNA: You know, just yesterday I saw two of the crypts were broken into! Two
 
 FIST: Sorry citizens, roads closed past this point. Official investigation.
 
-*Behind him just past the rope tied to two lamp posts that cordons off the street you can see the scene; a stretch of trampled grass near a reflecting pool, gone quiet in a way though the birds are still singing. In the pool, a body floats, face down in the water. Two more Fist soldiers stand nearby in their full heavy chain armour. While they don't seem quite as flustered as the boy before you, they don't seem to be in their element either. On the other hand, there's a pink-skinned Tiefling with a stern expression and a maroon long coat that billows in the wind looking unbothered.*
+*Behind him just past the rope tied to two lamp posts that cordons off the street you can see the scene; a stretch of trampled grass near a reflecting pool, gone quiet in a way though the birds are still singing. In the pool, a body floats, face down in the water. Two more Fist soldiers stand nearby in their full heavy chain armour. While they don't seem quite as flustered as the boy before you, they don't seem to be in their element either. On the other hand, there's a pink-skinned Tiefling with a stern expression and a maroon trench coat that billows in the wind looking unbothered.*
 
-ELENA: Let them in. Might as well have some live company. No offense, lads.
+MAVIS: Let them in. Might as well have some live company. No offense, lads.
 
 *As your party approaches, the woman doesn't even move. She stays hunched over the side of the pool, looking at the body then at the branches up above. Closer now you can see the body floating in the water. It appears to be woman. Where you're expecting a missing hand, however, it would appear that she has both. Though the stain of blood makes it hard to make out much detail.*
 
-ELENA: Kid found the body this morning. Ran home crying to his Mama. If I were to guess, it's another victim of the serial killer, or killers depending on who you ask. Say, one of you help with the body, why don't you? This lot is quite useless. I'll bring it over, one of you lift it out of the water and onto the ground just here.
+MAVIS: Kid found the body this morning. Ran home crying to his Mama. If I were to guess, it's another victim of the serial killer, or killers depending on who you ask. Say, one of you help with the body, why don't you? This lot is quite useless. I'll bring it over, one of you lift it out of the water and onto the ground just here.
 
 *She pulls out a flute and begins to play a tune. In an instant, a spectral pink hand appears in front of her and goes to grab the body in the water. When she realises it's too heavy, she guides the hand and instead pushes it closer.*
 
 Upon retrieving the body, the party will learn that the body belongs to a drow woman. If the party has encountered the Cult of the Dead Three, they will likely inspect her to see if she has any missing limbs. However, it appears she has both hands. What's missing from her person are both of her eyes are gouged out and her stomach has been split open.
 
-refugee from [[Berdusk]] who is rumoured to be responsible for the reawakening of the undead in [[Tumbledown]]. Go there, be the Raven Queen's eyes. And may the darkness protect you.
+- **The Tattoo.** Once the body is retrieved, a DC 12 Medicine or Investigation check (in addition to noting the missing eyes and opened stomach) reveals the same red-drop-over-crossed-blades tattoo on the woman's forearm, half-obscured by dried blood. 
+
+Mavis: Now that's interesting. That's a mercenary company's mark, unless I miss my guess. Old one too, by the wear on it.
+
+- **Cause of Death.** A success on a DC 15 Medicine check will reveal the wounds were made by something far too large and rough to be a dagger or sword - more like the wound was torn rather than cut, though something delicate and precise removed the eyes first. Elena will note this doesn't match the profile of a single, consistent killer in Baldur's Gate.
+
+Mavis: The gouging is more precise and passionate. The torn stomach looks like it was done with massive force. Either our perp is a giant creature with dainty hands or is a person that has help from one.
+
+- **Torn Cloth.** A DC 10 Perception check near the treeline northwest of the pool reveals a scrap of dark, travel-worn cloth caught on a branch, along with drag marks in the dirt heading toward the western edge of the park - toward the road to Cliffgate and Tumbledown.
+
+- **Mavis's Notes.** If the party asks to see what she's gathered so far (or succeeds on a DC 12 Persuasion/Insight check to get her to open up), Mavis will show them a hastily sketched map with three X marks - all three prior murder sites - and a rough circle drawn around the Tumbledown district. She will note that according to her work with the Fist, the killer never seems to move past the eastern side of the city.
+
+- **The Locket.** Searched on the body DC 10 Investigation, (or freely given if the party asks Mavis what personal effects were found) a small tarnished locket is discovered, empty but engraved on the inside with faint lettering: 
+
+	`"For A. - always yours, W."`
+
+Mavis will recognize the make as older, at least a decade or two, definitely not local craftsmanship. ELENA: That's not Baldur's Gate work. That's older. Elturel, maybe, or further out still. This woman's been carrying old ghosts a long way to end up floating in a duck pond.
+
+After these clues have been gathered, Mavis will ask the party if they could accompany her to [[Mandorcai's Mansion]], where she has recently taken up residence so they could 'commune' with the body. The party can either agree in order to get more clues, or decline and head to either Candulhallows upon her suggestion (if they have not visited it already), or head to [[Tumbledown]].
+
+
+#### Mandorcai's Mansion
+*You make your way towards the Bloomridge district just below the walls of the Upper City. Standing in front of you like a sore thumb is Mandorcai's Mansion. Looking at the architecture, where the other houses in Baldur's Gate have a specific 'look' to them, Mandorcai's Mansion stands out. Its appearance is far more gothic and drab, and it's an eyesore in a strange and eerie way. The walls are made of old, rotted wood and cold-hued granite bricks, standing in contrast to the warmer colours of the other buildings. When you finally reach the door, it opens on its own with a slow creak as two gaunt teenage girls greet you.*
+
+LILY & SALLY: Hello. We've been expecting you.
+
+Mavis will greet Lilly & Sally warmly and invite the rest of the party to enter. Inside, they will discover that the interior is more dilapidated than the exterior. The windows all seem to have been boarded up from the inside, and most of the furnishings are covered. In one room, there are a pair of construction workers mending a rotted grandfather clock.
+
+MAVIS: Don't mind the spirits, they're good company. Usually.
+
+If the party asks [[Mavis Ephanté]] for why she's living here, she will say that Grand Duke [[Ulder Ravengard]] and [[Liara Portyr]] personally asked her if she would look into the origin of this house. According to her, this mansion appeared out of nowhere in the middle of the night, taking over a previously vacant lot. Fully staffed with close-lipped servants, the imposing manse hosted a few lavish parties for the [[Lower City]] elite, including even the [[Upper City]] patirars like [[House Vanthampur]]. These parties were presided over by an eccentric and brooding human wizard named Mandorcai. And then, just as suddenly as he had arrived, Mandorcai shut the manor's doors and vanished from public life. Curious locals who peered through the windows reported a completely empty manor, its furniture looking as though it hadn't been touched in years. Yet soon thereafter, individuals around the city began to receive invitations to visit, written in silver on black paper folded into pentagons.
+
+Those who entered the mansion for the requested appointments never emerged. After a handful of such disappearances, a [[Flaming Fist]] squad smashed its way into the building. Only two of its members emerged, babbling about shifting rooms and blood-soaked abattoirs filled with writhing hooks and chains. With no laborers willing to tear the place down, the [[Council of Four]] boarded up the doors but left the mansion standing. For decades now, no one has been observed going in or out. Whether the little black invitations that still occasionally appear on citizens' doorsteps are genuine or harmless pranks remains anyone's guess.
+
+MAVIS: In truth, Mandorcai was a Warlock who gained knowledge from two fat chain devils named Kyrix and Vasilog. For years, Mandorcai would honour his side of his pact with sacrifices and the lot. Until he breached his contract and he was dragged into the hells. A lot of squatters tried to take up residence here, but the Manor is fiendish in nature and constantly hungers. As for me, I have quite a good relationship with it. The house keeps any thieves at bay, and all I have to do is give it any unused bodies.
+
+Mavis will then bring the body to the sitting room where several spirits seem to have gathered. A socialite dressed in a fine gown with makeup to boot will appear and ask Mavis what the story with this one is. [[Mavis Ephanté]] will ask the party to sit in a circle as she takes out what appears to be a spirit board from one of the shelves. She will then cast speak with dead.
+
+Mavis will ask the following questions and then allow the party to ask the remaining two:
+- **Who are you?** Alissa Telvir, of the Misty Forest.
+- **Who or what killed you?** A creature, several arms. Huge in size. Many eyes. Gaping maw.
+- **Why do you think you were targeted?** Jenna told us she was coming for us. The elf... the village so many regrets. Wish I could've taken it back.
+
+If the party has yet to make the connections, [[Mavis Ephanté]] will tell them they should head to [[Tumbledown]] in order to investigate this further as the clues seem to lead that way. She will write a report to [[Liara Portyr]] first before joining them later. She recommends caution and for the party to be prepared to face the Undead as the rumour is that most of [[Tumbledown]] is haunted.
 
 #### Tumbledown
 
@@ -130,7 +187,7 @@ GRID TILES: 26 x 32
 ##### T1. Gatehouse
 *This pair of watchtowers have long since collapsed. What appears to be the town sign hangs pathetically on the ground. Rusted remains of weapons and armour litter the floor.*
 
-On a DC 10 Investigation check, players will be able to notice that there are recent tracks here.
+On a DC 10 Investigation check, players will be able to notice that there are recent tracks here. If they visited Candulhallows, they will discover that the boot prints match the break-in.
 
 ##### T2. Old Tavern
 *Rotting wooden furniture sits inside this old tavern. You can nearly hear the echoes of laughter standing close to the bar, though as you take a moment you realise there's nothing there.*
@@ -191,7 +248,9 @@ On a DC 10 Investigation check, they will be able to determine that it's likely 
 
 *In the distance, you see what looks to be a young woman running towards the crypts accompanied by an older figure. As soon as she sees you she yells out "No! Please stop!" and disappears into one of the crypts. The doors slam shut, and the undead attack.*
 
-Four ghouls and two corpse walkers attack the party. The door behind the girl becomes Arcane Locked. It can either be opened by speaking the passphrase or with a spell.
+Four ghouls and two corpse walkers attack the party. The crypt door behind the girl becomes Arcane Locked. It can either be opened by speaking the passphrase or with a spell. If no one in the party can dispel magic or have the 'Knock' spell, [[Mavis Ephanté]] will appear at this point and kick the bottom of the door and cast it that way. 
+
+MAVIS: The spirits here are restless, and not in their usual undead manner. Something far more powerful is going on down below. Be careful.
 
 #### Necropolis
 *You follow the girl's path down the tomb and find yourselves chasing her deeper and deeper beneath the earth. A few minutes pass and you can see light coming from up ahead. The cavern opens up into what looks to be a grand necropolis beneath the earth. How, or why this place is here confounds you.*
@@ -235,7 +294,7 @@ The best answer to the riddle is “humility,” but “humble,” “meek,” �
 ##### 4. Obelisk
 *A towering obelisk shaped like a saber looms over the graves here.*
 
-One [corpse walker](https://www.dndbeyond.com/monsters/4037095-corpse-walker)* and eight [skeleton riflers](https://www.dndbeyond.com/monsters/4037155-skeleton-rifler)* lurk in the dark. They attack living creatures on sight. The obelisk bears a simple inscription in Infernal:
+One [corpse walker](https://www.dndbeyond.com/monsters/4037095-corpse-walker)* and eight skeleton archers lurk in the dark. They attack living creatures on sight. The obelisk bears a simple inscription in Infernal:
 
 	“The Szarr family shall rise once again."
 
@@ -284,7 +343,7 @@ ____
 
 *These dense crypt niches are stacked from the floor to the ceiling in two rows beside the central tomb and a smaller mausoleum. The floor here is made of smoother, red pavers compared to the white cobblestones of the road outside.* 
 
-*As you approach you can see dozens of papers and notes put up on the walls, connected by pieces of string and illuminated by the candlelight from below. When you're too close for her comfort, she turns around and inhales deeply before wiping her tears. In the light, it's plain as day she's less than 15 years old.*
+*As you approach you can see dozens of papers and notes put up on the walls, connected by pieces of string and illuminated by the candlelight from below. When you're too close for her comfort, she turns around and inhales deeply before wiping her tears. In the light, it's plain as day she's less than 19 years old.*
 
 ALESSANDRA: Stay away! Just leave me alone.
 
@@ -335,4 +394,6 @@ Either way, the players are awarded with 4,000 GP, a scroll of revivify and the 
 
 [[Xaria Trevisa]] will then move out to the common area and invite the rest of the party who may be waiting outside. She will then inform the players of information she learned about the Serpent.
 
-XARIA: You are all concerned with the [[Cult of the Dragon]], yes? My men tell me that they ran into this individual before. Allegedly, they wore red clothing and carried a string instrument. If I were to guess, they are likely to make an appearance during the Feast of the Moon.
+XARIA: You are all concerned with the [[Cult of the Dragon]], yes? Specifically the Serpent. My men tell me that they've run into this individual before. Allegedly, they wore red clothing and carried a string instrument. If I were to guess, they are likely to make an appearance during the Feast of the Moon. 
+
+If you have not already, speak with Lady [[Margaret Ravenshade]], I believe she is the guest of honour at the festival. If the Serpent is trying to sow chaos in the Gate, her death will result in quite the large impact. If you are hoping to get Margaret to stay at home, good luck. I suspect she will be hard to convince.

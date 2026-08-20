@@ -12,10 +12,11 @@ The districts of the Lower City are as follows (from west to east):
 The following minor locations can be found in the Lower City:
 - Golden Thread: A jeweler run by Alexander, a blonde, blue-eyed and pale-skinned elven male (Posh accent).
 - Forge of the Nine: A blacksmithy run by Berrick, a brown-haired, brown-eyed, tan-skinned human male (American gruff accent).
-- Candulhallow's Funeral Arrangements: A city-sponsored business in Baldur's Gate responsible for funerary arrangements.
+- Candulhallow's Funeral Arrangements: A city-sponsored business in Baldur's Gate responsible for funerary arrangements run by Leylenna Candulhallow, an Elf woman.
 - Shrine of the Suffering: A small shrine to Ilmater where a human man named Gaston Candulhallow, 35 greying brown hair and beard, gives out free meals and coppers to the poor and destitute.
 - Blades & Stars: An inn located in Brampton run by a human man named Reginald "Longtooth" Worthington V. He provides very long answers to any question but gives no real information.
 - Holver's and Mary's: A small tailor on Heapside. Run down, run by Holver Manacryn and Mary Manacryn.
+- Eastway Expeditions: A general goods store run by a male gnome named Scalm Shilvin.
 
 ____
 ### Encounters
