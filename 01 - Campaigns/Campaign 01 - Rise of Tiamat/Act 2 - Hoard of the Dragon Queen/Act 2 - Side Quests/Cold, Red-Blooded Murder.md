@@ -54,8 +54,11 @@ Flipping through the pages, it names several people.
 - Alissa Telvir (drow female).
 - Jenna Maris (high elf female).
 - Orcish (Orc male).
+- Kela
 - Thragg (Goliath female).
 - Boron Gravedigger (Dwarf male).
+
+
 
 The party can choose to get Jos imprisoned at any point, but the day after his imprisonment another murder will occur. Jos has no recollection whatsoever of any of the events of the murder. He will explain that the only difference is that he has been feeling a lot more tired lately and doesn't hang out with his friends as much as he used to.
 
@@ -148,7 +151,9 @@ Mavis: The gouging is more precise and passionate. The torn stomach looks like i
 
 	`"For A. - always yours, W."`
 
-Mavis will recognize the make as older, at least a decade or two, definitely not local craftsmanship. ELENA: That's not Baldur's Gate work. That's older. Elturel, maybe, or further out still. This woman's been carrying old ghosts a long way to end up floating in a duck pond.
+Mavis will recognize the make as older, at least a decade or two, definitely not local craftsmanship.
+
+MAVIS: That's not Baldur's Gate work. That's older. Elturel, maybe, or further out still. This woman's been carrying old ghosts a long way to end up floating in a duck pond.
 
 After these clues have been gathered, Mavis will ask the party if they could accompany her to [[Mandorcai's Mansion]], where she has recently taken up residence so they could 'commune' with the body. The party can either agree in order to get more clues, or decline and head to either Candulhallows upon her suggestion (if they have not visited it already), or head to [[Tumbledown]].
 
