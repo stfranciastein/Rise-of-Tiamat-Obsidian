@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 Session - 31.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group A - Act 2 Session - 31"
+              "title": "Group B - Act 2 - Session 23"
+            }
+          },
+          {
+            "id": "e3bf730f6346a1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thogli Battlehammer"
             }
           },
           {
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Group A - Session 2 - Act 32"
             }
+          },
+          {
+            "id": "bbfff8613a7d549b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cold, Red-Blooded Murder"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mazfr",
+                "query": "wildcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -215,15 +243,19 @@
   },
   "active": "c7d5f593aa5fa7d6",
   "lastOpenFiles": [
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 Session - 31.md",
+    "07 - Items/Wonderous Items/Decks/Deck of Mischief.md",
+    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
+    "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
+    "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 22.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 Session - 31.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Session 2 - Act 32.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
     "04 - Locations/Known Map of Faerun.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 22.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
     "02 - Adventurers/Group A/Impyerno Lima.md",
     "03 - Persons of Note/01 - Allies/Stone.md",
     "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
@@ -237,10 +269,6 @@
     "03 - Persons of Note/00 - Misc NPCs/00 - Personal NPCs/Dameon Lawntill.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Rise of Tiamat - Character Hooks.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Anya an Garrán.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Eamir an Garrán.md",
     "00 - Images/Demonic Vengeance-1784591019485.webp",
     "00 - Images/A New Duke-1786053497395.webp",
     "00 - Images/A New Duke-1786053493634.webp",

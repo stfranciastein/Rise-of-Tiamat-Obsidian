@@ -278,7 +278,7 @@ Treasure. The chest weighs 65 pounds and is trapped (see “Trap” below). It c
 	The Serpent can threaten us with her flames all she wants.
 	All I see is a dragon with no bite.
 
-Trap. The chest has a false bottom underlaid with metal springs. The combined weight of the items in the chest holds the false bottom down, but if three or more items are removed, the false bottom rises and pulls the cork out of a thin glass vial hidden underneath it. The uncorked vial releases a cloud of poisonous gas that fills a 10-foot-radius sphere centered on the chest. The cloud is stationary and lasts for 1 minute, or until it’s dispersed by a strong wind. Any creature that starts its turn in the cloud must succeed on a DC 14 Constitution saving throw or take 11 (2d10) poison damage, half as much on a success.
+Trap. The chest has a false bottom underlaid with metal springs. The combined weight of the items in the chest holds the false bottom down, but if three or more items are removed, the false bottom rises and pulls the cork out of a thin glass vial hidden underneath it. The uncorked vial releases a cloud of poisonous gas that fills a 10-foot-radius sphere centered on the chest. The cloud is stationary and lasts for 1 minute, or until it’s dispersed by a strong wind. Any creature that starts its turn in the cloud must succeed on a DC 14 Constitution saving throw or take 15 (3d10) poison damage, half as much on a success.
 
 ##### V18. Duke’s Study
 *An oak writing desk angled to face the middle of the room has a matching chair behind it and two black candlesticks atop it. Other furnishings include three bookcases and a freestanding suit of black plate armor topped with a bucket helm and equipped with a longsword and a shield.* 

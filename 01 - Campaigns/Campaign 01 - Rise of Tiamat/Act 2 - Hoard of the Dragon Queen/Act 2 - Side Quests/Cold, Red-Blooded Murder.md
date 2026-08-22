@@ -228,6 +228,7 @@ On a DC 10 Investigation check, characters will discover one note that sticks ou
 	If I could've given her joy...
 	I do all of this for her.
 
+Loris Bolger.
 ##### M2. Waiting Room
 *This waiting room stands empty. The candles in this room also seem freshly lit, but upon closer inspection they seem to be magically enchanted with continuous flames.*
 
