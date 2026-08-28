@@ -161,7 +161,7 @@ Trap. Any character who has a passive Wisdom (Perception) score of 15 or higher 
 
 A character who searches the floor for traps and succeeds on a DC 15 Wisdom (Perception) check detects the trap, which can be disabled by placing a strong object such as a pole or crowbar between the floor panels. If the check made to detect the trap succeeds by 5 or more, the character also spots a concealed switch on one wall that disables the trap.
 
-Treasure. The crates hold 60 pounds of gemstones. The valuable gems include a large uncut diamond (1,000 gp), four small diamonds (100 gp each), a bag of diamond dust (300 gp), four flawed rubies (50 gp each), and four [pearls](https://5e.tools/items.html#pearl_dmg) (100 gp each). The remainder of the semiprecious stones in the crates are worth a total of 1,000 gp.
+Treasure. The crates hold 60 pounds of gemstones. The valuable gems include a large uncut diamond (1,000 gp), four small diamonds (100 gp each), a bag of diamond dust (300 gp), four flawed rubies (50 gp each), Unrefined Ioun Stones (1000 gp), and four [pearls](https://5e.tools/items.html#pearl_dmg) (100 gp each). The remainder of the semiprecious stones in the crates are worth a total of 1,000 gp.
 
 ##### T4: Scrolls and Potions Room
 *This room has four short bookshelves, each bearing eight glass vials of liquid. Several open barrels hold rolled-up sheets of parchment.*
@@ -187,7 +187,7 @@ A character using thieves' tools can try to unlock a safe, which takes 1 minute.
 
 - Bribe. A tattered parchment details how a prisoner, jailed for stealing racehorses, was freed after a noble bribed a local government official.
     
-- Disputed Will. A parchment bears the original will of a recently deceased local noble by the name of Danielle Steelheart. As the noble's family members are currently fighting over the estate, this will would be of great value to the heirs named in it.
+- Disputed Will. A parchment bears the original will of a recently deceased local noble by the name of Jhasso. As the noble's family members are currently fighting over the estate, this will would be of great value to the heirs named in it.
     
 - Love Letters. Several perfumed envelopes hold romantic letters between a Patriar named Gideon Lockheart and Liara Portyr. The affair would be a scandal if revealed.
 	
@@ -195,7 +195,7 @@ A character using thieves' tools can try to unlock a safe, which takes 1 minute.
   
   One letter suggests that Duke [[Belynne Stelmane]] is close to death, another heavily speculates that Grand Duke [[Ulder Ravengard]] may not return from his journey to [[Elturel]]. One talks about [[Thalamra Vanthampur]]'s connection to a 'rival' organisation being a problem. Lastly, there are detailed plans here regarding the involvement of [[Dillard Portyr]]'s daughter, [[Liara Portyr]], being a 'useful idiot' in sowing chaos in [[Baldur's Gate]]. All of these letters are not signed by their author, but marked with the symbol of a snake.
   
-  The last letter in this bundle seems to be written by a different hand. The word 'Serpent' is encircled. It seems that Vidorant is interested in learning who is in the [[Cult of the Dragon]]'s pocket/the identity of the Serpent. Her writings suggest that she suspects that there is likely more than one mole feeding them information; a Patriar and a commoner.
+  The last letter in this bundle seems to be written by a different hand. The word 'Serpent' is encircled. It seems that Vidorant is interested in learning who is in the [[Cult of the Dragon]]'s pocket/the identity of the Serpent. Her writings suggest that she has seen the serpent, but she does not discuss what she looks like.
 
 
 None of the documents in the safe have intrinsic monetary value, though they could be used to gain money or influence through blackmail.
@@ -313,7 +313,7 @@ Display Cases. On each case, a notecard written in elegant handwriting bears the
     
 - Lost Map of Tishanos. The card reads, "Reportedly from Pirate Queen Shrixette Laderie. No other records of Tishanos found. Must mount expedition." This weathered map details an island that lies about a hundred miles from an unidentified coastline. (The map has no intrinsic monetary value but could lead to adventure.)
     
-- Royal Scepter. The card reads, "Used in the coronation of Queen Calinia. Possible gift from elven court." This golden scepter is intricately engraved and set with diamonds and sapphires. (The scepter is worth 2,000 gp.)
+- Royal Scepter. The card reads, "Used in the coronation of Queen Calinia. Possible gift from elven court." This golden scepter is intricately engraved and set with diamonds and sapphires. (The scepter is worth 4,000 gp.)
     
 - Ruby Diadem of Erlynn Blessedore. The card reads, "Owned by Queen Erlynn Blessedore, ancestor of Samphith." Each spire of the diadem is studded with rubies. (The diadem is worth 2,000 gp.)
     

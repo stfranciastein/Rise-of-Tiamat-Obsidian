@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 23"
+              "title": "Den of the Dead Three"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thogli Battlehammer"
+              "title": "Chapter 3.0 - The Bloody Gate"
+            }
+          },
+          {
+            "id": "ba85cf7c7e41235a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Żilliletha"
             }
           },
           {
@@ -41,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Session 2 - Act 32.md",
+                "file": "09 - Rules and Information/Statblock Templates/Factions/Lord's Alliance Statblock Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group A - Session 2 - Act 32"
+              "title": "Lord's Alliance Statblock Template"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wildcard",
+                "query": "a favour for",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -243,32 +257,35 @@
   },
   "active": "c7d5f593aa5fa7d6",
   "lastOpenFiles": [
-    "07 - Items/Wonderous Items/Decks/Deck of Mischief.md",
-    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
-    "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
-    "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 22.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 Session - 31.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Session 2 - Act 32.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
-    "04 - Locations/Known Map of Faerun.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 30.md",
-    "02 - Adventurers/Group A/Impyerno Lima.md",
-    "03 - Persons of Note/01 - Allies/Stone.md",
-    "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 3.0 - Candlekeep.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 5.0 - Blood of the Wolf.md",
-    "03 - Persons of Note/01 - Allies/Roan Lyxerias.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
-    "03 - Persons of Note/01 - Allies/Renard 'Absinthe' Belrose.md",
-    "03 - Persons of Note/00 - Misc NPCs/00 - Personal NPCs/Elira Thorne.md",
-    "03 - Persons of Note/00 - Misc NPCs/00 - Personal NPCs/Dameon Lawntill.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Rise of Tiamat - Character Hooks.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
+    "09 - Rules and Information/Statblock Templates/Factions/Lord's Alliance Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Factions",
+    "09 - Rules and Information/Statblock Templates/Classes/Artificer Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Barbarian Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes",
+    "09 - Rules and Information/Statblock Templates/Classes/Warlock Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Sorcerer Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Rogue Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Ranger Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Paladin Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Fighter Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Cleric Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Bard Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Class Templates",
+    "09 - Rules and Information/Statblock Templates",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 33.md",
+    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 32.md",
+    "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
+    "02 - Adventurers/Group A/Ryn Fenrath/Ryn Fenrath.md",
+    "07 - Items/Mutated Dragon.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 31.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Protanther.md",
+    "07 - Items/Protanther's Thesis on the Merging of Chromatic and Metallic Dragons.md",
     "00 - Images/Demonic Vengeance-1784591019485.webp",
     "00 - Images/A New Duke-1786053497395.webp",
     "00 - Images/A New Duke-1786053493634.webp",
@@ -282,13 +299,9 @@
     "04 - Locations/02 - The North/03 - Mithral Hall",
     "04 - Locations/10 - Underdark",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Untitled",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness",
     "00 - Images/Tierbhal an Garrán-1784762057280.webp",
     "00 - Images/Roan Lyxerias-1784749965915.webp",
     "00 - Images/Untitled-1784749328826.webp",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Quill Ward",
-    "04 - Locations/03 - Lands of Intrigue/02 - Calimport/Wizard Ward",
     "00 - Images/A New Duke-1784679878319.webp",
     "00 - Images/A New Duke-1784673979716.webp"
   ]

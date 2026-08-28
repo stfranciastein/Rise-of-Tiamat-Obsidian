@@ -82,6 +82,8 @@ TOVAN: [[Kaelor Shadow-Strike]] never told you, did he? Well I guess he's dead, 
 
 TOVAN: If you really want to avenge our family and find answers, let me leave. There's a group of Sharrans up north in the Dessarin valley. I've got Sharrans down in Amn to kill, but if you want answers they'll know more.
 
+Montvale
+
 At this point, Ryn can either choose to kill or spare [[Tovan]]. If Ryn chooses to spare him, Tovan will make good on his word and venture to Amn to hunt down one of the other members of the Sharrans that slaughtered the monks in the [[Ill met by Moonlight]]. If Ryn chooses to kill him, Tovan will simply say this is a waste of time and he will only regenerate the next day. If [[Yan 'Keyreeonis' Lawntill]] asks, Tovan will say he gained the ability to regenerate his body after killing his second target. In either case, the party will leave the Temple and return to Berdusk.
 
 ****

@@ -558,17 +558,55 @@ Upon arriving in the Elfsong tavern, the party will notice that there aren't as 
 
 *Leosin notices your party enter and nods his head at you. Alia returns to her seat and subtly sits next to the Half-Elf. Their faces look quite serious, ready to talk business.*
 
-ALIA: Thanks to the information you gathered we have a solid idea of where this Dragonclaw might strike next.
+ALIA: Thanks to the information you gathered we have a solid idea of where this Dragonclaw might be hiding next.
 
-LEOSIN: We believe that the Serpent will strike at Little Calimshan during the Feast of the Moon.
+LEOSIN: We believe that the Serpent will truly strike at Little Calimshan during the Feast of the Moon if you recall.
 
 ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars and commoners alike. Both [[Margaret Ravenshade]] and [[Dillard Portyr]] are supposed to attend as well. Whatever they have planned will be seen and heard by a good number of the populace.
 
-[[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them on sight. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]] they will be attacked by a group of cultists accompanied by a Dragon Cultist Commander.
+LEOSIN: But now that we know where they are we can strike before they have the chance to act. They are using a warehouse in the Outer City, just near Twin Songs. If we can strike at the Serpent before they have the chance, we can avoid any unnecessary deaths.
+
+ALIA: I don't like this plan. Sure we'll save a few dozen lives, but what if the Serpent isn't there?
+
+In essence, [[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them where the hideout is. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]] they will be attacked by a group of cultists accompanied by a Dragon Cultist Commander.
 
 *As you set your weapons down, you realise that the tavernkeeper is nowhere to be found. A trail of blood leads to the kitchen. Thankfully, when you follow the crimson path it leads to an injured but largely intact half-elf who looks only a little worse for wear. As you free him, he breathes a sigh of relief.*
 
+ALIA: You need to make your choice now. Warehouse or no, the Serpent knows we're onto them. 
 
+LEOSIN: I will make my way towards the Twin Songs regardless. Even if you decide against a direct pursuit perhaps I can hold back some of their reinforcements.
+
+ALIA: I'll be at Little Calimshan then, maybe I can scout out potential hiding spots. Good luck.
+
+#### PATH A: Little Calimshan
+If the party decides to pursue [[Alia Sanem 'Talis Kasterel']]'s path, they will arrive in Little Calimshan just as the [[Feast of the Moon]] festival begins.
+
+*You step foot into Little Calimshan, brushing past the bustling crowd of attendees. All around you there are stands and stalls marked with various decorations and frills. Vendors of different shapes and colours ply their wares to both children and adults, inviting them to have a taste of their culture. Intoxicating smells and aromas permeate the air, and the sizzling sound of freshly seared food fill your ears. Talis appears near you, dressed in her elf disguise and brings you over to what could be considered a quiet corner. She hands two of you some candied apples and pretends to laugh as you look confused.*
+
+ALIA: The Serpent is here. I have it on good authority. If they figure out that we know that, though, they might do something stupid like strike pre-emptively or run. The play is on in an hour, walk around, socialise. Do not give away the masquerade.
+
+*As she finishes speaking, she brings up what looks like a painted mask in the guise of a white dragon and fastens it to her face. She shoots you all a wink and a smirk before disappearing into the crowd.*
+
+The following sights can be seen in [[Little Calimshan]].
+1. A Priestess of Kelemvor, Graves, blue-skinned tiefling woman with a missing horn and greying black hair holds a small service commemorating the dead.
+
+2. Children and adults have their faces painted to look like ghosts and skeletons, similar to dio de los muertos and will try to get gold from the party.
+
+3. Apple-bobbing (3 Silver) run by a human woman named Alicia and a gnome named Bryn. Alicia is from Baldur's Gate and speaks like someone from the lower city. She has short brown hair and wears a shirt under a corset. Bryn is a silly man wearing a finely made garment.
+   
+   Players have 1 + Con Mod minutes under water. After 30 seconds, make 1 roll. The player must succeed on a DC 10 Survival check to get an apple. Most apples win. Winner gets a Bonfire Charm.
+
+4. Axe-Throwing (5 Silver) run by a red-skinned Hobgoblin with braids tied in a high bun named Kevder. Kevder is a worshipper of Lliira, the lesser-deity of Joy. 
+   
+   Players are given 8 hand-axes to throw and must land the most hits on the targets. The target is a crudely painted depiction of [[Mellara, the Terror of the Sword Coast]] and the [[Herd of the Dragon]] leaders. If all targets are 'hit' at least once, they win a Vox Helm.
+
+5. A Priest of Chauntea, Séan, a tall human male with short brown hair and a thick beard wearing half-plate will caution the party on the coming winter. He will then ask for a small donation of 250 GP for the farmers of the surrounding towns. If the party gives him gold, he will reward them with a Bonfire Charm.
+
+6. A Cleric of Tymora, a white-maned minotaur named Gold will be hosting games of Baldur's Bones. Playing a game with him will always result in him giving the party one Charlatan's Dice.
+
+7. If [[Hold Back the Dead]] has not been started, the party will hear rumours that [[Corlie Halvachar]]'s men in [[Ironspine Keep]] haven't been heard from in a while. If the party tries to investigate, they will be told that the completion of that fortress is a key event for the [[Lords' Alliance]].
+
+8. 
 
 ____
 ### CONCLUSION

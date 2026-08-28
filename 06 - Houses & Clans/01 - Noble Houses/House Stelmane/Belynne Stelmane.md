@@ -1,0 +1,1 @@
+**Tags:** #NPC #Commoner #Human #LawfulEvil #LordsAlliance #Gargauth
