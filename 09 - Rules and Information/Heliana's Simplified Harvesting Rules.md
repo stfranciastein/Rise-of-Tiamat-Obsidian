@@ -29,12 +29,17 @@ You can’t harvest a lower-level essence from a higher CR creature—they have 
 
 **_Helpers_**. Creatures not involved in assessment or carving can help. The number of creatures that can help depends on the size of the creature being harvested. If a helper has proficiency in the skill associated with the monster’s type, the helper adds its proficiency bonus to the Harvesting check’s result. The table is below:
 
-|Creature Size|Maximum number of helpers|
-|---|---|
-|Tiny|0|
-|Small|1|
-|Medium|2|
-|Large|4|
-|Huge|6|
-|Gargantuan|10|
+| Creature Size | Maximum number of helpers |
+| ------------- | ------------------------- |
+| Tiny          | 0                         |
+| Small         | 1                         |
+| Medium        | 2                         |
+| Large         | 4                         |
+| Huge          | 6                         |
+| Gargantuan    | 10                        |
 
+**_Crafting Time._** To create your items, [[Glass]] requires downtime. The time it takes for him to craft is a number of days equal to **Creature's CR x the rarity level (with Uncommon being 1).** Each day he's driving the caravan only counts for half of the amount of days required.
+
+For example; to craft a **rare** item from a **CR9** animal's hide, you need to pay the gold cost and wait 18 days for the item to be finished crafting. To craft an item from a CR 15 creature at very rare, it would take 45 days (15 x 3).
+
+You can half the gold cost of an item if you provide another magic item of the exact item type and of equal rarity (i.e. a +1 Studded Leather for a Rare Light Chestpiece).
