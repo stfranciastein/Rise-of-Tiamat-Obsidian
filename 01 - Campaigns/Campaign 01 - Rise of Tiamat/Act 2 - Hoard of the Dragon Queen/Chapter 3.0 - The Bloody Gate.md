@@ -552,27 +552,25 @@ ____
 #### Ambushed!
 After completing at least four side quests in [[Baldur's Gate]], [[Alia Sanem 'Talis Kasterel']] and [[Leosin Erlanthar]] will ask to meet up with the party once more in the [[Elfsong Tavern]]. This message will arrive via the Sending spell from [[Alia Sanem 'Talis Kasterel']] who says the following;
 
-ALIA: News about Dragonclaw. Come to the Elfsong when you're ready.
+ALIA: News about Dragonclaw. Come to Whitkeep Hostel when you're ready. Can't trust the Elfsong.
 
-Upon arriving in the Elfsong tavern, the party will notice that there aren't as many patrons in the tavern tonight. A small group of adventurers are sitting together on one side of the tavern while a sparse group of individuals sit away from one another.
+Upon arriving in [[Whitkeep Hostel]], the party will notice that there aren't as many patrons in the tavern tonight. A small group of adventurers are sitting together on one side of the tavern while a sparse group of individuals sit away from one another.
 
 *Leosin notices your party enter and nods his head at you. Alia returns to her seat and subtly sits next to the Half-Elf. Their faces look quite serious, ready to talk business.*
 
-ALIA: Thanks to the information you gathered we have a solid idea of where this Dragonclaw might be hiding next.
-
-LEOSIN: We believe that the Serpent will truly strike at Little Calimshan during the Feast of the Moon if you recall.
+LEOSIN: Thanks to the information you gathered we have a solid idea of where this Dragonclaw might be hiding. We believe that the Serpent will truly strike at Little Calimshan during the Feast of the Moon if you recall.
 
 ALIA: It's a good opportunity to sow as much chaos as possible. High concentration of patriars and commoners alike. Both [[Margaret Ravenshade]] and [[Dillard Portyr]] are supposed to attend as well. Whatever they have planned will be seen and heard by a good number of the populace.
 
-LEOSIN: But now that we know where they are we can strike before they have the chance to act. They are using a warehouse in the Outer City, just near Twin Songs. If we can strike at the Serpent before they have the chance, we can avoid any unnecessary deaths.
+LEOSIN: But thanks to some contacts in the Harpers, I know where they are. We can strike before they have the chance to act at the Oasis Theatre. They are using a warehouse here in the Outer City, just near Twin Songs. If we can strike at the Serpent before the Feast, we can avoid any unnecessary deaths.
 
-ALIA: I don't like this plan. Sure we'll save a few dozen lives, but what if the Serpent isn't there?
+ALIA: If you ask me personally, I don't like this plan. Sure we'll save a few dozen lives, but what if the Serpent isn't there?
 
 In essence, [[Alia Sanem 'Talis Kasterel']] recommends waiting for the Serpent to attack before making a move, but [[Leosin Erlanthar]] will argue that given the amount of lives at stake they should try to attack them where the hideout is. In the likely scenario that the party has no idea who the Serpent actually is, [[Alia Sanem 'Talis Kasterel']] will offer to eliminate one possibility by contacting her patron. Whatever the party decides, at the end of their discussion at the [[Elfsong Tavern]] they will be attacked by a group of cultists accompanied by a Dragon Cultist Commander.
 
 *As you set your weapons down, you realise that the tavernkeeper is nowhere to be found. A trail of blood leads to the kitchen. Thankfully, when you follow the crimson path it leads to an injured but largely intact half-elf who looks only a little worse for wear. As you free him, he breathes a sigh of relief.*
 
-ALIA: You need to make your choice now. Warehouse or no, the Serpent knows we're onto them. 
+ALIA: You need to make your choice now, and we don't have time to act on both. Warehouse or no, the Serpent knows we're onto them. 
 
 LEOSIN: I will make my way towards the Twin Songs regardless. Even if you decide against a direct pursuit perhaps I can hold back some of their reinforcements.
 
@@ -588,15 +586,16 @@ ALIA: The Serpent is here. I have it on good authority. If they figure out that 
 *As she finishes speaking, she brings up what looks like a painted mask in the guise of a white dragon and fastens it to her face. She shoots you all a wink and a smirk before disappearing into the crowd.*
 
 The following sights can be seen in [[Little Calimshan]].
+
 1. A Priestess of Kelemvor, Graves, blue-skinned tiefling woman with a missing horn and greying black hair holds a small service commemorating the dead.
 
-2. Children and adults have their faces painted to look like ghosts and skeletons, similar to dio de los muertos and will try to get gold from the party.
+2. Children and adults have their faces or papepr painted to look like ghosts and skeletons, similar to dio de los muertos and will try to get gold from the party. The party can get their own masks or faces painted for 1 Copper piece by one of the Calishite workers.
 
-3. Apple-bobbing (3 Silver) run by a human woman named Alicia and a gnome named Bryn. Alicia is from Baldur's Gate and speaks like someone from the lower city. She has short brown hair and wears a shirt under a corset. Bryn is a silly man wearing a finely made garment.
+3. Apple-bobbing (2 Silver) run by a human woman named Alicia and a gnome named Bryn. Alicia is from Baldur's Gate and speaks like someone from the lower city. She has short brown hair and wears a shirt under a corset. Bryn is a silly man wearing a finely made garment.
    
    Players have 1 + Con Mod minutes under water. After 30 seconds, make 1 roll. The player must succeed on a DC 10 Survival check to get an apple. Most apples win. Winner gets a Bonfire Charm.
 
-4. Axe-Throwing (5 Silver) run by a red-skinned Hobgoblin with braids tied in a high bun named Kevder. Kevder is a worshipper of Lliira, the lesser-deity of Joy. 
+4. Axe-Throwing (2 Silver) run by a red-skinned Hobgoblin with braids tied in a high bun named Kevder. Kevder is a worshipper of Lliira, the lesser-deity of Joy. 
    
    Players are given 8 hand-axes to throw and must land the most hits on the targets. The target is a crudely painted depiction of [[Mellara, the Terror of the Sword Coast]] and the [[Herd of the Dragon]] leaders. If all targets are 'hit' at least once, they win a Vox Helm.
 
@@ -606,7 +605,33 @@ The following sights can be seen in [[Little Calimshan]].
 
 7. If [[Hold Back the Dead]] has not been started, the party will hear rumours that [[Corlie Halvachar]]'s men in [[Ironspine Keep]] haven't been heard from in a while. If the party tries to investigate, they will be told that the completion of that fortress is a key event for the [[Lords' Alliance]].
 
-8. 
+After 5 encounters have been completed, the crowd will start gathering in the Little Oasis theatre. If the party has completed [[A New Duke]], they will be offered seats in the boxes. However, they also have the option of paying for their own tickets (5 Silver) in order to go into general admission.
+
+#### PATH B: The Warehouse
+If the party decides to go with [[Leosin Erlanthar]], they will arrive in Twin Songs just near the banks of the River Chionthar. Leosin will be waiting behind a building close to the warehouse itself.
+
+*Your party gathers in a quiet corner of the town as you meet up with the Elven Harper. His body language is tense, like he's eager to get inside. Before you can say anything to him, his fists ball up as he meets your gaze before he darts across the gap like a quiet shadow.*
+
+Two minutes in real time, the party will soon hear sounds of combat as Leosin engages without waiting. Inside, there is a Dragon Cultist Commander, a Rogue, a Monk, a Cleric, and a Spellcaster. [[Leosin Erlanthar]] will distract them while the party can get 1 surprise attack in. On initiative count 20 on Round 2, the 'Serpent' will appear; a Green-scaled Dragonborn named Ilarex.
+
+*As combat rings all around you, a deep and raspy female voice cuts through the air. Standing across the room is a green-scaled Dragonborn with two daggers at her side and a long green cloak. Her reptilian gaze scans the room as she smirks and draws her weapons.*
+
+ILAREX: Smart thinking, Harper. Rezmir said you'd pursue, but to see it for myself is quite impressive. Too bad your stories will end here and now.
+
+Taunts:
+- You think you're saving anyone, heroes? When Tiamat returns the world will feel her wrath.
+- By the might of Tiamat, you'll all fall here today.
+- (If [[A New Duke]] was completed) A fortuitous thing you did for Lady Ravenshade. 'Tis a shame she won't live to see her new position.
+- (If [[A New Duke]] was completed) Thalamra was a formidable foe the first time was she not? Perhaps you'll see each other again soon in Avernus!
+
+At the end of the fight, Ilarex will laugh as she bleeds out. On her body is a letter marked with the symbol of a Black Dragon head written in plain common.
+
+	Did you really think it would be that simple?
+	Hope you enjoy the show. I hear it's going to be quite the dazzling display.
+
+
+#### The Play
+*You enter the theatre*
 
 ____
 ### CONCLUSION
