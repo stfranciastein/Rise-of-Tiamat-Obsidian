@@ -1,1 +1,1 @@
-**Tags:** #Templates #Statblocks
+**Tags:** #Templates #Statblocks #Warlock

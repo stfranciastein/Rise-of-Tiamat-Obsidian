@@ -1,5 +1,4 @@
-**Bio:** A male Human Wizard of Tiamat.
-**Age**: ????
+**Tags:** #NPC #Wizard #Human #Chosen #Tiamat #CultOfTheDragon 
 **Status:** Alive
 
 ____
