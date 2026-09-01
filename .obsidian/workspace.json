@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 8.0 - Tyranny of Dragons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 23"
+              "title": "Chapter 8.0 - Tyranny of Dragons"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A New Duke"
+              "title": "A Favour for Natasha"
             }
           },
           {
@@ -63,7 +63,8 @@
               "title": "Aramir Plentyleaf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fero",
+                "query": "glasg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -125,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 534.5
   },
   "right": {
     "id": "44379c75f1acca37",
@@ -240,35 +241,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdcd5f68fae46272",
+  "active": "e3bf730f6346a1f6",
   "lastOpenFiles": [
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 23.md",
-    "02 - Adventurers/Group A/Fero Mörktträ/Fero Mörktträ.md",
-    "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
-    "05 - Organisations/02 - Cult of the Dragon/White Dragon/Ozereus the Ghost.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
-    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 20.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 21.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 17.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 18.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 16.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 22.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Den of the Dead Three.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Waterdeep.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 8.0 - Tyranny of Dragons.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 7.0 - The Return.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 6.0 - A Living Storm.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 5.0 - The Cult Strikes Back.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 4.0 - Dead in Thay.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 2.0 - A Sea of Moving Ice.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 3.0 - The Descent.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 1.0 - Council of Waterdeep.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 1.0 - The Great Hunt.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Hoard of the Dragon Queen.md",
-    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Up and Down Under.md",
-    "09 - Rules and Information/Weapons and Armour.md",
-    "09 - Rules and Information/Statblock Templates/Factions/Lord's Alliance Statblock Template.md",
-    "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Act 3 - Rise of Tiamat.md",
+    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
+    "02 - Adventurers/Group A/Impyerno Lima.md",
+    "02 - Adventurers/Group B/The Bush Whackers.md",
+    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Torbar Dragonsbane.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 24.md",
+    "02 - Adventurers/Group B/Soma/Soma.md",
+    "07 - Items/Wonderous Items/Decks/Deck of Mischief.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Grim Tales for Bratty Children.md",
+    "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 17.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 15.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 16.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 14.md",
     "09 - Rules and Information/Statblock Templates/Factions",
-    "09 - Rules and Information/Statblock Templates/Classes/Artificer Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes",
     "09 - Rules and Information/Statblock Templates/Class Templates",
     "09 - Rules and Information/Statblock Templates",

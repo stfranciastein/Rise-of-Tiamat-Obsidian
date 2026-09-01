@@ -12,3 +12,5 @@ ____
 - Impyerno Lima began their journey on the 18th of October 2025.
 
 - The two horses they purchased to pull the [[Sylvira-Van]] are named Fero and Darrieth, named after their former companion and one of the Readers at [[Candlekeep]].
+
+- 

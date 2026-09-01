@@ -83,7 +83,7 @@ ____
 Nedes (Ned) - Father/Grandfather (ALIVE)
 Asta - Step Mother (ALIVE)
 Alexus - Brother/Uncle (ALIVE)
-Augustus - Brother/Uncle (ALIVE)
+Augustus - Brother/Uncle (DEAD)
 Lea - Mother/Grandmother (DEAD)
 Celeste - Sister/Mother (DEAD)
 Serdan - Brother/Uncle (DEAD)
