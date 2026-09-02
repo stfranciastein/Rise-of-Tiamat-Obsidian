@@ -1,0 +1,1 @@
+An Eladrin posing as the fake 'ruler' of the [[Unseelie]] Court. He is an uneasy partnership with [[Thaddak Ice-Veins]] who has agreed to help him raise an army. In exchange, the two of them would unseat [[Alustriel Silverhand]] as the ruler of [[Silverymoon]] by taking the city to the [[Feywild]].

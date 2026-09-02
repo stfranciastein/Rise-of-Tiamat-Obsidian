@@ -5,4 +5,4 @@
 
 ____
 
-Mr. Greenie or Ukvariasar Melvos Tropeskar is a Djinn under the service of [[King Issalren]] of the [[Summer Court]]. A loyal and devout follower of Issalren, he is sworn to protect [[Grace]] and provide her with as much comfort as possible during her stay in the material plane.
+Mr. Greenie or Ukvariasar Melvos Tropeskar is a Djinn under the service of [[Oberon]] of the [[Summer Court]]. A loyal and devout follower of Issalren, he is sworn to protect [[Grace]] and provide her with as much comfort as possible during her stay in the material plane.

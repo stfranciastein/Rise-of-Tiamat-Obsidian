@@ -53,14 +53,10 @@
             "id": "c7d5f593aa5fa7d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tazmikella 'Mikaz Tella'.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tazmikella 'Mikaz Tella'"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -98,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tazmikella",
+                "query": "#WinterC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,8 +239,13 @@
   },
   "active": "c7d5f593aa5fa7d6",
   "lastOpenFiles": [
+    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Oberon.md",
+    "05 - Organisations/05 - Courts of the Feywild/Winter Court/Unseelie Court.md",
+    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Seelie Court.md",
+    "05 - Organisations/05 - Courts of the Feywild/Winter Court/Winter King.md",
+    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Summer Court.md",
+    "Tazmikella 'Zalla Temik' the Copper.md",
     "07 - Items/Mutated Dragon.md",
-    "Tazmikella 'Mikaz Tella'.md",
     "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Nymmurh.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/The Sunless Citadel.md",
@@ -265,11 +265,6 @@
     "09 - Rules and Information/Statblock Templates/Classes/Artificer Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Cleric Statblock Template.md",
     "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Gnorma.md",
-    "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 8.0 - Tyranny of Dragons.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-    "02 - Adventurers/Group A/Fero Mörktträ/Fero Mörktträ.md",
-    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Abdel Adrian.md",
     "09 - Rules and Information/Statblock Templates/Factions",
     "09 - Rules and Information/Statblock Templates/Classes",
     "09 - Rules and Information/Statblock Templates/Class Templates",

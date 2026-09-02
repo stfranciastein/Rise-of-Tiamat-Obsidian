@@ -33,4 +33,4 @@ In truth, the old man is an Ancient Bronze Dragon named [[Nymmurh]]. He was sent
 ____
 ### PART IV - Stalking Prey
 
-When the party makes their journey north to [[Waterdeep]] at the end of [[Chapter 3.0 - The Bloody Gate]], they will be accosted by Dragonriders from the [[Cult of the Dragon]]. The units will likely overwhelm them, and the Mutated Dragon will not want to run away. In the midst of combat [[Tazmikella 'Mikaz Tella']] will join the frey disguised a bronze-skinned Earth Genasi.
+When the party makes their journey north to [[Waterdeep]] at the end of [[Chapter 3.0 - The Bloody Gate]], they will be accosted by Dragonriders from the [[Cult of the Dragon]]. The units will likely overwhelm them, and the Mutated Dragon will not want to run away. In the midst of combat [[Tazmikella 'Zalla Temik' the Copper]] will join the frey disguised a bronze-skinned Earth Genasi.
