@@ -31,6 +31,6 @@ Trying to confront this man will result in him subtly teleporting away. If the p
 In truth, the old man is an Ancient Bronze Dragon named [[Nymmurh]]. He was sent by his king [[Protanther]] from the [[Court of Metal]] to determine whether or not the adventuring party is worthy of a possible alliance.
 
 ____
-### PART IV - Stalking
+### PART IV - Stalking Prey
 
-When the party makes their journey north to [[Waterdeep]] at the end of [[Chapter 3.0 - The Bloody Gate]], they will be accosted by Dragonriders from the [[Cult of the Dragon]]. The units will likely overwhelm them, and the Mutated Dragon will not want to run away. In the midst of combat [[Nymmurh]] will join the frey disguised a bronze-skinned Earth Genasi.
+When the party makes their journey north to [[Waterdeep]] at the end of [[Chapter 3.0 - The Bloody Gate]], they will be accosted by Dragonriders from the [[Cult of the Dragon]]. The units will likely overwhelm them, and the Mutated Dragon will not want to run away. In the midst of combat [[Tazmikella 'Mikaz Tella']] will join the frey disguised a bronze-skinned Earth Genasi.
