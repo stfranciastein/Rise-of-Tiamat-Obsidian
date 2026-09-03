@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Emerald Enclave.md",
+                "file": "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Court of Metal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emerald Enclave"
+              "title": "Court of Metal"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#WinterC",
+                "query": "brightfell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,8 +244,17 @@
   },
   "active": "c7d5f593aa5fa7d6",
   "lastOpenFiles": [
-    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Talons of the Raven Queen.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Protanther the Gold.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Tazmikella 'Zalla Temik' the Copper.md",
+    "02 - Adventurers/Group A/Impyerno Lima.md",
+    "02 - Adventurers/Group A/Thavion Brightfell/Thavion Brightfell.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Court of Metal.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Nymmurh the Bronze.md",
+    "00 - Images/Court of Metal-1788465089285.webp",
+    "Daelaan Winterhound.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Emerald Enclave.md",
+    "05 - Organisations/01 - Major Allied Factions/05 - Talons of the Raven Queen/Talons of the Raven Queen.md",
     "05 - Organisations/01 - Major Allied Factions/04 - Order of the Gauntlet/Order of the Gauntlet.md",
     "05 - Organisations/01 - Major Allied Factions/04 - Order of the Gauntlet/Ontharr Frume.md",
     "05 - Organisations/01 - Major Allied Factions/04 - Order of the Gauntlet/Mira Fenwillow.md",
@@ -263,14 +273,6 @@
     "05 - Organisations/01 - Major Allied Factions/02 - Harpers/Jaheria.md",
     "00 - Images/Emerald Enclave-1788460662183.webp",
     "00 - Images/Emerald Enclave-1788460186283.webp",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Thalia an Garrán.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Rynae Kiln.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
-    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Oberon.md",
-    "05 - Organisations/05 - Courts of the Feywild/Winter Court/Unseelie Court.md",
-    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Seelie Court.md",
-    "05 - Organisations/05 - Courts of the Feywild/Winter Court/Winter King.md",
-    "05 - Organisations/05 - Courts of the Feywild/Summer Court/Summer Court.md",
     "09 - Rules and Information/Statblock Templates/Factions",
     "09 - Rules and Information/Statblock Templates/Classes",
     "09 - Rules and Information/Statblock Templates/Class Templates",
@@ -289,7 +291,6 @@
     "04 - Locations/10 - Underdark",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Untitled",
     "00 - Images/Tierbhal an Garrán-1784762057280.webp",
-    "00 - Images/Roan Lyxerias-1784749965915.webp",
-    "00 - Images/Untitled-1784749328826.webp"
+    "00 - Images/Roan Lyxerias-1784749965915.webp"
   ]
 }

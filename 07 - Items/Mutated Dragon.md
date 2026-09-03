@@ -28,7 +28,7 @@ By the time the party gets to [[Elturel]], a certain individual will begin payin
 
 Trying to confront this man will result in him subtly teleporting away. If the player is a worshipper of Bahamut, they gain a sense of comfort in the old man's presence. On a successful DC 25 Religion check, the players are able to determine that the old man is likely another Dragon attempting to track the Mutated Dragon's progress with humanoids.
 
-In truth, the old man is an Ancient Bronze Dragon named [[Nymmurh]]. He was sent by his king [[Protanther]] from the [[Court of Metal]] to determine whether or not the adventuring party is worthy of a possible alliance.
+In truth, the old man is an Ancient Bronze Dragon named [[Nymmurh the Bronze]]. He was sent by his king [[Protanther the Gold]] from the [[Court of Metal]] to determine whether or not the adventuring party is worthy of a possible alliance.
 
 ____
 ### PART IV - Stalking Prey

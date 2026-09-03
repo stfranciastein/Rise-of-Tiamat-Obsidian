@@ -65,9 +65,9 @@ The organisation the Metallic Dragons are talking about are the [[Zhentarim]]. I
 ____
 ### PART III - A Short Leash
 
-Upon their arrival in [[Waterdeep]], the players are likely going to try to find [[Nymmurh]]. The fastest way to find him is by asking [[Jamna Gleamsilver]] at the [[Yawning Portal]] after the [[Heist of Goldmane Manor]]. She will tell the players to give her a day or two to find out about him. Eventually, she will return to the Portal with a note detailing his location.
+Upon their arrival in [[Waterdeep]], the players are likely going to try to find [[Nymmurh the Bronze]]. The fastest way to find him is by asking [[Jamna Gleamsilver]] at the [[Yawning Portal]] after the [[Heist of Goldmane Manor]]. She will tell the players to give her a day or two to find out about him. Eventually, she will return to the Portal with a note detailing his location.
 
-[[Nymmurh]] tells the party that in order to free the Metallic Dragons and/or [[Heroes of Phandalin]], they will need to Plane Shift into [[Avernus]]. Luckily for them, [[Nymmurh]] is a talented spellcaster. He will only agree to join them on their mission under one condition; the safe return of his fellow Dragons from this prison. If the party cannot agree to this, he will refuse to help them but will still tell them of the location: Brimstone Hold.
+[[Nymmurh the Bronze]] tells the party that in order to free the Metallic Dragons and/or [[Heroes of Phandalin]], they will need to Plane Shift into [[Avernus]]. Luckily for them, [[Nymmurh the Bronze]] is a talented spellcaster. He will only agree to join them on their mission under one condition; the safe return of his fellow Dragons from this prison. If the party cannot agree to this, he will refuse to help them but will still tell them of the location: Brimstone Hold.
 
 NYM: Rezmir has been using Brimstone Hold in order to hold the souls of her enemies, as well as pieces of treasure she and the Cult of the Dragon have collected that she wishes to keep for herself. It is under the command of an Efreeti named Jarozoun.
 
@@ -79,5 +79,5 @@ NYM: If I were to guess, they are holding our friends somewhere beneath the Fort
 
 NYM: The problem is, he seems to have disappeared. The barkeep at the [[Yawning Portal]] says he escorted a group of adventurers to the [[Sunless Citadel]] and has yet to return. If we are to venture into Brimstone Hold, we will need him.
 
-This begins the quest [[The Sunless Citadel]]. [[Nymmurh]] will also tell the party that they should get some Potions of Fire Resistance or something similar. Upon their return, [[Nymmurh]] and [[Nebukath]] will be ready to aid the party in their pursuit of the Metallic Dragons.
+This begins the quest [[The Sunless Citadel]]. [[Nymmurh the Bronze]] will also tell the party that they should get some Potions of Fire Resistance or something similar. Upon their return, [[Nymmurh the Bronze]] and [[Nebukath]] will be ready to aid the party in their pursuit of the Metallic Dragons.
 
