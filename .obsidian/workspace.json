@@ -55,12 +55,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Court of Metal.md",
+                "file": "Yawning Portal.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Court of Metal"
+              "title": "Yawning Portal"
             }
           }
         ],
@@ -122,8 +132,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,12 +253,16 @@
   },
   "active": "c7d5f593aa5fa7d6",
   "lastOpenFiles": [
+    "Field Ward.md",
+    "Yawning Portal.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Nymmurh the Bronze.md",
+    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Court of Metal.md",
+    "07 - Items/Mutated Dragon.md",
     "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Protanther the Gold.md",
     "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Tazmikella 'Zalla Temik' the Copper.md",
     "02 - Adventurers/Group A/Impyerno Lima.md",
     "02 - Adventurers/Group A/Thavion Brightfell/Thavion Brightfell.md",
-    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Court of Metal.md",
-    "05 - Organisations/01 - Major Allied Factions/07- Court of Metal/Nymmurh the Bronze.md",
     "00 - Images/Court of Metal-1788465089285.webp",
     "Daelaan Winterhound.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
@@ -267,10 +280,6 @@
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Halsin Silverbough.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Pyrax.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Panahon Evad.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Emerald Grove.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Delaan Winterhound.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Anya an Garrán.md",
-    "05 - Organisations/01 - Major Allied Factions/02 - Harpers/Jaheria.md",
     "00 - Images/Emerald Enclave-1788460662183.webp",
     "00 - Images/Emerald Enclave-1788460186283.webp",
     "09 - Rules and Information/Statblock Templates/Factions",

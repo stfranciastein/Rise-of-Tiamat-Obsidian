@@ -65,7 +65,7 @@ The organisation the Metallic Dragons are talking about are the [[Zhentarim]]. I
 ____
 ### PART III - A Short Leash
 
-Upon their arrival in [[Waterdeep]], the players are likely going to try to find [[Nymmurh the Bronze]]. The fastest way to find him is by asking [[Jamna Gleamsilver]] at the [[Yawning Portal]] after the [[Heist of Goldmane Manor]]. She will tell the players to give her a day or two to find out about him. Eventually, she will return to the Portal with a note detailing his location.
+Upon their arrival in [[Waterdeep]], the players are likely going to try to find [[Nymmurh the Bronze]]. The fastest way to find him is by asking [[Jamna Gleamsilver]] at the [[Yawning Portal]] after the [[Heist of Goldmane Manor]]. She will tell the players to give her a day or two to find out about him. Eventually, she will return to the Portal with a note detailing his location. According to her, all she found was an old human man of the same name that lives in the [[Field Ward]], at the edge of Breezeway. He is known to some locals as an eclectic wizard and that no thieves dare to touch his house.
 
 [[Nymmurh the Bronze]] tells the party that in order to free the Metallic Dragons and/or [[Heroes of Phandalin]], they will need to Plane Shift into [[Avernus]]. Luckily for them, [[Nymmurh the Bronze]] is a talented spellcaster. He will only agree to join them on their mission under one condition; the safe return of his fellow Dragons from this prison. If the party cannot agree to this, he will refuse to help them but will still tell them of the location: Brimstone Hold.
 

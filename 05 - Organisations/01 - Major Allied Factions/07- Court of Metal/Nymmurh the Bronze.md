@@ -1,0 +1,1 @@
+**Tags:** #NPC #BronzeDragon #Dragon #CourtOfMetal 
