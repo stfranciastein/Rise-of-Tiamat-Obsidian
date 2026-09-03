@@ -77,7 +77,7 @@ The custodian then reads out the Oath of the Talons.
 `With this Oath I swear, I pledge myself to the Raven Queen. 
 `From this day until my last, I am and will always be, a Talon.`
 
-As they rise, they are appointed 
+As they rise, they are appointed as a new Talon and given a Talon Coat to induct them.
 
 _____
 #### BASES OF OPERATION

@@ -1,0 +1,1 @@
+**Tags:** #NPC #Druid #Human #Neutral #EmeraldEnclave #Silverymoon

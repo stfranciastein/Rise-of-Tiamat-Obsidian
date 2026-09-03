@@ -1,0 +1,1 @@
+**Tags:** #NPC #Druid #HalfElf #Elf  #NeutralGood #EmeraldEnclave 

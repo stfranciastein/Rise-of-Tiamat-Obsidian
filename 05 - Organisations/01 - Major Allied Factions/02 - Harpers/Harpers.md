@@ -26,4 +26,3 @@ The trusted spellcasters that fight both inter and exterplanar battles. Clerics,
 
 #### High Harper
 A small governing council made up of seven individuals who are spread across Faerun. [[Jaheria]] is the High Harper of the Western Heartlands and currently resides in the city of [[Berdusk]] in [[Twilight Hall]].
-

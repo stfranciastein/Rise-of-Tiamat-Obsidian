@@ -1,0 +1,1 @@
+**Tags:** #NPC #Druid #WoodElf #Lizardfolk #Neutral #EmeraldEnclave 

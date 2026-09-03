@@ -1,1 +1,1 @@
-**Tags:** #NPC #Commoner #Human #LawfulGood
+**Tags:** #NPC #Commoner #Human #LawfulGood #EmeraldEnclave 

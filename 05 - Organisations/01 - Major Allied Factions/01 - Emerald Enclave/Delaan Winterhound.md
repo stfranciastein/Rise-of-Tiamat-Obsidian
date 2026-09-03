@@ -1,0 +1,1 @@
+**Tags:** #NPC #Ranger #Human #LawfulGood #EmeraldEnclave 
