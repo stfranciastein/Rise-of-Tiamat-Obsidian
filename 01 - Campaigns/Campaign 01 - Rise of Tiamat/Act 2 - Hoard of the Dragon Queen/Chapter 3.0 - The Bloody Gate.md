@@ -740,7 +740,6 @@ ARKHAN: Thalamra and her brood have appeared. It is all going to plan.
 
 SEVERIN: Arkhan, you've returned. 
 
-ARKHAN: Elturel will fall. As it is ordained.
+ARKHAN: The necromancer's forces are upon us, but they tool stand no chance, my Chosen.
 
-SEVERIN: Rezmir, see to it that this business is taken care of. We have business to discuss. Farewell Heroes of Greenest, should we meet again it will be face-to-face.
-
+SEVERIN: Good. Rezmir, see to it that this business is taken care of. If not, well... perhaps Thaddak's contingency will take of them for you. Arkhan and I... well, we have business to discuss. Farewell Heroes of Greenest, should we meet again it will be face-to-face.
