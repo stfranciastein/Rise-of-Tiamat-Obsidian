@@ -660,6 +660,10 @@ At this point, one of the teenagers sitting in the front row will be volunteered
 
 Lyra, Marcus and [[Asha Ardeat]] are seen walking next to Keriva and preparing what appears to be a 'knighting' ceremony. Marcus, dressed as Gideon Lightward appears with a prop sword while Lyra is dressed as Dillard Portyr begins to sing. Asha, appearing as Ulder Ravengard in drag will look towards the party and smile in a friendly manner. Only an Insight check with a DC of 30 can determine what Asha is truly about to do.
 
+As Keriva knights the young man, she will zap him as a little gag which makes the crowd laugh. Then he is crowned as the new 'Grand Duke' of the Little Oasis theatre and is given a voucher to redeem for free food at the festival. Keriva makes a joke about how late it is as she taps her cane on the ground and the fireworks go off.
+
+At this point, as the impact of the indoor lightshows go off, Asha will cast 5th level Scorching Ray at [[Margaret Ravenshade]]. If she was not warned of a potential threat in either [[A New Duke]] or [[Den of the Dead Three]], she will perish. If she had been warned, she will be able to duck down just in time as Uruk and several [[Constabulary]] and [[Flaming Fist]] guards perish in the aftermath.
+
 ____
 ### CONCLUSION
 
