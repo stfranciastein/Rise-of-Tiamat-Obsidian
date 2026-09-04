@@ -702,6 +702,12 @@ LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow
 *Lucien's fingers snap once more and Ackyn falls to the ground and inhales deeply as the air fills his lungs once more. The Devil laughs for just a second, his skin flashing a vibrant red before he cracks his neck to stretch. Lucien gives your party the once over and vanishes from view.
 
 #### Zhentarim
-If the players are in good standing with the [[Zhentarim]] (+15) or they completed [[A Favour for Natasha]], [[Jamna Gleamsilver]] will visit the party at night and tell them that she and a few others spotted a few carts heading to the north towards [[Dragonspear Castle]].
+If the players are in good standing with the [[Zhentarim]] (+15) or they completed [[A Favour for Natasha]], [[Jamna Gleamsilver]] will visit the party at night and tell them that some of the agents of the [[Zhentarim]] spotted carts heading to the north towards [[Dragonspear Castle]].
 
+____
 
+Regardless [[Alia Sanem 'Talis Kasterel']] will say that there is a hidden Dragon Cultist archive at [[Dragonspear Castle]] that she and [[Leosin Erlanthar]] will be heading towards and to meet her there, as she believes there is valuable information about the Cult's plans. That and it's in between [[Baldur's Gate]] and [[Waterdeep]] anyway. 
+
+She will vehemently decline any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]]. She will part with the party almost as soon as they speak. She will also remind them that in a few days time Winter will be setting and they will likely need warm clothes for the journey north.
+
+Lastly, she will remark that [[Dragonspear Castle]] has an entrance to the Underdark and that the party should prepare themselves for the possibility of running into Drow or Duegar enemies who are known to use poisons.
