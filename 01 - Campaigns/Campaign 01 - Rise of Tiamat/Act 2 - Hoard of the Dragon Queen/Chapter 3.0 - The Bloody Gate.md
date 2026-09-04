@@ -631,7 +631,34 @@ At the end of the fight, Ilarex will laugh as she bleeds out. On her body is a l
 
 
 #### The Play
-*You enter the theatre*
+
+The play during the Feast of the Moon is known as the 'Epic of Abdel Adrian' a depiction of the Time of Troubles and the Second Sundering interspersed with musical breaks in between. The war between the gods is depicted with beautiful Calishite dances.
+
+*You enter the theatre as the play begins. Hundreds of people filter in through several doors. The air here is cool and dry, but not uncomfortably so. You look up to the ceiling and watch as strange automatons run along the ceiling and upper walkways arranging things back and forth. Several Patriars snottily look down on the commoners as they get to their seats. Thirty or so minutes pass before the lights dim and the curtains are pulled open. The emcee, a Tabaxi woman named Keriva wears a tight red jacket decorated with golden draconic patterns and holds a golden, glittering cane. She adjusts her monocle and points at the crowd.*
+
+KERIVA: Greetings Baldurians. We welcome you into the Little Oasis theatre once more for another rendition of your favourite epic; the Epic of Abdel Adrian. We dedicate this to our fallen Grand Duke, and perform this in remembrance of those we lost.
+
+The following events happen in order;
+- Mystril, goddess of magic is shown as a bored woman giving and revoking access to the weave.
+- Ao the Overgod is depicted by a male human dressed in white robes watching over the Tablets of Fate and is shown angry at the gods of Faerun.
+- Illusory meteors hit the stage and some fly towards the audience. In their spaces, actors depicting gods appear and walk towards the stage, begging Ao for forgiveness.
+- One that's closest to the party appears in the form of 
+- Ao is seen vanishing from sight as the gods are forced to walk Toril as mortals.
+- War. During this time, the Dead Three known as Bhaal, Bane and Myrkul are killed.
+- Mystra is assassinated by Cyric and killed by Shar and Cyric.
+- Tiamat is seen being slain by a deity known as Gilgeam, and is shown splitting up into five parts. Her 'heads' are five people wearing dragon masks.
+ - In the shadows, a darker-skinned elf is depicted as Bhaal, seducing several sons and daughters.
+- Then, a young Abdel Adrian appears depicted as a gallant, pale-skinned brown-haired human. The crowd applauds as he shows up.
+- A hag-like woman dressed in dark robes approaches him and offers him a Rose which begins to glow. This is a Rose of Bhaal which reveals Bhaalspawn.
+- Abdel Adrian is then seen killing Saarevok Anchev at the height of the Iron Crisis during the Battle for Baldur's Gate. The crowd applauds this and stands up in applause as he is crowned Grand Duke.
+- During the final act, Abdel Adrian is depicted as being a good and benevolent Grand Duke. However, he is then assassinated by a Bhaal Slayer. Gideon Lightward, Dillard Portyr and Ulder Ravengard are depicted as helping restore 'order' to Baldur's Gate.
+- As Ulder becomes the new Grand Duke of Baldur's Gate, the music swells to a hopeful sound. 
+
+KERIVA: And that is our tale, ladies, gentlemen and everyone in between and beyond. Fear not at the loss of heroes, my friends. While Abdel Adrian was a great man, he was just an exemplar of a  hero. Any single one of us, one of you my dear young ones, can become a hero too. I shall prove it to you. Can we get a volunteer?
+
+At this point, one of the teenagers sitting in the front row will be volunteered by his parents. Characters can make an insight check on Keriva with a DC of 15. On a success, they soon realise that Keriva is up to something nefarious. This is another red herring, Keriva is planning on doing a small prank on the child.
+
+Lyra, Marcus and [[Asha Ardeat]] are seen walking next to Keriva and preparing what appears to be a 'knighting' ceremony. Marcus, dressed as Gideon Lightward appears with a prop sword while Lyra is dressed as Dillard Portyr begins to sing. Asha, appearing as Ulder Ravengard in drag will look towards the party and smile in a friendly manner. Only an Insight check with a DC of 30 can determine what Asha is truly about to do.
 
 ____
 ### CONCLUSION
