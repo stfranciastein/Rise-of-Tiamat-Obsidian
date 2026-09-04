@@ -708,6 +708,31 @@ ____
 
 Regardless [[Alia Sanem 'Talis Kasterel']] will say that there is a hidden Dragon Cultist archive at [[Dragonspear Castle]] that she and [[Leosin Erlanthar]] will be heading towards and to meet her there, as she believes there is valuable information about the Cult's plans. That and it's in between [[Baldur's Gate]] and [[Waterdeep]] anyway. 
 
-She will vehemently decline any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]]. She will part with the party almost as soon as they speak. She will also remind them that in a few days time Winter will be setting and they will likely need warm clothes for the journey north.
+She will vehemently decline any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]]. She will part with the party almost as soon as they speak. She will also remind them that in a few days time winter will be upon them and they will likely need warm clothes for the journey north.
 
 Lastly, she will remark that [[Dragonspear Castle]] has an entrance to the Underdark and that the party should prepare themselves for the possibility of running into Drow or Duegar enemies who are known to use poisons.
+
+#### A Vision of Death pt.2
+After their first long rest, that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
+
+*You open your eyes and find yourself in the Lower City of Baldur's Gate standing outside of the Elfsong tavern, now a ruin. All around you, buildings and houses are lit ablaze as large objects dot the sky; not dragons, but something else. The red-robed figure of Severin stands at the far end of the street, his face still shrouded in darkness. His back is turned towards you as he watches the destruction of the city unfurl.*
+
+SEVERIN: Another city 'saved' Rezmir. And you're down to one Dragonclaw, what ever shall you do next my dear? 
+
+*The familiar figure of Rezmir appears in a cloud of black smoke as she and her and a black dragon shrouded in darkness land on the rooftop of the Elfsong tavern.*
+
+REZMIR: Patience, Severin. They don't know what I have in store for them.
+
+*Rezmir raises her hand as a powerful wave of lethargy washes over your body and you contort and bend untill you're forced to drop your knees in pain. Like before, spikes begin to grow out of your back and your skin tears open and breaks. Your blood boils and you feel your vision narrow. You look down at your hands and watch your finger transform into long claws. You feel your legs snap as they're forced into a different shape. As you cry out in indescribable pain Rezmir steps forward and laughs. You feel your jaw dislocate and the pain is insufferable. Your bones forcibly extend and elongate as your teeth all fall out. In their place are rows of jagged spikes, complementing your new draconic face. The pain does not stop, however. You feel it, constantly.
+
+REZMIR: The heroes of greenest have come far. Perhaps you'll defeat my last Dragonclaw, like you 'defeated' the others. Perhaps he will serve me your battered heads.
+
+[[Wyrmspeaker Rezmir]] will then force the players to make two DC 15 Wisdom saving throw. If the average roll of the party is below this, that means that their curse is accelerated and they must use up another charge. 
+
+1. If the party is holding any items from the [[Cult of the Dragon]], they make their rolls with disadvantage. Being attuned to more than two Cult items results in an automatic failure.
+2. If it fails, Rezmir will simply laugh and say they're more tenacious than she initially thought and says she looks forward to seeing how far they get.
+
+
+
+
+

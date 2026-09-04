@@ -533,7 +533,7 @@ ZEVLOR: Perhaps we'll see each other again on the battlefield. Though I hope for
 
 CALDUS: Ontharr passed on some information to me that we should discuss at some point. For now, you should all get some rest. Alia/Leosin is here too, if you want to catch up. It'll be 3 days before we get to Baldur's Gate.
 
-#### The Vision of Death
+#### A Vision of Death pt.1
 After their first long rest, that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
 
 *You open your eyes and find yourself in a familiar scene. Ahead of you is a grim, smouldering ruin of a city warped beyond recognition. The city streets are cracked and broken, and a dark void floats above the crumbling ruin in a blood-red sky. You know that wherever this is, it is not Faerun. You are back in Avernus. A red-robed figure stands at the far end of the street, his face still shrouded in darkness.*
