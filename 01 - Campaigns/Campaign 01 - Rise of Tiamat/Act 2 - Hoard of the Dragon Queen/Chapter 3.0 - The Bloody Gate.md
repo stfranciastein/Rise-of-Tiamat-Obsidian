@@ -734,7 +734,7 @@ REZMIR: The heroes of greenest have come far. Perhaps you'll defeat my last Drag
 
 REZMIR: I look forward to the result either way, I always did like the monk. Unlike Asha he knew when to keep quiet. Kept all of his focus on the killing.
 
-*As she rises from the ground, she clutches what looks to be a black book covered in shadows. It begins to glow as an Adult Red Dragon lands on one of the adjacent rooftops. From it, three figures disembark; an 8 foot tall red-scaled Dragonborn wearing infernal plate armour, a blue-skinned Tortle carrying a staff and markings scrawled on his back, and a minotaur at least 10 feet tall holding what appers to be two large flaming greatswords. As the Dragonborn flies down to the ground, you realise he's missing his real hand; for in its place is a skeletal one not belonging to him. The hand and the book both glow with green, necrotic energy.*
+*As she rises from the ground, she clutches what looks to be a black book covered in shadows. It begins to glow as an Adult Red Dragon wearing pieces of plate lands on one of the adjacent rooftops. From it, three figures disembark; an 8 foot tall red-scaled Dragonborn wearing infernal plate armour, a blue-skinned Tortle carrying a staff and markings scrawled on his back, and a minotaur at least 10 feet tall holding what appers to be two large flaming greatswords. As the Dragonborn flies down to the ground, you realise he's missing his real hand; for in its place is a skeletal one not belonging to him. The hand and the book both glow with green, necrotic energy.*
 
 ARKHAN: Thalamra and her brood have appeared. It is all going to plan.
 
@@ -742,4 +742,4 @@ SEVERIN: Arkhan, you've returned.
 
 ARKHAN: The necromancer's forces are upon us, but they tool stand no chance, my Chosen.
 
-SEVERIN: Good. Rezmir, see to it that this business is taken care of. If not, well... perhaps Thaddak's contingency will take of them for you. Arkhan and I... well, we have business to discuss. Farewell Heroes of Greenest, should we meet again it will be face-to-face.
+SEVERIN: Good. Rezmir, see to it that this business is taken care of. If not, well... perhaps Thaddak's contingency will take of them for you. Arkhan and I... well, we have business to discuss. Farewell Heroes of Greenest, should we meet again it will be face-to-face. I hear Waterdeep is lovely during the winter.

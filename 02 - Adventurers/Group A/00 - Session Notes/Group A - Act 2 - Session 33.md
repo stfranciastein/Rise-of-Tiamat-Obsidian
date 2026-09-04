@@ -6,7 +6,7 @@ After destroying the bronze crown, the party made their way to the Temple of the
 
 A night of celebration and a brief moment of respite later, Impyerno Lima dealt with the next day's troubles as they found themselves having to deal with Baldur's Bandits. Forty bandits later, they emerged victorious with only a few scratches to their egos and the caravan.
 
-Later that day, they made their way to Vidorant's Vault in Seatower, though not everything went as planned as they found themselves dealing with Nixylanna Vidorant herself. After a failed attempt at deceiving her, Vidorant offered the party one favour; in return for them telling Natasha her vault was Imprenable, she would spare their lives. Jamna was not happy with the results, but informed them that their rate for the job had gone up to 15,000 GP.
+Later that day, they made their way to Vidorant's Vault in Seatower, though not everything went as planned as they found themselves dealing with Nixylanna Vidorant herself. After a failed attempt at deceiving her, Vidorant offered the party one favour; in return for them telling Natasha her vault was Impregnable, she would spare their lives. Jamna was not happy with the results, but informed them that their rate for the job had gone up to 15,000 GP.
 
 Now, with the allegiance of both Xaria Trevisa and Margaret Ravenshade secured, all there's left to do is to hunt down the Serpent. Whoever she may be.
 
