@@ -96,7 +96,6 @@ THADDAK: Tenacious, aren't we? Very well, I'll entertain you for now. If you've 
 
 Thaddak 
 
-
 When the party is satisfied with their investigation, the Wizard will direct them to a nearby grove of trees where he believes the Sunbear may be hiding. They will impart one last piece of advise on the players; keep whatever information they've learned in mind when dealing with the Fey as it will more than likely have several tricks up its sleeve.  
 
 *As you find your way to the Grove that your companion directed you to, you can see a shimmer in the air where air seems to shake and glisten with radiant light. A singular roar breaks through the silence as more Redcaps begin to emerge out of thin air and engage you in combat.*
