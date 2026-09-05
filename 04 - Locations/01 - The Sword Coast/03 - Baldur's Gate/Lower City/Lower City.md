@@ -18,6 +18,7 @@ The following minor locations can be found in the Lower City:
 - Holver's and Mary's: A small tailor on Heapside. Run down, run by Holver Manacryn and Mary Manacryn.
 - Eastway Expeditions: A general goods store run by a male gnome named Scalm Shilvin.
 
+
 ____
 ### Encounters
 ##### Rebels and Rocks 

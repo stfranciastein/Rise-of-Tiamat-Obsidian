@@ -17,4 +17,6 @@ ___
 - The group has 3,900 Ioun Stones.
 - The group did not succeed A Favour for Natasha.
 - Tomorrow in-game is the 19th of Uktar.
+
+
 - 
