@@ -1,4 +1,4 @@
-### 3.16 An Initiation and Favour for Natasha
+### 3.15 An Initiation and Favour for Natasha
 
 In the abandoned town of Tumbledown, Impyerno Lima found themselves battling Cultists of Tiamat who had ambushed them just outside of the catacombs. After a hard battle, they were able to determine that they were being tracked via a stolen item from the Serpent's horde. 
 
@@ -17,6 +17,4 @@ ___
 - The group has 3,900 Ioun Stones.
 - The group did not succeed A Favour for Natasha.
 - Tomorrow in-game is the 19th of Uktar.
-
-
 - 
