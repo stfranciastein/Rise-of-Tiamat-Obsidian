@@ -9,4 +9,5 @@ The play concluded, but as it ended the Serpent revealed herself to be Asha Arde
 ____
 ### Reminders
 - The party levelled up to 9 at the end of this session.
-- Margaret is alive, but Tessa her guard is dead.
+- Margaret is alive, but her guard Uruk, is dead.
+- At the end of this session, it is currently the 20th of Uktar.
