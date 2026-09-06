@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 25"
+              "title": "Exit bear, stage right"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cloak wood",
+                "query": "exit bear,",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -269,10 +269,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33abf1f2fd9618e",
+  "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 24.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 24.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
     "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",

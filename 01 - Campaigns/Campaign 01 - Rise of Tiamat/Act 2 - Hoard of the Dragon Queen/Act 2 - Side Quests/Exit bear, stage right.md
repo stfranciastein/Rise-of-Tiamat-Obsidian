@@ -133,9 +133,17 @@ The party will then be confronted by the Suneater Owlbear which has three waves 
 #### Supernova
 *With a ripping sound, the tang of ozone fills the air and the cocoon breaks open. The owlbear rears back on its hind legs, its face top-lit in terrifying shadows cast by the 5-foot-radius star that floats above its head. Its featherfronds erupt in a retina-searing burst of light that settles into twinkling crackles of radiant energy.*
 
-The owlbear emerges in its mythic form to defend its lair and activates its Supernova trait. In addition to the creatures it had in the first wave, it will also activate 2 shambling mounds. These mounds are luminescent and emit sunlight in a 20-foot radius.
+The owlbear emerges in its mythic form to defend its lair and activates its Supernova mythic trait. It will also activate 2 shambling mounds. These mounds are luminescent and emit sunlight in a 20-foot radius. After its defeat, refer to the Suneater Owlbear's Harvest table.
 
-When the Owlbear is defeated, it implodes into a 5-foot-diameter black hole. Each creature must succeed on a DC 16 Strength saving throw. On a failure, a creature takes 5d10 Force damage. Upon completion, it will leave behind its hind side which has been cut in half.
+The loot left behind (Danthelon's supplies contain the following)
+- 7 Gemstones worth 10 GP.
+- 6 Rubies worth 50 GP.
+- 2 Art Objects 100 GP.
+- 3 Potions of Superior Healing (DC 15 Investigation, it's part of his regular stock).
+- 7000 GP Total worth of Danthelon's supplies (not loose gold).
+- Potion of Growth.
+- ~~Luckstone~~
+- Green Bag of Holding (If upturned, it has an Arcane Brotherhood member's Devastation Orb inside, the timer of which should be ready to detonate in 1D100 (if it rolls below 48 just make it 48) hours. They shouldn't be able to read it unless they speak Primordial).
 
 #### Harvest Table: Suneater Owlbear
 The following is the harvest table to be used with [[Heliana's Simplified Harvesting Rules]] for the Suneater Owlbears. They have the following unique components, in addition to the normal components for a fey. One of the owlbear’s [suneater featherfronds](https://www.dndbeyond.com/magic-items/11327439-suneater-featherfrond) has come perfectly loose can be harvested without rolling.
