@@ -32,8 +32,7 @@ At night, [[Glass]] will remark that he can hear the sounds of Dragons in the di
 
 Melchia Deleante will cast a protection ward over the camp. Characters who are spellcasters and wish to aid her can either flatly expend a 4th level spell slot, or succeed on a DC 20 Arcana check. Either way, she will finish her wards and the convoy will enjoy a dry night despite the bad weather. Owyn Evenmor will pray to Selune later that night and ask for the Moonmaiden's guidance on the road ahead. The stars twinkle in response.
 
-
-They will have one more dream, continuing [[Fire and Darkness]].
+As for the party, they will have one more dream, continuing [[Fire and Darkness]].
 
 #### Checkpoint One: Grasslands
 
