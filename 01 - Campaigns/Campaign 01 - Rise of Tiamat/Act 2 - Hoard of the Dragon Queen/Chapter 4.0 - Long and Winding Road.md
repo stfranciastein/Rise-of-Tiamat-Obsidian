@@ -68,6 +68,8 @@ During this night at the convoy camp, Alain will tell a story about the time whe
 
 *At night, you can't help but feel watched as it starts to rain on your third day of travel. The rain picks up slightly but isn't the torrential downpour it was that first night.*
 
+Around the campfires, [[Balthazaar Baradult]] will greet a group of four young human adventurers who join in from the road at his behest. Judging by their boasting, they claim to have just bested the most ferocious monsters and foes the Sword Coast has to offer and will claim to have killed a group of Dragons up ahead that were attacking the road. They will try to one-up anything the party has to say in order to take their spot on the convoy. The crowd can be persuaded with a DC 5 Persuasion or Performance check.
+
 The [[Mutated Dragon]] will say that he can feel someone watching over them. A casting of See Invisibility will reveal that there is a scrying eye floating above the Dragon. The Dragon does not seem to mind this visitor, however, as he believes it's likely his 'visitor' from before.
 
 #### Checkpoint Three: Grasslands
