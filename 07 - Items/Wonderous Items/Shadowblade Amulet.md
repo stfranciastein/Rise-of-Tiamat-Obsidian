@@ -30,6 +30,6 @@ This item is cursed. While attuned, fiends have advantage on Charisma (Deception
 ____
 ### IN-GAME
 
-The Shadowblade Amulet can be obtained from [[Andora Lawntill]] in [[Chapter 4.0 - Up and Down Under]]. Upon retrieval from Andora's person, [[Lucien]] will step in to either receive it from the adventurers or by threatening them with stranding them in [[Phlegethos]].
+The Shadowblade Amulet can be obtained from [[Andora Lawntill]] in [[Chapter 4.0 - Long and Winding Road]]. Upon retrieval from Andora's person, [[Lucien]] will step in to either receive it from the adventurers or by threatening them with stranding them in [[Phlegethos]].
 
 

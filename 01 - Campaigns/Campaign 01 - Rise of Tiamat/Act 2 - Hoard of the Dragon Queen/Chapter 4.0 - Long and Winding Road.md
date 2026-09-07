@@ -2,7 +2,16 @@
 
 ____
 
-After concluding the events of [[Baldur's Gate]], the party learns that the [[Cult of the Dragon]] is using the Underdark in order to smuggle their goods north of the Sword Coast and bypass the High Moor. However, they also learn that [[Wyrmspeaker Rezmir]] is still with her forces and have been lighting up the Trade Way, thus making a direct confrontation impossible.
+### 4.1 Long and...
+
+*As you depart Baldur's Gate, the City of Blood disappears slowly into the distance as the Sylvira-Van makes its way out towards the Fields of the Dead. The threat ahead of you lingers in your mind as you find yourselves out there in the open where you know Cult of the Dragon's forces are marching ahead.*
+
+*Halfway through your party's journey during the day it begins to rain, and you are promptly reminded 
+of the last time you faced the Cult at Greenest. Back then, you were no match for Rezmir's forces nor Lennithon's might, and even now you find yourselves ill-equipped to deal with an Ancient Dragon. A young dragon of the Cult was difficult enough, as you all recall Elturel and Langdedrosa's defeat at Fort Morninglord.*
+
+*When dusk falls and the Bloody Gate is nowhere in sight, you all lastly think back on the Serpent and the destruction one well-placed Cultist was able to do to an entire city. Mellara and Langdedrosa were able to wreak havoc through brute force while Asha manipulated both you and the Zarielites into causing chaos at the gate. As you ponder the road ahead, you think back on Rezmir's words. Of the last Dragonclaw that stands between you and the Black Wyrmspeaker.*
+
+The first day on the road will yield no 
 
 [[Ackyn Selebon]] will advise for the party to make their way through the Fields of the Dead instead, as hugging the Sword Coast will eventually make them run into the Troll Hills and make progressing via the [[Sylvira-Van]] difficult. There is no 'choice' to be made here unless the adventurers wish to see their end, they will have to avoid the [[Cult of the Dragon]]'s path if they do not wish to provoke a direct confrontation.
 
