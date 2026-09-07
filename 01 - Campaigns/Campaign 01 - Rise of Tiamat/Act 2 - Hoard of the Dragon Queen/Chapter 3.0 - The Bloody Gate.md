@@ -535,9 +535,7 @@ There should be no time crunch apart from the [[Cataclysm]] for the players to w
 ____
 ### 3.6 - The Lower City
 
-The [[Flaming Fist]] will inform the adventurers to be careful as the [[Lower City]] has proven to be dangerous as of late. While inside the city, the players can visit the following locations:
-1. [[Elfsong Tavern]]: [[Traxigor]] will greet the players and introduce himself as a friend of [[Sylvira Savikas]]. He will ask them to look into the disappearance of one of the books from [[Candlekeep]]. This begins the [[Mazfroth's Mighty Digressions]] quest.
-2. [[Blushing Mermaid]]: [[Roisin Ravenshade]] will be seen getting kicked out of the establishment. She will recognise either a Pinion from the [[Talons of the Raven Queen]] or an Upcoming Hero. After their introduction, she will give them the [[Flowers in Remembrance]] quest.
+The [[Flaming Fist]] will inform the adventurers to be careful as the [[Lower City]] has proven to be dangerous as of late. While inside the city, the players can run into [[Traxigor]] who will greet the players and introduce himself as a friend of [[Sylvira Savikas]]. He will ask them to look into the disappearance of one of the books from [[Candlekeep]]. This begins the [[Mazfroth's Mighty Digressions]] quest.
 
 ___
 ### 3.7 - The Upper City
@@ -629,7 +627,7 @@ At the end of the fight, Ilarex will laugh as she bleeds out. On her body is a l
 	Did you really think it would be that simple?
 	Hope you enjoy the show. I hear it's going to be quite the dazzling display.
 
-#### The Play
+#### PATH C: The Play
 
 The play during the Feast of the Moon is known as the 'Epic of Abdel Adrian & the Heroes of Faerun' a depiction of the Time of Troubles and the Second Sundering interspersed with musical breaks in between. The war between the gods is depicted with beautiful Calishite dances.
 
@@ -638,7 +636,7 @@ The play during the Feast of the Moon is known as the 'Epic of Abdel Adrian & th
 KERIVA: Greetings Baldurians. We welcome you into the Little Oasis theatre once more for another rendition of your favourite epic; the Epic of [[Abdel Adrian]]. We dedicate this to our fallen Grand Duke, and perform this in remembrance of those we lost.
 
 The following events happen in order:
-#### Act 1
+##### Act 1
 
 KERIVA: Our story begins, on Mount Celestia, with Mystril, the goddess of magic.
 
@@ -650,7 +648,7 @@ KERIVA: Our story begins, on Mount Celestia, with Mystril, the goddess of magic.
 - War erupts. During this time, the Dead Three known as Bhaal, Bane and Myrkul are killed.
 - Mystra is assassinated by Shar and Cyric, beginning the Spellplague.
 - Tiamat is seen being slain by a deity known as Gilgeam, and is shown splitting up into five parts. Her 'heads' are five people wearing masks resembling.
-#### Act 2
+##### Act 2
 
 KERIVA: Evil gods were thwarted, but some had no plans of keeping themselves down.
 
@@ -662,7 +660,7 @@ KERIVA: Evil gods were thwarted, but some had no plans of keeping themselves dow
 - Abdel Adrian is depicted as being a good and benevolent Grand Duke. However, he is then assassinated by a Bhaal Slayer. Gideon Lightward, Dillard Portyr and Ulder Ravengard are depicted by different drag performers as helping restore 'order' to Baldur's Gate.
 - As Ulder becomes the new Grand Duke of Baldur's Gate, the music swells to a hopeful sound.
 
-#### Act 3
+##### Act 3
 
 KERIVA: And that is our tale, ladies, gentlemen and everyone in between and beyond. Fear not at the loss of our hero, my friends. While Abdel Adrian was a great man, he was just an exemplar of a  hero. One of many that decorate our realm's history!
 
@@ -686,7 +684,7 @@ During the Battle, Asha will immediately begin by giving the party disadvantage 
 
 
 ____
-### CONCLUSION
+### 3.9 The Aftermath
 
 Upon her defeat, Asha will disappear into a cloud of burning embers and will laugh as she disintegrates. The only thing that remains on her body is a note that says "Gotcha." 
 
@@ -712,6 +710,9 @@ Depending on the party, the location of the following note will be different. Re
 	You may think you're a step ahead, but you're not even on the same street.
 	
 	- Thaddak
+
+____
+### CONCLUSION
 
 If  [[Xaria Trevisa]]'s quest has been concluded, the party's main quests in [[Baldur's Gate]] are considered done. They can return to [[Ackyn Selebon]] to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north.
 
@@ -749,9 +750,9 @@ LUCIEN: Ta-ta, my friends. I will see you again very soon.
 
 After Ackyn takes his time to recover / the players explain the presence of a Devil, he will re-affirm his suggestion of taking the caravan through the Fields of the Dead. At this point, if [[Glass]] was allowed to go to [[Gond's House of Wonders]] or if he was taken there by the party, he will then say that he suggests the party shop for more supplies. Provided the road is clear, he suspects it will take just under a month (30 days) to get to [[Waterdeep]].
 
-Regardless [[Alia Sanem 'Talis Kasterel']] will say that there is a hidden Dragon Cultist archive at [[Dragonspear Castle]] that she and [[Leosin Erlanthar]] will be heading towards and to meet her there, as she believes there is valuable information about the Cult's plans. That and it's in between [[Baldur's Gate]] and [[Waterdeep]] anyway. 
+Regardless [[Alia Sanem 'Talis Kasterel']] will say that there is a hidden Dragon Cultist archive at [[Dragonspear Castle]] that she and [[Leosin Erlanthar]] will be heading towards and to meet her there, as she believes there is valuable information about the Cult's plans.
 
-She will vehemently decline any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]]. She will part with the party almost as soon as they speak. She will also remind them that in a few days time winter will be upon them and they will likely need warm clothes for the journey north.
+She will vehemently decline any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]] and [[Thaddak Ice-Veins]] knowing about her betrayal. She will part with the party almost as soon as they speak. She will also remind them that in a few days time winter will be upon them and they will likely need warm clothes for the journey north.
 
 Lastly, she will remark that [[Dragonspear Castle]] has an entrance to the Underdark and that the party should prepare themselves for the possibility of running into Drow or Duegar enemies who are known to use poisons.
 

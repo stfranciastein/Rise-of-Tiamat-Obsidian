@@ -345,7 +345,7 @@ GRID TILES: 28 x 43
 There will be a mix of Kobold, Goblin and Cultist enemies assaulting the portcullis. At some point during the fight, [[Venomfang]] will use Sending to speak to one of the players saying he can sense their presence nearby. At the end of the fight [[Venomfang]] will appear in the far distance. He will arrive at the Portcullis in 1 minute (10 rounds). One of the [[Hellriders]] defending the wall (if any remain) will inform the players that they must ascend up the hill and help Commander [[Zevlor]] reclaim the Fort proper in order to activate its defences. 
 
 HELLRIDER: We must ascend up the hill! Commander Zevlor is inside the Fort and needs help. If we can reclaim the Fort we can activate its defenses!
-### Part Two: Reclaiming the Fort
+#### Part Two: Reclaiming the Fort
 
 ![[GL_RiverwoodTollCastle_Night_Torches.jpeg]]
 
