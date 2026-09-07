@@ -125,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#clans",
+                "query": "tasha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,8 +271,12 @@
   },
   "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
-    "Blackstaff Academy.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Natasha 'Tasha' the Dark.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Upper City/Vanthampur Villa.md",
+    "Blackstaff Academy.md",
     "06 - Houses & Clans/02 - Clans and Tribes/Shackle-Breaker.md",
     "06 - Houses & Clans/02 - Clans and Tribes/Flame-Arrow.md",
     "06 - Houses & Clans/02 - Clans and Tribes/Chain-Smasher.md",
@@ -280,7 +285,6 @@
     "Balthazaar Baradult.md",
     "Sea Ward.md",
     "04 - Locations/01 - The Sword Coast/04 - Waterdeep/Waterdeep.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Aerith Beldan.md",
     "06 - Houses & Clans/01 - Noble Houses/House Silverhand/Alustriel Silverhand.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Anya an Garrán.md",
@@ -293,9 +297,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Flowers in Remembrance.md",
     "06 - Houses & Clans/01 - Noble Houses/House Ravenshade/Roisin Ravenshade.md",
     "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Abdel Adrian.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Waterdeep.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 7.0 - Hunting Lodge.md",
     "00 - Images/Court of Metal-1788465089285.webp",
     "00 - Images/Emerald Enclave-1788460662183.webp",
     "00 - Images/Emerald Enclave-1788460186283.webp",

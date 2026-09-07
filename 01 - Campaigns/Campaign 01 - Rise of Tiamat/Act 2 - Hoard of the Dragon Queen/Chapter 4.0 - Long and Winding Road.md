@@ -87,9 +87,16 @@ The [[Mutated Dragon]] will say that he can feel someone watching over them. A c
 | 6   | A pack of peaceful and cute dogs and cats who are friends with one another approach the caravan and you all pet them for ten minutes. Inspiration to the party.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-During the convoy's night together, Alain will point out that he sees the constellation of the Archer appearing in the night sky. The children will be listening to him intently and asks him dozens of questions about the sky such as 'my uncle says Toril is flat, is that true?' or 'is it true that there's draginz that live in the mowntins'. 
+During the convoy's night together, Alain will point out that he sees the constellation of the Archer appearing in the night sky. The children will be listening to him intently and asks him dozens of questions about the sky such as 'my uncle says Toril is flat, is that true?' or 'is it true that there's draginz that live in the mowntins'. The children will then ask the party if they've ever seen a Dragon before because Maxwell says he saw one yesterday.
 
-[[Balthazaar Baradult]] 
+Radecere Perethun will call over the most 'friendly' party member and ask if they could take a look at something she found on one of her caravan's wheel. There is a crushed ball made up of a green acidic substance on the bottom of her back left wagon wheel.
+
+On a DC 10 Arcana or Nature check, they will reveal that it is residue from an Ooze, but they will not know exactly what kind. Alain will guess it is some form of Gelatinous Cube and offers to burn it or give a container so they can study it further in the city.
+
+#### Checkpoint Four: Grasslands
+
+*The rain starts up about an hour into your journey again. Thunder begins to quake in the distance as the rain picks up once more just like your first night. As the caravans crest a particularly high hill, you look back into the distance and you can vaguely see the outline of the Upper City in the distance. Glass lets the horses rest for a few minutes and lets the other caravans catch up and re-align before heading out ahead of the group.*
+
 
 #### Checkpoint ????: Snow
 
