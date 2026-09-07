@@ -3,7 +3,7 @@
 ____
 ### 4.1 A Vision of Death pt.2
 
-After their first long rest, that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
+After their first long rest following the events of [[Chapter 3.0 - The Bloody Gate]], that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
 
 *You open your eyes and find yourself in familiar surrounds. All around you, buildings and houses are lit ablaze as large objects dot the sky. The red-robed figure of Severin stands at the far end of the street, his face still shrouded in darkness. His back is turned towards you as he watches the destruction of the town unfurl without any emotion. When he notices your presence, he simply turns his head ever so slightly.*
 
