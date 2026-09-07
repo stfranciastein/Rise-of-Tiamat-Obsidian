@@ -629,57 +629,102 @@ At the end of the fight, Ilarex will laugh as she bleeds out. On her body is a l
 	Did you really think it would be that simple?
 	Hope you enjoy the show. I hear it's going to be quite the dazzling display.
 
-
 #### The Play
 
-The play during the Feast of the Moon is known as the 'Epic of Abdel Adrian' a depiction of the Time of Troubles and the Second Sundering interspersed with musical breaks in between. The war between the gods is depicted with beautiful Calishite dances.
+The play during the Feast of the Moon is known as the 'Epic of Abdel Adrian & the Heroes of Faerun' a depiction of the Time of Troubles and the Second Sundering interspersed with musical breaks in between. The war between the gods is depicted with beautiful Calishite dances.
 
 *You enter the theatre as the play begins. Hundreds of people filter in through several doors. The air here is cool and dry, but not uncomfortably so. You look up to the ceiling and watch as strange automatons run along the ceiling and upper walkways arranging things back and forth. Several Patriars snottily look down on the commoners as they get to their seats. Thirty or so minutes pass before the lights dim and the curtains are pulled open. The emcee, a Tabaxi woman named Keriva wears a tight red jacket decorated with golden draconic patterns and holds a golden, glittering cane. She adjusts her monocle and points at the crowd.*
 
-KERIVA: Greetings Baldurians. We welcome you into the Little Oasis theatre once more for another rendition of your favourite epic; the Epic of Abdel Adrian. We dedicate this to our fallen Grand Duke, and perform this in remembrance of those we lost.
+KERIVA: Greetings Baldurians. We welcome you into the Little Oasis theatre once more for another rendition of your favourite epic; the Epic of [[Abdel Adrian]]. We dedicate this to our fallen Grand Duke, and perform this in remembrance of those we lost.
 
-The following events happen in order;
+The following events happen in order:
+#### Act 1
+
+KERIVA: Our story begins, on Mount Celestia, with Mystril, the goddess of magic.
+
 - Mystril, goddess of magic is shown as a bored woman giving and revoking access to the weave.
 - Ao the Overgod is depicted by a male human dressed in white robes watching over the Tablets of Fate and is shown angry at the gods of Faerun.
 - Illusory meteors hit the stage and some fly towards the audience. In their spaces, actors depicting gods appear and walk towards the stage, begging Ao for forgiveness.
-- One that's closest to the party appears in the form of 
+- One that's closest to the party appears in the form of Shar and Selune.
 - Ao is seen vanishing from sight as the gods are forced to walk Toril as mortals.
-- War. During this time, the Dead Three known as Bhaal, Bane and Myrkul are killed.
-- Mystra is assassinated by Cyric and killed by Shar and Cyric.
-- Tiamat is seen being slain by a deity known as Gilgeam, and is shown splitting up into five parts. Her 'heads' are five people wearing dragon masks.
- - In the shadows, a darker-skinned elf is depicted as Bhaal, seducing several sons and daughters.
-- Then, a young Abdel Adrian appears depicted as a gallant, pale-skinned brown-haired human. The crowd applauds as he shows up.
-- A hag-like woman dressed in dark robes approaches him and offers him a Rose which begins to glow. This is a Rose of Bhaal which reveals Bhaalspawn.
-- Abdel Adrian is then seen killing Saarevok Anchev at the height of the Iron Crisis during the Battle for Baldur's Gate. The crowd applauds this and stands up in applause as he is crowned Grand Duke.
-- During the final act, Abdel Adrian is depicted as being a good and benevolent Grand Duke. However, he is then assassinated by a Bhaal Slayer. Gideon Lightward, Dillard Portyr and Ulder Ravengard are depicted as helping restore 'order' to Baldur's Gate.
-- As Ulder becomes the new Grand Duke of Baldur's Gate, the music swells to a hopeful sound. 
+- War erupts. During this time, the Dead Three known as Bhaal, Bane and Myrkul are killed.
+- Mystra is assassinated by Shar and Cyric, beginning the Spellplague.
+- Tiamat is seen being slain by a deity known as Gilgeam, and is shown splitting up into five parts. Her 'heads' are five people wearing masks resembling.
+#### Act 2
 
-KERIVA: And that is our tale, ladies, gentlemen and everyone in between and beyond. Fear not at the loss of heroes, my friends. While Abdel Adrian was a great man, he was just an exemplar of a  hero. Any single one of us, one of you my dear young ones, can become a hero too. I shall prove it to you. Can we get a volunteer?
+KERIVA: Evil gods were thwarted, but some had no plans of keeping themselves down.
+
+ - In the shadows, a darker-skinned elf is depicted as Bhaal, seducing several men and women in order to sire dozens of sons and daughters.
+- The scene follows a young Abdel Adrian appears depicted as a gallant, pale-skinned brown-haired human. The crowd applauds as he is 'born' and named by his parents.
+- A hag-like woman dressed in dark robes approaches him and offers him a Rose which begins to glow. This is a Rose of Bhaal which reveals he is a Bhaalspawn.
+- Two figures appear, one tall muscular bald man wearing leathers. He has a purple tattoo on his face and carries a rat. An elven woman with a brown wig braided with several jewels and metal pieces enters the scene holding two scimitars and proclaims "Nature's Servant Awaits!". The crowd applauds at it too, and children shout "Go Jaheira!"
+- Abdel Adrian is then seen killing several Cult of the Dead Three members, including his half-spawn sibling Saarevok Anchev at the height of the Iron Crisis during the Battle for Baldur's Gate. The crowd applauds this and stands up in applause as he is crowned Grand Duke.
+- Abdel Adrian is depicted as being a good and benevolent Grand Duke. However, he is then assassinated by a Bhaal Slayer. Gideon Lightward, Dillard Portyr and Ulder Ravengard are depicted by different drag performers as helping restore 'order' to Baldur's Gate.
+- As Ulder becomes the new Grand Duke of Baldur's Gate, the music swells to a hopeful sound.
+
+#### Act 3
+
+KERIVA: And that is our tale, ladies, gentlemen and everyone in between and beyond. Fear not at the loss of our hero, my friends. While Abdel Adrian was a great man, he was just an exemplar of a  hero. One of many that decorate our realm's history!
+
+- The Companions of the Hall; A drow, a dwarf, a human woman, a human man and a halfling appear on stage. The drow wears leathers and a green cloak and is followed by a dog with tentacles attached to his back. The human woman, an archer and the human man a barbarian stand next to him. The dwarf and halfling run along the ground as they defeat monsters of the Underdark together and the Drow poses for the stage. If [[Thogli Battlehammer]] is present he will clap heavily at the mention of Bruenor Battlehammer.
+ - Heroes of Phandalin; A human man and woman, a dragonborn, and an elf painted grey and with a prosthetic nose appears on stage. The human man wears robes, the woman wears a set of plate armour while the Dragonborn and Elf are depicted as wearing battle clothing of a monk and barbarian. They slay what looks to be several mindflayers and goblins, rescuing the town of Phandalin and Neverwinter from an outerplanar threat.
+ - Knights of Myth Drannor; A group of young human men and women fight bravely against the liches, undead and devils that attacked the city.
+ - Heroes of Greenest; A blonde human man and a set of familiar looking heroes hold back the tide against the Cult of the Dragon in Greenest. The blonde human man is seen smiting the dragon with his sword while handsomely billowing his cloak and the audience swoons.
+
+KERIVA: Any single one of us, one of you my dear young ones, can become a hero too. I shall prove it to you. Can we get a volunteer?
 
 At this point, one of the teenagers sitting in the front row will be volunteered by his parents. Characters can make an insight check on Keriva with a DC of 15. On a success, they soon realise that Keriva is up to something nefarious. This is another red herring, Keriva is planning on doing a small prank on the child.
 
-Lyra, Marcus and [[Asha Ardeat]] are seen walking next to Keriva and preparing what appears to be a 'knighting' ceremony. Marcus, dressed as Gideon Lightward appears with a prop sword while Lyra is dressed as Dillard Portyr begins to sing. Asha, appearing as Ulder Ravengard in drag will look towards the party and smile in a friendly manner. Only an Insight check with a DC of 30 can determine what Asha is truly about to do.
+Lyra, Marcus and [[Asha Ardeat]] are seen walking next to Keriva and preparing what appears to be a 'knighting' ceremony. Marcus, dressed as Gideon Lightward appears with a prop sword while Lyra is dressed as Dillard Portyr begins to sing. Asha, appearing as [[Ulder Ravengard]] in drag will look towards the party and smile in a friendly manner. Only an Insight check with a DC of 30 can determine what Asha is truly about to do.
 
 As Keriva knights the young man, she will zap him as a little gag which makes the crowd laugh. Then he is crowned as the new 'Grand Duke' of the Little Oasis theatre and is given a voucher to redeem for free food at the festival. Keriva makes a joke about how late it is as she taps her cane on the ground and the fireworks go off.
 
-At this point, as the impact of the indoor lightshows go off, Asha will cast 5th level Scorching Ray at [[Margaret Ravenshade]]. If she was not warned of a potential threat in either [[A New Duke]] or [[Den of the Dead Three]], she will perish. If she had been warned, she will be able to duck down just in time as Uruk and several [[Constabulary]] and [[Flaming Fist]] guards perish in the aftermath.
+At this point, as the impact of the indoor lightshows go off, Asha will cast 5th level Scorching Ray at [[Margaret Ravenshade]]. If she was not warned of a potential threat in either [[A New Duke]] or [[Den of the Dead Three]], she will perish. If she had been warned, she will be able to duck down just in time as Uruk and several [[Constabulary]] and [[Flaming Fist]] guards perish in the aftermath. Alternatively, if [[Thurstwell Vanthampur]] was spared, he will protect her with a well-placed Resilient Sphere spell.
+
+During the Battle, Asha will immediately begin by giving the party disadvantage on their attack rolls as a bonus action. Her supporters; an Evoker, a Cleric and two Warriors will attempt to prevent the party from getting closer as she burns down the building. There will also be 6 recruits waiting, as well as a ranger and a rogue (unless the building was scouted out before hand, in which case, the ranger and rogue will not be able to enter).
+
+
 
 ____
 ### CONCLUSION
 
-After killing [[Asha Ardeat]] and securing [[Xaria Trevisa]]'s quests will conclude the party's main quests in [[Baldur's Gate]]. They can return to [[Ackyn Selebon]] to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north.
+Upon her defeat, Asha will disappear into a cloud of burning embers and will laugh as she disintegrates. The only thing that remains on her body is a note that says "Gotcha." 
+
+After the Feast's events are concluded and the party has succeeded in either killing or capturing [[Asha Ardeat]], they will learn by the end of the night that there was some sort of explosion in the [[Lower City]]. The next morning, the copy of Baldur's Mouth will be talking about another event simultaneous to the attack and the robbery. According to the headline, [[Sorcerous Sundries]] was also broken into and while nothing of import was stolen, several tomes were burnt the wizard Lorroakan is furious.
+
+If the crown and the mask were sold to anyone, the dead body of the vendor will be found frozen and covered in mushrooms on the docks. [[Liara Portyr]] will personally show up to the party's place of rest and demand the party go with her as she leads them to the scene of the crime.
+
+Depending on the party, the location of the following note will be different. Regardless of the outcome, they will find the note written in common that says the following;
+
+	Congrats on your victory, you've been a tremendous help.
+	First Mellara and the White Dragon Mask and now this.
+	
+	When Asha said she could distract you, I didn't think it would be so easy.
+	You can always count on the heroes to save the day I suppose.
+	
+	You can find the real Liara locked up at Seatower.
+	She's sleeping soundly enough, though I wouldn't wake her.
+	
+	I know all of you, my Changelings have seen all of you up close.
+	There is no where you can hide from my sight.
+	
+	You may think you're a step ahead, but you're not even on the same street.
+	
+	- Rezmir
+
+If  [[Xaria Trevisa]]'s quest has been concluded, the party's main quests in [[Baldur's Gate]] are considered done. They can return to [[Ackyn Selebon]] to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north.
 
 *Ackyn appears from beneath the caravan with a bit of grease on his forehead, and oil on his hands. He passes Glass a wrench so the Kobold can make some final adjustments to the vehicle, and the two share a quick high-five in solidarity. The human turns to your group and slaps the side of the wooden surface, flashing you a quick and easy smile.*
 
-ACKYN: She's ready as she can be for the rest of your travels. Now that we're entering winter you'll need the wheels for the Fields of the Dead. Don't worry about payment, it's on the house. Least I could do to contribute to the fight.
+ACKYN: She's ready as she can be for the rest of your travels. Now that we're entering winter you'll need the wheels for the Fields of the Dead. Don't worry about payment, it's on the house. Least this old timer could do to contribute to the fight.
 
 If the first upgrade to the Van's armour has not yet been purchased, he will apply it for them automatically. If it has, he will add another +1 to the Caravan's AC. He suggests heading up north to [[Waterdeep]] as soon as possible but to watch out for the [[Cult of the Dragon]]. Unfortunately, it seems that the Cult has disappeared from sight.
 
-ACKYN: You've got a few options. You could always journey up the Chionthar back to [[Elturel]], but you'll risk running into the Shadow Curse. That and any trail the Cult may have left behind will be gone by then.
+ACKYN: You've got a few options ahead of you. You could always journey up along the Chionthar back to [[Elturel]], but you'll risk running into the Shadow Curse. That and any trail the Cult may have left behind will be gone by then.
 
 GLASS: Or we could head up north, through the Fields of the Dead.
 
-ACKYN: A dangerous path, I hear that all manner of creatures lurk in the plains up north but it is the fastest way forward.
+ACKYN: A dangerous path, I hear that all manner of creatures lurk in the plains up north but it is the fastest way forward. There are several merchant caravans that are making their way to Waterdeep constantly, if you want safety in numbers I suggest you tag the caravan along.
 
 *The smell of smoke and fire weighs heavily in the air as a blast of small light fills your vision. Standing before you is a handsome human man, the Devil Lucien himself.*
 
@@ -691,20 +736,17 @@ LUCIEN: Now now, the Adults are talking.
 
 *Lucien snaps his fingers and Ackyn's eyes, mouth and nose disappear. The human struggles to press onto his face looking for a way to open it back up but there's nothing there but a smooth surface. He's slowly suffocating.*
 
-LUCIEN: Allow me to make this quick, lest your friend here bites the dust. Returning to Elturel is off the table. Your Cult is hidden, even from me, but one of them slipped up and got me a glimpse. You will journey North through the Fields of the Dead. Up, then down under. Crawling and creeping through the caves and crevices known as the lands of the Underdark.
+LUCIEN: Allow me to make this quick, lest your friend here bites the dust. Returning to Elturel is off the table. Your Cult is hidden, even from me, I suspect the magic they're using is similar to that which hid the Horde's true location in Nashkel. But one of them slipped up and got me a glimpse. Your Cult of the Dragon journeys North through the Fields of the Dead. Up, then down under. Crawling and creeping through the caves and crevices of the mountains.
 
-LUCIEN: You may want to pack up for the road, the journey North will be quite... taxing for many of you. A month's worth of time on the road, not accounting for any dangers you may run into?
+GLASS: What about the big Blue Dragon?
 
-GLASS: What about the Dragons?
+LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow below. Unless of course, you're counting our old pal Lennithon, but a Dragon that old has no business underground. (Claps hands) Even if he were to be a problem, well... at the very least you'll see him coming and have a few seconds before he eviscerates you. Now, let's relieve your companion.
 
-LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow below. Unless of course, you're counting our old pal Lennithon, but a Dragon that old has no business underground. (Claps hands) Now, let's relieve your companion.
+*Lucien's fingers snap and Ackyn falls to the ground. The older man inhales deeply as the air fills his lungs once more. The Devil laughs for just a second, his skin flashing a vibrant red before he cracks his neck to stretch. Lucien gives your party the once over.*
 
-*Lucien's fingers snap once more and Ackyn falls to the ground and inhales deeply as the air fills his lungs once more. The Devil laughs for just a second, his skin flashing a vibrant red before he cracks his neck to stretch. Lucien gives your party the once over and vanishes from view.
+LUCIEN: Ta-ta, my friends. I will see you again very soon.
 
-#### Zhentarim
-If the players are in good standing with the [[Zhentarim]] (+15) or they completed [[A Favour for Natasha]], [[Jamna Gleamsilver]] will visit the party at night and tell them that some of the agents of the [[Zhentarim]] spotted carts heading to the north towards [[Dragonspear Castle]].
-
-____
+After Ackyn takes his time to recover / the players explain the presence of a Devil, he will re-affirm his suggestion of taking the caravan through the Fields of the Dead. At this point, if [[Glass]] was allowed to go to [[Gond's House of Wonders]] or if he was taken there by the party, he will then say that he suggests the party shop for more supplies. Provided the road is clear, he suspects it will take just under a month (30 days) to get to [[Waterdeep]].
 
 Regardless [[Alia Sanem 'Talis Kasterel']] will say that there is a hidden Dragon Cultist archive at [[Dragonspear Castle]] that she and [[Leosin Erlanthar]] will be heading towards and to meet her there, as she believes there is valuable information about the Cult's plans. That and it's in between [[Baldur's Gate]] and [[Waterdeep]] anyway. 
 
@@ -715,31 +757,33 @@ Lastly, she will remark that [[Dragonspear Castle]] has an entrance to the Under
 #### A Vision of Death pt.2
 After their first long rest, that night they will receive another vision of [[Wyrmspeaker Rezmir]] and [[Severin Silrajin]].
 
-*You open your eyes and find yourself in the Lower City of Baldur's Gate standing outside of the Elfsong tavern, now a ruin. All around you, buildings and houses are lit ablaze as large objects dot the sky; not dragons, but something else. The red-robed figure of Severin stands at the far end of the street, his face still shrouded in darkness. His back is turned towards you as he watches the destruction of the city unfurl.*
+*You open your eyes and find yourself in familiar surrounds. All around you, buildings and houses are lit ablaze as large objects dot the sky. The red-robed figure of Severin stands at the far end of the street, his face still shrouded in darkness. His back is turned towards you as he watches the destruction of the town unfurl without any emotion. When he notices your presence, he simply turns his head ever so slightly.*
 
-SEVERIN: Another city 'saved' Rezmir. And you're down to one Dragonclaw, what ever shall you do next my dear? 
+SEVERIN: Our visitors are back, and you all look so much clearer now. Another city 'saved' Rezmir. And you're down to one Dragonclaw, what ever shall you do next my dear?
 
-*The familiar figure of Rezmir appears in a cloud of black smoke as she and her and a black dragon shrouded in darkness land on the rooftop of the Elfsong tavern.*
+*The familiar figure of Rezmir appears in a cloud of black smoke as the vision becomes clearer. You watch as Rezmir and her black dragon companion shrouded in darkness enter your field of view. Unlike before when they first appeared to you in Elturel, this vision feels much more real. It feels as if you were standing right there with the two of them. The heat from the buildings is immense, and the screaming loud and clear.*
 
-REZMIR: Patience, Severin. They don't know what I have in store for them.
+REZMIR: The eggs are halfway close to hatching, despite their efforts. Have patience, Lord Severin. They don't know what I have in store for them.
 
-*Rezmir raises her hand as a powerful wave of lethargy washes over your body and you contort and bend untill you're forced to drop your knees in pain. Like before, spikes begin to grow out of your back and your skin tears open and breaks. Your blood boils and you feel your vision narrow. You look down at your hands and watch your finger transform into long claws. You feel your legs snap as they're forced into a different shape. As you cry out in indescribable pain Rezmir steps forward and laughs. You feel your jaw dislocate and the pain is insufferable. Your bones forcibly extend and elongate as your teeth all fall out. In their place are rows of jagged spikes, complementing your new draconic face. The pain does not stop, however. You feel it, constantly.
+*You watch from the distance as several figures dressed in leathers stand next to Rezmir. She grins as she arcs green lightning across her fingertips and points it towards your party. As the lightning nearly strikes you, behind her you see Emerald Enclave soldiers reduced to ash. Another guard, a young woman who couldn't be older than sixteen or seventeen tries to attack Severin from behind. Rezmir quickly snaps her hand up and the girl is dust as her disintegrating ray hits her.*
 
-REZMIR: The heroes of greenest have come far. Perhaps you'll defeat my last Dragonclaw, like you 'defeated' the others. Perhaps he will serve me your battered heads.
+REZMIR: The Heroes of greenest have come far. Perhaps you'll defeat my last Dragonclaw, like you 'defeated' the others. Perhaps he will serve me your battered heads.
 
-[[Wyrmspeaker Rezmir]] will then force the players to make two DC 15 Wisdom saving throw. If the average roll of the party is below this, that means that their curse is accelerated and they must use up another charge. 
+*From afar you see a brave sight, the outline of a soldier standing atop what looks like a watchtower just about 600 ft. away take aim and pulls back his bowstring. As he lets it loose, it flies through the air and finds its mark, striking her in the back of the head. A fatal shot. However, Rezmir laughs and simply plucks it out the back of her skull. Black ichor oozes down from her wound before closing back up. The soldier draws the bowstring again and fires, over and over. Each arrow hitting her. She doesn't care. A few seconds pass as all of the arrows lodged to her torso fall out and her wounds close up. Without stepping a single step closer, the grimoire in her hand glows and she points a singular finger towards the soldier. A disintegrating ray flies straight towards him and he vanishes in an instant.*
+
+[[Wyrmspeaker Rezmir]] will then force the players to make **two** DC 15 Wisdom saving throw. If the average roll of the party is below this, that means that their curse is accelerated and they must use up another charge. 
 
 1. If the party is holding any items from the [[Cult of the Dragon]], they make their rolls with disadvantage. Being attuned to more than two Cult items results in an automatic failure.
 2. If it fails, Rezmir will simply laugh and say they're more tenacious than she initially thought and says she looks forward to seeing how far they get.
 
-REZMIR: I look forward to the result either way, I always did like the monk. Unlike Asha he knew when to keep quiet. Kept all of his focus on the killing.
+REZMIR: I look forward to the result either way, I always did like the monk. Unlike Asha he knows how to keep quiet. Keeps all of his focus on the killing.
 
-*As she rises from the ground, she clutches what looks to be a black book covered in shadows. It begins to glow as an Adult Red Dragon wearing pieces of plate lands on one of the adjacent rooftops. From it, three figures disembark; an 8 foot tall red-scaled Dragonborn wearing infernal plate armour, a blue-skinned Tortle carrying a staff and markings scrawled on his back, and a minotaur at least 10 feet tall holding what appers to be two large flaming greatswords. As the Dragonborn flies down to the ground, you realise he's missing his real hand; for in its place is a skeletal one not belonging to him. The hand and the book both glow with green, necrotic energy.*
+*As she rises from the ground, she clutches her book. It begins to glow as an Adult Red Dragon wearing pieces of plate exits a planar portal and lands on one of the adjacent rooftops. From it, three figures disembark; an 8 foot tall red-scaled Dragonborn wearing infernal plate armour, a blue-skinned Tortle carrying a staff and markings scrawled on his back, and a minotaur at least 10 feet tall holding what appears to be two large flaming greatswords. As the Dragonborn flies down to the ground, you realise he's missing his real hand; for in its place is a skeletal one not belonging to him. The hand and the book both glow with green, necrotic energy.*
 
 ARKHAN: Thalamra and her brood have appeared. It is all going to plan.
 
 SEVERIN: Arkhan, you've returned. 
 
-ARKHAN: The necromancer's forces are upon us, but they tool stand no chance, my Chosen.
+ARKHAN: The necromancer's forces are upon us, but they too stand no chance, my Chosen.
 
-SEVERIN: Good. Rezmir, see to it that this business is taken care of. If not, well... perhaps Thaddak's contingency will take of them for you. Arkhan and I... well, we have business to discuss. Farewell Heroes of Greenest, should we meet again it will be face-to-face. I hear Waterdeep is lovely during the winter.
+SEVERIN: Good. Rezmir, see to it that this business is taken care of. If not, well... perhaps Thaddak's contingency will take of them for you. Arkhan and I... well, we have business to discuss. Farewell Heroes of Greenest, should we meet again I hope it will be face-to-face. I hear Waterdeep is lovely during the winter.
