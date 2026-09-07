@@ -707,6 +707,7 @@ Depending on the party, the location of the following note will be different. Re
 	Someone else has plans for this city.
 	
 	Have a safe journey to Waterdeep.
+	And say hello to Talis for me.
 	
 	- Thaddak
 
