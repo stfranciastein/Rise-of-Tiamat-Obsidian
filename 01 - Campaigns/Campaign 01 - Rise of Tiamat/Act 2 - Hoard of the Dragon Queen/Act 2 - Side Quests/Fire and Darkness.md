@@ -32,7 +32,7 @@ ____
 
 ????: The more vivid your visions with Rezmir become, the closer you are to doom.
 
-????: She perverted Prothander's ideals.
+????: She perverted Protanther's ideals.
 
 ????: You've seen what they can do with Dragons. How they bend them to their will.
 

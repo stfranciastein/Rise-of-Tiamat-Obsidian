@@ -1,26 +1,89 @@
-**Tags:** #Act2 #Underdark #Feywild
+**Tags:** #Act2 #Underdark #Feywild #Waterdeep 
 
 ____
+
+### 4.1 Wild and Windy Nights
+
+At [[Ackyn Selebon]]'s suggestion, [[Glass]] will drive the [[Sylvira-Van]] to Blackgate and meet up with a civilian convoy heading to [[Waterdeep]]. It will be lead by a man known as [[Balthazaar Baradult]], a mid-30s Earth Genasi man and the leader of the convoy who used to be a member of the [[The Watch (Waterdeep)]] before he grew bored of staying in the city. [[Glass]] will approach and inquire about joining the convoy as another set of guards, to which [[Balthazaar Baradult]] will respond to well.
+
+BALTH: Sure thing. Besides, you all seem far more capable bullyblades than the usual sharpjaws I let tag along. Especially with that engineering marvel. You lot can be the vanguard while the rest of us follow along. Slowly and at a very reasonable distance behind you until the longrides.
+
+The party will be accompanied by several caravans carrying regular civilians and guards on their way to Waterdeep. During the day, the [[Sylvira-Van]] is expected to lead the way by at least an hour's worth of distance in order to ensure the road up ahead is safe. In return, [[Balthazaar Baradult]] promises [[Glass]] that he will see to it he gets access to his needed materials in the city of [[Waterdeep]] when the party gets there. The following members are there around the convoy at night:
+
+1. Owyn Evenmor: A young male halfling and a member of the [[Emerald Enclave]]. He has a handsome tanned face with a sharp nose, green eyes and brown hair. Owyn proclaims he is riding along with his cart and horse because he heard the rumours of the [[Cult of the Dragon]]. He has the Guard Captain statblock and can briefly join the party in combat.
+2. Radecere Perethun: A female tabaxi with orange fur and yellow eyes on her way to [[Waterdeep]] for Midwinter. She was not able to afford a ship but largely prefers travelling on land. She is quite energetic and will tell the party she's never been so far north before.
+3. Noohar Serelim and Selvek Serelim (mute): They are wood elves who are twin brothers and are carpenters by trade. They both have long brown hair, pale skin and tribal tattoos on their faces. They are hauling cargo from Cormyr. They are accompanied by Garagel Shackle-Breaker, a female Orc mercenary from [[Berdusk]]. She left her family to become a mercenary and sends them money regularly to pay for their home.
+4. Melchia Deleante: A young female gnome wizard hoping to get into [[Blackstaff Academy]] in [[Waterdeep]]. She specialises in dealing with the Infernal and is a massive fan of [[Sylvira Savikas]] in [[Candlekeep]], having studied there during her younger years.
+5. Werond Torohar: A Gold Dwarf in charge of [[Balthazaar Baradult]]'s other hired guards. He wears Adamantine Armour and wields a Greataxe. He is silent, but good at his job. Also has the Guard Captain statblock and is able to join the party in combat if required.
+6. [[Renaer Neverember]], a human man concealing his identity. He is only known as 'the Stranger'. He is quiet and keeps to himself, preferring to stick with Werond or Owyn's company at night. Renaer will rebuff any attempts to 'get to know' him and will coldly dismiss the party members.
+7. Beyda Achreny: A human woman who looks to be in her mid 40s. Blonde hair, gold eyes, pale skin. She is a resident of [[Elturel]] but prefers [[Waterdeep]] during the winter. That and she can visit her family as well who she hasn't seen in quite a while.
+8. Alain Gilfont: A human man currently writing a thesis on the current increase of natural disasters happening across the Sword Coast. He is about 5ft 10, has wavy black hair and glasses. He is convinced that it is due to the incoming planetary alignment in about a year's time. A Circle of the Stars Druid can confirm his beliefs, as they notice that the Weave has been acting rather erratically due to the positioning of the celestial bodies.
+
+The first day on the road will yield no encounters as they are close enough to the city limits. On subsequent days however, many things are bound to happen. Make the players roll to give them a sense of leading and consult the table below each checkpoint. Each checkpoint will have at least 2 encounters unless described otherwise.
 
 *As you depart Baldur's Gate, the City of Blood disappears slowly into the distance as the Sylvira-Van makes its way out towards the Fields of the Dead. The threat ahead of you lingers in your mind as you find yourselves out there in the open where you know Cult of the Dragon's forces are marching ahead.*
 
 *Halfway through your party's journey during the day it begins to rain, and you are promptly reminded 
 of the last time you faced the Cult at Greenest. Back then, you were no match for Rezmir's forces nor Lennithon's might, and even now you find yourselves ill-equipped to deal with an Ancient Dragon. A young dragon of the Cult was difficult enough, as you all recall Elturel and Langdedrosa's defeat at Fort Morninglord.*
 
-*When dusk falls and the Bloody Gate is nowhere in sight, you all lastly think back on the Serpent and the destruction one well-placed Cultist was able to do to an entire city. Mellara and Langdedrosa were able to wreak havoc through brute force while Asha manipulated both you and the Zarielites into causing chaos at the gate. As you ponder the road ahead, you think back on Rezmir's words. Of the last Dragonclaw that stands between you and the Black Wyrmspeaker.*
+*When dusk falls on your first night and the Bloody Gate is nowhere in sight, you all lastly think back on the Serpent and the destruction one well-placed Cultist was able to do to an entire city. Mellara and Langdedrosa were able to wreak havoc through brute force while Asha manipulated both you and the Zarielites into causing chaos at the gate. As you ponder the road ahead, you think back on Rezmir's words. Of the last Dragonclaw that stands between you and the Black Wyrmspeaker.*
 
-The first day on the road will yield no encounters as they are close enough to the city limits. On subsequent days however, many things are bound to happen. Consult the table below 3 times a 'day' in order of the following checkpoints.
+At night, [[Glass]] will remark that he can hear the sounds of Dragons in the distance and that he's a little nervous given the last time they saw one it almost killed him. That night, it will rain heavily and heavily obscure the surrounding area. On a successful DC 25 Perception check, the party will also be able to hear the sound of a rather large Dragon flying not close by but in the immediate vicinity. 
 
-
-
-
+Melchia Deleante will cast a protection ward over the camp. Characters who are spellcasters and wish to aid her can either flatly expend a 4th level spell slot, or succeed on a DC 20 Arcana check. Either way, she will finish her wards and the convoy will enjoy a dry night despite the bad weather. Owyn Evenmor will pray to Selune later that night and ask for the Moonmaiden's guidance on the road ahead. The stars twinkle in response.
 
 
+They will have one more dream, continuing [[Fire and Darkness]].
+
+#### Checkpoint One: Grasslands
+
+*The wide and windy plains of the Fields of the Dead are open to you as the Sylvira-Van speeds along the next morning. Glass seems to be in a bit of a paranoid mood after last night, but the dry weather makes him a little more confident. As the long stretch of road between Baldur's Gate and Waterdeep extends into the horizon, you find yourselves engaged in the next few hours of your journey.*
+
+| D6  | Encounter                                                                                                                                                                                                                                     |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A stray Cult of the Dragon caravan spots the group and strikes. 5 recruits, 1 evoker, 2 warriors, 1 scoundrel, 1 priest. On their caravan is 500 GP, 2000 SP, 5000 CP and 350 GP worth of Gemstones.                                          |
+| 2   | Five Ankhegs burrow out of the ground.                                                                                                                                                                                                        |
+| 3   | Miscellaneous Bandits known as the Girl Group of the Dragon attack the Caravan. There are two female elf members, Sasha and Usha and three male humans, Thinker, Taylor and Soldier. After one of them dies, they will immediately surrender. |
+| 4   | A band of Goblins containing a Hobgoblin Warlord, 2 Iron Shadows, 1 Death Captain, 1 War Mage, 2 Psi Brawlers. On the bodies is 30 GP and three potions of Greater Healing.                                                                   |
+| 5   | Scenic view of the Sea of Swords, Inspiration to the party.                                                                                                                                                                                   |
+| 6   | 1 Gnoll Demoniac, 2 Bonesplitters, 3 Warriors, 1 Flesh Gnawer.                                                                                                                                                                                |
+|     |                                                                                                                                                                                                                                               |
+
+At night, the party will hear the sound of the dragon again. At this point, the [[Mutated Dragon]] will make a remark stating that the dragon they can hear sounds Ancient. They will also reveal that they've been having dreams of being connected to the other Mutant Dragons again and they can see that the [[Cult of the Dragon]]'s forces have split. A small chunk of them have moved East.
+
+#### Checkpoint Two: Grasslands
+
+*The next day, your hearts feel a little heavy as you all think about what your dragon companion said to you the night before. Your eyes all look out the window every now and then as the wheels of the caravan carry you through the coast way, and those of you who wish to pop out of the hatch every now and then look up at the sky and keep a lookout for any trouble.*
+
+| D6  | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A stray Cult of the Dragon caravan spots the group and strikes. 2 warriors, 2 scoundrels, 1 priest, 1 commander. On their caravan is 1080 GP, 2000 SP, 4200 CP. Gemstones worth 50 GP x 10, Embroidered Pillow with Dragons worth 250 GP.                                                                                                                                                                                 |
+| 2   | A troll (MCDM) named Aggory and 3 smaller ones (Baggory, Caggory, Daggory) accost the party and demand they pay a toll of 1000 GP or die.                                                                                                                                                                                                                                                                                 |
+| 3   | Miscellaneous Bandits known as the Girl Group of the Dragon attack the Caravan. There are two female elf members, Sasha and Usha and three male humans, Thinker, Taylor and Soldier. After one of them dies, they will immediately surrender. (If encounter already happened, reroll).                                                                                                                                    |
+| 4   | A human man runs up in front of the caravan and says that there are 'waybows' following him. He will then hide behind the caravan as 5 wereboars attack the party.                                                                                                                                                                                                                                                        |
+| 5   | A merchant caravan with the symbol of a potion that reads 'Potion Sella' passes by and offers his wares to the party at a 10% discount. Sells Regular Potions (x10 at 45 GP each), Potion of Fire Resistance (x1 270 GP), Potion of Climbing (x2 270 GP), Potion of Hill Giant's Strength (x1 270 GP), Potion of Superior Healing (x2 at 420 GP each). He also tells the party that they should watch out for the Undead. |
+| 6   | Peaceful trek through the fields, and Glass is able to graze the horses somewhere nice. No ration costs later tonight.                                                                                                                                                                                                                                                                                                    |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+*At night, you can't help but feel watched as it starts to rain on your third day of travel. The rain picks up slightly but isn't the torrential downpour it was that first night.*
+
+The [[Mutated Dragon]] will say that he can feel someone watching over them. A casting of See Invisibility will reveal that there is a scrying eye floating above the Dragon. The Dragon does not seem to mind this visitor, however, as he believes it's likely his 'visitor' from before.
+
+#### Checkpoint Three: Grasslands
+
+*Wary of any possible spying attempts, you keep a close lookout for any signs of anything following you. As the morning light bathes the Sylvira-Van in its light, making the rain glisten off of the metal roof of the magical construct, you relax a little as it doesn't seem like there's anyone following you.*
 
 
-[[Ackyn Selebon]] will advise for the party to make their way through the Fields of the Dead instead, as hugging the Sword Coast will eventually make them run into the Troll Hills and make progressing via the [[Sylvira-Van]] difficult. There is no 'choice' to be made here unless the adventurers wish to see their end, they will have to avoid the [[Cult of the Dragon]]'s path if they do not wish to provoke a direct confrontation.
 
-If the adventurers do not know exactly where to go, [[Lucien]] will appear in the party's caravan and tell them to head to Dragonspear Castle where the 'next part of this sordid tale' continues in exchange for a deal. He will assert "I suppose you could head north and dilly dally about, but then what happens when you don't find your quarry? You'd lose their scent until the cult decides to attack another village. Or perhaps not, perhaps they'll aim for something bigger this time, maybe Baldur's Gate? or Waterdeep? Having a pet Ancient Dragon or two does wonders for a man's confidence after all. All I ask for is the retrieval of my family heirloom."
 
-If the players have made a deal with [[Lucien]] and signed a contract with him, he will inform them that it is just about time for him to 'collect' on their half of the bargain. He says that the Shadowblade necklace is around the neck of an Arcane Brotherhood Wizard down below the tunnels of Dragonspear Castle. She is deep in the Underdark, and that the party must retrieve it from him. The catch is that the Wizard is hidden behind 'quite an annoying little barrier' and Lucien can neither see nor reach into this pocket. The Wizard is Andora Lawntill, and she is currently using the amulet to hold close a gate to Avernus beneath Dragonspear Castle. The Shadowblade necklace grants the user unlimited concentration on spells, as well as access to other abilities. If the players do not accept Lucien's deal and somehow find the entrance to the Underdark anyway he will disguise himself as a friendly NPC the players will meet in the basement of Dragonspear Castle who offers to take the necklace back to the Temple of Bahamut in Waterdeep and take it anyway.
+____
+### 4.2 T
+
+| Number Rolled | Encounter Description |
+| ------------- | --------------------- |
+|               |                       |
+
+
+
+He says that the Shadowblade necklace is around the neck of an Arcane Brotherhood Wizard down below the tunnels of Dragonspear Castle. She is deep in the Underdark, and that the party must retrieve it from him. The catch is that the Wizard is hidden behind 'quite an annoying little barrier' and Lucien can neither see nor reach into this pocket. The Wizard is Andora Lawntill, and she is currently using the amulet to hold close a gate to Avernus beneath Dragonspear Castle. The Shadowblade necklace grants the user unlimited concentration on spells, as well as access to other abilities. If the players do not accept Lucien's deal and somehow find the entrance to the Underdark anyway he will disguise himself as a friendly NPC the players will meet in the basement of Dragonspear Castle who offers to take the necklace back to the Temple of Bahamut in Waterdeep and take it anyway.
 
