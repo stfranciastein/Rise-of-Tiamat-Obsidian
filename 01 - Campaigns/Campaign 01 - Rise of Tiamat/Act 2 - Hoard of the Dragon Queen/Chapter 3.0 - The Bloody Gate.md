@@ -706,11 +706,12 @@ Depending on the party, the location of the following note will be different. Re
 	She's sleeping soundly enough, though I wouldn't wake her.
 	
 	I know all of you, my Changelings have seen all of you up close.
-	There is no where you can hide from my sight.
+	Perhaps one lurks among you even now.
 	
+	There is no where you can hide from my sight.
 	You may think you're a step ahead, but you're not even on the same street.
 	
-	- Rezmir
+	- Thaddak
 
 If  [[Xaria Trevisa]]'s quest has been concluded, the party's main quests in [[Baldur's Gate]] are considered done. They can return to [[Ackyn Selebon]] to progress onwards. After spending some time with [[Glass]], he will have fitted the [[Sylvira-Van]] with the wheels needed to make the journey north.
 
