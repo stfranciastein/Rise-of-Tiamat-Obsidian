@@ -728,7 +728,7 @@ ACKYN: You've got a few options ahead of you. You could always journey up along 
 
 GLASS: Or we could head up north, through the Fields of the Dead.
 
-ACKYN: A dangerous path, I hear that all manner of creatures lurk in the plains up north but it is the fastest way forward. There are several merchant caravans that are making their way to Waterdeep constantly, if you want safety in numbers I suggest you tag the caravan along-
+ACKYN: A dangerous path, I hear that all manner of creatures lurk in the plains up north but it is the fastest way forward. There are several merchant caravans that are making their way to Waterdeep constantly. Tag the caravan along at least until you reach the first town.
 
 *The smell of smoke and fire weighs heavily in the air as a blast of small light fills your vision. Standing before you is a handsome human man, the Devil Lucien himself.*
 
