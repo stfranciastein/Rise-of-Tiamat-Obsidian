@@ -730,6 +730,8 @@ GLASS: Or we could head up north, through the Fields of the Dead.
 
 ACKYN: A dangerous path, I hear that all manner of creatures lurk in the plains up north but it is the fastest way forward. There are several merchant caravans that are making their way to Waterdeep constantly. Tag the caravan along at least until you reach the first town.
 
+GLASS: No problemo, Mr. Selebon.
+
 *The smell of smoke and fire weighs heavily in the air as a blast of small light fills your vision. Standing before you is a handsome human man, the Devil Lucien himself.*
 
 LUCIEN: It would seem that you have a choice, but in reality there is no choice at all. To return to Elturel would waste your precious time, and time is not something on your side, little ones.
@@ -738,13 +740,13 @@ ACKYN: Begone Devil, we shall not-
 
 LUCIEN: Now now, the Adults are talking.
 
-*Lucien snaps his fingers and Ackyn's eyes, mouth and nose disappear. The human struggles to press onto his face looking for a way to open it back up but there's nothing there but a smooth surface. He's slowly suffocating.*
+*Lucien snaps his fingers and Ackyn's eyes, mouth and nose disappear. The human struggles to press onto his face looking for a way to open it back up but there's nothing there but a smooth, fleshy surface. In that moment, you can see that he's slowly suffocating.*
 
-LUCIEN: Allow me to make this quick, lest your friend here bites the dust. Returning to Elturel is off the table. Your Cult is hidden, even from me, I suspect the magic they're using is similar to that which hid the Horde's true location in Nashkel. But one of them slipped up and got me a glimpse. Your Cult of the Dragon journeys North through the Fields of the Dead. Up, then down under. Crawling and creeping through the caves and crevices of the mountains.
+LUCIEN: Allow me to make this quick, lest your friend here bites the dust. Returning to Elturel is off the table. Your Cult is hidden, even from me, I suspect the magic they're using is similar to that which hid the Horde's true location in Nashkel. But one of them slipped up and got me a glimpse. Just enough to see their path. Your Cult of the Dragon journeys North through the Fields of the Dead. Up, then down under. Crawling and creeping through the caves and crevices of the mountains.
 
 GLASS: What about the big Blue Dragon?
 
-LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow below. Unless of course, you're counting our old pal Lennithon, but a Dragon that old has no business underground. (Claps hands) Even if he were to be a problem, well... at the very least you'll see him coming and have a few seconds before he eviscerates you. Now, let's relieve your companion.
+LUCIEN: Do not worry my little lizard friend, for what flies above cannot burrow below. Unless of course, you're counting your old pal Lennithon, but a Dragon that old has no business underground. (Claps hands) Even if he were to be a problem, well... at the very least you'll see him coming and have a few seconds before he eviscerates you. Now, let's relieve your companion.
 
 *Lucien's fingers snap and Ackyn falls to the ground. The older man inhales deeply as the air fills his lungs once more. The Devil laughs for just a second, his skin flashing a vibrant red before he cracks his neck to stretch. Lucien gives your party the once over.*
 
@@ -758,4 +760,4 @@ TALIS: Even when I was in the cult, their generals kept their business on a need
 
 She will vehemently decline and laugh at any suggestion of journeying together as she does not believe the party is safe at the moment after their encounter with [[Asha Ardeat]] and [[Thaddak Ice-Veins]] knowing about her betrayal. She will part with the party almost as soon as they speak. She will also remind them that in a few days time winter will be upon them and they will likely need warm clothes for the journey north.
 
-Lastly, she will remark that [[Dragonspear Castle]] has an entrance to the Underdark and that the party should prepare themselves for the possibility of running into Drow or Duegar enemies who are known to use poisons.
+Lastly, she will remark that [[Dragonspear Castle]] is said to be overrun by devils as well as having an entrance to the Underdark. She warns the party that they should prepare themselves for the possibility of running into Drow or Duegar enemies who are known to use poisons.
