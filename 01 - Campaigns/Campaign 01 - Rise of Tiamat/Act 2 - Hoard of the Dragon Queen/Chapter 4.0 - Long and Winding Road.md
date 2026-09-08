@@ -200,8 +200,9 @@ RANGER: Then it'll definitely keep itself hidden from you.
 
 WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
 
-RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city.
+RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city. Are any of you familiar with the War of the Silver Marches?
 
+*The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. He tells the tale of House Baenre's war waged on the Silver Marches in the North after the legendary ranger Drizzt Do'Urden forsook Lolth in exchange for Mielikki and how the skies were blanketed with Lolth's darkness thanks to the work of her Chosen wizard. During the war, many dwarves and elves fell in their battle against the races of the Underdark. It all came down to one battle over the River Surbin. Drizzt's allies and the Dwarves were overwhelmed. But just as the battle was nearly lost, the skies opened up and three ancient metallic dragons came out of the sky to aid them. Tazmikella the Copper, Ilnezhara and Protanther the Gold.*
 
 
 #### Checkpoint ????: Snow
