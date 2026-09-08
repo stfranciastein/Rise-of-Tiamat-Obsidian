@@ -240,7 +240,12 @@ If the players choose to follow the stag, it can be tracked through the forest w
 
 *As your chase ends, the stag leads you to a moss-grown, ivy-draped ruin in the rocky hills. There is a large stone shape on the ground resembling what looks to be a ritual circle.*
 
-On a successful DC 10 Intelligence (Nature) check, the party can determine that the stag is no ordinary beast but a celestial creature. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away, as does casting any spell in its vicinity. When it disappears from view the party will not be able to find it again.
+On a successful DC 10 Intelligence (Religion) check, the party can determine that the circle is a symbol of Mielikki, the goddess of the hunt. The party can determine that the stag is no ordinary beast but a celestial creature on a successful DC 15 Intelligence (Arcana/Nature) check. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away, as does casting any spell in its vicinity. When it disappears from view the party will not be able to find it again.
+
+The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious.
+
+STAG: You are on the right path, but the road ahead is perilous. A great evil awaits beneath the dragon's bones, wearing the face of a would be friend. To avoid the dark one's gaze, at the feet of peat's home you must find. When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark. 
+
 
 
 #### Checkpoint ????: Snow
