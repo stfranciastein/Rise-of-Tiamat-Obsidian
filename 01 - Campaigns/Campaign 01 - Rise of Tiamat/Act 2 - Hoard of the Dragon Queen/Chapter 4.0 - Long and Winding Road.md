@@ -132,7 +132,11 @@ Owyn and Werond pull one of the characters aside and ask them if they'd like to 
 
 [[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]]. If any of the characters seem put off by him, he will drop his ostentatious act and say the following.
 
-CACAFONIX: You see the smiles on those children's faces? The tale isn't for you, not really. You can choose to enjoy my lovely voice if you want, or you can choose not to. But I want you to realise something, my favoured friends, it's for them. Not just the kids, but the people of the Sword Coast. They need to something to look up to and have hope. The [[Cult of the Dragon]] has destroyed several cities already. What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it.
+CACAFONIX: You see the smiles on those children's faces? The tale isn't for you, not really. You can choose to enjoy my lovely voice if you want, or you can choose not to. But I want you to realise something, my favoured friends, it's for them. Not just the kids, but the people of the Sword Coast. They need to something to look up to and have hope. 
+
+The [[Cult of the Dragon]] has destroyed several cities already and the [[Council of Waterdeep]] is a long way away from becoming a reality. It's an amorphous goal, a formless promise known only to those with enough knowledge in the threat to come. But what do the common folk know? What do they learn about the Cult's doings other than; they are providing gold and weapons in promise of a better life. To tell your tale is to counter these... lies.
+
+What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it.
 
 #### Checkpoint Six: Everything has a Price
 
