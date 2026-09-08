@@ -217,7 +217,7 @@ WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my l
 
 #### Checkpoint Nine: The Golden Stag
 
-*On the morning of your tenth day on the road, you all find yourselves replaying the conversation between the Ranger and Werond the night before. As you all reminisce find yourselves remembering your vision of the Court of Metal. The idea of being chosen by a god seems so foreign and far away, but in order to defeat Tiamat's forces it would surely take nothing short of a miracle. As Glass loads up the caravan for the day you let your thoughts wander*
+*On the morning of your tenth day on the road, you all find yourselves replaying the conversation between the Ranger and Werond the night before. As you all reminisce find yourselves remembering your vision of the Court of Metal. The idea of being chosen by a god seems so foreign and far away, but in order to defeat Tiamat's forces it would surely take nothing short of a miracle. As Glass loads up the caravan for the day you let your thoughts wander before the caravan picks up speed again ahead of the convoy.*
 
 
 #### Checkpoint ????: Snow
