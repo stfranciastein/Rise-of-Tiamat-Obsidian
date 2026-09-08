@@ -1,4 +1,5 @@
 **Tags:** #NPC #Ranger #WoodElf #Elf #Neutral #EmeraldEnclave 
+**Accent:** Foreign
 
 ____
 ### BACKSTORY
