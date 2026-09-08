@@ -217,6 +217,7 @@ WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my l
 
 #### Checkpoint Nine: The Golden Stag
 
+*You ponder the conversation between the Ranger and Werond*
 
 
 #### Checkpoint ????: Snow
