@@ -44,14 +44,14 @@ For example; to craft a **rare** item from a **CR9** animal's hide, you need to 
 
 You can half the gold cost of an item if you provide another magic item of the exact item type and of equal rarity and it is not cursed. (i.e. a +1 Studded Leather for a Rare Light Chestpiece).
 
-| Item Type                        | Labour Cost Price |
-| -------------------------------- | ----------------- |
-| Weapon +1 (or equivalent green)  | 2,000             |
-| Weapon +2 (or equivalent blue)   | 5,000             |
-| Weapon +3 (or equivalent purple) | 15,000            |
-| Armour +1 (or equivalent green)  | 2,000             |
-| Armour +2 (or equivalent blue)   | 10,000            |
-| Armour +3 (or equivalent purple) | 17,000            |
-| Wondrous Green                   | 2,000             |
-| Wonderous Blue                   | 5,000             |
-| Wonderous Purple                 | 15,000            |
+| Item Type                        | Glass's Labour Cost Price |
+| -------------------------------- | ------------------------- |
+| Weapon +1 (or equivalent green)  | 2,000                     |
+| Weapon +2 (or equivalent blue)   | 7,000                     |
+| Weapon +3 (or equivalent purple) | 15,000                    |
+| Armour +1 (or equivalent green)  | 2,000                     |
+| Armour +2 (or equivalent blue)   | 10,000                    |
+| Armour +3 (or equivalent purple) | 17,000                    |
+| Wondrous Green                   | 2,000                     |
+| Wonderous Blue                   | 5,000                     |
+| Wonderous Purple                 | 15,000                    |
