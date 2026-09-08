@@ -240,7 +240,7 @@ If the players choose to follow the stag, it can be tracked through the forest w
 
 *As your chase ends, the stag leads you to a moss-grown, ivy-draped ruin in the rocky hills. There is a large stone shape on the ground resembling what looks to be a ritual circle.*
 
-On a successful DC 10 Intelligence (Nature) check, the party can determine that the stag is no ordinary beast but a celestial creature. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away.
+On a successful DC 10 Intelligence (Nature) check, the party can determine that the stag is no ordinary beast but a celestial creature. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away, as does casting any spell in its vicinity. When it disappears from view the party will not be able to find it again.
 
 
 #### Checkpoint ????: Snow
