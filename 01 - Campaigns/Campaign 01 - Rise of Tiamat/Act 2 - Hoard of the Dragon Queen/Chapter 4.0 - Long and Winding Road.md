@@ -196,7 +196,11 @@ WEROND: It's said that the Golden Stag only appears to those who are destined fo
 
 RANGER: Then it'll definitely keep itself hidden from you.
 
-*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the Shattered Obelisk.*
+*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the Shattered Obelisk. The Ranger is clearly not impressed, and Werond will scoff.*
+
+WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
+
+RANGER: There is one tale they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city.
 
 
 
