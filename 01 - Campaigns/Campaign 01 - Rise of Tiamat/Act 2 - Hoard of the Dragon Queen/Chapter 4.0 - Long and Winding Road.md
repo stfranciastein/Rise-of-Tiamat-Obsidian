@@ -287,7 +287,14 @@ Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink wh
 ---
 ### 4.2 The Lost Library
 
-#### Checkpoint ????: Snow
+#### Leaving Ironspine
+
+After finishing the events of [[Hold Back the Dead]], the party can choose to return to their journey on the main road. [[Balthazaar Baradult]] will say he and the other members of the convoy will likely need to stay in [[Ironspine Keep]] until the business with the [[Cult of the Dragon]] is finished. [[Corlie Halvachar]] will say there's a very high chance that either the [[Cult of the Dragon]] or [[Szass Tam]]'s forces will return. There are three possible outcomes for this quest;
+- The party rids the surrounding area of both [[Cult of the Dragon]] forces and [[Szass Tam]]'s [[Red Wizards of Thay]] and defends [[Ironspine Keep]]. As a result of this, the convoy's inhabitants will be safe with [[Corlie Halvachar]] and her men.
+- The party rids the surrounding area of both [[Cult of the Dragon]] forces and [[Szass Tam]]'s [[Red Wizards of Thay]] but does not defend [[Ironspine Keep]]. As a result of this, the convoy's inhabitants will be safe, but [[Corlie Halvachar]] and the majority of her men will perish.
+- The party does not rid the surrounding area and immediately heads for [[Dragonspear Castle]]. The convoy's inhabitants will perish along with [[Corlie Halvachar]].
+
+#### Checkpoint I: 
 
 | D6  | Encounter                                                                                                                                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
