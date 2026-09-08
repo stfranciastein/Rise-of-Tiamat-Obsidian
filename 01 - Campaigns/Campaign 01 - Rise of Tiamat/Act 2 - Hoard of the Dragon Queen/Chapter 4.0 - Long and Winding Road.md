@@ -38,7 +38,7 @@ Melchia Deleante will cast a protection ward over the camp. Characters who are s
 
 As for the party, they will have one more dream, continuing [[Fire and Darkness]].
 
-#### Checkpoint One: The First Stretch
+#### Checkpoint I: The First Stretch
 
 *The wide and windy plains of the Fields of the Dead are open to you as the Sylvira-Van speeds along the next morning. Glass seems to be in a bit of a paranoid mood after last night, but the dry weather makes him a little more confident. As the long stretch of road between Baldur's Gate and Waterdeep extends into the horizon, you find yourselves engaged in the next few hours of your journey.*
 
@@ -56,7 +56,7 @@ At night, the party will hear the sound of the dragon again. At this point, the 
 
 During this night at the convoy camp, Alain will tell a story about the time when thieves were found floating away in bubbles after being transformed into pigs. This occurred over the fields outside of [[Waterdeep]] near the Field Ward. The listeners speculate that they probably found some wizard's house and triggered a trap.
 
-#### Checkpoint Two: Adventuring Life
+#### Checkpoint II: Adventuring Life
 
 *The next day, your hearts feel a little heavy as you all think about what your dragon companion said to you the night before. Your eyes all look out the window every now and then as the wheels of the caravan carry you through the coast way, and those of you who wish to pop out of the hatch every now and then look up at the sky and keep a lookout for any trouble.*
 
@@ -76,7 +76,7 @@ Around the campfires, [[Balthazaar Baradult]] will greet a group of four young h
 
 The [[Mutated Dragon]] will say that he can feel someone watching over them. A casting of See Invisibility will reveal that there is a scrying eye floating above the Dragon. The Dragon does not seem to mind this visitor, however, as he believes it's likely his 'visitor' from before.
 
-#### Checkpoint Three: Alignment of the Stars
+#### Checkpoint III: Alignment of the Stars
 
 *Wary of any possible spying attempts, you keep a close lookout for any signs of anything following you. As the morning light bathes the Sylvira-Van in its light, making the rain glisten off of the metal roof of the magical construct, you relax a little as it doesn't seem like there's anyone following you.*
 
@@ -101,7 +101,7 @@ Either after Melchia and Alain have left or immediately after rejecting Alain's 
 
 On a DC 10 Arcana or Nature check, they will reveal that it is residue from an Ooze, but they will not know exactly what kind. Alain will guess it is some form of Gelatinous Cube and offers to burn it or give a container so they can study it further in the city.
 
-#### Checkpoint Four: Grasslands
+#### Checkpoint IV: Grasslands
 
 *The rain starts up about an hour into your journey again. Thunder begins to quake in the distance as the rain picks up once more just like your first night. As the caravans crest a particularly high hill, you look back into the distance and you can vaguely see the outline of the Upper City in the distance. Glass lets the horses rest for a few minutes and lets the other caravans catch up and re-align before heading out ahead of the group.*
 
@@ -119,7 +119,7 @@ More of the green ooze will be found on several of the other caravans as the par
 
 Later that night, [[Balthazaar Baradult]] will ask the party for a favour as Owyn and Ranger scouted ahead and learned that there is a possible bandit encampment between the convoy and the road. [[Cannon]] will say that she heard rumours that there is a place called the Big Bad Base that is occupied with Kobolds. [[Glass]] will also confirm these rumours and will say he visited them once and they tried to blow him up. The convoy agrees to stop for the day and will not move until the blockage is cleared.
 
-#### Checkpoint Five: Big Bad Base
+#### Checkpoint V: Big Bad Base
 
 The players can take Owyn with them as they try to find the Big Bad Base. If Owyn is with them, they will immediately find it without issue. Otherwise, it requires three successful survival checks with a party DC of 15. On a failure, they will spend an hour searching through the hills. Eventually, as they approach within a few miles of the lair, there is an abundance of mutated flora and fauna.
 
@@ -139,7 +139,7 @@ The [[Cult of the Dragon]] has destroyed several cities already and the [[Counci
 
 What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it. Give yourselves more credit, you inspire more hope than you realise.
 
-#### Checkpoint Six: Everything has a Price
+#### Checkpoint VI: Everything has a Price
 
 *As the seventh day of your journey passes, you find yourselves all looking back on the events of your campaign against the Cult of the Dragon thus far. As your minds wander, you can't help but think about Rezmir's words again in the last 'vision' of her you saw. As you're all lost in thought, your focus is immediately jostled as someone rides up next to you from behind.*
 
@@ -162,7 +162,7 @@ Later that night, Noohar will approach the party again and become even more obno
 
 If they haven't already put two and two together, [[Cacafonix]] will tell the party that it was likely the Dragonborn from last night who has since disappeared.
 
-#### Checkpoint Seven: Fungus Humongous
+#### Checkpoint VII: Fungus Humongous
 
 *As the eight day begins on your journey north, the rain picks up again as the weather starts getting colder and colder. Even bundled up it's clear that it's only going to get worse the further north you get. It takes longer for the sun to rise and expel the darkness of Shar's cloak. You know well enough having lived this long in the Sword Coast that later on just when you think noon has just begun, it is already beginning to set.*
 
@@ -178,7 +178,7 @@ People can clear a path through the mushrooms with six man-hours of work (six pe
 
 Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them 2000 GP for their help thus far. He states that the other members of the caravan greatly value their presence here.
 
-#### Checkpoint Eight: Destiny Awaits
+#### Checkpoint VIII: Destiny Awaits
 
 *The ninth day begins with a small snowfall that quickly turns harsher as the day goes on. The horses struggle slightly with the weather and Glass tries his best to cover up as much of himself. After taking a small break, he comes up to the driver's seat wearing a set of quickly-made goggles and gloves for both him and the horses. He gives them a gentle pat on the head before resuming the journey.*
 
@@ -215,7 +215,7 @@ RANGER: That's what it looks like from the outside, aye. But the dragons didn't 
 
 WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
 
-#### Checkpoint Nine: The Golden Stag
+#### Checkpoint IX: The Golden Stag
 
 *On the morning of your tenth day on the road, you all find yourselves replaying the conversation between the Ranger and Werond the night before. As you all reminisce find yourselves remembering your vision of the Court of Metal. The idea of being chosen by a god seems so foreign and far away, but in order to defeat Tiamat's forces it would surely take nothing short of a miracle. As Glass loads up the caravan for the day you let your thoughts wander before the caravan picks up speed again ahead of the convoy.*
 
