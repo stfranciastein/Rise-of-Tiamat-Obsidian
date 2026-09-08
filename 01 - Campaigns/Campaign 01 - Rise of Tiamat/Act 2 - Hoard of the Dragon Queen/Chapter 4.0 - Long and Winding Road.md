@@ -96,7 +96,7 @@ He will point out the stars to the party and asks them if they're aware of the s
 
 Melchia will wander over and join in. She says that as a conjuration wizard, she knows that magic in her specific school is said to be at their strongest during these alignments. Alain will muse that the last time such an event happened was the Second Sundering less than a decade ago when the Spellplague ended and Mystra was returned to the Pantheon in Mount Celestia as the Goddess of Magic again.
 
-Radecere Perethun will later call over the most 'friendly' party member and ask if they could take a look at something she found on one of her caravan's wheel. There is a crushed ball made up of a green acidic substance on the bottom of her back left wagon wheel.
+Either after Melchia and Alain have left or immediately after rejecting Alain's offer, Radecere Perethun will later call over the most 'friendly' party member and ask if they could take a look at something she found on one of her caravan's wheel. There is a crushed ball made up of a green acidic substance on the bottom of her back left wagon wheel.
 
 On a DC 10 Arcana or Nature check, they will reveal that it is residue from an Ooze, but they will not know exactly what kind. Alain will guess it is some form of Gelatinous Cube and offers to burn it or give a container so they can study it further in the city.
 
