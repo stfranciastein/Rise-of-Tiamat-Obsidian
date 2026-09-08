@@ -192,9 +192,9 @@ Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When 
 
 That night, Werond will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. Owyn will say it was likely created by the Elves of the [[Misty Forest]], but Werond tells the tale anyway.
 
-WEROND: It's said that the Golden Stag only appears to those who are destined for great things.
+WEROND: It's said that the Golden Stag only appears to those who are destined for great things. It can sense if you're meant to become a hero.
 
-RANGER: Then it'll definitely keep itself hidden from you.
+RANGER: Hah, then it'll definitely keep itself hidden from you.
 
 *The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the events of the Shattered Obelisk. The Ranger is clearly not impressed, and Werond will scoff.*
 
