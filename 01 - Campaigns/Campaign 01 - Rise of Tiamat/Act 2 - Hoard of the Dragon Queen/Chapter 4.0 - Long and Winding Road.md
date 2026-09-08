@@ -210,7 +210,9 @@ It came down to one battle on the banks of the River Surbin. Drizzt's allies, th
 
 WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
-RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt his powers as a Chosen of Mielikki. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and
+RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt Mielikki's ear. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and Helm rewarded him for his perseverance. 
+
+WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
 
 
 #### Checkpoint ????: Snow
