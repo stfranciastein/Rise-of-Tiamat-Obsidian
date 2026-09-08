@@ -19,11 +19,11 @@ u***Essence Harvesting.*** When you come across creatures marked by the GM as vi
 
 Depending on your roll, you can harvest the following type of essence:
 
-| Creature CR | Component DC | Component      | Max Item Rarity | Crafting Cost |
-| ----------- | ------------ | -------------- | --------------- | ------------- |
-| 3-6         | 25           | Frail Essence  | Uncommon        | 1,000 GP      |
-| 7-11        | 30           | Robust Essence | Rare            | 2,500 GP      |
-| 12-17       | 35           | Potent Essence | Very Rare       | 12,000 GP     |
+| Creature CR | Component DC | Component      | Max Item Rarity | Crafting Time Multiplier |
+| ----------- | ------------ | -------------- | --------------- | ------------------------ |
+| 3-6         | 25           | Frail Essence  | Uncommon        | x1                       |
+| 7-11        | 30           | Robust Essence | Rare            | x2                       |
+| 12-17       | 35           | Potent Essence | Very Rare       | x3                       |
 
 You can’t harvest a lower-level essence from a higher CR creature—they have only one essence, the one dictated by its CR. You can use this essence combined with a creature's unique material in order to get [[Glass]] to create unique weapons and armour for you. **You do not have to use this essence immediately.**
 
@@ -42,4 +42,16 @@ You can’t harvest a lower-level essence from a higher CR creature—they have 
 
 For example; to craft a **rare** item from a **CR9** animal's hide, you need to pay the gold cost and wait 18 days for the item to be finished crafting. To craft an item from a CR 15 creature at very rare, it would take 45 days (15 x 3).
 
-You can half the gold cost of an item if you provide another magic item of the exact item type and of equal rarity (i.e. a +1 Studded Leather for a Rare Light Chestpiece).
+You can half the gold cost of an item if you provide another magic item of the exact item type and of equal rarity and it is not cursed. (i.e. a +1 Studded Leather for a Rare Light Chestpiece).
+
+| Item Type                        | Labour Cost Price |
+| -------------------------------- | ----------------- |
+| Weapon +1 (or equivalent green)  | 2,000             |
+| Weapon +2 (or equivalent blue)   | 5,000             |
+| Weapon +3 (or equivalent purple) | 15,000            |
+| Armour +1 (or equivalent green)  | 2,000             |
+| Armour +2 (or equivalent blue)   | 10,000            |
+| Armour +3 (or equivalent purple) | 17,000            |
+| Wondrous Green                   | 2,000             |
+| Wonderous Blue                   | 5,000             |
+| Wonderous Purple                 | 15,000            |
