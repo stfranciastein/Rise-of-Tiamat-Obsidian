@@ -244,18 +244,29 @@ On a successful DC 10 Intelligence (Religion) check, the party can determine tha
 
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious.
 
-STAG: A great evil awaits beneath the dragon's bones, wearing the face of a would-be friend.
-Tread soft and keep your names close, for a hunter walks who marks what she sees — let her eye pass over you unmarked, and unmarked stay.
+STAG: Hark, listen and beware.
+A great evil awaits beneath the dragon's bones, wearing the face of a would-be friend.
+Tread soft and keep your names close, for a hunter stalks and tracks what she sees with rays of green — let her eye pass over you unmarked, and unmarked stay.
 
-Still, the web will find you. Eight legs and a patient god behind them. When it does, do not fight what cannot be beaten - run instead, and let another die so the truth does not.
-When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark, or perish where you stand.
+Still, the one who treads web will find you. Eight legs and a patient death behind him. 
+When he does, do not fight what cannot be beaten.
+Run instead, and let another die so the truth does not.
+When the chance to leap presents itself, you must fly and trust the embrace of the exiled spider.
 
-The grove will not open for hands, only for hearts that mean to stay — will it open, and it shall.
-Follow the golden river to the city of masks. Pay their toll, and they will show you where the dragon's children hide.
+Not all will survive, but do not weep.
+Many perils await below, but as does the grove. 
+It will not open for swords, but shall for hearts that mean to stay.
+The keeper will test, but you must persevere.
+Ask, and the keeper shall show you the path to the Masked Ones. 
 
-Beyond, where the land keeps its lost standing, and will not let the living pass unchallenged. Two serpents guard that road, push through, or turn back forever.
+The winged shadow does not know, the Lion's prize is but one of five.
+The woman veiled in silver, Chosen by Midnight is who you seek.
+Pay her toll, and she will show you where the twin queen's child roosts.
 
-Your quarry waits in the hall that outruns the wind, stone that has forgotten the ground. But hear this and remember it when the sky burns: not all that is chased is caught, and not all that is caught is kept. What you seek may fall from your hands before it is ever truly yours — do not let it break you when it does.
+Know this, and remember it as the sky reaches.
+The river of gold will not collect, the red one sees all.
+What you seek may fall from your hands before it is ever truly yours.
+Do not let it break you when it does.
 
 ---
 
