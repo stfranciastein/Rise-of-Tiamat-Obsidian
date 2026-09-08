@@ -132,7 +132,7 @@ Owyn and Werond pull one of the characters aside and ask them if they'd like to 
 
 [[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]]. If any of the characters seem put off by him, he will drop his ostentatious act and say the following.
 
-CACAFONIX: You see the smiles on those children's faces? The tale isn't for you to enjoy. It's for them to look up to you and have hope. The [[Cult of the Dragon]] has destroyed several cities already. If my songs can put a smile on their face for just a little while, 
+CACAFONIX: You see the smiles on those children's faces? The tale isn't for you, not really. You can choose to enjoy my lovely voice if you want, or you can choose not to. But I want you to realise something, my favoured friends, it's for them. The people of the Sword Coast need to look up to you and have hope. The [[Cult of the Dragon]] has destroyed several cities already. What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it.
 
 #### Checkpoint Six: Everything has a Price
 
