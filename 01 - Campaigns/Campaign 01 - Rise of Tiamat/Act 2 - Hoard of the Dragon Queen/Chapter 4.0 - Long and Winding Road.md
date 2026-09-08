@@ -163,7 +163,7 @@ If they haven't already put two and two together, [[Cacafonix]] will tell the pa
 
 #### Checkpoint Seven: Fungus Humongous
 
-*As the eight day begins on your journey north, the weather starts getting colder and colder. Even bundled up it's clear that it's only going to get worse the further north you get. It takes longer for the sun to rise and expel the darkness of Shar's cloak. You know well enough having lived this long in the Sword Coast that later on just when you think noon has just begun, it is already beginning to set.*
+*As the eight day begins on your journey north, the rain picks up again as the weather starts getting colder and colder. Even bundled up it's clear that it's only going to get worse the further north you get. It takes longer for the sun to rise and expel the darkness of Shar's cloak. You know well enough having lived this long in the Sword Coast that later on just when you think noon has just begun, it is already beginning to set.*
 
 *During your journey up ahead of the convoy, you realise that the surrounding countryside is blanketed with fungus. It grows everywhere, including on the road. When anyone steps on a mushroom (it's nearly impossible not to), it emits a puff of black spores and a moan of pain. These tiny shriekers sprout from an immense mycelium that has spread beneath the area from shallow caves.*
 
