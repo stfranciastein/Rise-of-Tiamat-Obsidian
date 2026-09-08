@@ -244,7 +244,7 @@ On a successful DC 10 Intelligence (Religion) check, the party can determine tha
 
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious.
 
-STAG: You are on the right path, but the road ahead is perilous. A great evil awaits beneath the dragon's bones, wearing the face of a would be friend. To avoid the dark one's gaze, at the feet of peat's home you must find. There you will find your prize, but not before you too are found. When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark or perish. The grove is sealed shut, but you must ask will it to open. Follow the golden river, pay the toll of the masked lords and you shall find your prey atop the castle in the clouds.
+STAG: You are on the right path, but the road ahead is perilous. A great evil awaits beneath the dragon's bones, wearing the face of a would be friend. To avoid the Dark One's gaze, at the feet of peat's home you must find. There you will find your prize, but not before the spider's web catches you. When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark or perish. The Grove is sealed shut, but you must will it to open. Follow the golden river, pay the toll of the Masked Lords and you shall find your prey atop the castle in the clouds.
 
 
 
