@@ -308,6 +308,7 @@ Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He w
 | 4   | [[Arcane Brotherhood]] forces accost the party.                                                                                                                                                                                                                  |
 | 5   | [[]]                                                                                                                                                                                                                                                             |
 | 6   |                                                                                                                                                                                                                                                                  |
+|     |                                                                                                                                                                                                                                                                  |
 
 
 ____
