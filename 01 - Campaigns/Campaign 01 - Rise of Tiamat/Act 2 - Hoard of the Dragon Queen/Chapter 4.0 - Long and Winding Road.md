@@ -130,6 +130,10 @@ Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party fo
 
 Owyn and Werond pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Owyn convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
 
+[[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]]. If any of the characters seem put off by him, he will drop his ostentatious act and say the following.
+
+CACAFONIX: You see the smiles on those children's faces? The tale isn't for you to enjoy. It's for them to look up to you and have hope. The [[Cult of the Dragon]] has destroyed several cities already. If my songs can put a smile on their face for just a little while, 
+
 #### Checkpoint Six: Everything has a Price
 
 *As the seventh day of your journey passes, you find yourselves all looking back on the events of your campaign against the Cult of the Dragon thus far. As your minds wander, you can't help but think about Rezmir's words again in the last 'vision' of her you saw. As you're all lost in thought, your focus is immediately jostled as someone rides up next to you from behind.*
@@ -165,7 +169,9 @@ Anyone can literally sweep a path through the mushrooms with a heavy broom, a sc
 
 People can clear a path through the mushrooms with six man-hours of work (six people could do it in one hour, or three people could do it in two hours).
 
-Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give 
+Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them 2000 GP for their help thus far. He states that the other members of the caravan greatly value their presence here.
+
+[[Cacafonix]] will then 
 
 
 
