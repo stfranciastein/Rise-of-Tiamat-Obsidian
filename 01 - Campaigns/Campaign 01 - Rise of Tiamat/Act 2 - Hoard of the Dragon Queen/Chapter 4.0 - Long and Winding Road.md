@@ -253,7 +253,7 @@ When a chance to jump presents itself, you must fall like a feather and trust th
 The grove will not open for hands, only for hearts that mean to stay — will it open, and it shall.
 Follow the golden river to the city of masks. Pay their toll, and they will show you where the dragon's children hide.
 
-Beyond, the marsh keeps its dead standing, and will not let the living pass unchallenged. Two serpents guard that road - push through, or turn back forever.
+Beyond, where the land keeps its lost standing, and will not let the living pass unchallenged. Two serpents guard that road, push through, or turn back forever.
 
 Your quarry waits in the hall that outruns the wind, stone that has forgotten the ground. But hear this and remember it when the sky burns: not all that is chased is caught, and not all that is caught is kept. What you seek may fall from your hands before it is ever truly yours — do not let it break you when it does.
 
