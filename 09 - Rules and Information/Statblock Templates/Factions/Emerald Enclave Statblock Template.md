@@ -2,7 +2,7 @@
 
 **Tags:** #Templates #Statblocks #LordsAlliance 
 ## Traits
-`_**Earth-Touched (1/day).**_ The Enclave Agent can cast [spell]Speak with Animals[/spells] once per long rest.`
+`_**Colossus Slayers.**_ When the Enclave Agent hits a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its hit point maximum. It can deal this extra damage only once per turn.`
 
 `_**Tag Team.**_ When the Enclave Agent takes the Help action, it can switch places with a willing ally within 5 feet of itself as part of that same action. This movement doesn’t provoke Opportunity Attacks.`
 
