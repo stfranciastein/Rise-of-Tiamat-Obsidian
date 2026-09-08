@@ -200,7 +200,7 @@ RANGER: Then it'll definitely keep itself hidden from you.
 
 WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
 
-RANGER: There is one tale they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city.
+RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city.
 
 
 
