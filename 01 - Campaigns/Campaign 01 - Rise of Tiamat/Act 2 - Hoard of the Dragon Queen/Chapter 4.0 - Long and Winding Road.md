@@ -190,7 +190,8 @@ Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When 
 | 5   |                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 6   | 3 Adult Bulettes attack the caravan and destroy one of the wheels.                                                                                                                                                                                                                                                                                                                                                       |
 
-That night, Werond 'Ranger' or [[Renaer Neverember]] will
+That night, Werond will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. Owyn will say it was likely created by the Elves of the [[Misty Forest]], but Werond tells the tale anyway.
+
 
 
 #### Checkpoint ????: Snow
