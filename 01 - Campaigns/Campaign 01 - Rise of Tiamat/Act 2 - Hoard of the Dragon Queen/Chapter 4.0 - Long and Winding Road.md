@@ -205,7 +205,7 @@ RANGER: I've not heard of a stag, but there is one tale about a Golden creature 
 *The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. He tells the tale of House Baenre's war waged on the Silver Marches in the North after the legendary ranger Drizzt Do'Urden forsook Lolth in exchange for Mielikki and how the skies were blanketed with Lolth's darkness thanks to the work of her Chosen wizard. During the war, many dwarves and elves fell in their battle against the races of the Underdark. Silverymoon, Mithral Hall, Citadel Adbar and Felbar all joined forces united under the same banner. But even they could not turn the tide. 
 
 *It all came down to one battle over the River Surbin. Drizzt's allies as well as the Elves and the Dwarves were overwhelmed. But just as the battle was nearly lost, the skies opened up and three Ancient Metallic dragons came out of the sky to aid them. Tazmikella and Ilnezhara the Copper along with
-King Protanther the Gold. Atop them were knights wearing shining white armour, known as the Vanguard of Bahamut; warriors blessed by the Father of dragons himself.
+King Protanther the Gold. Atop them were knights wearing shining white armour, known as the Vanguard of Bahamut; warriors blessed by the Father of dragons himself. As they rode down to Drizzt, they found themselves clashing with Lolth's army. Their white Dragons were no match for King Pronather might.
 
 WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
