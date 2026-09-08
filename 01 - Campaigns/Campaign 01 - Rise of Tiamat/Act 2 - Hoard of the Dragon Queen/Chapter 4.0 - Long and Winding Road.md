@@ -178,7 +178,7 @@ People can clear a path through the mushrooms with six man-hours of work (six pe
 
 Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them 2000 GP for their help thus far. He states that the other members of the caravan greatly value their presence here.
 
-#### Checkpoint Eight: The Golden Stag
+#### Checkpoint Eight: Destiny Awaits
 
 *The ninth day begins with a small snowfall that quickly turns harsher as the day goes on. The horses struggle slightly with the weather and Glass tries his best to cover up as much of himself. After taking a small break, he comes up to the driver's seat wearing a set of quickly-made goggles and gloves for both him and the horses. He gives them a gentle pat on the head before resuming the journey.*
 
