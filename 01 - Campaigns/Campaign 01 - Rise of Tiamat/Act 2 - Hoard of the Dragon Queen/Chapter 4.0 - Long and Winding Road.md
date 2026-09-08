@@ -236,6 +236,12 @@ RANGER: Careful not to scare it off.
 
 [[Renaer Neverember]] looks at your party and tells the most capable 'tracker' that while he doesn't believe in destiny, it's clear that something is trying to send the party a message. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] is closeby, and judging by the news they heard a few days ago this could point to some sort of omen.
 
+If the players choose to follow the stag, it can be tracked through the forest with a successful DC 10 Wisdom (Survival) check. A new check must be made every 500 yards. Players with high movement speeds such as monks or rogues will have a hard time catching up to the stag as when they get close enough it seems to match their speed before doubling it.
+
+*As your chase ends, the stag leads you to a moss-grown, ivy-draped ruin in the rocky hills. There is a large stone shape on the ground resembling what looks to be a ritual circle.*
+
+On a successful DC 10 Intelligence (Nature) check, the party can determine that the stag is no ordinary beast but a celestial creature. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away.
+
 
 #### Checkpoint ????: Snow
 
