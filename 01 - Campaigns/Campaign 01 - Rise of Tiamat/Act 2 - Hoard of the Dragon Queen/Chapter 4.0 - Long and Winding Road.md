@@ -75,7 +75,7 @@ Around the campfires, [[Balthazaar Baradult]] will greet a group of four young h
 
 The [[Mutated Dragon]] will say that he can feel someone watching over them. A casting of See Invisibility will reveal that there is a scrying eye floating above the Dragon. The Dragon does not seem to mind this visitor, however, as he believes it's likely his 'visitor' from before.
 
-#### Checkpoint Three: The Stars are Aligned
+#### Checkpoint Three: Alignment of the Stars
 
 *Wary of any possible spying attempts, you keep a close lookout for any signs of anything following you. As the morning light bathes the Sylvira-Van in its light, making the rain glisten off of the metal roof of the magical construct, you relax a little as it doesn't seem like there's anyone following you.*
 
