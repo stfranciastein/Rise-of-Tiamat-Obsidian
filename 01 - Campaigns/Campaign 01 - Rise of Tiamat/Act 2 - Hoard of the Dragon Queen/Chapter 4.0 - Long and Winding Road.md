@@ -274,7 +274,11 @@ Renaer will state that while he does not believe in predestiny, there is a good 
 
 Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. Later that night, the party will dream of Talis and Leosin meeting up with the party. A large spider begins to crawl out of what looks like a hole and shoots rays of green lightning at their partners, disintegrating them. The next morning, the curse will immediately reactivate and begin alarmingly growing. It seems that the Metallic Dragons of their vision were right in that the gaps between their curse is growing shorter either by the week or worse, the day.
 
+#### Checkpoint X: Ironspine Keep
 
+*As your eleventh day on the road begins, Balthazaar, Owyn and Ranger ride up next to you. In the short spawn of two or three hours you find yourselves at the base of the hill overlooking Ironspine Keep. Flags of the Lord's Alliance fly on the walls, but what looks to be several bones of dead humanoids and monstrosities surround the castle.*
+
+[[Renaer Neverember]] rides up ahead, concerned. [[Balthazaar Baradult]] tells the party that he thinks the [[Cult of the Dragon]] may have arrived here and they should check it out. He and Owyn return to the convoy to warn them of the danger. He gives them one half of a sending stone and tells the group to use it when they know it's safe.
 
 ---
 
