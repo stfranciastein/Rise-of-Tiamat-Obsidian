@@ -16,9 +16,9 @@ ____
 
 ????: Find us. Free us. The Queen hides us away.
 
-Upon closer inspection and a successful DC 10 Investigation check, the party will realise that there are Metallic Dragons in this prison. If [[Matreous Melwin]] is dead and/or [[Rhylrae]] was captured by the [[Cult of the Dragon]] after taking [[Leosin Erlanthar]] to fight [[Mellara, the Terror of the Sword Coast]] in [[Chapter 8.0 - Herd of the Dragon]], both of them will be present here as well. They will inform the players that their souls have been trapped in [[Avernus]].
+Upon closer inspection and a successful DC 10 Investigation check, the party will realise that there are Metallic Dragons in this prison. If [[Matreous Melwin]] is dead and/or [[Rhylrae I'mutar]] was captured by the [[Cult of the Dragon]] after taking [[Leosin Erlanthar]] to fight [[Mellara, the Terror of the Sword Coast]] in [[Chapter 8.0 - Herd of the Dragon]], both of them will be present here as well. They will inform the players that their souls have been trapped in [[Avernus]].
 
-The Metallic Dragons will implore the party to find and speak to [[Matreous Melwin]] or [[Rhylrae]] as they believe that the [[Heroes of Phandalin]] have resources to free them. If both are imprisoned, they will tell the party to seek out a friend in [[Waterdeep]], another Metallic Dragon in the visage of a human woman.
+The Metallic Dragons will implore the party to find and speak to [[Matreous Melwin]] or [[Rhylrae I'mutar]] as they believe that the [[Heroes of Phandalin]] have resources to free them. If both are imprisoned, they will tell the party to seek out a friend in [[Waterdeep]], another Metallic Dragon in the visage of a human woman.
 
 ____
 

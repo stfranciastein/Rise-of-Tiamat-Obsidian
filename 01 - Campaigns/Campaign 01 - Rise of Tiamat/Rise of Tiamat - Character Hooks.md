@@ -13,7 +13,7 @@ they cannot be evil and must have a reason to care about saving [[Willowvale]] a
 
 For Act 2, potential new players must pick one of the following hooks. You can either roll a D10 and let the dice choose for you, or you can choose to add any of this to your character's backstory.
 
-1. [[Rhylrae]], a wandering monk, once saved your life. He sent word for you to meet him in a small town called [[Greenest]]. You headed there immediately as you are eager to repay your debt. ==(Character is a Harper recruit)==
+1. [[Rhylrae I'mutar]], a wandering monk, once saved your life. He sent word for you to meet him in a small town called [[Greenest]]. You headed there immediately as you are eager to repay your debt. ==(Character is a Harper recruit)==
 
 2. When a raid by the [[Herd of the Dragon]] drove you and your family from your home, the people of [[Greenest]] took you in. You have been living there ever since.
 

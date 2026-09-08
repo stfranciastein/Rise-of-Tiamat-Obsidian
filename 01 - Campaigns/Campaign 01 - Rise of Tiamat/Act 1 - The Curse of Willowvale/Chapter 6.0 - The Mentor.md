@@ -2,7 +2,7 @@
 
 ____
 
-Upon completion of both [[Chapter 4.0 - Veins of Ice]] and [[Chapter 5.0 - Blood of the Wolf]], [[Matreous Melwin]] or [[Rhylrae]] will contact the adventurers to meet at a specificed location.
+Upon completion of both [[Chapter 4.0 - Veins of Ice]] and [[Chapter 5.0 - Blood of the Wolf]], [[Matreous Melwin]] or [[Rhylrae I'mutar]] will contact the adventurers to meet at a specificed location.
 
 ****
 ### **6.1 If [[Matreous Melwin]] is alive**
@@ -14,14 +14,14 @@ As the meeting ends, [[Torbar Dragonsbane]] will push through the doors and atta
 ****
 #### **6.2 If [[Matreous Melwin]] is dead**
 
-[[Rhylrae]] will have been told by either [[Sylvira Savikas]] or [[Lorcan Ravenshade]] that the adventuring party wants to meet with him. He will arrive in [[Shade Rest]] after 3 days or upon completion of [[Chapter 4.0 - Veins of Ice]]. He will be at the [[Friendly Arms Tavern]], joined by his half-elf companion [[Leosin Erlanthar]]. Rhylrae will heavily criticise the party and refuse to give information to them without first giving him anything of substance.
+[[Rhylrae I'mutar]] will have been told by either [[Sylvira Savikas]] or [[Lorcan Ravenshade]] that the adventuring party wants to meet with him. He will arrive in [[Shade Rest]] after 3 days or upon completion of [[Chapter 4.0 - Veins of Ice]]. He will be at the [[Friendly Arms Tavern]], joined by his half-elf companion [[Leosin Erlanthar]]. Rhylrae will heavily criticise the party and refuse to give information to them without first giving him anything of substance.
 
-He will ask the party to take a walk with him to somewhere more private as he does not think it is safe for them to discuss sensitive topics in a private place. Regardless of where the party brings him, [[Rhylrae]] will continue expressing his dissatisfaction with the state of their abilities. He will then challenge them to a duel, while [[Leosin Erlanthar]] simply stands by to watch.
+He will ask the party to take a walk with him to somewhere more private as he does not think it is safe for them to discuss sensitive topics in a private place. Regardless of where the party brings him, [[Rhylrae I'mutar]] will continue expressing his dissatisfaction with the state of their abilities. He will then challenge them to a duel, while [[Leosin Erlanthar]] simply stands by to watch.
 
 ****
 #### **6.3 Aftermath**
 
-Given [[Torbar Dragonsbane]] and [[Rhylrae]]'s CR (16) players will more than likely loose both battles by a large margin. [[Matreous Melwin]] and [[Rhylrae]] will offer advice to the players in more or less the same words;
+Given [[Torbar Dragonsbane]] and [[Rhylrae I'mutar]]'s CR (16) players will more than likely loose both battles by a large margin. [[Matreous Melwin]] and [[Rhylrae I'mutar]] will offer advice to the players in more or less the same words;
 
 "When you're facing the Herd, you cannot have any doubt in your heart. 
 The Cult of the Dragon works as their Queen does, speaking in many voices but with a singular mind. Treat every wound your party members suffer as if it were carved into your own flesh.

@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "rhylrae",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,12 @@
   },
   "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
-    "Twenty-Sided Trouble at the Big Bad Base.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Masked Faces.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "05 - Organisations/01 - Major Allied Factions/02 - Harpers/Rhylrae I'mutar.md",
+    "05 - Organisations/00 - Minor Organisations/Heroes of Phandalin/Heroes of Phandalin.md",
+    "Twenty-Sided Trouble at the Big Bad Base.md",
     "02 - Adventurers/Other Companions/Cacafonix.md",
     "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Abdel Adrian.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
@@ -221,11 +226,7 @@
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Eamir an Garrán.md",
     "02 - Adventurers/Other Companions/Grace.md",
     "02 - Adventurers/Other Companions/Glass.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Masked Faces.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 7.0 - Hunting Lodge.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 2.0 - A Sea of Moving Ice.md",
     "00 - Images/Court of Metal-1788465089285.webp",
     "00 - Images/Emerald Enclave-1788460662183.webp",
     "00 - Images/Emerald Enclave-1788460186283.webp",
