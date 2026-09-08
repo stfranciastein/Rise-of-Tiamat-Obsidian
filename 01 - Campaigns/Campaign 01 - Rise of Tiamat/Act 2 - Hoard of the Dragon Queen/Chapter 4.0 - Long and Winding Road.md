@@ -15,7 +15,7 @@ The party will be accompanied by several caravans carrying regular civilians and
 3. Noohar Serelim and Selvek Serelim (mute): They are wood elves who are twin brothers and are carpenters by trade. They both have long brown hair, pale skin and tribal tattoos on their faces. They are hauling cargo from Cormyr. They are accompanied by Garagel Shackle-Breaker, a female Orc mercenary from [[Berdusk]]. She left her family to become a mercenary and sends them money regularly to pay for their home.
 4. Melchia Deleante: A young female gnome wizard hoping to get into [[Blackstaff Academy]] in [[Waterdeep]]. She specialises in dealing with the Infernal and is a massive fan of [[Sylvira Savikas]] in [[Candlekeep]], having studied there during her younger years. She has a crush on Alain.
 5. Werond Torohar: A Gold Dwarf in charge of [[Balthazaar Baradult]]'s other hired guards. He wears Adamantine Armour and wields a Greataxe. He is silent, but good at his job. Also has the Guard Captain statblock and is able to join the party in combat if required.
-6. [[Renaer Neverember]], a human man concealing his identity. He is only known as 'the Stranger'. He is quiet and keeps to himself, preferring to stick with Werond or Owyn's company at night. Renaer will rebuff any attempts to 'get to know' him and will coldly dismiss the party members.
+6. [[Renaer Neverember]], a human man concealing his identity. He is only known as 'Ranger'. He is quiet and keeps to himself, preferring to stick with Werond or Owyn's company at night. Renaer will rebuff any attempts to 'get to know' him and will coldly dismiss the party members.
 7. Beyda Achreny: A human woman who looks to be in her mid 40s. Blonde hair, gold eyes, pale skin. She is a resident of [[Elturel]] but prefers [[Waterdeep]] during the winter. That and she can visit her family as well who she hasn't seen in quite a while.
 8. Alain Gilfont: A human wizard in his 30s from [[Blackstaff Academy]] in [[Waterdeep]]. Alain is currently writing a thesis on the current increase of natural disasters happening across the Sword Coast. He is about 5ft 10, has wavy black hair and glasses. He is convinced that it is due to the incoming planetary alignment in about a year's time. A Circle of the Stars Druid can confirm his beliefs, as they notice that the Weave has been acting rather erratically due to the positioning of the celestial bodies. He wears a blue trench coat, a white undershirt and brown pants. He carries a wizard's hat and staff.
 9. [[Cannon]]: A young female goblin inventor trying to document all of the wonders she sees on the Sword Coast and beyond. She just finished her studies in [[Candlekeep]] and is looking to expand her knowledge by going firstly to [[Blackstaff Academy]] and later the [[Host Tower of the Arcane]] in [[Luskan]]. She will be amazed by the [[Sylvira-Van]] and [[Glass]] will offer to show her how it works.
@@ -108,7 +108,18 @@ On a DC 10 Arcana or Nature check, they will reveal that it is residue from an O
 | 6   | 3 Dragon Cultist evokers stand atop a hill in front of a totem praying to Tiamat. If the characters approach, they will be immediately attacked by 2 hidden archers. On their body is a key to their chest which holds 2 Capes of Billowing.                                  |
 |     |                                                                                                                                                                                                                                                                               |
 
-Later that night, [[Balthazaar Baradult]] will ask the party for 
+More of the green ooze will be found on several of the other caravans as the party beds down for the night. As their wheels are cleaned off and fixed by [[Glass]], he will remark that if they could find the source of this ooze it would be quite good for crafting things. Owyn will ask the party if they'd prefer deer or rabbit tonight as he and the Ranger are going hunting. They will vehemently decline anyone offering to go with them. The Ranger will think the party is far too conspicuous and Owyn will say they have already done more than enough for the convoy.
+
+Later that night, [[Balthazaar Baradult]] will ask the party for a favour as Owyn and Ranger scouted ahead and learned that there is a possible bandit encampment between the convoy and the road. [[Cannon]] will say that she heard rumours that there is a place called the Big Bad Base that is occupied with Kobolds. [[Glass]] will also confirm these rumours and will say he visited them once and they tried to blow him up. The convoy agrees to stop for the day and will not move until the blockage is cleared.
+
+#### Checkpoint Five: Big Bad Base
+
+The players can take Owyn with them as they try to find the Big Bad Base. If Owyn is with them, they will immediately find it without issue. Otherwise, it requires three successful survival checks with a party DC of 15. On a failure, they will spend an hour searching through the hills. Eventually, as they approach within a few miles of the lair, there is an abundance of mutated flora and fauna.
+
+*The smell of mint is strong in the air, and there is thick, viscous green gunk smattered all over the fields. As your party nears where Owyn and Ranger found this base. You see all around you what can only be described as a... strange curiosity. The plants here seem to have grown polygonal flowers. The fruits of wildberry bushes are shaped like perfect cubes, octahedrons and even twenty-sided icosahedrons. A stag looks at your party as you pass by and you notice its horns have grown to form a perfect twenty-sided dice.*
+
+
+
 
 #### Checkpoint ????: Snow
 
