@@ -196,13 +196,20 @@ WEROND: It's said that the Golden Stag only appears to those who are destined fo
 
 RANGER: Then it'll definitely keep itself hidden from you.
 
-*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the Shattered Obelisk. The Ranger is clearly not impressed, and Werond will scoff.*
+*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the events of the Shattered Obelisk. The Ranger is clearly not impressed, and Werond will scoff.*
 
 WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
 
 RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city. Are any of you familiar with the War of the Silver Marches?
 
-*The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. He tells the tale of House Baenre's war waged on the Silver Marches in the North after the legendary ranger Drizzt Do'Urden forsook Lolth in exchange for Mielikki and how the skies were blanketed with Lolth's darkness thanks to the work of her Chosen wizard. During the war, many dwarves and elves fell in their battle against the races of the Underdark. It all came down to one battle over the River Surbin. Drizzt's allies and the Dwarves were overwhelmed. But just as the battle was nearly lost, the skies opened up and three ancient metallic dragons came out of the sky to aid them. Tazmikella the Copper, Ilnezhara and Protanther the Gold.*
+*The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. He tells the tale of House Baenre's war waged on the Silver Marches in the North after the legendary ranger Drizzt Do'Urden forsook Lolth in exchange for Mielikki and how the skies were blanketed with Lolth's darkness thanks to the work of her Chosen wizard. During the war, many dwarves and elves fell in their battle against the races of the Underdark. Silverymoon, Mithral Hall, Citadel Adbar and Felbar all joined forces united under the same banner. But even they could not turn the tide. 
+
+*It all came down to one battle over the River Surbin. Drizzt's allies as well as the Elves and the Dwarves were overwhelmed. But just as the battle was nearly lost, the skies opened up and three Ancient Metallic dragons came out of the sky to aid them. Tazmikella and Ilnezhara the Copper along with
+King Protanther the Gold. Atop them were knights wearing shining white armour, known as the Vanguard of Bahamut; warriors blessed by the Father of dragons himself.
+
+WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
+
+RANGER: But it wasn't them saving the day, it was a union between a god and a mortal that turned the tide. Abdel Adrian had Bhaal's power, even if he rejected it. Matreous had Mystra's favour. If the Stag is real, it is not some special spirit reserved for those deemed worthy, but those the gods see worthy
 
 
 #### Checkpoint ????: Snow
