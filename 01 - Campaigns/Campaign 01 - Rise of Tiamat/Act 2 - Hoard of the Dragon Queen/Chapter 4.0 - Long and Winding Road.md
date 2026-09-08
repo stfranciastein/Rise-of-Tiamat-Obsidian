@@ -35,7 +35,7 @@ Melchia Deleante will cast a protection ward over the camp. Characters who are s
 
 As for the party, they will have one more dream, continuing [[Fire and Darkness]].
 
-#### Checkpoint One: Grasslands
+#### Checkpoint One: The First Stretch
 
 *The wide and windy plains of the Fields of the Dead are open to you as the Sylvira-Van speeds along the next morning. Glass seems to be in a bit of a paranoid mood after last night, but the dry weather makes him a little more confident. As the long stretch of road between Baldur's Gate and Waterdeep extends into the horizon, you find yourselves engaged in the next few hours of your journey.*
 
@@ -53,7 +53,7 @@ At night, the party will hear the sound of the dragon again. At this point, the 
 
 During this night at the convoy camp, Alain will tell a story about the time when thieves were found floating away in bubbles after being transformed into pigs. This occurred over the fields outside of [[Waterdeep]] near the Field Ward. The listeners speculate that they probably found some wizard's house and triggered a trap.
 
-#### Checkpoint Two: Grasslands
+#### Checkpoint Two: Adventuring Life
 
 *The next day, your hearts feel a little heavy as you all think about what your dragon companion said to you the night before. Your eyes all look out the window every now and then as the wheels of the caravan carry you through the coast way, and those of you who wish to pop out of the hatch every now and then look up at the sky and keep a lookout for any trouble.*
 
@@ -73,7 +73,7 @@ Around the campfires, [[Balthazaar Baradult]] will greet a group of four young h
 
 The [[Mutated Dragon]] will say that he can feel someone watching over them. A casting of See Invisibility will reveal that there is a scrying eye floating above the Dragon. The Dragon does not seem to mind this visitor, however, as he believes it's likely his 'visitor' from before.
 
-#### Checkpoint Three: Grasslands
+#### Checkpoint Three: The Stars are Aligned
 
 *Wary of any possible spying attempts, you keep a close lookout for any signs of anything following you. As the morning light bathes the Sylvira-Van in its light, making the rain glisten off of the metal roof of the magical construct, you relax a little as it doesn't seem like there's anyone following you.*
 
@@ -89,7 +89,7 @@ The [[Mutated Dragon]] will say that he can feel someone watching over them. A c
 
 During the convoy's night together, Alain will point out that he sees the constellation of the Archer appearing in the night sky. The children will be listening to him intently and asks him dozens of questions about the sky such as 'my uncle says Toril is flat, is that true?' or 'is it true that there's draginz that live in the mowntins'. The children will then ask the party if they've ever seen a Dragon before because Maxwell says he saw one yesterday.
 
-Radecere Perethun will call over the most 'friendly' party member and ask if they could take a look at something she found on one of her caravan's wheel. There is a crushed ball made up of a green acidic substance on the bottom of her back left wagon wheel.
+Radecere Perethun will later call over the most 'friendly' party member and ask if they could take a look at something she found on one of her caravan's wheel. There is a crushed ball made up of a green acidic substance on the bottom of her back left wagon wheel.
 
 On a DC 10 Arcana or Nature check, they will reveal that it is residue from an Ooze, but they will not know exactly what kind. Alain will guess it is some form of Gelatinous Cube and offers to burn it or give a container so they can study it further in the city.
 
