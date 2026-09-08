@@ -296,7 +296,7 @@ After finishing the events of [[Hold Back the Dead]], the party can choose to re
 
 Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He will say he plans on helping the party with their mission to stop the [[Cult of the Dragon]]. On their way to their destination, Renaer reminds the party of the Golden Stag's warning and remarks that one of his friends, [[Tazmikella 'Zalla Temik' the Copper]] said that she knew of a secret entrance to [[Dragonspear Castle]]. They must, however, journey to another town to meet with her.
 
-#### Checkpoint I: 
+#### Checkpoint I: Alone Again
 
 | D6  | Encounter                                                                                                                                   |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
