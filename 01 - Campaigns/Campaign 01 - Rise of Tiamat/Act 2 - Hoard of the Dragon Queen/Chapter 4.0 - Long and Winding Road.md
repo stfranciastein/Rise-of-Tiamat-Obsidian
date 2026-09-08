@@ -202,14 +202,15 @@ WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do 
 
 RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city. Are any of you familiar with the War of the Silver Marches?
 
-*The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. He tells the tale of House Baenre's war waged on the Silver Marches in the North after the legendary ranger Drizzt Do'Urden forsook Lolth in exchange for Mielikki and how the skies were blanketed with Lolth's darkness thanks to the work of her Chosen wizard. During the war, many dwarves and elves fell in their battle against the races of the Underdark. Silverymoon, Mithral Hall, Citadel Adbar and Felbar all joined forces united under the same banner. But even they could not turn the tide. 
+*The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. 
 
-*It all came down to one battle over the River Surbin. Drizzt's allies as well as the Elves and the Dwarves were overwhelmed. But just as the battle was nearly lost, the skies opened up and three Ancient Metallic dragons came out of the sky to aid them. Tazmikella and Ilnezhara the Copper along with
-King Protanther the Gold. Atop them were knights wearing shining white armour, known as the Vanguard of Bahamut; warriors blessed by the Father of dragons himself. As they rode down to Drizzt, they found themselves clashing with Lolth's army. Their white Dragons were no match for King Protanther might.
+[[Renaer Neverember]] tells the tale of House Baenre's war on the Silver Marches, after the Legendary ranger Drizzt Do'Urden forsook Lolth for Mielikki, and how Lolth's Chosen blackened the skies in answer. Dwarves and elves fell by the hundreds fighting the Underdark's armies. Silverymoon, Mithral Hall, Citadel Adbar, Felbar all of them banded under one banner, and still the tide didn't turn.
+
+It came down to one battle on the banks of the River Surbin. Drizzt's allies, the elves, the dwarves all of them being ground down. And that's when the sky split open, and three Ancient Metallic dragons descended: Tazmikella and Ilnezhara the Coppers, and King [[Protanther the Gold]]. Drizzt had asked for a favour from the gods, and Mielikki's in return asked for the Platinum Dragon's help. On their backs rode knights in white armor; the Vanguard of Bahamut who blessed by the Father of Dragons himself. They crashed into Lolth's army, and no chromatic dragons nor army of drow or duergar could stand against Protanther's might.
 
 WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
-RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. Drizzt gave up a goddess for one that actually deserved him. That's the same shape as your Stag, isn't it something greater looking down and deciding someone's earned it. Same with Abdel Adrian and Bhaal's power he never wanted, or Matreous with Mystra's favor. If your Stag's real, maybe it's not some spirit that only shows itself to folk born special. Maybe it's just the gods, deciding who's made themselves worth watching.
+RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt his powers as a Chosen of Mielikki. Abdel Adrian rejected his father Bhaal, and Matreous 
 
 
 #### Checkpoint ????: Snow
