@@ -7,7 +7,7 @@ Given by Father [[Lorgan Brandis]] in the [[Temple of the Open Hand]], who will 
 
 If [[Azbara Jos]] is on friendly or neutral terms with the players, he will be mentioned as an 'inside source' who believes that the [[Red Wizards of Thay]] may be involved as [[Szass Tam]] has dispatched several forces to the Western Heartlands.
 
-Additionally, while This quest is triggered in Chapter 3, but it can't be completed until [[Chapter 4.0 - Long and Winding Road]].
+Additionally, while This quest is triggered in Chapter 3, but it can't be completed until [[Chapter 4.0 - Long and Winding Road]] at the very end of 4.1.
 
 _____
 

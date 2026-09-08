@@ -280,6 +280,10 @@ Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink wh
 
 [[Renaer Neverember]] rides up ahead, concerned. [[Balthazaar Baradult]] tells the party that he thinks the [[Cult of the Dragon]] may have arrived here and they should check it out. He and Owyn return to the convoy to warn them of the danger. He gives them one half of a sending stone and tells the group to use it when they know it's safe.
 
+*As you approach the walls of Ironspine Keep. You can see several guards manning the walls, though all of them seem to be covered in black viscera and are making repairs to the castle walls. The Ranger is already at the gates and shouts something in a strange dialect that you don't understand. As he does, the portcullis opens and you are lead within. Inside, several unarmored workers, including stonemasons and smiths frantically work at repairs with evident fear and determination.*
+
+[[Corlie Halvachar]] meets with the characters as soon as they step through the door. This continues the [[Hold Back the Dead]] quest if it was initiated from [[Baldur's Gate]]. If this is their first time learning about it, Corlie will tell the party that undead creatures have been attacking [[Ironspine Keep]] for the past few weeks.
+
 ---
 
 
