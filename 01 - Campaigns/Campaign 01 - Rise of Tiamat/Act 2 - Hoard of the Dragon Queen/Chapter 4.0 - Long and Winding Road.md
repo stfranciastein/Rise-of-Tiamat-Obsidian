@@ -209,7 +209,7 @@ King Protanther the Gold. Atop them were knights wearing shining white armour, k
 
 WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
-RANGER: But it wasn't them saving the day, it was a union between a god and a mortal that turned the tide. Abdel Adrian had Bhaal's power, even if he rejected it. Matreous had Mystra's favour. If the Stag is real, it is not some special spirit reserved for those deemed worthy, but those the gods see worthy
+RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. Drizzt gave up a goddess for one that actually deserved him. That's the same shape as your Stag, isn't it something greater looking down and deciding someone's earned it. Same with Abdel Adrian and Bhaal's power he never wanted, or Matreous with Mystra's favor. If your Stag's real, maybe it's not some spirit that only shows itself to folk born special. Maybe it's just the gods, deciding who's made themselves worth watching.
 
 
 #### Checkpoint ????: Snow
