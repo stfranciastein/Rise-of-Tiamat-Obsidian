@@ -298,14 +298,16 @@ Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He w
 
 #### Checkpoint I: Alone Again
 
-| D6  | Encounter                                                                                                                                   |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | A small village of gnomes greets your party and offers you freshly baked apple pies, churros and hot chocolate. Inspiration to the party.   |
-| 2   |                                                                                                                                             |
-| 3   | A peaceful few hours on the road, every now and then you take a break to bask in the snowy scenery. Snowball fight with the caravan convoy. |
-| 4   | Murderous Yeti.                                                                                                                             |
-| 5   |                                                                                                                                             |
-| 6   |                                                                                                                                             |
+*Your first day away from the convoy feels lonely, and you only hope that what work you did to keep them safe is also enough to keep them alive until reinforcements arrive. While not all of them are 'helpless villagers' like the people of Shade Rest were, you all still feel that sense of hesitation as Glass drives on with Renaer riding closeby.*
+
+| D6  | Encounter                                                                                                                                                                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 6 [[Cult of the Dragon]] recruits, 4 warriors, 2 evokers and 1 priest attack the party. On one of the bodies is a patrol schedule which designates this team as one of the many forward scouting parties of the main horde.                       |
+| 2   | [[Lennithon]] flies past the group, zooming through the sky and causing a torrential downpour. He flies alongside 2 adult dragons; 1 black, 1 red and 1 green. On a DC 25 Perception check, they will recognise the green dragon as [[Venomfang]] |
+| 3   | A peaceful few hours on the road, every now and then you take a break to bask in the snowy scenery. Snowball fight with the caravan convoy.                                                                                                       |
+| 4   | Murderous Yeti.                                                                                                                                                                                                                                   |
+| 5   |                                                                                                                                                                                                                                                   |
+| 6   |                                                                                                                                                                                                                                                   |
 
 
 ____
