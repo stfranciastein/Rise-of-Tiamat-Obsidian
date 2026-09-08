@@ -177,8 +177,7 @@ People can clear a path through the mushrooms with six man-hours of work (six pe
 
 Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them 2000 GP for their help thus far. He states that the other members of the caravan greatly value their presence here.
 
-[[Cacafonix]] will then 
-
+#### Checkpoint Eight: The Golden Stag
 
 
 #### Checkpoint ????: Snow
