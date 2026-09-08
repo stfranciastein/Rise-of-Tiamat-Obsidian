@@ -4,3 +4,4 @@
 ____
 ### BACKSTORY
 
+Vellin Farstride is a Hunter Ranger for the [[Emerald Enclave]], originally from the [[High Forest]]. 
