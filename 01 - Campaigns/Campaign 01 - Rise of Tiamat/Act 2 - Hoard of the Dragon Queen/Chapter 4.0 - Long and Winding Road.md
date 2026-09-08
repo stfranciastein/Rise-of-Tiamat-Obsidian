@@ -215,6 +215,9 @@ RANGER: That's what it looks like from the outside, aye. But the dragons didn't 
 
 WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
 
+#### Checkpoint Nine: The Golden Stag
+
+
 
 #### Checkpoint ????: Snow
 
