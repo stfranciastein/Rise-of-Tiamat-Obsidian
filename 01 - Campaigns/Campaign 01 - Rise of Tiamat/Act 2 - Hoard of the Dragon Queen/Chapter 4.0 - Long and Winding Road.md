@@ -2,7 +2,7 @@
 
 ____
 
-### 4.1 Wild and Windy Nights
+### 4.1 The Convoy Begins
 
 #### Preparations and the Convoy
 t [[Ackyn Selebon]]'s suggestion, [[Glass]] will drive the [[Sylvira-Van]] to Blackgate and meet up with a civilian convoy heading to [[Waterdeep]]. It will be lead by a man known as [[Balthazaar Baradult]], a mid-30s Earth Genasi man and the leader of the convoy who used to be a member of the [[The Watch (Waterdeep)]] before he grew bored of staying in the city. [[Glass]] will approach and inquire about joining the convoy as another set of guards, to which [[Balthazaar Baradult]] will respond to well.
@@ -285,8 +285,7 @@ Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink wh
 [[Corlie Halvachar]] meets with the characters as soon as they step through the door. This continues the [[Hold Back the Dead]] quest if it was initiated from [[Baldur's Gate]]. If this is their first time learning about it, Corlie will tell the party that undead creatures have been attacking [[Ironspine Keep]] for the past few weeks.
 
 ---
-
-
+### 4.2 Many times I've been alone
 
 #### Checkpoint ????: Snow
 
