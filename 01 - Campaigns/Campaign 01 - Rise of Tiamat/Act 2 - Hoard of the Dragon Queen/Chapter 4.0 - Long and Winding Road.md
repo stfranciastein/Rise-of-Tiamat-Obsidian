@@ -272,7 +272,7 @@ As the vision ends, the Ranger will look to the trees where [[Renaer Neverember]
 
 Renaer will state that while he does not believe in predestiny, there is a good chance that they should take heed of what the Stag said. Upon their return to the convoy, either Renaer or the party can mention the events to the convoy. Alain will say that [[Dragonspear Castle]] is said to have the skeleton of an Ancient Dragon resting atop its ruins.
 
-Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. Later that night, the party will dream of Talis and Leosin meeting up with the party. A large spider begins to crawl out of what looks like a hole and shoots rays of green lightning at their partners, disintegrating them. The next morning, the curse will immediately reactivate and begin alarmingly growing. It seems that the Metallic Dragons of their vision were right in that the 
+Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. Later that night, the party will dream of Talis and Leosin meeting up with the party. A large spider begins to crawl out of what looks like a hole and shoots rays of green lightning at their partners, disintegrating them. The next morning, the curse will immediately reactivate and begin alarmingly growing. It seems that the Metallic Dragons of their vision were right in that the gaps between their curse is growing shorter either by the week or worse, the day.
 
 ---
 
