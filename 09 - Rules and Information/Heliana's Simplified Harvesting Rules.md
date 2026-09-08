@@ -42,16 +42,16 @@ You can’t harvest a lower-level essence from a higher CR creature—they have 
 
 For example; to craft a **rare** item from a **CR9** animal's hide, you need to pay the gold cost and wait 18 days for the item to be finished crafting. To craft an item from a CR 15 creature at very rare, it would take 45 days (15 x 3).
 
-You can half the gold cost of an item if you provide another magic item of the exact item type and of equal rarity and it is not cursed. (i.e. a +1 Studded Leather for a Rare Light Chestpiece).
+You can reduce the gold cost of an item by a third if you provide another magic item of the exact item type and of equal rarity and it is not cursed. (i.e. a +1 Studded Leather as part of the crafting materials for a +1 Studded Leather crafted armour).
 
 | Item Type                        | Glass's Labour Cost Price |
 | -------------------------------- | ------------------------- |
-| Weapon +1 (or equivalent green)  | 2,000                     |
-| Weapon +2 (or equivalent blue)   | 7,000                     |
-| Weapon +3 (or equivalent purple) | 15,000                    |
-| Armour +1 (or equivalent green)  | 2,000                     |
-| Armour +2 (or equivalent blue)   | 10,000                    |
-| Armour +3 (or equivalent purple) | 17,000                    |
+| Weapon +1 (or equivalent green)  | 2,500                     |
+| Weapon +2 (or equivalent blue)   | 6,500                     |
+| Weapon +3 (or equivalent purple) | 16,500                    |
+| Armour +1 (or equivalent green)  | 2,500                     |
+| Armour +2 (or equivalent blue)   | 10,500                    |
+| Armour +3 (or equivalent purple) | 20,500                    |
 | Wondrous Green                   | 2,000                     |
 | Wonderous Blue                   | 5,000                     |
 | Wonderous Purple                 | 15,000                    |
