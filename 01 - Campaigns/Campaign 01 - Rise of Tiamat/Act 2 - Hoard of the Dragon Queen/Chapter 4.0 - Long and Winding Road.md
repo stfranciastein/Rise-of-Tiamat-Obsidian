@@ -153,6 +153,21 @@ Later that night, Noohar will approach the party again and become even more obno
 
 #### Checkpoint Seven: Fungus Humongous
 
+*As the eight day begins on your journey north, the weather starts getting colder and colder. Even bundled up it's clear that it's only going to get worse the further north you get. It takes longer for the sun to rise and expel the darkness of Shar's cloak. You know well enough having lived this long in the Sword Coast that later on just when you think noon has just begun, it is already beginning to set.*
+
+*During your journey up ahead of the convoy, you realise that the surrounding countryside is blanketed with fungus. It grows everywhere, including on the road. When anyone steps on a mushroom (it's nearly impossible not to), it emits a puff of black spores and a moan of pain. These tiny shriekers sprout from an immense mycelium that has spread beneath the area from shallow caves.*
+
+These growths can be identified with a successful DC 15 Intelligence (Nature) check, but if the roll is 10–14, the character misidentifies them and believes they are deadly poisonous (they aren't). The merchants are terrified of the things and refuse to drive through them, fearing that they may be poisonous or worse. Besides that, the sounds spook the animals and make them impossible to control.
+
+The mushrooms are growing so fast on the rain-soaked ground that a person can almost see them getting bigger. They were the size of champagne corks when first noticed; within an hour, they grow six inches tall, and a foot tall an hour later. Their growth slows down after that, but by then, most people in the caravan are certain that all is doomed.
+
+Anyone can literally sweep a path through the mushrooms with a heavy broom, a scythe, or a tree branch. The noise is distressing. Everyone involved in this process must make a DC 10 Constitution saving throw. Failure means the character is overcome with feelings of grief and remorse, seemingly triggered by hearing thousands of tiny cries of pain and death groans but which is in fact the result of inhaling mildly toxic spores released by the immature fungi. Affected characters break down after 1d20 minutes and simply can't face those sounds anymore. They have nightmares for days to come, until the toxin is completely out of their system. You can impose even more lingering results if you like, such as a lifelong aversion to eating mushrooms of any kind.
+
+People can clear a path through the mushrooms with six man-hours of work (six people could do it in one hour, or three people could do it in two hours).
+
+Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give 
+
+
 
 #### Checkpoint ????: Snow
 
