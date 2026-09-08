@@ -134,6 +134,8 @@ Owyn and Werond pull one of the characters aside and ask them if they'd like to 
 
 *As the seventh day of your journey passes, you find yourselves all looking back on the events of your campaign against the Cult of the Dragon thus far. As your minds wander, you can't help but think about Rezmir's words again in the last 'vision' of her you saw. As you're all lost in thought, your focus is immediately jostled as someone rides up next to you from behind.*
 
+ Noohar Serelim will approach and ask the party for one of their pieces of equipment, and is willing to pay 100 GP for it. He says it will help him and his brother defend themselves on the road and that there's a likelihood no one else will buy it in the future.
+
 | D6  | Encounter                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | A small farmhouse occupied my a man and woman with a small child and their dog wave at your party as you pass by and give you supplies for the road. +4 Rations. |
@@ -143,7 +145,13 @@ Owyn and Werond pull one of the characters aside and ask them if they'd like to 
 | 5   | The [[Cult of the Dragon]] finds the party and attacks them. 2 evokers, 2 archers, 2 warriors, 1 commander.                                                      |
 | 6   | 1d4+1 gorgons and a cyclops attacks the party as they impede on its territory.                                                                                   |
 
-During the convoy's nightly huddle, 
+During the convoy's nightly huddle, two adventurers named Jokketh (Fire Genasi male) and Xixilathariazes (ZIX-EE-LA-THAR-EE-YA-SES) (Female Red Dragonborn) will approach the camp and say they're heading to [[Baldur's Gate]] after coming from [[Ironspine Keep]]. Jokketh will say he's hoping to take a bath in the Vanthampur Bathhouse as soon as he gets there as it is his favourite spot in the city. He will be heartbroken if he finds out about the events of the [[Den of the Dead Three]], but will not be surprised at the conclusion of [[A New Duke]].
+
+Xixilathariazes will warn the party that up ahead about two days ride from the camp is [[Ironspine Keep]]. She says that the [[Lords' Alliance]] forces rejected their entry before they could even get anywhere close to the camp as they said it's far too dangerous for any travellers to stay there. She will say that the [[Talons of the Raven Queen]] were there, but "the Talons like to keep their business subtle." 
+
+Later that night, Noohar will approach the party again and become even more obnoxious about buying the item without getting more generous. Unless the character takes special precautions, the object disappears overnight. If the character accuses the NPC publicly the following morning, they make an enduring enemy; that NPC doesn't have the item and is incensed at the accusation. Someone else who witnessed the conversations the day before decided the other NPC provided perfect cover for a little nighttime thievery and took the missing item. To find the item, characters need to surreptitiously search people's bags and wagons, since few people will agree to have their belongings rifled through as if they were common thieves—especially not a common thief.
+
+#### Checkpoint Seven: Fungus Humongous
 
 
 #### Checkpoint ????: Snow
