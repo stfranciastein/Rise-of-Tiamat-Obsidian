@@ -196,7 +196,7 @@ WEROND: It's said that the Golden Stag only appears to those who are destined fo
 
 RANGER: Hah, then it'll definitely keep itself hidden from you.
 
-*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis and after that to Matreous Melwin from the Heroes of Phandalin during the events of the Shattered Obelisk. The Ranger is clearly not impressed, and Werond will scoff.*
+*The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis. He describes how later in life, Abdel Adrian became a chosen of the Helm and became the Grand Duke of Baldur's Gate. As you look to your left, the ranger is clearly not impressed, and Werond scoffs.*
 
 WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
 
@@ -210,7 +210,7 @@ It came down to one battle on the banks of the River Surbin. Drizzt's allies, th
 
 WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
-RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt his powers as a Chosen of Mielikki. Abdel Adrian rejected his father Bhaal, and Matreous 
+RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt his powers as a Chosen of Mielikki. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and
 
 
 #### Checkpoint ????: Snow
