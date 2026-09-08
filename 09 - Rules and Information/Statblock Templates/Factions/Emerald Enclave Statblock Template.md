@@ -4,7 +4,7 @@
 ## Traits
 `_**Earth-Touched (1/day).**_ The Enclave Agent can cast [spell]Speak with Animals[/spells] once per long rest.`
 
-`_**Inspiring Strike.**_ Once per turn when the Lord's Alliance Agent scores a Critical Hit against a creature, it can grant an ally within 30 ft. that he can see or hear it Heroic Inspiration.`
+`_**Tag Team.**_ When the Enclave Agent takes the Help action, it can switch places with a willing ally within 5 feet of itself as part of that same action. This movement doesn’t provoke Opportunity Attacks.`
 
 ## Bonus Actions
 `_**Standard Bearer.**_ The Alliance agent chooses up to three creatures within 60 ft. that can see it. Each target with a speed above 0 can immediately take a Reaction to right itself and end the prone condition. Additionally, it extends its Alliance Agent's Focus to those three creatures for 1 minute or until it is [condition]incapacitated[/condition].`
