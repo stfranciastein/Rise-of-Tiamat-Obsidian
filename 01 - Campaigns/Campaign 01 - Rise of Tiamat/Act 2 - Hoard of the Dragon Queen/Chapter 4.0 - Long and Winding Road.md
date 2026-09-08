@@ -136,7 +136,7 @@ CACAFONIX: You see the smiles on those children's faces? The tale isn't for you,
 
 The [[Cult of the Dragon]] has destroyed several cities already and the [[Council of Waterdeep]] is a long way away from becoming a reality. It's an amorphous goal, a formless promise known only to those with enough knowledge in the threat to come. But what do the common folk know? What do they learn about the Cult's doings other than; they are providing gold and weapons in promise of a better life. To tell your tale is to counter these... lies.
 
-What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it.
+What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it. Give yourselves more credit, you inspire more hope than you realise.
 
 #### Checkpoint Six: Everything has a Price
 
