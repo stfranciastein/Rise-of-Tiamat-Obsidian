@@ -118,8 +118,11 @@ The players can take Owyn with them as they try to find the Big Bad Base. If Owy
 
 *The smell of mint is strong in the air, and there is thick, viscous green gunk smattered all over the fields. As your party nears where Owyn and Ranger found this base. You see all around you what can only be described as a... strange curiosity. The plants here seem to have grown polygonal flowers. The fruits of wildberry bushes are shaped like perfect cubes, octahedrons and even twenty-sided icosahedrons. A stag looks at your party as you pass by and you notice its horns have grown to form a perfect twenty-sided dice.*
 
+This immediately begins the [[Polyhedrooze]] side quest.
 
+Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party for a job well done. He then tells them the others decided they wanted to take a swim by a small pond the other scouts found and the party is welcome to join. The water is heated by Melichia's magic and the children enjoy themselves as the 6th night on the road ends.
 
+Owyn and Werond pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Owyn convinces him to lighten up. 
 
 #### Checkpoint ????: Snow
 
