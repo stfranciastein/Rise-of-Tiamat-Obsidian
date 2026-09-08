@@ -244,7 +244,20 @@ On a successful DC 10 Intelligence (Religion) check, the party can determine tha
 
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious.
 
-STAG: You are on the right path, but the road ahead is perilous. A great evil awaits beneath the dragon's bones, wearing the face of a would be friend. To avoid the Dark One's gaze, at the feet of peat's home you must find. There you will find your prize, but not before the spider's web catches you. When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark or perish. The Grove is sealed shut, but you must will it to open. Follow the golden river, pay the toll of the Masked Lords and you shall find your prey atop the castle in the clouds.
+STAG: A great evil awaits beneath the dragon's bones, wearing the face of a would-be friend.
+Tread soft and keep your names close, for a hunter walks who marks what she sees — let her eye pass over you unmarked, and unmarked stay.
+
+Still, the web will find you. Eight legs and a patient god behind them. When it does, do not fight what cannot be beaten - run instead, and let another die so the truth does not.
+When a chance to jump presents itself, you must fall like a feather and trust the embrace of the dark, or perish where you stand.
+
+The grove will not open for hands, only for hearts that mean to stay — will it open, and it shall.
+Follow the golden river to the city of masks. Pay their toll, and they will show you where the dragon's children hide.
+
+Beyond, the marsh keeps its dead standing, and will not let the living pass unchallenged. Two serpents guard that road - push through, or turn back forever.
+
+Your quarry waits in the hall that outruns the wind, stone that has forgotten the ground. But hear this and remember it when the sky burns: not all that is chased is caught, and not all that is caught is kept. What you seek may fall from your hands before it is ever truly yours — do not let it break you when it does.
+
+---
 
 
 
