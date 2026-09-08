@@ -240,7 +240,7 @@ If the players choose to follow the stag, it can be tracked through the forest w
 
 *As your chase ends, the stag leads you to a moss-grown, ivy-draped ruin in the rocky hills. There is a large stone shape on the ground resembling what looks to be a ritual circle.*
 
-On a successful DC 10 Intelligence (Religion) check, the party can determine that the circle is a symbol of Mielikki, the goddess of the hunt. The party can determine that the stag is no ordinary beast but a celestial creature on a successful DC 15 Intelligence (Arcana/Nature) check. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away, as does casting any spell in its vicinity. When it disappears from view the party will not be able to find it again.
+On a successful DC 10 Intelligence (Religion) check, the party can determine that the circle is marked with the symbol of Mielikki, the goddess of the hunt. The party can determine that the stag is no ordinary beast but a celestial creature on a successful DC 15 Intelligence (Arcana/Nature) check. Similarly, a casting of Detect Good and Evil confirms this but immediately scares the stag away, as does casting any spell in its vicinity. When it disappears from view the party will not be able to find it again.
 
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious. It then gives the following prophecy;
 
@@ -268,7 +268,11 @@ The stag greets the characters in Primordial. If none of the characters speak th
 `What you seek may fall from your hands before it is ever truly yours.`
 `Do not let it break you when it does.`
 
+As the vision ends, the Ranger will look to the trees where [[Renaer Neverember]] is standing. It will bow towards him and disappear into stardust. In its place will be an ordinary Shortbow fashioned from the horns of the stag. Mechanically, it is a Shortbow +1. However, any character deciding to hold onto it will note that it feels far more magical than any weapon they've ever held. 
 
+Renaer will state that while he does not believe in predestiny, there is a good chance that they should take heed of what the Stag said. Upon their return to the convoy, either Renaer or the party can mention the events to the convoy. Alain will say that [[Dragonspear Castle]] is said to have the skeleton of an Ancient Dragon resting atop its ruins.
+
+Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. 
 
 ---
 
