@@ -43,7 +43,7 @@ As for the party, they will have one more dream, continuing [[Fire and Darkness]
 
 | D6  | Encounter                                                                                                                                                                                                                                                                                                   |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | A stray Cult of the Dragon caravan spots the group and strikes. 5 recruits, 1 evoker, 2 warriors, 1 scoundrel, 1 priest. On their caravan is 500 GP, 2000 SP, 5000 CP and 350 GP worth of Gemstones.                                                                                                        |
+| 1   | A stray [[Cult of the Dragon]] caravan spots the group and strikes. 5 recruits, 1 evoker, 2 warriors, 1 scoundrel, 1 priest. On their caravan is 500 GP, 2000 SP, 5000 CP and 350 GP worth of Gemstones.                                                                                                    |
 | 2   | Five Ankhegs burrow out of the ground.                                                                                                                                                                                                                                                                      |
 | 3   | Miscellaneous Bandits known as the Girl Group of the Dragon attack the Caravan. There are two female elf members, Sasha and Usha and three male humans, Thinker, Taylor and Soldier. After one of them dies, they will immediately surrender. "We're like, totally going to murder you guys and stuff. Ya!" |
 | 4   | A band of Goblins containing a Hobgoblin Warlord, 2 Iron Shadows, 1 Death Captain, 1 War Mage, 2 Psi Brawlers. On the bodies is 30 GP and three potions of Greater Healing.                                                                                                                                 |
@@ -129,6 +129,22 @@ This immediately begins the [[Twenty-Sided Trouble at the Big Bad Base]] side qu
 Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party for a job well done. He then tells them the others decided they wanted to take a swim by a small pond the other scouts found and the party is welcome to join. The water is heated by Melichia's magic and the children enjoy themselves as the 6th night on the road ends.
 
 Owyn and Werond pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Owyn convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
+
+#### Checkpoint Six: Everything has a Price
+
+*As the seventh day of your journey passes, you find yourselves all looking back on the events of your campaign against the Cult of the Dragon thus far. As your minds wander, you can't help but think about Rezmir's words again in the last 'vision' of her you saw. As you're all lost in thought, your focus is immediately jostled as someone rides up next to you from behind.*
+
+| D6  | Encounter                                                                                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | A small farmhouse occupied my a man and woman with a small child and their dog wave at your party as you pass by and give you supplies for the road. +4 Rations. |
+| 2   | The [[Mutated Dragon]] flies ahead and scouts the area, telling you to wait a bit before passing by as Bandits lay in ambush. Inspiration to the party.          |
+| 3   | 6 necromancers and their bandit hires are fighting 3 [[Talons of the Raven Queen]] agents comprised of an Assassin, a Frontliner and a Mage.                     |
+| 4   | Owyn and Wereond ride ahead and challenge one of you to a mounted race. Must pass 3 Acrobatics checks simultaneously (best of 5). Inspiration to the party.      |
+| 5   | The [[Cult of the Dragon]] finds the party and attacks them. 2 evokers, 2 archers, 2 warriors, 1 commander.                                                      |
+| 6   | 1d4+1 gorgons and a cyclops attacks the party as they impede on its territory.                                                                                   |
+
+During the convoy's nightly huddle, 
+
 
 #### Checkpoint ????: Snow
 
