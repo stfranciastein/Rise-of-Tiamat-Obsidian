@@ -159,6 +159,8 @@ Xixilathariazes will warn the party that up ahead about two days ride from the c
 
 Later that night, Noohar will approach the party again and become even more obnoxious about buying the item without getting more generous. Unless the character takes special precautions, the object disappears overnight. If the character accuses the NPC publicly the following morning, they make an enduring enemy; that NPC doesn't have the item and is incensed at the accusation. Someone else who witnessed the conversations the day before decided the other NPC provided perfect cover for a little nighttime thievery and took the missing item. To find the item, characters need to surreptitiously search people's bags and wagons, since few people will agree to have their belongings rifled through as if they were common thieves—especially not a common thief.
 
+If they haven't already put two and two together, [[Cacafonix]] will tell the party that it was likely the Dragonborn from last night who has since disappeared.
+
 #### Checkpoint Seven: Fungus Humongous
 
 *As the eight day begins on your journey north, the weather starts getting colder and colder. Even bundled up it's clear that it's only going to get worse the further north you get. It takes longer for the sun to rise and expel the darkness of Shar's cloak. You know well enough having lived this long in the Sword Coast that later on just when you think noon has just begun, it is already beginning to set.*
