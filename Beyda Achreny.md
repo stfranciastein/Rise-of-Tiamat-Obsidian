@@ -3,4 +3,4 @@
 
 ____
 
-Beyda Achreny is a tiefling commoner from [[Elturel]] who hop
+Beyda Achreny is a tiefling commoner from [[Elturel]]. She is fond of knitting and visits [[Waterdeep]] often during the winter.
