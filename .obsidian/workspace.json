@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "Tierbhal an Garrán"
             }
+          },
+          {
+            "id": "d7130aee536318c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tierbhal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -212,19 +223,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "886a9b7bf2adc1ed",
+  "active": "d7130aee536318c2",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
+    "04 - Locations/02 - The North/03 - Mithral Hall/Mithral Hall.md",
+    "Kagain Brawnanvil.md",
+    "Melchia Deleante.md",
     "Daithi Serelim.md",
     "Tadgh Serelim.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Vellin Farstride.md",
     "Radecere Perethun.md",
-    "Melchia Deleante.md",
     "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
     "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
     "Harvester.md",
-    "Kagain Brawnanvil.md",
-    "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "Alain Gilfont.md",
     "00 - Images/Alain Gilfont-1788915064896.webp",
@@ -243,7 +255,6 @@
     "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Adaya Smithwake.md",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/High Forest.md",
     "00 - Images/Vellin Farstride-1788910311856.webp",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Eamir an Garrán.md",
     "00 - Images/Court of Metal-1788465089285.webp",
     "00 - Images/Emerald Enclave-1788460662183.webp",
     "00 - Images/Emerald Enclave-1788460186283.webp",
