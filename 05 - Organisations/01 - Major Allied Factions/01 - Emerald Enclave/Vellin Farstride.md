@@ -1,4 +1,4 @@
-**Tags:** #NPC #Ranger #Gnome #Silvanus #EmeraldEnclave 
+**Tags:** #NPC #Ranger #Halfling #Silvanus #EmeraldEnclave 
 **Accent:** American, Loner
 
 ____

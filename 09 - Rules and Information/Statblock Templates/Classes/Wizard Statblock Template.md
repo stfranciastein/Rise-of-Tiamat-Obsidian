@@ -24,3 +24,6 @@
 `_**Sculpted Explosion [rollable](Recharge 4–6);{"diceNotation":"1d6", "rollType":"recharge", "rollAction":"Sculpted Explosion"}[/rollable].**_ The mage unleashes a magical explosion of a particular damage type: [rollable]cold;{"diceNotation":"9d8", "rollType":"damage", "rollAction":"Sculpted Explosion (Cold)", "rollDamageType":"cold"}[/rollable], [rollable]fire;{"diceNotation":"9d8", "rollType":"damage", "rollAction":"Sculpted Explosion (Fire)", "rollDamageType":"fire"}[/rollable], [rollable]lightning;{"diceNotation":"9d8", "rollType":"damage", "rollAction":"Sculpted Explosion (Lightning)", "rollDamageType":"lightning"}[/rollable], or [rollable]thunder;{"diceNotation":"9d8", "rollType":"damage", "rollAction":"Sculpted Explosion (Thunder)", "rollDamageType":"thunder"}[/rollable]. The magic erupts in a 20-foot-radius sphere centered on a point within 150 feet of the caster. Each creature in that area must make a DC 16 Dexterity saving throw. On a failed save, a creature takes 40 (9d8) damage of the chosen type and is knocked [condition]prone[/condition]. On a successful save, a creature takes half as much damage and isn’t knocked [condition]prone[/condition].`
 
 ## Bonus Actions
+
+## Reactions
+`_**Shield (4/day).**_ The Wizard can use the [spell]Shield[/spell] spell as a reaction, adding 5 to its AC in response to being hit with an attack roll.`
