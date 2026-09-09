@@ -4,4 +4,4 @@ The Amberside Markets are the primary trading area in [[Berdusk]]. It's a small 
 
 The wares sold here are usually non-perishables and art items. The stalls change frequently, and the chances of having the same spot is extremely low.
 
-The [[Zhentarim]] based in [[Bellblade's Throne]] use the centre of the markets as a hunting ground for looting people's gold and belongings.
+The [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] based in [[Bellblade's Throne]] use the centre of the markets as a hunting ground for looting people's gold and belongings.

@@ -17,7 +17,7 @@
 `4th level (1/day): [spell]Raulothim's Psychic Lance[/spell], [spell]Vitriolic Sphere[/spell].`
 
 ## Actions
-`_**Multiattack.**_ The mage makes two Arcane Burst attacks.`
+`_**Multiattack.**_ The wizard makes two Arcane Burst attacks.`
 
 `_**Arcane Burst.** Melee or Ranged Spell Attack:_ [rollable]+8;{"diceNotation":"1d20+8", "rollType":"to hit", "rollAction":"Arcane Burst"}[/rollable] to hit, reach 5 ft. or range 120 ft., one target. _Hit:_ 25 [rollable](4d10 + 3);{"diceNotation":"4d10+3", "rollType":"damage", "rollAction":"Arcane Burst", "rollDamageType":"force"}[/rollable] force damage.`
 

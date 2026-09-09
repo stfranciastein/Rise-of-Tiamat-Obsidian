@@ -226,7 +226,7 @@ If [[Alia Sanem 'Talis Kasterel']]'s information is not given, Aurelia will asce
 ____
 ### 2.6 The Mysterious Client
 
-A contact from the [[Zhentarim]] will deliver a note delivered by a crossbow bolt if they made a deal with [[Jamna Gleamsilver]]. The letter will be enclosed in a sealed envelope, marked by the seal of the [[Zhentarim]]. 
+A contact from the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] will deliver a note delivered by a crossbow bolt if they made a deal with [[Jamna Gleamsilver]]. The letter will be enclosed in a sealed envelope, marked by the seal of the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]]. 
 
 *Your peaceful walk down the cobbled road is disrupted by the sound of a man and woman arguing in the distance. The instigator looks to be a human woman with a buzzed head, wearing sleeveless black leathers that expose her heavily tattooed arms. The man, a Gnome with beat-up looking half-plate stands up from the ground and the two begin to fight. Before you can intervene, the whistling sound of a crossbow bolt catches your ear and you duck instinctively. In front of you, there is a bolt with what looks like a sealed up scroll attached to it.*
 

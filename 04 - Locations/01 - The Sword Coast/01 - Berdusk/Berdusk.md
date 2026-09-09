@@ -31,7 +31,7 @@ The [[Free Riders]] are Berdusk's cavalry. They are a collection of Orc, Goliath
 The [[Harpers]] make their home in Berdusk in [[Twilight Hall]]. High Harper [[Jaheria]] commands her forces from her seat in Berdusk. When the reclamation began, the [[Harpers]] aided [[Kurtog Chain-Smasher]]'s forces in minimising the damage done to the city streets. When House Spaeruthal and House Spaeruthal refused to surrender, the [[Harpers]] sided with the Orcs end the siege on the city. 
 
 ### Zhentarim
-The illusive Black Network of the [[Zhentarim]] has a heavy presence in Berdusk, to the point where it becomes almost impossible to report them for crimes. Even after the reclamation, the [[Zhentarim]] have retained their iron grip on the city's underside. [[Jamna Gleamsilver]] makes her home here when she's not on the road, specifically at the [[Bellblade's Throne]] tavern.
+The illusive Black Network of the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] has a heavy presence in Berdusk, to the point where it becomes almost impossible to report them for crimes. Even after the reclamation, the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] have retained their iron grip on the city's underside. [[Jamna Gleamsilver]] makes her home here when she's not on the road, specifically at the [[Bellblade's Throne]] tavern.
 
 _____
 ### NOTABLE LOCATIONS
@@ -42,7 +42,7 @@ _____
 5. [[Silver Sword]]: A blacksmith that is owned by a Minotaur male named Flint, along with his husband Steel.
 6. [[Twilight Hall]]: The seat of the [[Harpers]], and High Harper [[Jaheria]]'s home base.
 7. [[Evensong Towers]]: The seat of government in [[Berdusk]], current meeting place for the [[First Folk]].
-8. [[Bellblade's Throne]]: A well-estabished tavern that is owned by the [[Zhentarim]].
+8. [[Bellblade's Throne]]: A well-estabished tavern that is owned by the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]].
 9. [[The Pit]]: A temporary camp outside Berdusk which serves as its prison under the Orcs.
 
 #### Shrine of Remembrance

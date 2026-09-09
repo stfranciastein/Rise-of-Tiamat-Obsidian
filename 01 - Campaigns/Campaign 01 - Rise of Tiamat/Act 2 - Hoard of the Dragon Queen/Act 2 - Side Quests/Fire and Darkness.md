@@ -60,7 +60,7 @@ ____
 
 #### Waterdeep
 
-The organisation the Metallic Dragons are talking about are the [[Zhentarim]]. If the players are already working for them, then all they must do in [[Waterdeep]] is ask [[Jamna Gleamsilver]] for help. She will not agree unless the [[Heist of Goldmane Manor]] has been completed. If she has not already offered to hire the characters, she will do so then and there.
+The organisation the Metallic Dragons are talking about are the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]]. If the players are already working for them, then all they must do in [[Waterdeep]] is ask [[Jamna Gleamsilver]] for help. She will not agree unless the [[Heist of Goldmane Manor]] has been completed. If she has not already offered to hire the characters, she will do so then and there.
 
 ____
 ### PART III - A Short Leash

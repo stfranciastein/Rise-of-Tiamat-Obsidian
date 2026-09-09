@@ -22,7 +22,7 @@ On a DC 10 Medicine or Nature check, they will discover that the drink is alcoho
 
 THYRNN: I don't get a chance to drink this very often.
 
-The tabaxi will finish his drink in one slurp. If the players have not consumed their share, he will ask for it. This is the [[Zhentarim]] agent [[Thrynn]]. The tabaxi is halfway convinced of the adventurers' dedication, but then says that even if [[Jamna Gleamsilver]] vouched for them, the rest of the [[Zhentarim]] aren't convinced. He will first ask the party to steal something from the [[Guard's Barracks (Docks)]].
+The tabaxi will finish his drink in one slurp. If the players have not consumed their share, he will ask for it. This is the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] agent [[Thrynn]]. The tabaxi is halfway convinced of the adventurers' dedication, but then says that even if [[Jamna Gleamsilver]] vouched for them, the rest of the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] aren't convinced. He will first ask the party to steal something from the [[Guard's Barracks (Docks)]].
 
 THYRNN: So Jamna says to give you a job because she vouches for you. Me? I'm not so easily impressed. I've got a small test for you, if you will.
 
@@ -45,7 +45,7 @@ If [[Traxigor]] was met in [[Berdusk]], he will show up here again in an identic
 
 If [[Siddar Rockseeker]] is alive, he will arrive alongside [[Thrynn]] and greet the adventurers. He'll talk about how [[Gundren Rockseeker]] is still back in [[Shade Rest]] while he's back to his old haunts again. [[Thrynn]] will be blindsided but glad that the party has [[Siddar Rockseeker]]'s approval. This will let the players skip the [[Guard's Barracks (Docks)]] side objective.
 
-If [[Siddar Rockseeker]] is dead but [[Gundren Rockseeker]] was freed in [[Chapter 5.0 - Blood of the Wolf]], [[Thrynn]] will bring up how he heard about the events of [[Shade Rest]] and ask about what happened to [[Gundren Rockseeker]] who seems to have stopped keeping contact with the [[Zhentarim]]. On a DC 14 Insight check, players can learn he's asking for nefarious purposes.
+If [[Siddar Rockseeker]] is dead but [[Gundren Rockseeker]] was freed in [[Chapter 5.0 - Blood of the Wolf]], [[Thrynn]] will bring up how he heard about the events of [[Shade Rest]] and ask about what happened to [[Gundren Rockseeker]] who seems to have stopped keeping contact with the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]]. On a DC 14 Insight check, players can learn he's asking for nefarious purposes.
 
 ____
 ### PART II - The Client
@@ -86,7 +86,7 @@ Grinky can either be persuaded or intimidated (DC of 10 for either) into giving 
 1. Guildmaster Dusk: "Guildmaster Dusk is a purple Tiefling. She leads the Agile Hand. She's a twained assassin and she's got many powerful connections!"
 2. Getting inside: "L-look alwight alwight. Gettin' inside is gonna be 'ard. The windows of the guildhouse are all boawded up, see? And the doows are usually locked. At least thwee of us have access to the doows. The Guildmastew, Elix the Saint anothew Tiefling - people say he's puwple but I think he's blue (one of Dusk's lieutenants) - and Jaymont the Sinnew ouw spy. E's a genasi I think. Gwish the Gnome might have a key as well. B-b-b-but I think Elix is the easiest mawk. He likes to go to the [[Phontyr's Unicorn]] a lot."
 3. Guildhouse Guards: "By late evening most of the guild will have gone to bed. Senior guild members get some of us to work late-night shifts though... s-s-s-so...."
-4. Guild Membership: "Dusk isn't accepting any new members right now. He says it's because the [[Zhentarim]] are still too pronyment in [[Elturel]] and he can't risk getting infiwtwated."
+4. Guild Membership: "Dusk isn't accepting any new members right now. He says it's because the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] are still too pronyment in [[Elturel]] and he can't risk getting infiwtwated."
 5. Portrait's Location: "I-I-I don't know alwight? But I assume it's with the Guildmastew's Quawtews which is on the second floor or in the basement where the wookies are twained."
 6. Supplys: "Supplies are sometimes delivewed to the base by widews on howseback or by cawts. All supplies are inspected by Lawis Dwot, he's our stablemaster."
 
@@ -94,7 +94,7 @@ If the players fail three of their roles, Grinky will refuse to co-operate furth
 
 RENARD: Well that was certainly illuminating.
 
-RENARD: Grandmaster Dusk pretty much runs her guild the same way the [[Zhentarim]] does. They love larceny, blackmail, extortion and the rest of the lot. Now, normally my organisation wouldn't care about these things, but... they stole from the wrong people.
+RENARD: Grandmaster Dusk pretty much runs her guild the same way the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] does. They love larceny, blackmail, extortion and the rest of the lot. Now, normally my organisation wouldn't care about these things, but... they stole from the wrong people.
 
 RENARD: The painting is the work of a famed artist Dkesii Kwan (DUH-KE-SI KWAN) and was commissioned by the late Daiyani Grysthron (DAY-ANI GRYS-THRON), a grand dame in the criminal underworld. The painting isn't just a painting, it's sentient. It was made to eavesdrop on conversations and pass along any secrets it learned to its owner. Like its beautiful subject, the painting is notoriously vain.
 
@@ -115,7 +115,7 @@ RENARD: When the job is done come straight back here if you can. I'll keep an ey
 
 *Renard laughs and reaches inside his inner coat once more. He tosses a small black leather bag towards the adventurers and it lands on the table in front of you with a heavy thud.*
 
-RENARD: There's 500 in there now as a down payment. The rest will come once the job is done. Oh and don't try to double-cross me. The [[Zhentarim]] may be a large organisation, but they won't be able nor willing to protect you against mine's retaliation if you do.
+RENARD: There's 500 in there now as a down payment. The rest will come once the job is done. Oh and don't try to double-cross me. The [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] may be a large organisation, but they won't be able nor willing to protect you against mine's retaliation if you do.
 
 _____
 ### PART III - The Heist
@@ -511,5 +511,5 @@ Rifling through Grinky's belongings will net them 1 GP and a note which reads:
 	
 	Laurys
 
-RENARD: I'll tell the [[Zhentarim]] that this has been a very satisfying transaction. My organisation will definitely consider you for any jobs in the future. Farewell, friends. May the light of the Companion keep you safe in these trying times.
+RENARD: I'll tell the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] that this has been a very satisfying transaction. My organisation will definitely consider you for any jobs in the future. Farewell, friends. May the light of the Companion keep you safe in these trying times.
 

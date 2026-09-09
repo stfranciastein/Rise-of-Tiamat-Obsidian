@@ -21,4 +21,4 @@ ____
 
 With a little more experience under his belt, Glass will be able to perform upgrades for the [[Sylvira-Van]] based on the upgrades on that page. Additionally, he will begin work on three prototypes; the defensive bracer, the piercing bracer and the glider cloak.
 
-While in [[Baldur's Gate]], he will also ask the players for a contact that knows how to get 500 GP worth of Copper wire and the Essence of a Lightning Elemental. This contact can be any member of the [Guild](https://forgottenrealms.fandom.com/wiki/The_Guild) or the [[Zhentarim]]. If the players do not accept his request, he will go himself and need to be rescued from a thief encounter in the [[Lower City]].
+While in [[Baldur's Gate]], he will also ask the players for a contact that knows how to get 500 GP worth of Copper wire and the Essence of a Lightning Elemental. This contact can be any member of the [Guild](https://forgottenrealms.fandom.com/wiki/The_Guild) or the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]]. If the players do not accept his request, he will go himself and need to be rescued from a thief encounter in the [[Lower City]].

@@ -353,11 +353,11 @@ The ring is a [ring of evasion](https://5e.tools/items.html#ring%20of%20evasion_
 
 VIDORANT: It's worth more to you than the diadem—after all, it's part of how I've become such a famous thief. Whatever lie Tasha sold you on to agree to this isn't true. The fact of the matter is, she's still seething mad about a heist we did together all those years ago and will do anything to to make me look weak and her strong. But this ring you can keep. Tell whatever story you like about where you got it, as long as it's not from me. You get rich, I look strong, and no one's the wiser.
 
-If the players tell her that Tasha is supposed to provide them gear for the [[Heist of Goldmane Manor]], she will scoff and say if that's all Tasha has promised the [[Zhentarim]] she can match that offer. All they need to do is walk away and let Vidorant and Tasha settle their quarrel alone.
+If the players tell her that Tasha is supposed to provide them gear for the [[Heist of Goldmane Manor]], she will scoff and say if that's all Tasha has promised the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] she can match that offer. All they need to do is walk away and let Vidorant and Tasha settle their quarrel alone.
 
 If Vidorant knows the characters have taken items of significant value from her vault, she suggests an even better deal: if they return the most valuable items they stole, she'll also give them her [gloves of thievery](https://5e.tools/items.html#gloves%20of%20thievery_dmg), which she's currently wearing invisibly on her hands.
 
-VIDORANT: So, to summise, you take my ring and tell Tasha that you either gave up or whatever you want, and I provide the [[Zhentarim]] your gear. Do we have a deal?
+VIDORANT: So, to summise, you take my ring and tell Tasha that you either gave up or whatever you want, and I provide the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] your gear. Do we have a deal?
 
 ____
 ### CONCLUSION

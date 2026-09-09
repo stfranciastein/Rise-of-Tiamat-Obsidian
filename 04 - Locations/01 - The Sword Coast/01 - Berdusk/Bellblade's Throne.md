@@ -1,6 +1,6 @@
 **Tags:** #Berdusk #Innerchamber #Taverns 
 
-A tavern in [[Berdusk]] owned by the [[Zhentarim]]. 
+A tavern in [[Berdusk]] owned by the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]]. 
 
 Behind the bar is a large Orc male named Lortar. He will only be able to sell medium-tier alcohol, nothing imported or expensive.
 

@@ -48,6 +48,6 @@ For Act 3, players must pick one of the following act hooks if they are to join 
 
 5. The Circle you belong to has requested that you attend the [[Council of Waterdeep]] in order to help ready the other Circles for the war with the [[Cult of the Dragon]]. ==(Character is an Emerald Enclave member)==
 
-6. The leader of the [[Zhentarim]] wants to know what exactly the [[Council of Waterdeep]] is all about. Whoever they are has picked you as their eyes and ears and wants you to report on what the 'nobles' are up to. ==(Character is a Zhentarim Agent)==
+6. The leader of the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] wants to know what exactly the [[Council of Waterdeep]] is all about. Whoever they are has picked you as their eyes and ears and wants you to report on what the 'nobles' are up to. ==(Character is a Zhentarim Agent)==
 
 7. You are lone adventurer who had a run in with one of the remaining Wyrmspeakers's Dragonclaws and barely escaped with your life. Afraid, you ran to the nearest city you could find. When you arrived in [[Waterdeep]], the guards told you to report to the [[Council of Waterdeep]] to let them know of any information you may have learned.

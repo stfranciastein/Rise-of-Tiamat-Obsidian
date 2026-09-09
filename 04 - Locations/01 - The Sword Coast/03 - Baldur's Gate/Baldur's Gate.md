@@ -46,7 +46,7 @@ The Patriars are the ruling noble families of Baldur's Gate, from whose ranks th
 The [[Harpers]] maintain informal contacts throughout the city, including [[Roisin Ravenshade]] at the [[Elfsong Tavern]].
 
 #### Zhentarim
-The [[Zhentarim]] have a foothold in Baldur's Gate through agents such as [[Jamna Gleamsilver]].
+The [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] have a foothold in Baldur's Gate through agents such as [[Jamna Gleamsilver]].
 
 #### Talons of the Raven Queen
 The [[Talons of the Raven Queen]] operate out of the [[Temple of the Raven Queen]] in the Upper City under Second Talon [[Xaria Trevisa]].

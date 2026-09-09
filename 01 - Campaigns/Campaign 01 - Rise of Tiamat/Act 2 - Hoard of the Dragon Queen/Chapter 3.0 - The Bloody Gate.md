@@ -508,7 +508,7 @@ This will continue and conclude the quest [[Cold, Red-Blooded Murder]].
 ____
 ### 3.4 The Vault
 
-If any player is a member of the [[Zhentarim]] and/or agreed to work with [[Jamna Gleamsilver]], during their arrival in Rivington they will be subtly given a note asking to meet in [[Whitkeep Hostel]].
+If any player is a member of the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] and/or agreed to work with [[Jamna Gleamsilver]], during their arrival in Rivington they will be subtly given a note asking to meet in [[Whitkeep Hostel]].
 
 *As you walk down the length of the bridge, a woman bumps into you accidentally and profusely apologises. She gives you a subtly smirk and disappears into the crowd, as if she was never there to begin with.*
 

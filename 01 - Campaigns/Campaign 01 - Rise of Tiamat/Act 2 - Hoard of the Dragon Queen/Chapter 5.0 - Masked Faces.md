@@ -7,7 +7,7 @@ As a result of the climax of [[Chapter 4.0 - Long and Winding Road]], the charac
 ****
 ### **4.1 Separated!**
 
-Jamna Gleamsilver will meet the adventurers in Waterdeep once more, having found out their plans to stalk the [[Cult of the Dragon]]. Believing them to be the best shot at stopping whatever plans the Cult may have, she agrees to help the party pursue their trail but with a caveat. They must first help the [[Zhentarim]] with a job to rob something from an upcoming gala.
+Jamna Gleamsilver will meet the adventurers in Waterdeep once more, having found out their plans to stalk the [[Cult of the Dragon]]. Believing them to be the best shot at stopping whatever plans the Cult may have, she agrees to help the party pursue their trail but with a caveat. They must first help the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] with a job to rob something from an upcoming gala.
 
 ****
 ### **4.2 Information**

@@ -30,7 +30,7 @@ In [[Act 2 - Hoard of the Dragon Queen]], Severin oversees [[Wyrmspeaker Rezmir]
 #### Act III
 In [[Act 3 - Rise of Tiamat]], Severin will make many recurring appearances as the Red Wyrmspeaker. Most notably, in the beginning of [[Placeholder]] he will send assassins to attack the players. The point of this is to trick them into thinking the [[Blue Dragon Mask]] is in [[Mintarn]]. When the players arrive, they will be attacked by [[Lennithon]] who will fight them to the death. During this time, he will send [[Hoondarhh]], [[Voaraghamanthar]] and [[Venomfang]] to attack [[Waterdeep]]. 
 
-If the [[Goldmane Manor]] heist was completed and [[Blue Dragon Mask]] was given to [[Jamna Gleamsilver]], Severin will know that it has been moved to [[Baldur's Gate]]. He will use the attack on [[Waterdeep]] as a distraction to send a group of soldiers lead by [[Arkhan the Cruel]] to kill the [[Zhentarim]] leadership and take back the mask. 
+If the [[Goldmane Manor]] heist was completed and [[Blue Dragon Mask]] was given to [[Jamna Gleamsilver]], Severin will know that it has been moved to [[Baldur's Gate]]. He will use the attack on [[Waterdeep]] as a distraction to send a group of soldiers lead by [[Arkhan the Cruel]] to kill the [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] leadership and take back the mask. 
 
 If the [[Goldmane Manor]] heist was completed and the [[Blue Dragon Mask]] was given to [[Laeral Silverhand]], [[Arkhan the Cruel]] will attempt to kill her which results in the death of [[Torbar Dragonsbane]] who protects her long enough for [[Cormyc Ravenshade]]'s forces to arrive in [[Waterdeep]] but still takes the [[Blue Dragon Mask]]. 
 

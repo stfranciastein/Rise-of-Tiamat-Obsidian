@@ -73,7 +73,7 @@ Known as the defenders of the city, the [[Order of the Companion]] makes up a sm
 There is a Chapter of the [[Order of the Gauntlet]] lead by [[Ontharr Frume]] in Elturel at the [[Hall of the Triad]] in the North portion of the city. They are well-respected and revered by the locals. Currently, hundreds of Gauntlet members make their home in Elturel.
 
 #### Zhentarim
-The [[Zhentarim]] have no formal outpost in Elturel, yet. However, they are trying to establish a presence here by ousting the Agile Hand. [[Thrynn]] is permanently stationed here under their orders, along with a two dozen operatives.
+The [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] have no formal outpost in Elturel, yet. However, they are trying to establish a presence here by ousting the Agile Hand. [[Thrynn]] is permanently stationed here under their orders, along with a two dozen operatives.
 
 ____
 ### NOTABLE LOCATIONS

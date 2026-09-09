@@ -1,3 +1,0 @@
-Nauk is a half-orc warrior and a former senior member of the [[Free Riders]] in [[Berdusk]]. He is also publicly known as one of the Sword Coast's most famous mercenaries. He dresses in full battle gear, even when just sitting down for a discussion with a possible client or before bed. This is because what he wears and wields show clients what he brings to the table. He wears a set of Adamantine Armour and carries a large enchanted warhammer.
-
-In reality, Nauk is an arms dealer who moves cargo by pretending to be a mercenary and joining convoys to smuggle goods. He is a well respected member of the [[Zhentarim]], regularly helping them on jobs in either [[Baldur's Gate]], [[Waterdeep]] or [[Neverwinter]].

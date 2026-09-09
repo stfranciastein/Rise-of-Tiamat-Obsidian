@@ -4,7 +4,7 @@
 
 The Arcane Thread is a magic shop run by a summer Eladrin named Phoere in [[Berdusk]]. It is located in the [[Amberside Markets]].
 
-Nobody knows when Phoere came to Toril or why. All the people of [[Berdusk]] know is that one day, one of the shopfronts in the [[Amberside Markets]] was suddenly occupied by a strange shop. The [[Zhentarim]] once tried to ask Phoere for 'protection money', but the agents they sent were suddenly lost. Phoere went out into the woods that day and released two rabbits into the wilds during hunting season. To this day, she continues to be the proprietor of [[Arcane Thread]]. 
+Nobody knows when Phoere came to Toril or why. All the people of [[Berdusk]] know is that one day, one of the shopfronts in the [[Amberside Markets]] was suddenly occupied by a strange shop. The [[05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Zhentarim]] once tried to ask Phoere for 'protection money', but the agents they sent were suddenly lost. Phoere went out into the woods that day and released two rabbits into the wilds during hunting season. To this day, she continues to be the proprietor of [[Arcane Thread]]. 
 
 *The outside of this shop is quite narrow and meek, but steeping inside makes it abundantly clear it was deliberately enchanted to appear smaller. The space inside is three times larger than what the outside suggests. Books line the right walls while a female elf with golden skin, quite literally flaming red hair and a crown of roses stands at her desk dutifully with a smile on her face. Above her, a tiny spectral Hollyphant tumbles across the air sorting out the shelves for her.*
 
