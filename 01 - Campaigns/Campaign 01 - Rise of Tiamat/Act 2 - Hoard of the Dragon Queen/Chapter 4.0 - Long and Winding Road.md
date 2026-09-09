@@ -129,7 +129,7 @@ This immediately begins the [[Twenty-Sided Trouble at the Big Bad Base]] side qu
 
 Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party for a job well done. He then tells them the others decided they wanted to take a swim by a small pond the other scouts found and the party is welcome to join. The water is heated by [[Melchia Deleante]] magic and the children enjoy themselves as the 6th night on the road ends.
 
-Vellin and pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Vellin convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
+[[Vellin Farstride]] will pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Vellin convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
 
 [[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]]. If any of the characters seem put off by him, he will drop his ostentatious act and say the following.
 
@@ -191,7 +191,7 @@ Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When 
 | 5   | A stone golem and two galem duhrs disgused as rocks attack the party. The party is surprised.                                                                                                                                                                                                                                                                                                                            |
 | 6   | 3 Adult Bulettes attack the caravan and destroy one of the wheels. The party is surprised.                                                                                                                                                                                                                                                                                                                               |
 
-That night, Werond will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. Owyn will say it was likely created by the Elves of the [[Misty Forest]], but Werond tells the tale anyway.
+That night, [[Kagain Brawnanvil]] will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. [[Vellin Farstride]] will say it was likely created by the Elves of the [[Misty Forest]], but Werond tells the tale anyway.
 
 WEROND: It's said that the Golden Stag only appears to those who are destined for great things. It can sense if you're meant to become a hero.
 
