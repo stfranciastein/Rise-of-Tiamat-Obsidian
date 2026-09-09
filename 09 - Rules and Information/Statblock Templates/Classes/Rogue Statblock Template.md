@@ -9,3 +9,6 @@
 `_**Cunning Action.**_ The rogue takes the [action]Dash[/action], [action]Disengage[/action], or [action]Hide[/action] action.`
 
 `_**Steady Aim.**_ The rogue gives itself [rules]advantage[/rules] on its next attack roll provided it has not expended its movement speed. For the duration of its turn, its speed is reduced to 0 and it cannot benefit from the [action]Dash[/action] action.`
+
+## Reactions
+`***Uncanny Dodge.*** When the rogue is hit with an attack roll by a creature it can see, it can take a reaction to halve the attack's damage against it (round down).`
