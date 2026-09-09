@@ -1,5 +1,5 @@
 **Tags:** #NPC #Ranger #Gnome #Silvanus #EmeraldEnclave 
-**Accent:** American, Southern
+**Accent:** American, Loner
 
 ____
 ### BACKSTORY
