@@ -8,4 +8,4 @@ ___
 
 He once visited [[Candlekeep]] briefly to see [[Mattias Greenwood]], a childhood friend. After the events of [[Chapter 3.0 - Candlekeep]], he arrived in the fortress only to find out that he had been assassinated. He stayed in [[Baldur's Gate]] for a while in order to let himself process the grief.
 
-During the Tyranny of Dragons, Alain is currently writing a thesis on the current increase of natural disasters happening across the Sword Coast.
+During the Tyranny of Dragons, Alain is in the process of writing a thesis on the current increase of natural disasters happening across the Sword Coast. He believes this to be attached to an impeding cataclysmic event, similar to the Spellplague.
