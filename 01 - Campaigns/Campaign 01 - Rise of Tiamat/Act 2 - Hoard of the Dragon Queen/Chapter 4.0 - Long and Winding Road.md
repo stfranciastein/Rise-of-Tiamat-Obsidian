@@ -191,29 +191,29 @@ Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When 
 | 5   | A stone golem and two galem duhrs disgused as rocks attack the party. The party is surprised.                                                                                                                                                                                                                                                                                                                            |
 | 6   | 3 Adult Bulettes attack the caravan and destroy one of the wheels. The party is surprised.                                                                                                                                                                                                                                                                                                                               |
 
-That night, [[Kagain Brawnanvil]] will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. [[Vellin Farstride]] will say it was likely created by the Elves of the [[Misty Forest]], but Werond tells the tale anyway.
+That night, [[Kagain Brawnanvil]] will tell the party about the rumoured 'Golden Stag' in the Fields of the Dead. 'Ranger' or [[Renaer Neverember]] will tell him that it's simply a myth. [[Vellin Farstride]] will say it was likely created by the Elves of the [[Misty Forest]], but Kagain tells the tale anyway.
 
-WEROND: It's said that the Golden Stag only appears to those who are destined for great things. It can sense if you're meant to become a hero.
+KAGAIN: It's said that the Golden Stag only appears to those who are destined for great things. It can sense if you're meant to become a hero.
 
 RANGER: Hah, then it'll definitely keep itself hidden from you.
 
 *The crowd around the campfire laughs as the Ranger says this. Werond rolls his eyes sarcastically and continues telling the tale. He tells the campfire that the last time it showed up it was to Abdel Adrian of Baldur's Gate right before the Iron Crisis. He describes how later in life, Abdel Adrian became a chosen of the Helm and became the Grand Duke of Baldur's Gate. As you look to your left, the ranger is clearly not impressed, and Werond scoffs.*
 
-WEROND: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
+KAGAIN: Alright, if you're so unbothered by the tale of the Golden Stag what do you believe in?
 
 RANGER: I've not heard of a stag, but there is one tale about a Golden creature they tell in Neverwinter. I heard it a lot growing up from all sorts of Knights that would pass through the city. Are any of you familiar with the War of the Silver Marches?
 
 *The children all gather around to listen intently to the Ranger spin his tale. He smiles as one of them gets up close next to him and clears his throat. 
 
-[[Renaer Neverember]] tells the tale of House Baenre's war on the Silver Marches, after the Legendary ranger Drizzt Do'Urden forsook Lolth for Mielikki, and how Lolth's Chosen blackened the skies in answer. Dwarves and elves fell by the hundreds fighting the Underdark's armies. Silverymoon, Mithral Hall, Citadel Adbar, Felbar all of them banded under one banner, and still the tide didn't turn.
+[[Renaer Neverember]] tells the tale of House Baenre's war on the Silver Marches, after the Legendary ranger Drizzt Do'Urden forsook Lolth for Mielikki, and how Lolth's Chosen blackened the skies in answer. Dwarves and elves fell by the hundreds fighting the Underdark's armies. [[Silverymoon]], [[Mithral Hall]], Citadel Adbar, Citadel Felbar all of them banded under one banner, and still the tide didn't turn.
 
-It came down to one battle on the banks of the River Surbin. Drizzt's allies, the elves, the dwarves all of them being ground down. And that's when the sky split open, and three Ancient Metallic dragons descended: Tazmikella and Ilnezhara the Coppers, and King [[Protanther the Gold]]. Drizzt had asked for a favour from the gods, and Mielikki's in return asked for the Platinum Dragon's help. On their backs rode knights in white armor; the Vanguard of Bahamut who blessed by the Father of Dragons himself. They crashed into Lolth's army, and no chromatic dragons nor army of drow or duergar could stand against Protanther's might.
+It came down to one battle on the banks of the River Surbin. Drizzt's allies, the elves, the dwarves all of them being ground down. And that's when the sky split open, and three Metallic dragons descended: Tazmikella and Ilnezhara the Coppers, and King [[Protanther the Gold]], an Ancient Gold Dragon. Drizzt had asked for a favour from the gods, and Mielikki's in return asked for the Platinum Dragon's help. On their backs rode knights in white armor; the Vanguard of Bahamut who blessed by the Father of Dragons himself. They crashed into Lolth's army, and no chromatic dragons nor army of drow or duergar could stand against Protanther's might.
 
-WEROND: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
+KAGAIN: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
 RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt Mielikki's ear. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and Helm rewarded him for his perseverance. 
 
-WEROND: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
+KAGAIN: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
 
 #### Checkpoint IX: The Golden Stag
 
