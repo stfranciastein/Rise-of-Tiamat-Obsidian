@@ -34,20 +34,6 @@
               "icon": "lucide-file",
               "title": "Group A - Act 2 - Session 35"
             }
-          },
-          {
-            "id": "a21f3dfed73cd8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3.0 - The Bloody Gate"
-            }
           }
         ],
         "currentTab": 1
@@ -84,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cacafoni",
+                "query": "balthaz",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "801af31b8bed310f",
+  "active": "b33abf1f2fd9618e",
   "lastOpenFiles": [
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
