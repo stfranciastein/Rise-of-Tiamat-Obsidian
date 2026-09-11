@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d7130aee536318c2",
+            "id": "a21f3dfed73cd8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Chapter 3.0 - The Bloody Gate"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,9 +69,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EmeraldEnclave",
+                "query": "elias",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -94,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,10 +213,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7130aee536318c2",
+  "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar Baradult.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Lower City.md",
+    "05 - Organisations/03 - Candlekeep/Candlekeep.md",
+    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
+    "05 - Organisations/03 - Candlekeep/Shopkeepers/Kheril Hammerbind.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Sorcerous Sundries.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 6.0 - Castle Naerytar.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 7.0 - Hunting Lodge.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
@@ -233,15 +242,6 @@
     "09 - Rules and Information/Statblock Templates/Classes/Rogue Statblock Template.md",
     "02 - Adventurers/Other Companions/Cacafonix.md",
     "00 - Images/Cannon-1788962596614.webp",
-    "09 - Rules and Information/Statblock Templates/Classes/Ranger Statblock Template.md",
-    "Alain Gilfont.md",
-    "Melchia Deleante.md",
-    "05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Nauk Flame-Arrow.md",
-    "Daithi Serelim.md",
-    "Tadgh Serelim.md",
-    "Radecere Perethun.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Vellin Farstride.md",
-    "Beyda Achreny.md",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",
     "00 - Images/Nauk Flame-Arrow-1788911234856.webp",
