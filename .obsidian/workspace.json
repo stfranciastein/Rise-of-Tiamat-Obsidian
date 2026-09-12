@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
+                "file": "09 - Rules and Information/Weapons and Armour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group A - Act 2 - Session 35"
+              "title": "Weapons and Armour"
             }
           }
         ],
@@ -94,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,10 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33abf1f2fd9618e",
+  "active": "801af31b8bed310f",
   "lastOpenFiles": [
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
+    "09 - Rules and Information/Magic Scrolls and Scribing.md",
+    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
+    "09 - Rules and Information/Expanded Reincarnate Table.md",
+    "09 - Rules and Information/Cost of Living.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 33.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 25.md",
@@ -238,10 +241,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
     "02 - Adventurers/Group B/Caradil Anduin/Caradil Anduin.md",
     "02 - Adventurers/Group B/Caradil Anduin/Letter from Caradil the Glimmershields.md",
-    "02 - Adventurers/Group B/Soma/Soma.md",
-    "02 - Adventurers/Group B/Vargrach/Vargrach.md",
-    "02 - Adventurers/Group B/The Bush Whackers.md",
-    "02 - Adventurers/Other Companions/Cannon.md",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",

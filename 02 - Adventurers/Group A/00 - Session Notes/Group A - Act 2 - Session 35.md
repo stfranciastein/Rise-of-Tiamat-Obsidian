@@ -6,7 +6,7 @@ Spending their last day in Baldur's Gate and Candlekeep, they discovered some gr
 
 Returning to Baldur's Gate, Impyerno Lima finished up their business in the city. At Lioran's behest, they visited Hhune House in the Upper City in an attempt to deal with a group of greater Devils in the guise of humans. Unfortunately, while they nearly won the battle, Lutecia Hhune managed to Plane Shift to Avernus and escaped. 
 
-Now they head off north to Waterdeep alongisde a merchant convoy lead by Balthazaar Baradult, with a long, winding road separating them between the Bloody Gate and the City of Splendors.
+Now, on the 22nd of Uktar they head off north to Waterdeep alongisde a merchant convoy lead by Balthazaar Baradult, with a long, winding road separating them between the Bloody Gate and the City of Splendors.
 
 ____
 ### Reminders
