@@ -53,12 +53,12 @@ ____
 
 These will mostly only be sold in Sorcerous Sundries, the Bazaar of Chanszobur or Candlekeep going forward.
 
-- Manual of Language Learning (Uncommon): 25 GP - Must spend 15 days reading the book.
-- Manual of Language Learning (Rare): 250 GP - Must spend 30 days reading the book.
+- ***Manual of Language Learning (Uncommon):*** 25 GP - Must spend 15 days reading the book.
+- ***Manual of Language Learning (Rare):*** 250 GP - Must spend 30 days reading the book.
   
   You can learn a maximum of four languages through this method.
 
-- Manual of Weapon Proficiency: 1000 GP - Must spend 30 days reading the book.
-- Manual of Tool Proficiency: 1000 GP - Must spend 30 days reading the book.
+- ***Manual of Weapon Proficiency:*** 1000 GP - Must spend 30 days reading the book.
+- ***Manual of Tool Proficiency:*** 1000 GP - Must spend 30 days reading the book.
   
   You can learn a combined maximum of two proficiencies through this method.
