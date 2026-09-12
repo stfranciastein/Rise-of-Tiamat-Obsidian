@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 25"
+              "title": "Group B - Act 2 - Session 26"
+            }
+          },
+          {
+            "id": "5451e05fd17438f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Organisations/03 - Candlekeep/Candlekeep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Candlekeep"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balthaz",
+                "query": "rules of acc",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -79,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,8 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "886a9b7bf2adc1ed",
+  "active": "5451e05fd17438f3",
   "lastOpenFiles": [
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 24.md",
+    "09 - Rules and Information/Cost of Living.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
     "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Sorcerer Statblock Template.md",
@@ -209,10 +229,8 @@
     "09 - Rules and Information/Magic Scrolls and Scribing.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "09 - Rules and Information/Expanded Reincarnate Table.md",
-    "09 - Rules and Information/Cost of Living.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 33.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 25.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "02 - Adventurers/Other Companions/Cacafonix.md",
@@ -224,8 +242,6 @@
     "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
     "05 - Organisations/03 - Candlekeep/Shopkeepers/Kheril Hammerbind.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Lower City/Sorcerous Sundries.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",
