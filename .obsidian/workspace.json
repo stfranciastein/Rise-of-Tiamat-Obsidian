@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Rules and Information/Weapons and Armour.md",
+                "file": "09 - Rules and Information/Weapons, Armour, Consumables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons and Armour"
+              "title": "Weapons, Armour, Consumables"
             }
           }
         ],
@@ -213,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "801af31b8bed310f",
+  "active": "eed9977703b5d50d",
   "lastOpenFiles": [
     "09 - Rules and Information/Magic Scrolls and Scribing.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
