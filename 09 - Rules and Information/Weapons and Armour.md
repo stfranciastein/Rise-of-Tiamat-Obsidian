@@ -16,8 +16,6 @@ Combat items are primarily good for killing things. A few have other uses as wel
 | Mithral Armour       | Commissioned from Elven or Dwarven Smith.                                                  | 40                   | 1500 (on top of base price)   |
 | Adamantine Armour    | Commissioned only in Mithral Hall.                                                         | 90                   | 5000 (on top of base price)   |
 
-
-
 ### Weapons
 
 | Name                    | Requirements                                                                       | Crafting Time (Days) | Price (GP)                    |
@@ -30,8 +28,6 @@ Combat items are primarily good for killing things. A few have other uses as wel
 | Wand of the War Mage +3 | Act 3. Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour. | 240                  | 19,000                        |
 | Flame Tongue Weapon     | Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour.        | 15                   | 1500 (on top of base price)   |
 | Vicious Weapon          | Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour.        | 15                   | 2000 (on top of base price)   |
-
-
 
 ### Consumables
 
