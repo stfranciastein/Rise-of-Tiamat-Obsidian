@@ -62,7 +62,7 @@ You can learn a combined maximum of two proficiencies through this method.
 ____
 ### Enspelled Weapons, Staves and Armour
 
-All of these can only be commissioned from Erudite Outfitters in Candlekeep. Sorcerous Sundries in Baldur's Gate or the Bazaar of Chanszobur in Waterdeep. The item is the thing casting that the spell comes from, not you. The item's **save DCs and attack bonuses do not scale with yours.**
+All of these can only be commissioned from Erudite Outfitters in Candlekeep. Sorcerous Sundries in Baldur's Gate or the Bazaar of Chanszobur in Waterdeep. The item is the thing the spell comes from, not you. The item's **save DCs and attack bonuses do not scale with yours.**
 
 Enspelled items have 6 charges and regains 1d6 expended charges daily at dawn. Any item you have enspelled uses 1 charge to cast its spell.
 
