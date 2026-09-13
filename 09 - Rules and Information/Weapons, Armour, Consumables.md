@@ -27,7 +27,7 @@ Combat items are primarily good for killing things. A few have other uses as wel
 | Wand of the War Mage +2 | Act 3. Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobur.  | 60                   | 5000                         |
 | Wand of the War Mage +3 | Act 3. Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour. | 240                  | 19,000                       |
 | Flame Tongue Weapon     | Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour.        | 15                   | 5000 (on top of base price)  |
-| Vicious Weapon          | Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour.        | 15                   | 3000 (on top of base price)  |
+| Vicious Weapon          | Only commissioned in Candlekeep, Sorcerous Sundries, Bazaar of Chanszobour.        | 15                   | 4000 (on top of base price)  |
 
 ### Consumables
 
@@ -58,3 +58,36 @@ You can learn a maximum of four languages through this method.
 - ***Manual of Tool Proficiency:*** 1000 GP - Must spend 30 days reading the book.
 
 You can learn a combined maximum of two proficiencies through this method.
+
+____
+### Enspelled Weapons, Staves and Armour
+
+All of these can only be commissioned from Erudite Outfitters in Candlekeep. Sorcerous Sundries in Baldur's Gate or the Bazaar of Chanszobur in Waterdeep. The item is the thing casting that the spell comes from, not you. The item's **save DCs and attack bonuses do not scale with yours.**
+
+Enspelled items have 6 charges and regains 1d6 expended charges daily at dawn. Any item you have enspelled uses 1 charge to cast its spell.
+
+Eligible items: martial weapons, simple weapons, staves, all armour types.
+
+**You cannot Enspell any item that is already magical, including Adamantine or Mithral.**
+
+| Name                       | School of Magic                                                | Save DC | Attack Bonus | Crafting Time (Days) | Price (GP) |
+| -------------------------- | -------------------------------------------------------------- | ------- | ------------ | -------------------- | ---------- |
+| Enspelled Armour (Cantrip) | Abjuration or Illusion                                         | 13      | +5           | 10                   | 2,500      |
+| Enspelled Armour (Level 1) | Abjuration or Illusion                                         | 13      | +5           | 20                   | 3,500      |
+| Enspelled Armour (Level 2) | Abjuration or Illusion                                         | 13      | +5           | 30                   | 4,500      |
+| Enspelled Armour (Level 3) | Abjuration or Illusion                                         | 15      | +7           | 40                   | 5,500      |
+| Enspelled Armour (Level 4) | Abjuration or Illusion                                         | 15      | +7           | 50                   | 7,500      |
+| Enspelled Armour (Level 5) | Abjuration or Illusion                                         | 17      | +9           | 60                   | 8,500      |
+| Enspelled Staff (Cantrip)  | Any                                                            | 13      | +5           | 10                   | 3,000      |
+| Enspelled Staff (Level 1)  | Any                                                            | 13      | +5           | 20                   | 4,000      |
+| Enspelled Staff (Level 2)  | Any                                                            | 13      | +5           | 30                   | 5,000      |
+| Enspelled Staff (Level 3)  | Any                                                            | 15      | +7           | 40                   | 6,000      |
+| Enspelled Staff (Level 4)  | Any                                                            | 15      | +7           | 50                   | 9,000      |
+| Enspelled Staff (Level 5)  | Any                                                            | 17      | +9           | 60                   | 10,000     |
+| Enspelled Weapon (Cantrip) | Conjuration, Divination, Evocation Necromancy or Transmutation | 13      | +5           | 10                   | 3,000      |
+| Enspelled Weapon (Level 1) | Conjuration, Divination, Evocation Necromancy or Transmutation | 13      | +5           | 20                   | 4,000      |
+| Enspelled Weapon (Level 2) | Conjuration, Divination, Evocation Necromancy or Transmutation | 13      | +5           | 30                   | 5,000      |
+| Enspelled Weapon (Level 3) | Conjuration, Divination, Evocation Necromancy or Transmutation | 15      | +7           | 40                   | 6,000      |
+| Enspelled Weapon (Level 4) | Conjuration, Divination, Evocation Necromancy or Transmutation | 15      | +7           | 50                   | 9,000      |
+| Enspelled Weapon (Level 5) | Conjuration, Divination, Evocation Necromancy or Transmutation | 17      | +9           | 60                   | 10,000     |
+
