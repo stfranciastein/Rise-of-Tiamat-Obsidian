@@ -36,7 +36,7 @@ ____
 ### NOTABLE LOCATIONS
 
 1. The Arched Gates: Protected by five priests of [Deneir](https://forgottenrealms.fandom.com/wiki/Deneir); [[Ara Silverfire]], [[Filandra Asala]], [[Astara Vox]], [[Sildur Yentris]], [[Darrieth Brightflame]]. On the off-nights, they are replaced by Storr, Saryn, Illaro, Illarya and Darron, [[Darrieth Brightflame]]'s son.
-2. House of Rest: the receptionist is an Air Genasi named Cloudia.
+2. House of Rest: the receptionist is an Air Genasi named Nimbus.
 3. The Hearth: Run by a human woman named [[Yedda]], formerly run by Filmur.
 4. Granary Tower: Bird's nest for animal messenging.
 5. House of the Binder: Printing shop run by gnomes. Proprietor is called [[Hugo]].
