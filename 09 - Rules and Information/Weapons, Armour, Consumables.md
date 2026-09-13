@@ -60,7 +60,7 @@ You can learn a maximum of four languages through this method.
 You can learn a combined maximum of two proficiencies through this method.
 
 ____
-### Enspelled Weapons, Staves and Armour
+### Enspelled Armours, Weapons and Staves
 
 All of these can only be commissioned from Erudite Outfitters in Candlekeep. Sorcerous Sundries in Baldur's Gate or the Bazaar of Chanszobur in Waterdeep. The item is the thing the spell comes from, not you. The item's **save DCs and attack bonuses do not scale with yours.**
 
