@@ -11,10 +11,14 @@
             "id": "886a9b7bf2adc1ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fire and Darkness"
             }
           },
           {
@@ -223,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33abf1f2fd9618e",
+  "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
     "05 - Organisations/02 - Cult of the Dragon/Red Dragon/Severin Silrajin.md",
     "05 - Organisations/01 - Major Allied Factions/07 - Court of Metal/Protanther the Gold.md",
