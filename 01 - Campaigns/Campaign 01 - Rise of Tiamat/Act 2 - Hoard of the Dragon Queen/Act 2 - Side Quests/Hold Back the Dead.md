@@ -44,6 +44,8 @@ Defending and helping with [[Ironspine Keep]] is entirely optional. If the party
 
 If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
+[[Corlie Halvachar]]  will say that the best way to make sure the walls are safe is to have one party member defend one part of the wall while the others spread out. 
+
 | Direction  | City          | Defender                        | Siege Weapon        |
 | ---------- | ------------- | ------------------------------- | ------------------- |
 | North      | Baldur's Gate | [[Nauk Flame-Arrow]] (Fighter)  | Clockwork Trebuchet |
