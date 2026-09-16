@@ -34,3 +34,13 @@ RENAER: We can't hold back hundreds of undead. Let alone-
 
 ALAIN: Vellin and Kagain say that they spotted activity to the north and north west. They've gone up to take a closer look, should be back with us before nightfall.
 
+CORLIE: I'll tell it to you straight, adventurers. This fortress was only reclaimed a few tendays ago. We didn't expect such an immediate and overwhelming attack. We're equipped to deal with rowdy bandits and trolls, not hordes of undead. Old cracks mar the stonework and a lot of the stones are uneven. The dwarves haven't had the chance to fix it, and I fear they may not.
+
+CACAFONIX: A well-timed escape is possible, as always. But it would mean abandoning this fortress to the invaders.
+
+CORLIE: Not an option, at least for me. Given how dark it is and how many of you there are, you're all welcome to rest for the night within our walls, but you'll have to supply your own rations and foodstuffs. Any day now the undead could return.
+
+If the party decides to leave, it automatically fails this quest, and [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]]. If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them.
+
+
+
