@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Rules and Information/Weapons, Armour, Consumables.md",
-                "mode": "preview",
+                "file": "05 - Organisations/01 - Major Allied Factions/07 - Court of Metal/Tazmikella 'Zalla Temik' the Copper.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons, Armour, Consumables"
+              "title": "Tazmikella 'Zalla Temik' the Copper"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "tazmike",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5,
-    "collapsed": true
+    "width": 405.5
   },
   "right": {
     "id": "44379c75f1acca37",
@@ -228,8 +227,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac5e65c75b0bff1a",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
+    "09 - Rules and Information/Weapons, Armour, Consumables.md",
     "09 - Rules and Information/Expanded Reincarnate Table.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
@@ -251,7 +251,6 @@
     "09 - Rules and Information/Statblock Templates/Classes/Sorcerer Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Cleric Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Factions/Talons of the Raven Queen Statblock Template.md",
-    "09 - Rules and Information/Weapons, Armour, Consumables.md",
     "09 - Rules and Information/Magic Scrolls and Scribing.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 33.md",
