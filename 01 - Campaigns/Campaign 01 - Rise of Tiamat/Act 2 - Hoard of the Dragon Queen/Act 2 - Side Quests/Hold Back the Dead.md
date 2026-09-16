@@ -44,11 +44,11 @@ Defending and helping with [[Ironspine Keep]] is entirely optional. If the party
 
 If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
-| Direction  | City          | Defender              | Siege Weapon        |
-| ---------- | ------------- | --------------------- | ------------------- |
-| North      | Baldur's Gate | [[Nauk Flame-Arrow]]  | Clockwork Trebuchet |
-| North East | Waterdeep     | [[Alain Gilfont]]     | Storm Cannon        |
-| South East | Elturel       | [[Vellin Farstride]]  | Enchanted Ballista  |
-| South West | Neverwinter   | [[Renaer Neverember]] | Automatic Ballista  |
-| North West | Mithral Hall  | [[Kagain Brawnanvil]] | Forge Launcher      |
+| Direction  | City          | Defender                        | Siege Weapon        |
+| ---------- | ------------- | ------------------------------- | ------------------- |
+| North      | Baldur's Gate | [[Nauk Flame-Arrow]] (Fighter)  | Clockwork Trebuchet |
+| North East | Waterdeep     | [[Alain Gilfont]] (Wizard)      | Storm Cannon        |
+| South East | Elturel       | [[Vellin Farstride]] (Ranger)   | Enchanted Ballista  |
+| South West | Neverwinter   | [[Renaer Neverember]] (Ranger)  | Automatic Ballista  |
+| North West | Mithral Hall  | [[Kagain Brawnanvil]] (Fighter) | Forge Launcher      |
 
