@@ -40,7 +40,13 @@ CACAFONIX: A well-timed escape is possible, as always. But it would mean abandon
 
 CORLIE: Not an option, at least for me. Given how dark it is and how many of you there are, you're all welcome to rest for the night within our walls, but you'll have to supply your own rations and foodstuffs. Any day now the undead could return.
 
-If the party decides to leave, it automatically fails this quest, and [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]]. If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them.
+If the party decides to leave, it automatically fails this quest, and [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]]. If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
-
+| Direction  | City          | Defender              | Siege Weapon        |
+| ---------- | ------------- | --------------------- | ------------------- |
+| North      | Baldur's Gate | [[Nauk Flame-Arrow]]  | Clockwork Trebuchet |
+| North East | Waterdeep     | [[Alain Gilfont]]     | Storm Cannon        |
+| South East | Elturel       | [[Vellin Farstride]]  | Enchanted Ballista  |
+| South West | Neverwinter   | [[Renaer Neverember]] | Automatic Ballista  |
+| North West | Mithral Hall  | [[Kagain Brawnanvil]] | Forge Launcher      |
 
