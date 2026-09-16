@@ -54,3 +54,11 @@ If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects 
 | South West | Neverwinter   | [[Renaer Neverember]] (Ranger)  | Automatic Ballista  |
 | North West | Mithral Hall  | [[Kagain Brawnanvil]] (Fighter) | Forge Launcher      |
 
+____
+### CONCLUSION
+
+At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She approaches the party and gives them each 1,000 GP as a reward taken from the coffers of the [[Lords' Alliance]]. She will then tell the party that their efforts likely saved far more people than they realised. However, members of the convoy are not so easily convinced. 
+
+Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. (Heart of Ashes)
+
+[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that 
