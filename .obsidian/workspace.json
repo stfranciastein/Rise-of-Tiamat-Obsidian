@@ -11,10 +11,14 @@
             "id": "886a9b7bf2adc1ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Balthazaar Baradult.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Balthazaar Baradult"
             }
           },
           {
@@ -79,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "lioran",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,8 +107,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +226,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b33abf1f2fd9618e",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Alain Gilfont.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Tadgh Serelim.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
+    "02 - Adventurers/Group A/Lioran/Lioran Thorne.md",
     "05 - Organisations/02 - Cult of the Dragon/Red Dragon/Severin Silrajin.md",
     "05 - Organisations/01 - Major Allied Factions/07 - Court of Metal/Protanther the Gold.md",
     "07 - Items/Protanther's Thesis on the Merging of Chromatic and Metallic Dragons.md",
@@ -247,10 +255,6 @@
     "09 - Rules and Information/Magic Scrolls and Scribing.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "09 - Rules and Information/Expanded Reincarnate Table.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 33.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 25.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",
@@ -271,7 +275,6 @@
     "04 - Locations/02 - The North/05 - Citadel Felbarr",
     "04 - Locations/02 - The North/04 - Citadel Adbar",
     "04 - Locations/02 - The North/03 - Mithral Hall",
-    "04 - Locations/10 - Underdark",
-    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Untitled"
+    "04 - Locations/10 - Underdark"
   ]
 }
