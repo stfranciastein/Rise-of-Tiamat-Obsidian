@@ -1,6 +1,5 @@
-**Bio:** A female Halfling Fighter (Champion)
-**Age:** 44
-**Status:** Alive
+**Tags:** #NPC #Fighter #RockGnome #Gnome #Helm #LawfulGood #Daggerford 
+**Accent:** American
 
 ____
 ### BACKSTORY

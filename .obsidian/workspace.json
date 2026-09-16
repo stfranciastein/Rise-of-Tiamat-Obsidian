@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ac5e65c75b0bff1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hold Back the Dead"
+            }
+          },
+          {
             "id": "886a9b7bf2adc1ed",
             "type": "leaf",
             "state": {
@@ -22,31 +36,20 @@
             }
           },
           {
-            "id": "5451e05fd17438f3",
+            "id": "3e747292f112c665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Organisations/03 - Candlekeep/Candlekeep.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Candlekeep"
-            }
-          },
-          {
-            "id": "ac5e65c75b0bff1a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Chapter 4.0 - Long and Winding Road"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,6 +228,12 @@
   },
   "active": "ac5e65c75b0bff1a",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
+    "05 - Organisations/01 - Major Allied Factions/03 - Lords' Alliance/Corlie Halvachar.md",
+    "03 - Persons of Note/00 - Misc NPCs/03 - Baldur's Gate/Lorgan Brandis.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Balthazaar Baradult.md",
     "02 - Adventurers/Group A/Impyerno Lima.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
@@ -238,7 +247,6 @@
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Kagain Brawnanvil.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Daithi Serelim.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Balthazaar Baradult.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Alain Gilfont.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
     "09 - Rules and Information/Weapons, Armour, Consumables.md",
@@ -247,11 +255,6 @@
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
     "05 - Organisations/03 - Candlekeep/Candlekeep.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 1.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
-    "05 - Organisations/02 - Cult of the Dragon/Red Dragon/Severin Silrajin.md",
-    "05 - Organisations/01 - Major Allied Factions/07 - Court of Metal/Protanther the Gold.md",
-    "07 - Items/Protanther's Thesis on the Merging of Chromatic and Metallic Dragons.md",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",

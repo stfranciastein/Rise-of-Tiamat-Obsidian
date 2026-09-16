@@ -7,7 +7,6 @@ ____
 This quest first triggers upon the first long rest prior to arriving in [[Elturel]] in [[Chapter 2.0 - Tale of Two Cities]].
 
 ____
-
 ### PART I - A Hazy Dream
 
 *You open your eyes and find yourself in a dark room. Seconds later, a bright white orb begins to glow and illuminates the area. Around you, there several archways that are shrouded in purple energy. Behind each ward, there are silhouetted figures that shift and move idly.*
