@@ -9,7 +9,9 @@ At the beginning of  [[Act 2 - Hoard of the Dragon Queen]], the nobleman [[Arami
 ****
 ### EXTRA INFORMATION
 
-The two horses they purchased to pull the [[Sylvira-Van]] are named Snow and Jo-Ey. Snow was named by [[Tierbhal an Garrán]], and Jo-Ey was named by [[Caradil Anduin]].
+- Bush Whackers began their journey on the 20th of October 2025.
+
+- The two horses they purchased to pull the [[Sylvira-Van]] are named Snow and Jo-Ey. Snow was named by [[Tierbhal an Garrán]], and Jo-Ey was named by [[Caradil Anduin]].
 
 ____
 ### POTENTIAL FOLLOWERS
