@@ -61,4 +61,6 @@ At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She a
 
 Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. (Will of Orcus) 
 
-[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that (Shadowsteel Citadel)
+[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that there seems to be another abandoned fortress nearby that seems to house several undead creatures. (Shadowsteel Citadel)
+
+If [[Mavis Ephanté]] is present, she will say it's likely that there is a Necromancer in service to the [[Red Wizards of Thay]] nearby as the undead resurrected at [[Ironspine Keep]] bear the markings of a Zulkir.
