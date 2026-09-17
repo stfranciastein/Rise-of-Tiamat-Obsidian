@@ -1,1 +1,11 @@
-### 4.2 Wild and Windy Nights
+### 4.2 An Alignment of the Stars
+
+As Impyerno Lima continued on their journey ahead, they reflected back on the key moments of their adventure and slowly began getting to know the members of Balthazaar's convoy. Firstly Ulena met Radecere, Melchia and Beyda; a circle of friendly women who seemed eager to meet their would-be protectors for the road ahead. Then Lioran and Ryn met with Kagain, Vellin and the Ranger, three less-friendly hunters and fighters who seemed disinterested in gossip.
+
+Throughout the next few days of their journey, they met with all sorts of interesting characters. They came upon the Girl Group of the Dragon and defeated them in combat. In the aftermath, they nearly spared one's life before she unceremoniously killed herself making a joke at Ulena's expense. They also met with a Kua-Toa named Gill who was guarding a magical bridge full of strange questions. One night when Ulena slept, she also met with an Ancient Gold Dragon who seemed interested in learning more about her intentions with Varia.
+
+During their travels, both Varia and Glass seemed to be on edge. Their mutated dragon Varia seemed to be under the watch of an unknown force, while Glass was paranoid at the idea of another larger dragon appearing on the road between Baldur's Gate and Waterdeep. These fears were not completely unfounded however, as the party found themselves upon the grizzly sight of a desolate town seemingly destroyed by an Adult or older dragon in the guise of a humanoid. One with a particular interest in marking their kills with ritualistic symbols.
+
+____
+### Reminders
+- It is currently the 24th of Uktar in the morning.
