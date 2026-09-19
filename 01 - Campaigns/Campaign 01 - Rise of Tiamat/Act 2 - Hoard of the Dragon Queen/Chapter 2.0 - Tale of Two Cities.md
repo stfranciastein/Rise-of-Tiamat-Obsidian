@@ -275,7 +275,7 @@ Opening the letter will require a DC 25 Arcana check, as it is sealed for anyone
 
 Refusing and killing [[Thuran Yale]] then and there will yield the same letter. If allowed to walk away, [[Thuran Yale]] along with [[Lotar Fay]] and [[Haymon Dowling]] will be found at the [[Phontyr's Unicorn]] where they have been staying for the past few days. The mostly keep to themselves but the latter two can often be found wandering the streets near the Dock District. 
 
-When the party finishes this favour for Thuram, he will then present them with another request, one on behalf of the 'greater good' and [[Elturel]]. This leads to the side quest [[Keeper of secrets]]. If Thuran is confronted and the fight is finished, the lead on the [[Cult of Vecna]] will instead be found on his person in the form of a small note.
+When the party finishes this favour for Thuram, he will then present them with another request, one on behalf of the 'greater good' and [[Elturel]]. This leads to the side quest [[Keeper of Secrets]]. If Thuran is confronted and the fight is finished, the lead on the [[Cult of Vecna]] will instead be found on his person in the form of a small note.
 
 ____
 ### 2.8 Wrath in Cyan
