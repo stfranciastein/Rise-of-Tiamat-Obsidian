@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4.0 - Long and Winding Road"
+              "title": "Group A - Act 2 - Session 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tazmike",
+                "query": "is a 4th",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -241,11 +241,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "886a9b7bf2adc1ed",
+  "active": "fdcd5f68fae46272",
   "lastOpenFiles": [
-    "02 - Adventurers/Group B/The Bush Whackers.md",
+    "09 - Rules and Information/Statblock Templates/Factions/Talons of the Raven Queen Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Paladin Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Factions/Zhentarim Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Factions/Lord's Alliance Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Warlock Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Sorcerer Statblock Template.md",
+    "09 - Rules and Information/Statblock Templates/Classes/Artificer Statblock Template.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
+    "02 - Adventurers/Group B/The Bush Whackers.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
     "02 - Adventurers/Group A/Impyerno Lima.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
@@ -261,15 +269,7 @@
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Tadgh Serelim.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Radecere Perethun.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Melchia Deleante.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Melandrach.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Kagain Brawnanvil.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Daithi Serelim.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Alain Gilfont.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
-    "09 - Rules and Information/Weapons, Armour, Consumables.md",
-    "09 - Rules and Information/Expanded Reincarnate Table.md",
-    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
     "00 - Images/Alain Gilfont-1788915064896.webp",
