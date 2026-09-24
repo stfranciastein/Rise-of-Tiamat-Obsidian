@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of Secrets.md",
+                "file": "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keeper of Secrets"
+              "title": "Monk Statblock Template"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "is a 4th",
+                "query": "Wildcard",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -241,8 +241,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e747292f112c665",
+  "active": "886a9b7bf2adc1ed",
   "lastOpenFiles": [
+    "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
+    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
+    "07 - Items/Wonderous Items/Decks/Deck of Mischief.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Masked Faces.md",
+    "Untitled.md",
+    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
+    "02 - Adventurers/Group A/Zilliletha/Zil's Report 01.md",
+    "02 - Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hunting the Hunter.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Ill met by Moonlight.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of Secrets.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
@@ -259,16 +269,6 @@
     "09 - Rules and Information/Statblock Templates/Classes/Warlock Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Sorcerer Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Artificer Statblock Template.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
-    "02 - Adventurers/Group B/The Bush Whackers.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
-    "02 - Adventurers/Group A/Impyerno Lima.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 34.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Fire and Darkness.md",
-    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Vellin Farstride.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
-    "05 - Organisations/01 - Major Allied Factions/03 - Lords' Alliance/Corlie Halvachar.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",

@@ -306,9 +306,10 @@ Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He w
 | 2   | [[Lennithon]] flies past the group, zooming through the sky and causing a torrential downpour. He flies alongside 2 adult dragons; 1 black, 1 red and 1 green. On a DC 25 Perception check, they will recognise the green dragon as [[Venomfang]]                |
 | 3   | A set of Drow carriages pass by, extremely similar to the ones the party ran into in [[Candlekeep]] during [[Act 1 - The Curse of Willowvale]]. They seemed armed and armoured. On a DC 20 Investigation check, the party can determine they're royal assassins. |
 | 4   | [[Arcane Brotherhood]] forces accost the party.                                                                                                                                                                                                                  |
-| 5   | [[]]                                                                                                                                                                                                                                                             |
-| 6   |                                                                                                                                                                                                                                                                  |
-|     |                                                                                                                                                                                                                                                                  |
+| 5   | 40 Tieflings in a camp having an orgy.                                                                                                                                                                                                                           |
+| 6   | 60 Rocs                                                                                                                                                                                                                                                          |
+|     | Orangutan                                                                                                                                                                                                                                                        |
+|     | Giant Insects                                                                                                                                                                                                                                                    |
 
 
 ____

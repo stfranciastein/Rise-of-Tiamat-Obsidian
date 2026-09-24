@@ -116,7 +116,6 @@ The third note says:
 	`Once I bring in their heads, it'll all be over and I can retire in peace.
 	`First, the Greypools. Then the lizard.`
 
-
 When the players have finished reading through the notes, [[Amory Silent-Step]] will appear in the doorway to the North. If the trap has not been triggered, he will have set up an ambush with three Assassins. 
 
 AMORY: There you are. Was wondering how long it would take for you to track me down once that cunt set you on me.
