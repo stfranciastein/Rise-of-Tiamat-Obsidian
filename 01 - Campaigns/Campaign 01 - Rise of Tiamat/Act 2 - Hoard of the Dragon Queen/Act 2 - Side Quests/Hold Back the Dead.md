@@ -42,7 +42,7 @@ CACAFONIX: A well-timed escape is possible, as always. But it would mean abandon
 
 CORLIE: Not an option, at least for me. Given how dark it is and how many of you there are, you're all welcome to rest for the night within our walls, but you'll have to supply your own rations and foodstuffs. Any day now the undead could return.
 
-Defending and helping with [[Ironspine Keep]] is entirely optional. If the party decides to leave, it automatically fails this quest. As a result, [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]] who will manage to escape. If [[Larissa Bonham]], [[Tierbhal an Garrán]], [[Khasar the Blooded]] or [[Thogli Battlehammer]] are present, they will outright refuse to leave and will also perish if the quest is abandoned.
+Defending and helping with [[Ironspine Keep]] is entirely optional. If the party decides to leave, it automatically fails this quest. As a result, [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]] who will manage to escape. If [[Larissa Bonham]], [[Tierbhal an Garrán]], [[Stone]], [[Khasar the Blooded]] or [[Thogli Battlehammer]] are present, they will outright refuse to leave and will also perish if the quest is abandoned.
 
 If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
@@ -59,7 +59,7 @@ If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects 
 ____
 ### CONCLUSION
 
-At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She approaches the party and gives them each 1,000 GP as a reward taken from the coffers of the [[Lords' Alliance]]. She will then tell the party that their efforts likely saved far more people than they realised. However, members of the convoy are not so easily convinced. 
+At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She approaches the party and gives them each 1,000 GP as a reward taken from the coffers of the [[Lords' Alliance]]. She will then tell the party that their efforts likely saved far more people than they realised. However, members of the convoy are not so easily convinced.
 
 Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. [[Alain Gilfont]] will offer to join the party should they pursue this lead. (Will of Orcus) 
 
