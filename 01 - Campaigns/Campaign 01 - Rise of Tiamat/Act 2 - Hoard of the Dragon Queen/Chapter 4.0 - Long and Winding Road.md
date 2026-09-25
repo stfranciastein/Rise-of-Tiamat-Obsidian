@@ -128,17 +128,23 @@ The players can take Vellin with them as they try to find the Big Bad Base. If V
 
 This immediately begins the [[Twenty-Sided Trouble at the Big Bad Base]] side quest.
 
-Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party for a job well done. He then tells them the others decided they wanted to take a swim by a small pond the other scouts found and the party is welcome to join. The water is heated by [[Melchia Deleante]] magic and the children enjoy themselves as the 6th night on the road ends.
+Upon their return to the convoy, [[Balthazaar Baradult]] will thank the party for a job well done. He then tells them the others decided they wanted to take a swim by a small pond the other scouts found and the party is welcome to join. The water is heated by [[Melchia Deleante]] magic and lit with [[Alain Gilfont]]'s astral spells. The children enjoy themselves as the 6th night on the road ends.
 
-[[Vellin Farstride]] will pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Vellin convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
+[[Kagain Brawnanvil]] and [[Vellin Farstride]] will pull one of the characters aside and ask them if they'd like to play a friendly game of Baldur's Bones. Eventually, the Ranger joins as Vellin convinces him to lighten up. Even if the party doesn't want to participate, they will offer to share a drink with them as they open up a cask of Wyvern Whiskey.
 
-[[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]]. If any of the characters seem put off by him, he will drop his ostentatious act and say the following.
+[[Cacafonix]] plays a tune to close out a night after learning more about the events of [[Twenty-Sided Trouble at the Big Bad Base]] either from [[Vellin Farstride]] or [[Cannon]] (if Vellin did not join the party). If any of the characters seem put off by him, he will drop his ostentatious act as he finished playing and say the following as he goes back to his caravan.
 
 CACAFONIX: You see the smiles on those children's faces? That is why. The tale isn't for you, not really. You can choose to enjoy my lovely voice if you want, bask in the title that the commonfolk have given to you or you can choose not to. 
 
-They do not or cannot comprehend the full truth. It requires dazzlement, embellishment, they need something to look up to and have hope. The [[Cult of the Dragon]] has destroyed several cities already and the [[Council of Waterdeep]] is a long way away from becoming a reality. It's an amorphous goal, a formless promise known only to those with enough knowledge with the threat to come.
+*Cacafonix begins to play a small tune, a peaceful one that complements the peaceful night well.*
 
-What good would it do to tell the tale of adventurers who are barely getting by, or of disinterested lone wolves 'just doing their job'. If my songs and your tale can put a smile on their face for just a little while, it will be worth it. Give yourselves more credit, you inspire more hope than you realise.
+CACAFONIX: You see heroes, they do not and cannot comprehend the full truth. Kaghain, Vellin, Alain and Melchia might because they're more... worldy. But the others? No. They require dazzlement, embellishment, they need something to look up to and have hope. Need I remind you all that the [[Cult of the Dragon]] has destroyed several towns and cities already and the [[Council of Waterdeep]] is a long way away from becoming a reality. It's an amorphous goal, a formless promise known only to those with enough knowledge with the threat to come. Why should Barbara of the Lower City care about the maybe possible plan that a hero like [[Jaheria]] has concocted? What does Sam of Elturel really know about the 'reality' of the fight against the Cult? Other than they seem to be unstoppable and capable of mass amounts of destruction?
+
+*Melchia and Radecere share a laugh with Beyda as they look at Vellin and Kaghain do re-runs of arm wrestling by the campfire. Balthazaar shakes his head but smiles, and even the 'Ranger' can't help but crack a small grin as he sharpens his weapons. Alain looks up to the skies then shoots a smile at your party before going back to entertaining the kids.*
+
+CACAFONIX: What good would it do to tell the tale of adventurers - who according to them - are barely getting by? Or of disinterested lone wolves 'just doing their job'. There's enough despair in the world. If my songs and your tale can put a smile on their faces for just a little while, it will be worth it. Give yourselves more credit, you inspire more hope than you realise.
+
+*The children of the convoy chase each other around with sticks and planks of wood as their parents attempt to get them to behave. With each swing of their wooden weapons each of you see the field of battle. You remember the clashing of swords and the firing of spells ringing in your ears. For a second, you're almost entranced, but Cacafonix's music brings you back from the edge. It's calm and soothing.*
 
 #### Checkpoint VI: Everything has a Price
 

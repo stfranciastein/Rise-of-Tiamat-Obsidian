@@ -267,6 +267,8 @@ I shall finish my work here and meet with Rezmir.
 The Kobolds say Tunathranx is due to 'collect' soon, but whoever or whatever they're donating to has the Dragon Queen's gold and I intend to collect.
 
 May the might of the Dragon Queen be with you always.
+
+Dragonclaw Francis Stein
 ```
 
 There is also a Dragon's Call cuff inside, as well as a Claws of the Dragon. As the party moves about this room, they will feel watched. A successful DC 20 Arcana Check or casting a spell that lets them see invisibility will reveal this room has been enchanted with a permanent Clairvoyance spell. Seconds after realising this, they will hear [[Severin Silrajin]]'s voice which will pierce through any form of telepathic block saying the following:
@@ -296,3 +298,7 @@ The following is the harvest table to be used with [[Heliana's Simplified Harves
 | [Oozemat Coat (Revised)](https://www.dndbeyond.com/magic-items/12021516-oozemat-coat-revised) | Wondrous item  | Rare      |            | _Ooze (polyhedrooze) membrane_                                               |
 | [Slime-in-a-Skull](https://www.dndbeyond.com/magic-items/9787858-slime-in-a-skull)            | Wondrous item  | Very Rare | Required   | _Ooze (polyhedrooze) vesicle_                                                |
 | [Ventilation Unit D-20](https://www.dndbeyond.com/magic-items/9787883-ventilation-unit-d-20)  | Wondrous item  | Rare      | Required   | _Phial of ooze (polyhedrooze) acid_ and _phial of ooze (polyhedrooze) mucus_ |
+____
+### CONCLUSION
+
+Upon finishing this quest, the players will be invited to spend the night with the Wizard back at the tavern. Inside, they will be treated to a song telling the tale of their adventures sang by a travelling bard known as [[Cacafonix]].
