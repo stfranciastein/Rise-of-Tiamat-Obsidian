@@ -272,3 +272,27 @@ May the might of the Dragon Queen be with you always.
 There is also a Dragon's Call cuff inside, as well as a Claws of the Dragon. As the party moves about this room, they will feel watched. A successful DC 20 Arcana Check or casting a spell that lets them see invisibility will reveal this room has been enchanted with a permanent Clairvoyance spell. Seconds after realising this, they will hear [[Severin Silrajin]]'s voice which will pierce through any form of telepathic block saying the following:
 
 SEVERIN: Well done liberating this cavern, you're truly heroes through and through. Rezmir must be quaking in her boots. I look forward to seeing what other heroic deeds you'll achieve next. Save a Princess from a Castle perhaps?
+
+#### Harvest Table: Tunathranx, the Icosahedrooze
+
+The Icosahedrooze is a CR 16 Creature, meaning you get a Potent Essence from it.
+
+The following is the harvest table to be used with [[Heliana's Simplified Harvesting Rules]] for the Icosahedrooze. They have the following unique components, in addition to the normal components for an Ooze. The Motherload also drops a pair of [goo luck dice](https://www.dndbeyond.com/magic-items/9787749-goo-luck-dice), a common, socketable item that can be equipped on any mount or weapon, granting it a small amount of luck.
+
+| Component DC | Components                                |
+| ------------ | ----------------------------------------- |
+| 5            | _Gooey wishbone_ (3), _phial of acid_ (∞) |
+| 10           | Phial of mucus                            |
+| 15           | _Vesicle_ (1)                             |
+| 20           | _Membrane_ x20                            |
+
+#### Polyhedrooze Craftable Items
+
+| Item Name                                                                                     | Item Type      | Rarity    | Attunement | Components                                                                   |
+| --------------------------------------------------------------------------------------------- | -------------- | --------- | ---------- | ---------------------------------------------------------------------------- |
+| [Bomboozler](https://www.dndbeyond.com/magic-items/9787714-bomboozler)                        | Wondrous item  | Very Rare | —          | _Phial of ooze (polyhedrooze) acid_                                          |
+| [Caltrooze](https://www.dndbeyond.com/magic-items/9787736-caltrooze)                          | Wondrous item  | Uncommon  | —          | _Phial of ooze (polyhedrooze) mucus_                                         |
+| [Flooze](https://www.dndbeyond.com/magic-items/9787747-flooze)                                | Weapon (flail) | Uncommon  | Required   | _Ooze (polyhedrooze) gooey wishbone_                                         |
+| [Oozemat Coat (Revised)](https://www.dndbeyond.com/magic-items/12021516-oozemat-coat-revised) | Wondrous item  | Rare      |            | _Ooze (polyhedrooze) membrane_                                               |
+| [Slime-in-a-Skull](https://www.dndbeyond.com/magic-items/9787858-slime-in-a-skull)            | Wondrous item  | Very Rare | Required   | _Ooze (polyhedrooze) vesicle_                                                |
+| [Ventilation Unit D-20](https://www.dndbeyond.com/magic-items/9787883-ventilation-unit-d-20)  | Wondrous item  | Rare      | Required   | _Phial of ooze (polyhedrooze) acid_ and _phial of ooze (polyhedrooze) mucus_ |

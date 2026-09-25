@@ -116,13 +116,17 @@ At the end of the combat, a small shimmering portal opens up. It reveals the lai
 ##### Approaching in the day
 *In the distance, in front of a small, moss-covered shrine, a mound of purple feathers basks, maw agape, in the day’s warm light. This unmoving mass sits in the midst of a smorgasbord of half eaten carcasses and fish heads.*
 
-The party will then be confronted by the Suneater Owlbear which has three waves in total. The first begins with a single Adult Suneater Owlbear, 2 Sunsprites and 2 Faerie-o-Fires. The second wave is a puzzle that triggers when the Sunbear's regular form reaches 0 hit points. It creates a cocoon around itself as it begins its transformation process.
+##### Wave 1
+The party will then be confronted by the Suneater Owlbear which has three waves in total. The first begins with a single Adult Suneater Owlbear, 2 Sunsprites and 2 Faerie-o-Fires. 
+
+##### Wave 2
+The second wave is a puzzle that triggers when the Sunbear's regular form reaches 0 hit points. It creates a cocoon around itself as it begins its transformation process.
 
 *A bright golden forcefield of energy blooms out from the owlbear, its motionless form a faint silhouette floating within the sphere. The air tingles with the scent of ozone as four glowing orbs coalesce around the now-calm garden. These smaller 1-foot-diameter orbs are each a different colour: one sparkles with a bright white light, a second swirls with fiery reds, a blue one pulses rhythmically, and the last is a dark black that drinks in the light of the others. They bob slowly, levitating in the air and swaying in the garden’s calm gusts.*
 
 **_Solution._** These orbs can be physically pushed around by the player characters. When arranged around the owlbear in the same pattern as the constellation (black, north; blue, east; red, south; white, west), the owlbear’s protective cocoon disappears and wave 2 ends.
 
-***Consequences.*** If the players take more than 1 hour to open the forcefield (for example, if they choose to short rest), the owlbear gains the benefits of a short rest, spending Hit Dice to regain hit points, and then emerges from its cocoon. Its mythic trait does not trigger. This means the player characters must fight the wave 1 owlbear again. If the owlbear is reduced to 0 hit points for a second time in this wave 1, its mythic trait triggers and wave 3 begins immediately.
+***Consequences.*** If the players take more than 1 hour to open the forcefield its mythic trait does not trigger but it goes back to full HP. This means the player characters must fight the wave 1 owlbear again. If the owlbear is reduced to 0 hit points for a second time in this wave 1, its mythic trait triggers and wave 3 begins immediately.
 
 **_The Forcefield & The Owlbear._** The forcefield lasts for 1 hour, during which the owlbear takes a short rest inside it. Nothing—not creatures, physical objects, energy, or spell effects—can pass through the barrier. While in the cocoon, the owlbear is [incapacitated](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#IncapacitatedCondition), can’t take lair actions, and has a speed of **0 feet**.
 
@@ -181,8 +185,10 @@ Upon finishing this quest, the players will be invited to spend the night with t
 	Our friends, we owe our world to you  
 	You’re heroes through and through.
 
-After the celebrations are over, [[Pyrax]] makes a full recovery and pulls one or more of the party aside in order to pass them one of their other findings. They will tell the party that they suspect that the [[Winter King]]'s activities in the Feywild may have forced more creatures to cross the barrier. They will then say the following:
+After the celebrations are over and if no more than a tenday passed upon their arrival at [[Baldur's Gate]], [[Pyrax]] makes a full recovery and pulls one or more of the party aside in order to pass them one of their other findings. They will tell the party that they suspect that the [[Winter King]]'s activities in the Feywild may have forced more creatures to cross the barrier. They will then say the following:
 
 PYRAX: I didn't tell (the Wizard) this because I didn't think to add more to their worries here, but I suspect that more events like this will occur as time goes on. The Winter King's ambitions will surely lead to further disruption across the Sword Coast. Be on the lookout for strange activity in nature, friends. May [Silvannus](https://forgottenrealms.fandom.com/wiki/Silvanus) guide your path.
+
+If more than a tenday passed after their arrival at [[Baldur's Gate]], [[Pyrax]] will be in critical condition and will need to be brought to a powerful Cleric or back to [[Garrán]] in order to recuperate. In the city of Baldur's Gate, only [[Xaria Trevisa]] will be the only candidate able to take care of him but will only do so if the [[Talons of the Raven Queen]]'s approval is at 15 or higher. If [[Tierbhal an Garrán]] is in the party, he will personally take the injured [[Pyrax]] ahead to the Misty Forest via a Teleportation Circle in [[Baldur's Gate]] after [[Asha Ardeat]] is killed.
 
 Upon returning to Entharl Danthelon in [[Baldur's Gate]], he will award the party with the agreed upon gold price and thank them for their service. After two days he will have a replenished inventory and will provide players a 10% discount on all purchases.

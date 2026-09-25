@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "2bf11544f0534b5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Adventurers/Group B/Soma/Soma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soma"
-            }
-          },
-          {
             "id": "3fb26bd181961e64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A New Duke"
+              "title": "Exit bear, stage right"
             }
           }
         ]
@@ -83,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soma",
+                "query": "exit bear",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -229,13 +215,13 @@
   },
   "active": "ac5e65c75b0bff1a",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
     "02 - Adventurers/Group B/Soma/Soma.md",
     "05 - Organisations/02 - Cult of the Dragon/Dragons/Voaraghamanthar.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292522339.webp",
     "02 - Adventurers/Group A/Impyerno Lima.md",
