@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twenty-Sided Trouble at the Big Bad Base"
+              "title": "Exit bear, stage right"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+                "file": "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4.0 - Long and Winding Road"
+              "title": "Beyda Achreny"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,10 +212,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fb26bd181961e64",
+  "active": "ac5e65c75b0bff1a",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Melchia Deleante.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
     "02 - Adventurers/Group B/Soma/Soma.md",
@@ -227,7 +229,6 @@
     "02 - Adventurers/Group A/Impyerno Lima.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
     "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Welcome to the Arcana-Net.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/The Sunless Citadel.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 8.0 - Castle in the Clouds.md",
     "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
@@ -241,8 +242,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hunting the Hunter.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Ill met by Moonlight.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of Secrets.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Masterpiece Imbroglio.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Mazfroth's Mighty Digressions.md",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
     "00 - Images/Cannon-1788962596614.webp",
     "00 - Images/Kagain Brawnanvil-1788915580993.webp",
