@@ -301,4 +301,27 @@ The following is the harvest table to be used with [[Heliana's Simplified Harves
 ____
 ### CONCLUSION
 
-Upon finishing this quest, the players will be invited to spend the night with the Wizard back at the tavern. Inside, they will be treated to a song telling the tale of their adventures sang by a travelling bard known as [[Cacafonix]].
+Upon finishing this quest, the party can return to the convoy. If [[Vellin Farstride]] was with them, he will immediately loosen up afterwards and gain respect for the party. Back at the convoy as the night dawns they will be treated to a song telling the tale of their adventures sang by [[Cacafonix]].
+
+```
+Down in The Low where our wanderers go  
+The lair of Francis Stein  
+There’s a treasure trove the goblins tried  
+To move it all in time
+
+No one could know that hiding below  
+The acid was biding time  
+And the motherload would ooze its way  
+Up to the pool side
+
+Shining gifts it couldn’t resist  
+But it learned to resist attack  
+So be sure to keep a careful eye  
+And navigate the traps
+
+The wanderers knew defeating the ooze  
+Would not be an easy feat  
+But the treasure promised with success  
+Makes the victory ever sweet
+```
+
