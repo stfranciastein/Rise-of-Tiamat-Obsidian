@@ -142,9 +142,15 @@ CACAFONIX: You see heroes, they do not and cannot comprehend the full truth. Kag
 
 *Melchia and Radecere share a laugh with Beyda as they look at Vellin and Kaghain do re-runs of arm wrestling by the campfire. Balthazaar shakes his head but smiles, and even the 'Ranger' can't help but crack a small grin as he sharpens his weapons. Alain looks up to the skies then shoots a smile at your party before going back to entertaining the kids.*
 
-CACAFONIX: What good would it do to tell the tale of adventurers - who according to them - are barely getting by? Or of disinterested lone wolves 'just doing their job'. There's enough despair in the world. If my songs and your tale can put a smile on their faces for just a little while, it will be worth it. Give yourselves more credit, you inspire more hope than you realise.
+CACAFONIX: What good would it do to tell the tale of adventurers - who according to them - are barely getting by? Or of disinterested lone wolves 'just doing their job'. There's enough despair in the world. If my songs and your tale can put a smile on their faces for just a little while, it will be worth it.
 
 *The children of the convoy chase each other around with sticks and planks of wood as their parents attempt to get them to behave. With each swing of their wooden weapons each of you see the field of battle. You remember the clashing of swords and the firing of spells ringing in your ears. For a second, you're almost entranced, but Cacafonix's music brings you back from the edge. It's calm and soothing.*
+
+CACAFONIX: I'll tell you the real reason why I'm doing this for you all. I was supposed to be in [[Greenest]] the night of the attacks performing at the very feast that killed so many people. I lucked out and the caravan I was aboard was delayed in Berdusk. A broken wheel. A simple annoyance, but it saved my life. Now I'd never been the religious sort, but I prayed to Tymora that night and every night since thanking her for my luck. Then I heard the tale of your party helping to save [[Greenest]] and I thought, why aren't people singing your praises?
+
+*Cacafonix smiles and turns back towards the fire as he puts his lute away.*
+
+CACAFONIX: Upcoming heroes with nothing to gain but everything to lose fought against a Cult armed with an Ancient Dragon and lived. That's history in the making right there. So if you're ever feeling like it's not enough, give yourselves more credit, you inspire more hope than you realise.
 
 #### Checkpoint VI: Everything has a Price
 
@@ -157,9 +163,9 @@ CACAFONIX: What good would it do to tell the tale of adventurers - who according
 | 1   | A small farmhouse occupied my a man and woman with a small child and their dog wave at your party as you pass by and give you supplies for the road. +4 Rations. |
 | 2   | The [[Mutated Dragon]] flies ahead and scouts the area, telling you to wait a bit before passing by as Bandits lay in ambush. Inspiration to the party.          |
 | 3   | 6 necromancers and their bandit hires are fighting 3 [[Talons of the Raven Queen]] agents comprised of an Assassin, a Frontliner and a Mage.                     |
-| 4   | Owyn and Wereond ride ahead and challenge one of you to a mounted race. Must pass 3 Acrobatics checks simultaneously (best of 5). Inspiration to the party.      |
+| 4   | Vellin and Kaghain ride ahead and challenge one of you to a mounted race. Must pass 3 Acrobatics checks simultaneously (best of 5). Inspiration to the party.    |
 | 5   | The [[Cult of the Dragon]] finds the party and attacks them. 2 evokers, 2 archers, 2 warriors, 1 commander. The party is surprised.                              |
-| 6   | 1d4+1 gorgons and a cyclops attacks the party as they impede on its territory.                                                                                   |
+| 6   | 4 gorgons and a cyclops attacks the party as they impede on its territory.                                                                                       |
 
 During the convoy's nightly huddle, two adventurers named Jokketh (Fire Genasi male) and Xixilathariazes (ZIX-EE-LA-THAR-EE-YA-SES) (Female Red Dragonborn) will approach the camp and say they're heading to [[Baldur's Gate]] after coming from [[Ironspine Keep]]. Jokketh will say he's hoping to take a bath in the Vanthampur Bathhouse as soon as he gets there as it is his favourite spot in the city. He will be heartbroken if he finds out about the events of the [[Den of the Dead Three]], but will not be surprised at the conclusion of [[A New Duke]].
 
