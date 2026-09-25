@@ -16,9 +16,11 @@ Upon arriving at [[Ironspine Keep]], [[Corlie Halvachar]] will approach the part
 
 *A stout halfling wearing plate armour inlaid with filigree of lions and roses decorate approaches. A red cloak follows behind her, trailing gracefully in contrast to her strong demeanour. She gives you all a warm, affirming smile as she scans your party.*
 
-[[Corlie Halvachar]] will tell the party that she wasn't expecting reinforcements to come so soon. [[Renaer Neverember]] will tell her that she would be waiting for quite a while as it seems her messengers haven't made it far from [[Ironspine Keep]]'s surrounds. If [[Lorgan Brandis]] was spoken to, the party will also learn that the Knights of Neverwinter never made it here either.
+CORLIE: Greetings adventurers, my name is Coraline of House Halvachar. 'Corlie' is what everyone calls me, so we'll go with that. I wasn't expecting reinforcements to look like this but-
 
-CORLIE: Five great cities of the Sword Coast have combiend forces to restore this fortress. [[Mithral Hall]], [[Neverwinter]], [[Waterdeep]], [[Baldur's Gate]] and [[Elturel]]. We expected it would give us better visibility into trouble on the frontier, on places in the edge of our sight but...
+[[Renaer Neverember]] will tell her that she would be waiting for quite a while as it seems her messengers haven't made it far from [[Ironspine Keep]]'s surrounds. If [[Lorgan Brandis]] was spoken to, the party will also learn that the Knights of Neverwinter never made it here either.
+
+CORLIE: Five great cities of the Sword Coast have combined forces to restore this fortress. [[Mithral Hall]], [[Neverwinter]], [[Waterdeep]], [[Baldur's Gate]] and [[Elturel]]. We expected it would give us better visibility into trouble on the frontier, on places in the edge of our sight but...
 
 RENAER: Speak plain, Lady Halvachar. You are among friends.
 
@@ -40,7 +42,7 @@ CACAFONIX: A well-timed escape is possible, as always. But it would mean abandon
 
 CORLIE: Not an option, at least for me. Given how dark it is and how many of you there are, you're all welcome to rest for the night within our walls, but you'll have to supply your own rations and foodstuffs. Any day now the undead could return.
 
-Defending and helping with [[Ironspine Keep]] is entirely optional. If the party decides to leave, it automatically fails this quest. As a result, [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]] who will manage to escape. If [[Larissa Bonham]], [[Tierbhal an Garrán]], [[Khasar the Blooded]] or [[Thogli Battlehammer]] are present, they will outright refuse to leave.
+Defending and helping with [[Ironspine Keep]] is entirely optional. If the party decides to leave, it automatically fails this quest. As a result, [[Balthazaar Baradult]] as well as the rest of the convoy will perish with the exception of [[Renaer Neverember]] and [[Cacafonix]] who will manage to escape. If [[Larissa Bonham]], [[Tierbhal an Garrán]], [[Khasar the Blooded]] or [[Thogli Battlehammer]] are present, they will outright refuse to leave and will also perish if the quest is abandoned.
 
 If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
@@ -59,8 +61,8 @@ ____
 
 At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She approaches the party and gives them each 1,000 GP as a reward taken from the coffers of the [[Lords' Alliance]]. She will then tell the party that their efforts likely saved far more people than they realised. However, members of the convoy are not so easily convinced. 
 
-Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. (Will of Orcus) 
+Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. [[Alain Gilfont]] will offer to join the party should they pursue this lead. (Will of Orcus) 
 
-[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that there seems to be another abandoned fortress nearby that seems to house several undead creatures. (Shadowsteel Citadel)
+[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that there seems to be another abandoned fortress nearby that seems to house several undead creatures. [[Vellin Farstride]] will offer to join the party should they pursue this lead. (Shadowsteel Citadel)
 
-If [[Mavis Ephanté]] is present, she will say it's likely that there is a Necromancer in service to the [[Red Wizards of Thay]] nearby as the undead resurrected at [[Ironspine Keep]] bear the markings of a Zulkir.
+If [[Mavis Ephanté]] is present, she will say it's likely that there is a Necromancer in service to the [[Red Wizards of Thay]] nearby as the undead resurrected at [[Ironspine Keep]] bear the markings of a Zulkir. She will also say that the priority should be dealing with the source rather than more of the creatures. On a casting of Divination, it will reveal that [[Alain Gilfont]] is the right person to follow should the party wish to save more time.

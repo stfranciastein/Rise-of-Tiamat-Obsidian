@@ -184,11 +184,11 @@ These growths can be identified with a successful DC 15 Intelligence (Nature) ch
 
 The mushrooms are growing so fast on the rain-soaked ground that a person can almost see them getting bigger. They were the size of champagne corks when first noticed; within an hour, they grow six inches tall, and a foot tall an hour later. Their growth slows down after that, but by then, most people in the caravan are certain that all is doomed.
 
-Anyone can literally sweep a path through the mushrooms with a heavy broom, a scythe, or a tree branch. The noise is distressing. Everyone involved in this process must make a DC 10 Constitution saving throw. Failure means the character is overcome with feelings of grief and remorse, seemingly triggered by hearing thousands of tiny cries of pain and death groans but which is in fact the result of inhaling mildly toxic spores released by the immature fungi. Affected characters break down after 1d20 minutes and simply can't face those sounds anymore. They have nightmares for days to come, until the toxin is completely out of their system. You can impose even more lingering results if you like, such as a lifelong aversion to eating mushrooms of any kind.
+Anyone can literally sweep a path through the mushrooms with a heavy broom, a scythe, or a tree branch. The noise is distressing. Everyone involved in this process must make a DC 18 Constitution saving throw. Failure means the character is overcome with feelings of grief and remorse, seemingly triggered by hearing thousands of tiny cries of pain and death groans but which is in fact the result of inhaling mildly toxic spores released by the immature fungi. Affected characters break down after 10 minutes and simply can't face those sounds anymore. They will likely have nightmares for days to come, until the toxin is completely out of their system.
 
 People can clear a path through the mushrooms with six man-hours of work (six people could do it in one hour, or three people could do it in two hours).
 
-Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them 2000 GP for their help thus far. He states that the other members of the caravan greatly value their presence here.
+Later that night, [[Cannon]] will offer to make soup out of the mushrooms. When dried and distilled, they can be sauteed and enjoyed and mildly psychedelic foods that give positive feelings instead of negative ones. [[Glass]] will accept the food as he is quite curious to find out more and become 'cultured' in the world. [[Balthazaar Baradult]] will remind the party that [[Ironspine Keep]] may cause the convoy trouble and offers them an advance bonus of 1000 GP and two Greater Healing Potions for their help thus far. He states that the other members of the caravan greatly value their presence here and the children seem to like having 'heroes' in the campsite.
 
 #### Checkpoint VIII: Destiny Awaits
 
@@ -223,7 +223,7 @@ It came down to one battle on the banks of the River Surbin. Drizzt's allies, th
 
 KAGAIN: Well that hardly bloody counts. The Stag is at least special and like.. symbolic or whatever. Your story is just three dragons sweepin' in and savin' the day.
 
-RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Werond. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt Mielikki's ear. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and Helm rewarded him for his perseverance. 
+RANGER: That's what it looks like from the outside, aye. But the dragons didn't come because Bahamut felt like it that day. People aren't born special, Kagain. The gods respond to those who they see has done something worthy. To break free of Lolth's bonds? It gave Drizzt Mielikki's ear. Abdel Adrian wasn't special because a Golden Stag saw him, he was special because he rejected his god-father's divinity and Helm rewarded him for his perseverance. 
 
 KAGAIN: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my life savings that it'll show up at some point. We're journeying with bonafide heroes already.
 
@@ -242,7 +242,7 @@ KAGAIN: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my l
 
 *As the day ends, you spot a herd of deer grazing on a nearby hill. While you would usually find nothing of note in this herd, among the herd is a magnificant and large stag. It is far larger than any common stag you've ever seen and it seems to shimmer in the light as if its coat is spun from gold and its antlers are made of platinum.*
 
-WEROND: Well what the bloody hells did I say just last night. Stone bless us it's real!
+KAGAIN: Well what the bloody hells did I say just last night. Stone bless us it's real!
 
 RANGER: Careful not to scare it off.
 
@@ -256,41 +256,50 @@ On a successful DC 10 Intelligence (Religion) check, the party can determine tha
 
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious. It then gives the following prophecy;
 
-`Hark, listen and beware.`
-`A great evil awaits beneath the dragon's bones, wearing the face of a would-be friend.`
-`Tread soft and keep your names close, for a hunter stalks and tracks what she sees with rays of green — let her eye pass over you unmarked, and unmarked stay.`
+```
+Hark, listen and beware.
+A great evil awaits beneath the dragon's bones, 
+wearing the face of a would-be friend.
 
-`Still, the one who treads web will find you. Eight legs and a patient death behind him.` 
-`When he does, do not fight what cannot be beaten.`
-`Run instead, and let another die so the truth does not.`
-`When the chance to leap presents itself, you must fly and trust the embrace of the exiled spider.`
+Tread soft and keep your names close, 
+For a hunter stalks and tracks what she sees with rays of green.
+Let her eye pass over you unmarked, and unmarked stay.
 
-`Not all will survive, but do not weep.`
-`Many perils await below, but as does the grove.` 
-`It will not open for swords, but shall for hearts that mean to stay.`
-`The keeper will test, but you must persevere.`
-`Ask, and the keeper shall show you the path to the Masked Ones.` 
+Still, the one who treads web will find you. 
+Eight legs and a patient death behind him. 
+When he does, do not fight what cannot be beaten.
+Run instead, and let another die so the truth does not.
+When the chance to leap presents itself, 
+You must fly and trust the embrace of the exiled spider.
 
-`The winged shadow does not know, the Lion's prize is but one of five.`
-`The woman veiled in silver, Chosen by Midnight is who you seek.`
-`Pay her toll, and she will show you where the twin queen's child roosts.`
+Not all will survive, but do not weep.
+Many perils await below, but as does the grove. 
+It will not open for swords, but shall for hearts that mean to stay.
+The keeper will test, but you must persevere.
+Ask, and she shall show you the path to the Masked Ones. 
 
-`Know this, and remember it as the sky reaches.`
-`The river of gold will not collect, the red one sees all.`
-`What you seek may fall from your hands before it is ever truly yours.`
-`Do not let it break you when it does.`
+The winged shadow does not know, the Lion's prize is but one of five.
+The woman veiled in silver, Chosen by Midnight is who you seek.
+Pay her toll, and she will show you where the twin queen's child roosts.
+
+Know this, and remember it as the sky reaches.
+The river of gold will not collect, the red one sees all.
+Five shadows fly over the land.
+What you seek may fall from your hands before it is ever truly yours.
+Do not let it break you when it does.
+```
 
 As the vision ends, the Ranger will look to the trees where [[Renaer Neverember]] is standing. It will bow towards him and disappear into stardust. In its place will be an ordinary Shortbow fashioned from the horns of the stag. Mechanically, it is a Shortbow +1. However, any character deciding to hold onto it will note that it feels far more magical than any weapon they've ever held. 
 
 Renaer will state that while he does not believe in predestiny, there is a good chance that they should take heed of what the Stag said. Upon their return to the convoy, either Renaer or the party can mention the events to the convoy. Alain will say that [[Dragonspear Castle]] is said to have the skeleton of an Ancient Dragon resting atop its ruins.
 
-Werond will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. Later that night, the party will dream of Talis and Leosin meeting up with the party. A large spider begins to crawl out of what looks like a hole and shoots rays of green lightning at their partners, disintegrating them. The next morning, the curse will immediately reactivate and begin alarmingly growing. It seems that the Metallic Dragons of their vision were right in that the gaps between their curse is growing shorter either by the week or worse, the day.
+[[Kagain Brawnanvil]] will be amused and tell [[Renaer Neverember]] that he owes him a drink when they get to the city. Later that night, the party will dream of Talis and Leosin meeting up with the party. A large spider begins to crawl out of what looks like a hole and shoots rays of green lightning at their partners, disintegrating them. The next morning, the curse will immediately reactivate and begin alarmingly growing. It seems that the Metallic Dragons of their vision were right in that the gaps between their curse is growing shorter either by the week or worse, the day.
 
 #### Checkpoint X: Ironspine Keep
 
-*As your eleventh day on the road begins, Balthazaar, Owyn and Ranger ride up next to you. In the short spawn of two or three hours you find yourselves at the base of the hill overlooking Ironspine Keep. Flags of the Lord's Alliance fly on the walls, but what looks to be several bones of dead humanoids and monstrosities surround the castle.*
+*As your eleventh day on the road begins, Balthazaar, Vellin and Ranger ride up next to you. In the short spawn of two or three hours you find yourselves at the base of the hill overlooking Ironspine Keep. Flags of the Lord's Alliance fly on the walls, but what looks to be several bones of dead humanoids and monstrosities surround the castle.*
 
-[[Renaer Neverember]] rides up ahead, concerned. [[Balthazaar Baradult]] tells the party that he thinks the [[Cult of the Dragon]] may have arrived here and they should check it out. He and Owyn return to the convoy to warn them of the danger. He gives them one half of a sending stone and tells the group to use it when they know it's safe.
+[[Renaer Neverember]] rides up ahead, concerned. [[Balthazaar Baradult]] tells the party that he thinks the [[Cult of the Dragon]] may have arrived here and they should check it out. He and [[Vellin Farstride]] return to the convoy to warn them of the danger. He gives them one half of a sending stone and tells the group to use it when they know it's safe.
 
 *As you approach the walls of Ironspine Keep. You can see several guards manning the walls, though all of them seem to be covered in black viscera and are making repairs to the castle walls. The Ranger is already at the gates and shouts something in a strange dialect that you don't understand. As he does, the portcullis opens and you are lead within. Inside, several unarmored workers, including stonemasons and smiths frantically work at repairs with evident fear and determination.*
 
