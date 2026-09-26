@@ -18,7 +18,7 @@ ENTHARL: My shipments from Amn have gone missing. First it was those blasted Roc
 
 If the party wants to help him, he will direct them south of [[Baldur's Gate]] and down the Coast Way. He will speculate that bandits or the remainders of the [[Herd of the Dragon]] may be responsible but has no real idea of who the culprit may be.
 
-ENTHARL: If you do this for me you'll have a permanent discount at my store! 10%! That's higher than what I'd give my brother. Oh, and of course a sum of 2000 Gold. My caravans were last seen just north of the Cloakwood.
+ENTHARL: If you do this for me you'll have a permanent discount at my store! 10%! That's higher than what I'd give my brother. Oh, and of course a sum of 2500 Gold. My caravans were last seen just north of the Cloakwood.
 
 ____
 ### PART II - Old Friends

@@ -228,7 +228,7 @@ On a DC 10 Investigation check, characters will discover one note that sticks ou
 	If I could've given her joy...
 	I do all of this for her.
 
-Loris Bolger.
+Loris Bolger runs this shop.
 ##### M2. Waiting Room
 *This waiting room stands empty. The candles in this room also seem freshly lit, but upon closer inspection they seem to be magically enchanted with continuous flames.*
 
@@ -317,12 +317,12 @@ Lady Gilrain Szarr died leading her troops in battle, one of the only nobles to 
 ##### 7. Assorted Graves
 *Scattered gravestones, precisely planned and placed, mark the resting places of the fallen. These dense crypt niches are stacked from the floor to the ceiling in two rows beside the central tomb and a smaller mausoleum.
 
-A pair of [corpse walker](https://www.dndbeyond.com/monsters/4037095-corpse-walker)* trundle through these graves looking for other undead agents. They attack on sight.
+A pair of [corpse walker](https://www.dndbeyond.com/monsters/4037095-corpse-walker)* trundle through these graves looking for other undead agents. They attack on sight. On their bodies is a
 
 ##### 8. Sisterly Love 
 *A simple wooden box, mostly rotted, sits on a stone pedestal in the center of this mausoleum. The lid is askew. A woman wearing a once-fine but now-bloodied cloak stands over the coffin, unmoving. Unlike the other undead and corpses in the necropolis, the zombie’s clothes are modern.*
 
-The zombie is the reanimated corpse of an elven woman named Kassalia, sister to Alessandra. She is someone lucid, but it is clear she's losing her mind. The zombie will tell the players she is pact-bound to protect her master, but is unable to tell them who her master is.
+The zombie is the reanimated corpse of an elven woman named Kassandra, sister to Alessandra. She is someone lucid, but it is clear she's losing her mind. The zombie will tell the players she is pact-bound to protect her master, but is unable to tell them who her master is.
 
 KASS: She saw, we saw... mercenaries... father cut down. She didn't forget... she never forgot...
 

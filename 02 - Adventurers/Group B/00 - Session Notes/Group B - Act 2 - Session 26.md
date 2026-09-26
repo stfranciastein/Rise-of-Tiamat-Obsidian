@@ -6,7 +6,7 @@ Arriving in Candlekeep, the party set to work and began researching all manner o
 
 As their day in Candlekeep drew to a close, grimmer news awaited that night; they had at most 2-3 months left to live and the clearer their visions of Rezmir grew, the closer they came to losing their bodies entirely. Rezmir, who they also learned had been warped by magic and had abilities far beyond an ordinary spellcaster. 
 
-Now, just two days away from the Feast of the Moon, they've returned to Baldur's Gate - party member richer and one shield poorer.
+Now, just two days away from the Feast of the Moon, they've returned to Baldur's Gate - one party member richer and one shield poorer.
 
 ____
 ### Reminders
@@ -18,7 +18,7 @@ ____
 There was no way for us to know, but I can't help but wonder if we could've gotten to him faster than maybe he wouldn't be in such a bad state. Feldir did what he could but wizards are rarely who you seek medical aid from. It will take him days if not weeks to fully recover. He needs to go back to Garrán, soon.
 ```
 
-- Thogli left the following note for the party:
+- Thogli left the following note for the party: 
 
 ```
 Alright chaps. 
@@ -30,7 +30,7 @@ I really needed to get goin home so I booked a ship up to Neverwinter that leave
 Anyways, to the point. I've left a tab open with Lucrecia at Sorcerous Sundries. 
 To keep it simple, I feel a little light in both gold and armour except some half plate I got from the Forge in the Lower City. If you could go to Sundries and give Lucrecia my old armour I'd really appreciate it. The Clan would go mental if I go home without it.
 
-The armour yiz gave me is with her and she'll hand it over once you return mine. Anyway, it's been a ride. Maybe we'll see each other again in the future. Head up to Citadel Adbar sometime!
+The armour and amulet yiz gave me is with her and she'll hand it over once you return mine. Anyway, it's been a ride. Maybe we'll see each other again in the future. Head up to Citadel Adbar sometime!
 ```
 
 - Tallis will also be gone. Leosin will also be gone.
