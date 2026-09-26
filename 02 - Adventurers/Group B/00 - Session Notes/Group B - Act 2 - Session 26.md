@@ -12,3 +12,25 @@ ____
 ### Reminders
 - This session ended on the morning of the 18th of Uktar at Candlekeep.
 - Someone tell Caradil their entire day in Candlekeep.
+- Tierbhal will want to watch over Pyrax in the Sylvira-Van until he can recover. Stone will stay with him and Glass to ensure nothing attacks the Van.
+
+```
+There was no way for us to know, but I can't help but wonder if we could've gotten to him faster than maybe he wouldn't be in such a bad state. Feldir did what he could but wizards are rarely who you seek medical aid from. It will take him days if not weeks to fully recover. He needs to go back to Garrán, soon.
+```
+
+- Thogli left the following note for the party:
+
+```
+Alright chaps. 
+
+Sorry about the short notice. Leosin also told me you left the city as well so it might be a while before you read this. Yous really haven't asked or wanted my help in a while and while I appreciate the severity of your situation, a mercenary isn't really a mercenary if he's just sittin' in the Elfsong doing nothin'. Yiz stopped a whole cultist plot without me!
+
+I really needed to get goin home so I booked a ship up to Neverwinter that leaves tomorrow.
+
+Anyways, to the point. I've left a tab open with Lucrecia at Sorcerous Sundries. 
+To keep it simple, I feel a little light in both gold and armour except some half plate I got from the Forge in the Lower City. If you could go to Sundries and give Lucrecia my old armour I'd really appreciate it. The Clan would go mental if I go home without it.
+
+The armour yiz gave me is with her and she'll hand it over once you return mine. Anyway, it's been a ride. Maybe we'll see each other again in the future. Head up to Citadel Adbar sometime!
+```
+
+- Tallis will also be gone. Leosin will also be gone.
