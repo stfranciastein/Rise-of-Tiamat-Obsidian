@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Żilliletha"
+              "title": "Cold, Red-Blooded Murder"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cold, Red-Blooded Murder"
+              "title": "Group B - Act 2 - Session 27"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cold, red",
+                "query": " mandor",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -242,21 +241,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "098e9b5759e17e5e",
+  "active": "ac5e65c75b0bff1a",
   "lastOpenFiles": [
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Danthelon's Dancing Axe.md",
+    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
+    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Danthelon's Dancing Axe.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 27.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 26.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 37.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
     "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Warlock Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Races.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
-    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 35.md",
     "03 - Persons of Note/01 - Allies/Thogli Battlehammer.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 8.0 - Herd of the Dragon.md",
@@ -269,7 +269,6 @@
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Alain Gilfont.md",
     "05 - Organisations/01 - Major Allied Factions/06 - Zhentarim/Nauk Flame-Arrow.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Beyda Achreny.md",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292522339.webp",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",
