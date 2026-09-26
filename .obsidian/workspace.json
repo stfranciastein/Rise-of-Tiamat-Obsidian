@@ -63,7 +63,8 @@
               "title": "Group B - Act 2 - Session 27"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,8 +242,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac5e65c75b0bff1a",
+  "active": "098e9b5759e17e5e",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
     "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
     "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Danthelon's Dancing Axe.md",
@@ -252,7 +254,6 @@
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 25.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 37.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Cold, Red-Blooded Murder.md",
     "09 - Rules and Information/Statblock Templates/Classes/Monk Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Wizard Statblock Template.md",
     "09 - Rules and Information/Statblock Templates/Classes/Warlock Statblock Template.md",
