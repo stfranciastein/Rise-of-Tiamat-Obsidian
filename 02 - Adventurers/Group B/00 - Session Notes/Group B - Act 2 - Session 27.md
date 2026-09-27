@@ -7,4 +7,4 @@ Deep in the catacombs they began to piece the sorry tale together. A young girl 
 ____
 ### Reminders
 - Caradil has a lot of thoughts to share.
-- 
+- Tomorrow is the 19th of Uktar.
