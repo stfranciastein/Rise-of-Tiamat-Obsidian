@@ -396,7 +396,7 @@ The deal with Orcus cannot be broken. The only way the Red-Bloods will be freed 
 #### The Talons
 With Alessandra dealt with, the Red-Bloods are now safe. Players can return to [[Xaria Trevisa]], leading them to finish their initiation into the [[Talons of the Raven Queen]],  or lead to [[Khasar the Blooded]] being awarded for his role. 
 
-Either way, the players are awarded with 4,000 GP, a scroll of revivify and the Conspirator's Coat. If [[Khasar the Blooded]] is with them, he will immediately take it for himself.
+Either way, the players are awarded with 4,000 GP, a scroll of revivify and the Conspirator's Coat. If [[Khasar the Blooded]] is with them, he will immediately take it for himself. 
 
 [[Xaria Trevisa]] will then move out to the common area and invite the rest of the party who may be waiting outside. She will then inform the players of information she learned about the Serpent.
 
