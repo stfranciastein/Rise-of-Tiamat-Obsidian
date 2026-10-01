@@ -335,7 +335,7 @@ A character can disable a particular rune (and its linked [alarm](https://5e.too
 
 Once the characters obtain the diadem, they must escape the vault to complete the heist.
 
-If Vidorant (chaotic neutral, elf [assassin](https://5e.tools/bestiary.html#assassin_mm)) is alerted to the theft by an alarm in her inner vault ([area T15](https://5e.tools/adventure.html#kftgv,8,t15%3a%20inner%20vault,0)), she uses a custom-made ring that functions as a [helm of teleportation](https://5e.tools/items.html#helm%20of%20teleportation_dmg) (to which only she can attune) to teleport to the balcony 5 rounds after the alarm is triggered. She heads toward the characters while calling loudly for the guards. The balcony guards follow her, and all other guards in the vault go on high alert (see "[Caught in the Act](https://5e.tools/adventure.html#kftgv,8,caught%20in%20the%20act,0)").
+If Vidorant (chaotic neutral, elf [assassin](https://5e.tools/bestiary.html#assassin_mm)) is alerted to the theft by an alarm in her inner vault ([area T15](https://5e.tools/adventure.html#kftgv,8,t15%3a%20inner%20vault,0)), she uses a custom-made ring that functions as a [helm of teleportation](https://5e.tools/items.html#helm%20of%20teleportation_dmg) (to which only she can attune) to teleport to the balcony 5 rounds after the alarm is triggered. She heads toward the characters while smiling. The balcony guards follow her, and all other guards in the vault go on high alert (see "[Caught in the Act](https://5e.tools/adventure.html#kftgv,8,caught%20in%20the%20act,0)").
 
 If Vidorant is able to intercept the characters, she makes a surprising offer:
 
