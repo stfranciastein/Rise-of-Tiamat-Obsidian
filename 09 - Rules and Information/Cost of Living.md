@@ -11,32 +11,38 @@
 _____
 ### B. Food & Drink
 
-| Item                 | Cost  |
-| -------------------- | ----- |
-| _Ale_                |       |
-| Gallon               | 2 sp  |
-| Mug                  | 4 cp  |
-| Banquet (per person) | 10 gp |
-| Bread, loaf          | 2 cp  |
-| Cheese, hunk         | 1 sp  |
-| Inn stay (per day)   |       |
-| Squalid              | 7 cp  |
-| Poor                 | 1 sp  |
-| Modest               | 5 sp  |
-| Comfortable          | 8 sp  |
-| Wealthy              | 2 gp  |
-| Aristocratic         | 4 gp  |
-| Meals (per day)      |       |
-| Squalid              | 3 cp  |
-| Poor                 | 6 cp  |
-| Modest               | 3 sp  |
-| Comfortable          | 5 sp  |
-| Wealthy              | 8 sp  |
-| Aristocratic         | 2 gp  |
-| Meat, chunk          | 3 sp  |
-| _Wine_               |       |
-| Common (pitcher)     | 2 sp  |
-| Fine (bottle)        | 15 gp |
+| Item                       | Cost  |
+| -------------------------- | ----- |
+| ***Common Drinks***        |       |
+| _Ale_                      |       |
+| Gallon                     | 2 sp  |
+| Mug                        | 4 cp  |
+|                            |       |
+| ***Common Food***          |       |
+| Banquet (per person)       | 10 gp |
+| Bread, loaf                | 2 cp  |
+| Cheese, hunk               | 1 sp  |
+|                            |       |
+| ***Inn Stay (per day)***   |       |
+| Squalid                    | 7 cp  |
+| Poor                       | 1 sp  |
+| Modest                     | 5 sp  |
+| Comfortable                | 8 sp  |
+| Wealthy                    | 2 gp  |
+| Aristocratic               | 4 gp  |
+|                            |       |
+| ***Full Meals (per day)*** |       |
+| Squalid                    | 3 cp  |
+| Poor                       | 6 cp  |
+| Modest                     | 3 sp  |
+| Comfortable                | 5 sp  |
+| Wealthy                    | 8 sp  |
+| Aristocratic               | 2 gp  |
+| Meat, chunk                | 3 sp  |
+|                            |       |
+| **_Wine, Fine Drinks_**    |       |
+| Common (glass)             | 2 sp  |
+| Fine (bottle)              | 15 gp |
 
 ____
 ### C. Mounts & Vehicles
