@@ -17,4 +17,4 @@ As members of the [[Emerald Enclave]], Glassgarrán worship a variety of gods in
 ____
 ### GOVERNANCE
 
-Garrán is lead by Archdruid [[Eamir an Garrán]], who has a close inner circle who help him oversee the affairs of the grove. These are [[Anya an Garrán]], [[Thalia an Garrán]] and [[Eamonn an Garrán]]. Eamir son, [[Tierbhal an Garrán]], has been estranged from the grove and his father but is still considered to have valuable input by [[Anya an Garrán]].
+Garrán is lead by Archdruid [[Eamir an Garrán]], who has a close inner circle who help him oversee the affairs of the grove. These are [[Anya an Garrán]], [[Thalia an Garrán]] and [[Eamonn an Garrán II]]. Eamir son, [[Tierbhal an Garrán]], has been estranged from the grove and his father but is still considered to have valuable input by [[Anya an Garrán]].

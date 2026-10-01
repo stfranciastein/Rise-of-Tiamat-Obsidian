@@ -68,7 +68,7 @@ Cassios's adventuring party consisted of:
 - Eamonn an Garrán, a male wood elf Druid of Eldath.
 - Lady Prior Heavyhand, a dwarf female Rogue.
 
-Further investigation will yield Lady Prior returned to [[Mithral Hall]] over one hundred years ago. Asking [[Tierbhal an Garrán]] or anyone in [[Garrán]] for the location of [[Eamonn an Garrán]] will result in the party learning that Eamonn died of sickness years ago. Stefan of [[House Halvachar]] is the only remaining member of the adventuring party and has retired to [[Daggerford]].
+Further investigation will yield Lady Prior returned to [[Mithral Hall]] over one hundred years ago. Asking [[Tierbhal an Garrán]] or anyone in [[Garrán]] for the location of [[Eamonn an Garrán II]] will result in the party learning that Eamonn died of sickness years ago. Stefan of [[House Halvachar]] is the only remaining member of the adventuring party and has retired to [[Daggerford]].
 
 Asking either [[Sylvira Savikas]] or one of the other Avowed in the Great Library will result in the party learning that Infernal Pacts do not need the consent of the victims, only requiring the signee to be willing to make that sacrifice. If asked for more insight, Sylvira will say she believes that there's something else that happened with Cassios and suspects he made a deal with the Zarielites that his descendants are now paying the price for. She will also mention that there is likely 'his' copy of the Pact stored wherever he may be buried.
 

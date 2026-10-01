@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 - Rules and Information/Cost of Living.md",
+                "file": "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cost of Living"
+              "title": "Garrán"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tallis",
+                "query": "eamon",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,6 +230,10 @@
   },
   "active": "e3681278bbde576d",
   "lastOpenFiles": [
+    "05 - Organisations/01 - Major Allied Factions/01 - Emerald Enclave/Eamonn an Garrán II.md",
+    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
+    "02 - Adventurers/Group B/Aramir Plentyleaf/Aramir Plentyleaf.md",
+    "09 - Rules and Information/Cost of Living.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 16.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 15.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 17.md",
@@ -251,10 +256,6 @@
     "Plot Hooks.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 3.0 - Candlekeep.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 4.0 - Dead in Thay.md",
-    "04 - Locations/01 - The Sword Coast/03 - Baldur's Gate/Outer City/Danthelon's Dancing Axe.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
-    "02 - Adventurers/Group A/Zilliletha/Żilliletha.md",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292522339.webp",
     "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy",

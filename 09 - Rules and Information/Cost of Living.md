@@ -40,7 +40,7 @@ _____
 | Aristocratic               | 2 gp  |
 | Meat, chunk                | 3 sp  |
 |                            |       |
-| **_Wine, Fine Drinks_**    |       |
+| ***Fine Drinks***          |       |
 | Common (glass)             | 2 sp  |
 | Fine (bottle)              | 15 gp |
 
