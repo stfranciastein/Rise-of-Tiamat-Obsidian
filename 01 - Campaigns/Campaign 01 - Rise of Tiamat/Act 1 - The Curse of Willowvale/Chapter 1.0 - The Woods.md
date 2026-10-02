@@ -9,7 +9,7 @@ The adventure begins offscreen, in the town of [[Willowvale]]. The intent is to 
 
 *About a year ago a curse befell [[Willowvale]]. It was subtle, at first. The rains that quenched the land began to slowly dwindle, bit by bit before coming to an eventual end. Without the rain watering the soil, [[Willowvale]]’s crops began to wither and die. And because of that, livestock have had little left to graze on. Cows and sheep stand in fields thin and emaciated, much like the citizens themselves. With their food sources slowly dwindling, the townsfolk are living on borrowed time. [[Feldir Whitefyre]], the local wizard, was stumped. He knew that this was no ordinary blight. When you and your companions stayed the night, he implored you to go to help them.*
 
-*"We won't survive another year if things go on like this. Please you must go to [[Candlekeep]] Hall. Find [[Matreous Melwin]]. Find whatever you can about this curse. We'll be forever in your debt."*
+*"We won't survive another year if things go on like this. Please you must go to [[Candlekeep]] Hall. Find [[Matreous Melwin]]. He may be the only one who can end this curse."*
 
 If the party only has 2 party members, [[Tierbhal an Garrán]], a druid from [[Garrán]] in the [[Misty Forest]] will join their party. He is eager to learn more to learn about the plague that has befallen the land. Allow the others to roleplay their trek through the woods before continuing on with the following.
 
