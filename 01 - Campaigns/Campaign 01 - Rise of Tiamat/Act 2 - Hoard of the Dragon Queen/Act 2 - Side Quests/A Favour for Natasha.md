@@ -187,16 +187,16 @@ A character using thieves' tools can try to unlock a safe, which takes 1 minute.
 
 - Bribe. A tattered parchment details how a prisoner, jailed for stealing racehorses, was freed after a noble bribed a local government official.
     
-- Disputed Will. A parchment bears the original will of a recently deceased local noble by the name of Jhasso. As the noble's family members are currently fighting over the estate, this will would be of great value to the heirs named in it.
+- Disputed Will. A parchment bears the original will of a recently deceased local noble by the name of Jhasso. As the noble's family members are currently fighting over the estate, this will would be of great value to the heir named in it, Klim.
     
 - Love Letters. Several perfumed envelopes hold romantic letters between a Patriar named Gideon Lockheart and Liara Portyr. The affair would be a scandal if revealed.
 	
 - Serpent's Kiss. There are a bundle of letters that stand out the least, but contains quite serious information. According to this note, the Cult of the Dragon has quite a lot of information about the Council of Four from an insider.
   
-  One letter suggests that Duke [[Belynne Stelmane]] is close to death, another heavily speculates that Grand Duke [[Ulder Ravengard]] may not return from his journey to [[Elturel]]. One talks about [[Thalamra Vanthampur]]'s connection to a 'rival' organisation being a problem. Lastly, there are detailed plans here regarding the involvement of [[Dillard Portyr]]'s daughter, [[Liara Portyr]], being a 'useful idiot' in sowing chaos in [[Baldur's Gate]]. All of these letters are not signed by their author, but marked with the symbol of a snake.
+  One letter suggests that Duke [[Belynne Stelmane]] is close to death, another heavily speculates that Grand Duke [[Ulder Ravengard]] may not return from his journey to [[Elturel]]. One talks about [[Thalamra Vanthampur]]'s connection to a 'rival' organisation being a problem. Lastly, there are detailed plans here regarding the involvement of [[Dillard Portyr]]'s daughter, [[Liara Portyr]], in being a 'useful idiot' in sowing chaos in [[Baldur's Gate]]. All of these letters are not signed by their author, but marked with the symbol of a snake.
   
-  The last letter in this bundle seems to be written by a different hand. The word 'Serpent' is encircled. It seems that Vidorant is interested in learning who is in the [[Cult of the Dragon]]'s pocket/the identity of the Serpent. Her writings suggest that she has seen the serpent, but she does not discuss what she looks like.
-
+  The last letter in this bundle seems to be written by a different hand, the word 'Serpent' is encircled. It seems that Vidorant is interested in learning who is the Serpent. Her writings suggest that she has seen the serpent, but she does not discuss what she looks like. 
+  
 
 None of the documents in the safe have intrinsic monetary value, though they could be used to gain money or influence through blackmail.
 
@@ -335,7 +335,7 @@ A character can disable a particular rune (and its linked [alarm](https://5e.too
 
 Once the characters obtain the diadem, they must escape the vault to complete the heist.
 
-If Vidorant (chaotic neutral, elf [assassin](https://5e.tools/bestiary.html#assassin_mm)) is alerted to the theft by an alarm in her inner vault ([area T15](https://5e.tools/adventure.html#kftgv,8,t15%3a%20inner%20vault,0)), she uses a custom-made ring that functions as a [helm of teleportation](https://5e.tools/items.html#helm%20of%20teleportation_dmg) (to which only she can attune) to teleport to the balcony 5 rounds after the alarm is triggered. She heads toward the characters while smiling. The balcony guards follow her, and all other guards in the vault go on high alert (see "[Caught in the Act](https://5e.tools/adventure.html#kftgv,8,caught%20in%20the%20act,0)").
+If Vidorant (chaotic neutral, elf [assassin](https://5e.tools/bestiary.html#assassin_mm)) is alerted to the theft by one of the two alarms in her inner vault ([area T15](https://5e.tools/adventure.html#kftgv,8,t15%3a%20inner%20vault,0)), she uses a custom-made ring that functions as a [helm of teleportation](https://5e.tools/items.html#helm%20of%20teleportation_dmg) (to which only she can attune) to teleport to the balcony 5 rounds after the alarm is triggered. She heads toward the characters while smiling. The balcony guards follow her, and all other guards in the vault go on high alert (see "[Caught in the Act](https://5e.tools/adventure.html#kftgv,8,caught%20in%20the%20act,0)").
 
 If Vidorant is able to intercept the characters, she makes a surprising offer:
 
