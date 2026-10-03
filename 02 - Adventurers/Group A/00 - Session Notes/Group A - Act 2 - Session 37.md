@@ -13,5 +13,5 @@ ___
 - The Sylvira Van currently has 3/5 charges for Sending left.
 
 ```
-Hi like sorry or whatever that I didn't reply but Mr. Greenie is being such an annoying guy. He's like saying he can't make me food anymore but Mrs. Frume is being really nice and she buys these really good pastries-
+Hi like sorry or whatever that I didn't reply but Mr. Greenie is being such an annoying guy. He's like saying he can't make me food anymore and we need to leave soon but Mrs. Frume is really nice and makes the-
 ```
