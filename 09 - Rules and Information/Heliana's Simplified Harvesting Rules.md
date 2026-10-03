@@ -1,4 +1,4 @@
-u***Essence Harvesting.*** When you come across creatures marked by the GM as viable for harvesting, you can harvest its essence. To do so, you must succeed on a Harvesting check. This is the combined total of two ability checks; an Arcana Check (Assessing the creature) and a Harvest check (Skill dependent on creature type). 
+***Essence Harvesting.*** When you come across creatures marked by the GM as viable for harvesting, you can harvest its essence. To do so, you must succeed on a Harvesting check. This is the combined total of two ability checks; an Arcana Check (Assessing the creature) and a Harvest check (Skill dependent on creature type). 
 
 | Creature Type                                                                          | Harvest Skill                                                                             |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |

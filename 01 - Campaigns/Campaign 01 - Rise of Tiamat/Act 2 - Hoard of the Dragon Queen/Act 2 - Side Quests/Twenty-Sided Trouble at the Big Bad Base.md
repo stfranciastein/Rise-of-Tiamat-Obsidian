@@ -97,18 +97,18 @@ The lair is filled with a combination of traps fashioned by kobolds, as well as 
 
 ##### Table D: Damage Types
 
-|d10|Damage Type|Resistance Description|
-|---|---|---|
-|1|Acid|The creature’s skin secretes a liquid that causes the acid to bubble and turn to… water?|
-|2|Cold|Layers of thick fur and blubber coat the creature, insulating it.|
-|3|Fire|The creature’s skin billows thick smoke, extinguishing flames before they strike.|
-|4|Force|Force energy is deflected, as if by an impossibly strong magnet.|
-|5|Lightning|The lightning ripples across the creature’s skin, earthing itself at its feet.|
-|6|Necrotic|The creature’s flesh appears to grow back in rapid, cancerous lumps.|
-|7|Poison|The creature’s lymphatic system inflates as some sort of antitoxin suffuses it.|
-|8|Psychic|The creature’s single-mindedness prevents any neuropathic overstimulation.|
-|9|Radiant|The creature’s skin turns golden, absorbing radiation in a warm glow.|
-|10|Thunder|A barrier of low pressure air surrounds the creature, distorting its breathing and footsteps.
+| d10 | Damage Type | Resistance Description                                                                        |
+| --- | ----------- | --------------------------------------------------------------------------------------------- |
+| 1   | Acid        | The creature’s skin secretes a liquid that causes the acid to bubble and turn to… water?      |
+| 2   | Cold        | Layers of thick fur and blubber coat the creature, insulating it.                             |
+| 3   | Fire        | The creature’s skin billows thick smoke, extinguishing flames before they strike.             |
+| 4   | Force       | Force energy is deflected, as if by an impossibly strong magnet.                              |
+| 5   | Lightning   | The lightning ripples across the creature’s skin, earthing itself at its feet.                |
+| 6   | Necrotic    | The creature’s flesh appears to grow back in rapid, cancerous lumps.                          |
+| 7   | Poison      | The creature’s lymphatic system inflates as some sort of antitoxin suffuses it.               |
+| 8   | Psychic     | The creature’s single-mindedness prevents any neuropathic overstimulation.                    |
+| 9   | Radiant     | The creature’s skin turns golden, absorbing radiation in a warm glow.                         |
+| 10  | Thunder     | A barrier of low pressure air surrounds the creature, distorting its breathing and footsteps. |
 ____
 ### PART III - The Dungeon
 
@@ -181,7 +181,7 @@ It contains a pouch with a bag of mushrooms in it: two doses of preserved [Norad
 ##### 10 - Tank Room Three
 *Containing an identical tank to those in [rooms 3](https://www.dndbeyond.com/sources/dnd/hgtmh1/polyhedrooze#3TankRoomOne) and [4](https://www.dndbeyond.com/sources/dnd/hgtmh1/polyhedrooze#4TankRoomTwo), pipes run from the specially-treated barrels filled with yellow acid into the tank. Many barrels are stacked to the south. A ledger, written in Goblin, sits on a crate to the south.* 
 
-The ledger details the corpse of a long-dead Adult Black dragon named Tunathranx. The Goblin who wrote this ledger seems to think that Tunathranx is still alive, however, and details 'him' stealing their treasure. The value of the treasure moved into the lair’s treasury is listed as being 8,000 GP.
+The ledger details the corpse of a long-dead Adult Black dragon named Tunathranx. The Goblin who wrote this ledger seems to think that Tunathranx is still alive, however, and details 'him' stealing their treasure. The value of the treasure moved into the lair’s treasury is listed as being 200PP 5,000GP, 5000 SP, 3000 CP.
 
 ##### 11 - Loading Area
 *This large cavern is home to empty stables, wheel tracks, and a cart filled with barrels in the midst of being removed. A tunnel leads to a room that glows with dim blue light to the north. A staircase leads away to the southwest, close to which is a crack large enough for a Small or smaller creature to squeeze through.*
