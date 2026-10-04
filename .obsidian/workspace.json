@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 38.md",
+                "file": "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group A - Act 2 - Session 38"
+              "title": "Heliana's Simplified Harvesting Rules"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "harve",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,9 +215,10 @@
   },
   "active": "e2437693780f1189",
   "lastOpenFiles": [
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 38.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 37.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 38.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
@@ -240,7 +242,6 @@
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 16.md",
     "05 - Organisations/06 - Guards & Watchmen/04 - Waterdeep/The Watch (Waterdeep).md",
     "05 - Organisations/06 - Guards & Watchmen/04 - Waterdeep/City Guard (Waterdeep).md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 8.0 - Tyranny of Dragons.md",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292522339.webp",

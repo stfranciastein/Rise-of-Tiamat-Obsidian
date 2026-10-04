@@ -25,7 +25,9 @@ Depending on your roll, you can harvest the following type of essence:
 | 7-11        | 30           | Robust Essence | Rare            | x2                       |
 | 12-17       | 35           | Potent Essence | Very Rare       | x3                       |
 
-You can’t harvest a lower-level essence from a higher CR creature—they have only one essence, the one dictated by its CR. You can use this essence combined with a creature's unique material in order to get [[Glass]] to create unique weapons and armour for you. **You do not have to use this essence immediately.**
+You can’t harvest a lower-level essence from a higher CR creature—they have only one essence, the one dictated by its CR. You can use this essence combined with a creature's unique material in order to get [[Glass]] to create unique weapons and armour for you. **You do not have to use this essence immediately.** 
+
+Robust and Potent Essence is required to craft +2 and +3 Weapons and Armour.
 
 **_Helpers_**. Creatures not involved in assessment or carving can help. The number of creatures that can help depends on the size of the creature being harvested. If a helper has proficiency in the skill associated with the monster’s type, the helper adds its proficiency bonus to the Harvesting check’s result. The table is below:
 
