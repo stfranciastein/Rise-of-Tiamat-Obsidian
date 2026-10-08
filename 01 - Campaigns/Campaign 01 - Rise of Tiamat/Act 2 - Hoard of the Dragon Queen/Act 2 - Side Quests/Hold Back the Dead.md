@@ -46,7 +46,7 @@ Defending and helping with [[Ironspine Keep]] is entirely optional. If the party
 
 If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects the next attack to happen tomorrow night. She will then inform the party of the five zones of defense that need people to man them. Several members of the convoy will immediately pick one side to help defend.
 
-[[Corlie Halvachar]]  will say that the best way to make sure the walls are safe is to have one party member defend one part of the wall while the others spread out. 
+[[Corlie Halvachar]] will say that the best way to make sure the walls are safe is to have one party member defend one part of the wall while the others spread out. 
 
 | Direction  | City          | Defender                        | Siege Weapon        |
 | ---------- | ------------- | ------------------------------- | ------------------- |
@@ -55,6 +55,25 @@ If they decide to stay, [[Corlie Halvachar]] will inform them that she suspects 
 | South East | Elturel       | [[Vellin Farstride]] (Ranger)   | Enchanted Ballista  |
 | South West | Neverwinter   | [[Renaer Neverember]] (Ranger)  | Automatic Ballista  |
 | North West | Mithral Hall  | [[Kagain Brawnanvil]] (Fighter) | Forge Launcher      |
+
+____
+### PART II - Hold back the Dead
+
+![[Hold Back the Dead-1791470057259.webp]]
+GRID TILES: 70x120
+
+The waves follow the same order as the table, starting with Nauk on the North gate.
+
+| Direction  | City          | Defender                                                          | Combatants                                              |
+| ---------- | ------------- | ----------------------------------------------------------------- | ------------------------------------------------------- |
+| North      | Baldur's Gate | [[Nauk Flame-Arrow]] (Fighter) and two Guards                     | 4 Skeletons, 2 Skeleton Archers 1 Zombie Clot           |
+| North East | Waterdeep     | [[Alain Gilfont]] (Wizard) and two Guards                         | 2 Skeleton Archers, 5 Ghouls, 1 Ghoul Priest            |
+| South East | Elturel       | [[Vellin Farstride]] (Ranger), Akela (his Direwolf) and one Guard | 2 Ghoul Lords, 2 Skeleton Soldiers, 1 Zombie Clot       |
+| South West | Neverwinter   | [[Renaer Neverember]] (Ranger), a Blue Wyrmling (his Drake)       | 2 Ravenous ghouls, 1 Garmyr Berserker, 2 Skeletons      |
+| North West | Mithral Hall  | [[Kagain Brawnanvil]] (Fighter), [[Cannon]] and one Guard         | 4 Skeleton Soldiers, 1 Skeleton Mage, 1 Skeleton Archer |
+
+At the end of all five waves, [[Corlie Halvachar]] will ask for help defending the South Gate as it is assailed by 2 Skeleton Soldiers, 2 Skeleton Mages, 1 Garmyr Bloodhound, 2 Garmyr Warriors and 1 Garmyr Thaumaturge.
+
 
 ____
 ### CONCLUSION
