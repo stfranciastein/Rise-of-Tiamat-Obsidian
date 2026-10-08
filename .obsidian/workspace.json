@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hold Back the Dead"
+              "title": "Chapter 4.0 - Long and Winding Road"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "harve",
+                "query": "court of met",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,8 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2437693780f1189",
+  "active": "b33abf1f2fd9618e",
   "lastOpenFiles": [
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Heist of Goldmane Manor.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
     "00 - Images/Hold Back the Dead-1791470057259.webp",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Act 1 - The Curse of Willowvale.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 2.0 - Shade Rest.md",
@@ -238,9 +243,6 @@
     "04 - Locations/Known Map of Faerun.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A Favour for Natasha.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Masked Faces.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 16.md",
-    "05 - Organisations/06 - Guards & Watchmen/04 - Waterdeep/The Watch (Waterdeep).md",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292522339.webp",
@@ -251,7 +253,6 @@
     "00 - Images/Nauk Flame-Arrow-1788911234856.webp",
     "00 - Images/Vellin Farstride-1788910311856.webp",
     "00 - Images/Court of Metal-1788465089285.webp",
-    "00 - Images/Emerald Enclave-1788460662183.webp",
     "09 - Rules and Information/Statblock Templates/Factions",
     "09 - Rules and Information/Statblock Templates/Classes",
     "09 - Rules and Information/Statblock Templates/Class Templates",

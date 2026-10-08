@@ -151,6 +151,7 @@ CACAFONIX: I'll tell you the real reason why I'm doing this for you all. I was s
 
 CACAFONIX: Upcoming heroes with nothing to gain but everything to lose fought against a Cult armed with an Ancient Dragon and lived. That's history in the making right there. So if you're ever feeling like it's not enough, give yourselves more credit, you inspire more hope than you realise.
 
+At night, [[Wyrmspeaker Rezmir]] will appear to the party as they are given a vision of [[Chapter 8.0 - Castle in the Clouds]]. They will see the Hoard that she has collected as well as Rezmir's Adult Black Dragon companion [[Waervarendor]]. She will cast disintegrate 3 times and taunt the party if they try to run away. At the end of that vision, the party will be saved by an Ancient Bronze Dragon.
 #### Checkpoint VI: Everything has a Price
 
 *As the seventh day of your journey passes, you find yourselves all looking back on the events of your campaign against the Cult of the Dragon thus far. As your minds wander, you can't help but think about Rezmir's words again in the last 'vision' of her you saw. As you're all lost in thought, your focus is immediately jostled as someone rides up next to you from behind.*
