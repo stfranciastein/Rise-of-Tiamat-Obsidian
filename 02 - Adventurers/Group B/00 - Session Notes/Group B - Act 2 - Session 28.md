@@ -4,6 +4,7 @@ After a long day working with the Talons of the Raven Queen, the Bush Whackers c
 
 Unfortunately, they did not disarm the pressure plate and were spotted by the Master Thief. Vidorant seem amiable enough and even offered them a deal; impressed by their skills as a group. The Bush Whackers returned to Whitkeep Hostel without the diadem, but were still rewarded by Jives as a gift for the attempt.
 
+____
 ### Reminders
-- 19th of Uktar after 1 long rest.
-- The Bush Whackers picked Tallis 
+- Tomorrow will be the 20th of Uktar.
+- The Bush Whackers picked Tallis in their dream.

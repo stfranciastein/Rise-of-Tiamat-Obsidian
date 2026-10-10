@@ -25,14 +25,17 @@
             "id": "0dbfad9fbc556565",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Group A - Act 2 - Session 39"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +212,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0dbfad9fbc556565",
+  "active": "8af5f083b41fc8f1",
   "lastOpenFiles": [
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 27.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "04 - Locations/02 - The North/02 - Luskan/Luskan.md",
     "04 - Locations/02 - The North/03 - Mithral Hall/Mithral Hall.md",
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 38.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 37.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
@@ -236,9 +242,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 8.0 - Herd of the Dragon.md",
     "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
-    "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
     "Untitled",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
