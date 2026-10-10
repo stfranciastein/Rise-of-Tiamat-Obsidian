@@ -4,35 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "22c36f587668ddec",
+        "id": "fe00b3f4151b5d11",
         "type": "tabs",
         "children": [
           {
-            "id": "e2437693780f1189",
+            "id": "8af5f083b41fc8f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4.0 - Long and Winding Road"
+              "title": "Chapter 3.0 - The Bloody Gate"
             }
           },
           {
-            "id": "78131bc71ebdfe3b",
+            "id": "0dbfad9fbc556565",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Group A - Act 2 - Session 39"
+              "title": "New tab"
             }
           }
         ],
@@ -213,10 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78131bc71ebdfe3b",
+  "active": "0dbfad9fbc556565",
   "lastOpenFiles": [
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
+    "04 - Locations/02 - The North/02 - Luskan/Luskan.md",
+    "04 - Locations/02 - The North/03 - Mithral Hall/Mithral Hall.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 38.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 37.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 36.md",
@@ -224,7 +223,6 @@
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 -.md",
     "07 - Items/Protanther's Thesis on the Merging of Chromatic and Metallic Dragons.md",
     "Untitled.canvas",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Heist of Goldmane Manor.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
@@ -241,8 +239,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Exit bear, stage right.md",
     "07 - Items/Wonderous Items/Decks/Wildcard's Tarot.md",
-    "Plot Hooks.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 1.0 - The Woods.md",
     "Untitled",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",
