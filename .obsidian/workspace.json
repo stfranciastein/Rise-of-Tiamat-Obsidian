@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 3.0 - The Bloody Gate"
+              "title": "Group B - Act 2 - Session 19"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group A - Act 2 - Session 39"
+              "title": "Group B - Act 2 - Session 28"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire and darkness",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -214,10 +214,11 @@
   },
   "active": "8af5f083b41fc8f1",
   "lastOpenFiles": [
-    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
+    "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 27.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "04 - Locations/02 - The North/02 - Luskan/Luskan.md",
@@ -241,7 +242,6 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 6.0 - The Mentor.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 8.0 - Herd of the Dragon.md",
-    "09 - Rules and Information/Heliana's Simplified Harvesting Rules.md",
     "Untitled",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",

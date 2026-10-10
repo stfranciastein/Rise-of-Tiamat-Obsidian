@@ -548,7 +548,7 @@ ____
 ### 3.8 Hidden Claw
 
 #### Ambushed!
-After completing at least four side quests in [[Baldur's Gate]], [[Alia Sanem 'Talis Kasterel']] and [[Leosin Erlanthar]] will ask to meet up with the party once more in the [[Elfsong Tavern]]. This message will arrive via the Sending spell from [[Alia Sanem 'Talis Kasterel']] who says the following;
+After completing at least four side quests in [[Baldur's Gate]], [[Alia Sanem 'Talis Kasterel']] and [[Leosin Erlanthar]] will ask to meet up with the party once more. This message will arrive via the Sending spell from [[Alia Sanem 'Talis Kasterel']] who says the following;
 
 ALIA: News about Dragonclaw. Come to Whitkeep Hostel when you're ready. Can't trust the Elfsong.
 
