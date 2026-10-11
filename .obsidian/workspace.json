@@ -35,7 +35,8 @@
               "title": "Group B - Act 2 - Session 29"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af5f083b41fc8f1",
+  "active": "0dbfad9fbc556565",
   "lastOpenFiles": [
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
     "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
     "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
