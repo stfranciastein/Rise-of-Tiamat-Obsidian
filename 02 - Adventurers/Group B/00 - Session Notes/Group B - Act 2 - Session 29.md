@@ -14,6 +14,7 @@ ____
 - Their feywild shard has 7 charges left.
 - Rezmir threatened Soma.
 - Ser Caldus will tell the party about the state of Waterdeep.
+
 ```
 No love for the Ren Blades here. You and your crew are being hunted. Most dead, some imprisoned. When you arrive, stay low. 
 ```
