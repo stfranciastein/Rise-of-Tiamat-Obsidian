@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
+                "file": "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 19"
+              "title": "Chapter 3.0 - The Bloody Gate"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
+                "file": "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Group B - Act 2 - Session 28"
+              "title": "Group B - Act 2 - Session 29"
             }
           }
         ]
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tierbhal",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +93,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,11 +215,19 @@
   },
   "active": "8af5f083b41fc8f1",
   "lastOpenFiles": [
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
+    "03 - Persons of Note/01 - Allies/Tierbhal an Garrán.md",
+    "04 - Locations/01 - The Sword Coast/00 - Wilderness/Misty Forest/Garrán.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 1.0 - The Woods.md",
+    "02 - Adventurers/Other Companions/Cannon.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 29.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 3.0 - The Bloody Gate.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 39.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 28.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 5.0 - Blood of the Wolf.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 6.0 - The Mentor.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
+    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 19.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 27.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "04 - Locations/02 - The North/02 - Luskan/Luskan.md",
@@ -230,18 +239,10 @@
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 -.md",
     "07 - Items/Protanther's Thesis on the Merging of Chromatic and Metallic Dragons.md",
     "Untitled.canvas",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Heist of Goldmane Manor.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
     "00 - Images/Hold Back the Dead-1791470057259.webp",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Act 1 - The Curse of Willowvale.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 2.0 - Shade Rest.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 3.0 - Candlekeep.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 4.0 - Veins of Ice.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 5.0 - Blood of the Wolf.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 6.0 - The Mentor.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 8.0 - Herd of the Dragon.md",
     "Untitled",
     "00 - Images/061-08-003.players-map.webp",
     "00 - Images/Twenty-Sided Trouble at the Big Bad Base-1790292890909.webp",

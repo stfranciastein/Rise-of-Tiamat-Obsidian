@@ -585,9 +585,9 @@ ALIA: The Serpent is here. I have it on good authority. If they figure out that 
 
 The following sights can be seen in [[Little Calimshan]].
 
-1. A Priestess of Kelemvor, Graves, blue-skinned tiefling woman with a missing horn and greying black hair holds a small service commemorating the dead.
+1. A Priestess of Kelemvor, Graves, blue-skinned Tiefling woman with a missing horn and greying black hair holds a small service commemorating the dead.
 
-2. Children and adults have their faces or papepr painted to look like ghosts and skeletons, similar to dio de los muertos and will try to get gold from the party. The party can get their own masks or faces painted for 1 Copper piece by one of the Calishite workers.
+2. Children and adults have their faces or paper painted to look like ghosts and skeletons, similar to dio de los muertos and will try to get gold from the party. The party can get their own masks or faces painted for 1 Copper piece by one of the Calishite workers.
 
 3. Apple-bobbing (2 Silver) run by a human woman named Alicia and a gnome named Bryn. Alicia is from Baldur's Gate and speaks like someone from the lower city. She has short brown hair and wears a shirt under a corset. Bryn is a silly man wearing a finely made garment.
    
