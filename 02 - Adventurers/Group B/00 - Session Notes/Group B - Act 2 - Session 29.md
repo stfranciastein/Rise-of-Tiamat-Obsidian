@@ -13,10 +13,10 @@ ____
 - Tallis and Leosin were warned about Dragonspear Castle.
 - Their feywild shard has 7 charges left.
 - Rezmir threatened Soma.
-- Ser Caldus will tell the party about the state of Waterdeep.
+- Ser Caldus will tell the party about the state of Waterdeep:
 
 ```
-No love for the Ren Blades here. You and your crew are being hunted. Most dead, some imprisoned. When you arrive, stay low. 
+No love for the Renblades here. You and your crew are despised. Most dead, some hunted/wanted. Ordered by a Masked Lord. Don't know who. 
 ```
 
 Loot Table

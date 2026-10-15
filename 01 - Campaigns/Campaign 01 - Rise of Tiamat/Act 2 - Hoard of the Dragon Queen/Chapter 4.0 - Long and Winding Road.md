@@ -230,18 +230,18 @@ KAGAIN: We'll have to agree to disagree, I suppose. I'm tellin ya, I'll bet my l
 
 #### Checkpoint IX: The Golden Stag
 
-*On the morning of your tenth day on the road, you all find yourselves replaying the conversation between the Ranger and Werond the night before. As you all reminisce find yourselves remembering your vision of the Court of Metal. The idea of being chosen by a god seems so foreign and far away, but in order to defeat Tiamat's forces it would surely take nothing short of a miracle. As Glass loads up the caravan for the day you let your thoughts wander before the caravan picks up speed again ahead of the convoy.*
+*On the morning of your tenth day on the road, you all find yourselves replaying the conversation between the Ranger and Kaghain the night before. As you all reminisce find yourselves remembering your vision of the Court of Metal. The idea of being chosen by a god seems so foreign and far away, but in order to defeat Tiamat's forces it would surely take nothing short of a miracle. As Glass loads up the caravan for the day you let your thoughts wander before the caravan picks up speed again ahead of the convoy.*
 
 | D6  | Encounter                                                                                                                                                                                                                                                                        |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | A field of deer run across the plains in the distance and the [[Mutated Dragon]] chases them for fun. It does not try to kill them but instead seems to play with the younger ones. Inspiration to the party.                                                                    |
 | 2   | Several bears are seen heading off into a small bit of wood in order to prepare for hibernation. Above, a Roc flies across the fields and towards the north east closer to the mountains. Your party is forced to stop for a while in order to give it a wide berth. -5 rations. |
 | 3   | A [[Cult of the Dragon]] patrol consisting of 3 warriors, 2 scoundrels, 2 evokers and 2 brawlers are seen burning down a small hamlet.                                                                                                                                           |
-| 4   | A group of 4 hobgoblins walords lead by a Hobgoblin Commander try to raid your caravan. They wound one of your horses, forcing you to need to feed it more to recover -1 rations.                                                                                                |
+| 4   | A group of 4 hobgoblins warlords lead by a Hobgoblin Commander try to raid your caravan. They wound one of your horses, forcing you to need to feed it more to recover -1 rations.                                                                                               |
 | 5   | 5 Veterans and 4 Elvish Veteran Archers who are recent converts to the [[Cult of the Dragon]] assail the convoy.                                                                                                                                                                 |
 | 6   | 5 Hill Giants pretending to be stray trees ambush the Caravan. The party is surprised.                                                                                                                                                                                           |
 
-*As the day ends, you spot a herd of deer grazing on a nearby hill. While you would usually find nothing of note in this herd, among the herd is a magnificant and large stag. It is far larger than any common stag you've ever seen and it seems to shimmer in the light as if its coat is spun from gold and its antlers are made of platinum.*
+*As the day ends, you spot a herd of deer grazing on a nearby hill. While you would usually find nothing of note in this herd, among the herd is a magnificent and large stag. It is far larger than any common stag you've ever seen and it seems to shimmer in the light as if its coat is spun from gold and its antlers are made of platinum.*
 
 KAGAIN: Well what the bloody hells did I say just last night. Stone bless us it's real!
 
@@ -258,26 +258,23 @@ On a successful DC 10 Intelligence (Religion) check, the party can determine tha
 The stag greets the characters in Primordial. If none of the characters speak that, it switches to Sylvan, then Elvish. When it speaks, the Stag has the ethereal voice of a woman that begins quite soft and quickly turns deep and serious. It then gives the following prophecy;
 
 ```
-Hark, listen and beware.
 A great evil awaits beneath the dragon's bones, 
 wearing the face of a would-be friend.
 
-Tread soft and keep your names close, 
+Tread soft and keep your names close,
 For a hunter stalks and tracks what she sees with rays of green.
-Let her eye pass over you unmarked, and unmarked stay.
 
 Still, the one who treads web will find you. 
 Eight legs and a patient death behind him. 
 When he does, do not fight what cannot be beaten.
+
 Run instead, and let another die so the truth does not.
 When the chance to leap presents itself, 
 You must fly and trust the embrace of the exiled spider.
 
 Not all will survive, but do not weep.
 Many perils await below, but as does the grove. 
-It will not open for swords, but shall for hearts that mean to stay.
-The keeper will test, but you must persevere.
-Ask, and she shall show you the path to the Masked Ones. 
+One must die, but at least one must survive.
 
 The winged shadow does not know, the Lion's prize is but one of five.
 The woman veiled in silver, Chosen by Midnight is who you seek.
