@@ -6,9 +6,12 @@ As the Stag gave them guidance of the near future, it gave them a gift; a single
 
 On the 11th day of their journey, they found themselves faced with another dilemma. Ironspine Keep - a fortress built by the Lord's Alliance - stood before them. Surrounding its beaten and battered walls were the marked remains of undead creatures. The presence of a Zulkir of the Red Wizards was immediately apparent to Zil, and she knew that outside the walls there was no chance of survival for the other members of the convoy. They needed to remain here for the night.
 
-As she processed this, it was clear that there was a cruel choice set before them. They could choose to stay in Ironspine Keep to help defend the walls and the members of the convoy. However, they would potentially be risking time they didn't have in dealing with another threat. Their other choice, one that Ryn seemed more eager to take, was to leave the members of the convoy behind and try to find Tallis and Leosin at their rendezvous point. The cost of this choice would be, that there was no chance any of the men and women they've come to know would survive the night with the limited amount of fighters at their side. Ultimately, the group decided to stay, much to Ryn's dismay.
+As she processed this, it was clear that there was a cruel choice set before them. They could choose to stay in Ironspine Keep to help defend the walls and the members of the convoy. However, they would potentially be risking time they didn't have in dealing with another threat. Their other choice, one that Ryn seemed more eager to take, was to leave the members of the convoy behind and try to find Tallis and Leosin at their rendezvous point. The cost of this choice would be, that there was no chance any of the men and women they've come to know would survive the night with the limited amount of fighters at their side. 
+
+Ultimately - after much deliberation - the group decided to stay, much to Ryn's dismay. Now, they prepare to hold back the dead, hoping this wouldn't cost them too dearly.
 
 ____
 ### Reminders
- - Yan wants to learn Lute from Cacafonix. 
-- 31st of Uktar.
+- Yan wants to learn Lute from Cacafonix. 
+- Today is the 1st of Nightal.
+- Ryn decided not to stay, but everyone else did.
