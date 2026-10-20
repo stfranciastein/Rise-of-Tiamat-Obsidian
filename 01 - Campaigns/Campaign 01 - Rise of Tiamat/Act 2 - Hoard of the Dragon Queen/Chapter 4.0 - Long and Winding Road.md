@@ -308,28 +308,29 @@ Renaer will state that while he does not believe in predestiny, there is a good 
 
 #### Leaving Ironspine
 
-After finishing the events of [[Hold Back the Dead]], the party can choose to return to their journey on the main road. [[Balthazaar Baradult]] will say he and the other members of the convoy will likely need to stay in [[Ironspine Keep]] until the business with the [[Cult of the Dragon]] is finished. [[Corlie Halvachar]] will say there's a very high chance that either the [[Cult of the Dragon]] or [[Szass Tam]]'s forces will return. There are three possible outcomes for this quest;
-- The party rids the surrounding area of both [[Cult of the Dragon]] forces and [[Szass Tam]]'s [[Red Wizards of Thay]] and defends [[Ironspine Keep]]. As a result of this, the convoy's inhabitants will be safe with [[Corlie Halvachar]] and her men.
+After finishing the events of [[Hold Back the Dead]], the party can choose to return to their journey on the main road. [[Balthazaar Baradult]] will say he and the other members of the convoy will likely need to stay in [[Ironspine Keep]] until the party's business with the [[Cult of the Dragon]] is finished. [[Corlie Halvachar]] will say there's a very high chance that either the [[Cult of the Dragon]] or [[Szass Tam]]'s forces will return. There are three possible outcomes for this quest:
+
+- The party rids the surrounding area of both strongholds containing [[Szass Tam]]'s [[Red Wizards of Thay]] and defends [[Ironspine Keep]] against [[Venomfang]]. As a result of this, the convoy's inhabitants will be safe with [[Corlie Halvachar]] and her men.
 - The party rids the surrounding area of both [[Cult of the Dragon]] forces and [[Szass Tam]]'s [[Red Wizards of Thay]] but does not defend [[Ironspine Keep]]. As a result of this, the convoy's inhabitants will be safe, but [[Corlie Halvachar]] and the majority of her men will perish.
 - The party does not rid the surrounding area and immediately heads for [[Dragonspear Castle]]. The convoy's inhabitants will perish along with [[Corlie Halvachar]].
 
-Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He will say he plans on helping the party with their mission to stop the [[Cult of the Dragon]]. On their way to their destination, Renaer reminds the party of the Golden Stag's warning and remarks that one of his friends, [[Tazmikella 'Zalla Temik' the Copper]] said that she knew of a secret entrance to [[Dragonspear Castle]]. They must, however, journey to another town to meet with her.
+Upon leaving [[Ironspine Keep]], [[Renaer Neverember]] will ride with them. He will say he plans on helping the party with their mission to stop the [[Cult of the Dragon]]. On their way to their destination, Renaer reminds the party of the Golden Stag's warning and remarks that one of his friends, [[Tazmikella 'Zalla Temik' the Copper]] said that she knew of a secret entrance to [[Dragonspear Castle]]. They must, however, get closer to the castle before calling for her. He will leave Mahariel with [[Balthazaar Baradult]] with a promise to meet him again in [[Daggerford]].
 
 #### Checkpoint I: Alone Again
 
-*Your first day away from the convoy feels lonely, and you only hope that what work you did to keep them safe is also enough to keep them alive until reinforcements arrive. While not all of them are 'helpless villagers' like the people of Shade Rest were, you all still feel that sense of hesitation as Glass drives on with Renaer riding closeby.*
+*Your first day away from the convoy feels lonely, and you only hope that what work you did to keep them safe is also enough to keep them alive until reinforcements arrive. While not all of them are 'helpless villagers' like the people of Shade Rest were, you all still feel that sense of hesitation as Glass drives on with Renaer riding close by.*
 
 | D6  | Encounter                                                                                                                                                                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | 6 [[Cult of the Dragon]] recruits, 4 warriors, 2 evokers and 1 priest attack the party. On one of the bodies is a patrol schedule which designates this team as one of the many forward scouting parties of the main horde.                                      |
-| 2   | [[Lennithon]] flies past the group, zooming through the sky and causing a torrential downpour. He flies alongside 2 adult dragons; 1 black, 1 red and 1 green. On a DC 25 Perception check, they will recognise the green dragon as [[Venomfang]]                |
+| 2   | [[Lennithon]] flies past the group, zooming through the sky and causing a torrential downpour. He flies alongside 2 adult dragons; 1 black, 1 red.                                                                                                               |
 | 3   | A set of Drow carriages pass by, extremely similar to the ones the party ran into in [[Candlekeep]] during [[Act 1 - The Curse of Willowvale]]. They seemed armed and armoured. On a DC 20 Investigation check, the party can determine they're royal assassins. |
 | 4   | [[Arcane Brotherhood]] forces accost the party.                                                                                                                                                                                                                  |
-| 5   | 40 Tieflings in a camp having an orgy.                                                                                                                                                                                                                           |
-| 6   | 60 Rocs                                                                                                                                                                                                                                                          |
-|     | Orangutan                                                                                                                                                                                                                                                        |
-|     | Giant Insects                                                                                                                                                                                                                                                    |
+| 5   | A strange noise is heard emanating from the nearby landscape. The horses are afraid to move on. Inside a cave, there are 40 Tieflings in a camp having an orgy.                                                                                                  |
+| 6   | 60 Rocs descend upon the party. As soon as the party retaliates, a Goblin Hexer will be revealed to be creating illusions.                                                                                                                                       |
+|     |                                                                                                                                                                                                                                                                  |
 
+On their first night alone in camp, Raener 
 
 ____
 ### 4.2 T

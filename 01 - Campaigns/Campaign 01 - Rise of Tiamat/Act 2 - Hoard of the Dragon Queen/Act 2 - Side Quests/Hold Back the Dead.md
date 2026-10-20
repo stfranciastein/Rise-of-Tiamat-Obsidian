@@ -72,7 +72,9 @@ The waves follow the same order as the table, starting with Nauk on the North ga
 | South West | Neverwinter   | [[Renaer Neverember]] (Ranger), a Blue Wyrmling (his Drake)       | 2 Ravenous ghouls, 1 Garmyr Berserker, 2 Skeletons      |
 | North West | Mithral Hall  | [[Kagain Brawnanvil]] (Fighter), [[Cannon]] and one Guard         | 4 Skeleton Soldiers, 1 Skeleton Mage, 1 Skeleton Archer |
 
-At the end of all five waves, [[Corlie Halvachar]] will ask for help defending the South Gate as it is assailed by 2 Skeleton Soldiers, 2 Skeleton Mages, 1 Garmyr Bloodhound, 2 Garmyr Warriors and 1 Garmyr Thaumaturge.
+At the end of all five waves, [[Corlie Halvachar]] will ask for help defending the South Gate as it is assailed by 2 Skeleton Soldiers, 2 Skeleton Mages, 1 Garmyr Bloodhound, 2 Garmyr Warriors and 1 Garmyr Thaumaturge. [[Venomfang]] will momentarily taunt the party while hiding nearby and say he will return once they've left.
+
+VENOMFANG: A paltry victory, meat. How long can you continue to protect them while your wounds continue to fester? Mmm... we shall return. Remain all you want, your time is running short.
 
 
 ____
@@ -82,6 +84,6 @@ At the end of the waves, [[Corlie Halvachar]] will declare the battle won. She a
 
 Firstly, [[Alain Gilfont]] will pull a full spellcaster (or a member of the [[Order of the Gauntlet]] or [[Talons of the Raven Queen]]) to the side and say that while the battle was hard-fought, it's likely more attacks will happen as there is strong necromantic energies in the Weave. [[Alain Gilfont]] will offer to join the party should they pursue this lead. (Will of Orcus) 
 
-[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that there seems to be another abandoned fortress nearby that seems to house several undead creatures. [[Vellin Farstride]] will offer to join the party should they pursue this lead. (Shadowsteel Citadel)
+[[Nauk Flame-Arrow]] and [[Vellin Farstride]] will also note that there seems to be another abandoned fortress nearby that seems to house several undead creatures. [[Vellin Farstride]] will offer to join the party should they pursue this lead. (Shadowsteel Citadel).
 
 If [[Mavis Ephanté]] is present, she will say it's likely that there is a Necromancer in service to the [[Red Wizards of Thay]] nearby as the undead resurrected at [[Ironspine Keep]] bear the markings of a Zulkir. She will also say that the priority should be dealing with the source rather than more of the creatures. On a casting of Divination, it will reveal that [[Alain Gilfont]] is the right person to follow should the party wish to save more time.
