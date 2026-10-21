@@ -1,6 +1,6 @@
 ### 4.1 - An Alignment of the Stars
 
-As the Bush Whackers concluded their journey in Baldur's Gate, they continued on their journey ahead and joined a convoy headed by Balthazaar Baradult, a former member of the Watch in Waterdeep. As their journey began the party reflected back on the key moments of their adventure, as many of them found themselves closing in on home with each passing day.
+As the Bush Whackers concluded their quests in Baldur's Gate, they pressed on with their journey and joined a convoy headed by Balthazaar Baradult, a former member of the Watch in Waterdeep. As their journey began the party reflected back on the key moments of their adventure, as many of them found themselves closing in on home with each passing day.
 
 They first met with the rear guard, meeting all kinds of characters like the lone ranger Vellin Farstride, the dwarf Kaghain Brawnanvil and the Blackstaff Wizard Alain Gilfont. Later Aramir met with Radecere, Melchia Deleante and Beyda; a group of friendly ladies who seemed eager to meet with their would-be protectors for the road ahead. While everyone seemed friendly or amiable enough, one such member of the convoy didn't seem to be too happy to see them; a human Ranger with no name but had a special interest in Cerulean.
 
