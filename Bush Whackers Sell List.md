@@ -4,3 +4,8 @@ Fire Dervish Cloak - 1500 GP
 Ring - 1000 GP
 
 4500
+
+Ryn
+Glass
+Corlie
+Ulena

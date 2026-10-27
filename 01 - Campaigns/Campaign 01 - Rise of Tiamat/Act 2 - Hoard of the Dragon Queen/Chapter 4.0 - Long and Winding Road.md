@@ -103,7 +103,7 @@ On a DC 10 Arcana or Nature check, they will reveal that it is residue from an O
 
 #### Checkpoint IV: Grasslands
 
-*The rain starts up about an hour into your journey again. Thunder begins to quake in the distance as the rain picks up once more just like your first night. As the caravans crest a particularly high hill, you look back into the distance and you can vaguely see the outline of the Upper City in the distance. Glass lets the horses rest for a few minutes and lets the other caravans catch up and re-align before heading out ahead of the group.*
+*The rain starts up about an hour into your journey again. Thunder begins to quake in the distance as the rain picks up once more just like your first night. As the caravans crest a particularly high hill, you look back into the distance and you can vaguely see the outline of the Upper City. Glass lets the horses rest for a few minutes and lets the other caravans catch up and re-align before heading out ahead of the group.*
 
 | D6  | Encounter                                                                                                                                                                                                                                                                     |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
