@@ -303,6 +303,7 @@ Renaer will state that while he does not believe in predestiny, there is a good 
 
 [[Corlie Halvachar]] meets with the characters as soon as they step through the door. This continues the [[Hold Back the Dead]] quest if it was initiated from [[Baldur's Gate]]. If this is their first time learning about it, Corlie will tell the party that undead creatures have been attacking [[Ironspine Keep]] for the past few weeks.
 
+
 ---
 ### 4.2 The Lost Library
 
