@@ -93,5 +93,5 @@ The thesis of the book is clear, if defeating Sammaster himself took nothing sho
 ```
 
 ```
-This text is written in both Draconic and Sylvan, describing an agreement between the Cult of the Dragon and the Queen of the Unseelie Court. It discusses the creation of a fake 'King' who would wage war against Silverymoon to take out Alustriel Silverhand from the Material Plane. In doing this, the world would be ill-prepared for Tiamat's return.
+This text is written in both Draconic and Sylvan, describing an agreement between the Cult of the Dragon and the Queen of the Unseelie Court. It discusses the creation of a fake 'King' who would wage war against Silverymoon in order to take out Alustriel Silverhand from the Material Plane.
 ```
