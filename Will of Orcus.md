@@ -28,19 +28,22 @@ Doing this quest is entirely optional, though if the Zulkir is not killed they w
 
 *The journey to the temple is short and uneventful. A crust of snow covers the ground, and the biting wind is the only foe you encounter. Clouds obscure the peak of the windswept mountain before you. Khasar moves ahead, and for a second he disappears into the snow. When you catch up to where you thought he was, he is no longer there. Instead, there is a tan-skinned elven woman standing at 6 and a half feet tall. Her golden hair and bright green eyes make her look both fierce and beautiful.*
 
-ZALLA: Hold there interlopers. Thine trespass where thou doth not belong. Speak thine purpose.
+ZALLA: Hold there, interlopers! Thou trespassest where thou dost not belong. Speak thy purpose.
 
 *The elven woman points her longbow at the party and the arrow begins to glow bright green. All along her face are tribal markings seemingly tattooed onto her skin with off-white paint. Her armour carries the obliterated symbol of a god beyond recognition. Her stance suggests she's a ranger.*
 
-This is [[Tazmikella 'Zalla Temik' the Copper]] in her 'humanoid' disguise. She is quick to threaten the party at any sign of veering from her line of questioning and is unafraid to injure a member of the group in order to get her point across.
+This is [[Tazmikella 'Zalla Temik' the Copper]] in her 'humanoid' disguise. She is quick to threaten the party at any sign of veering from her line of questioning and is unafraid to injure a member of the group in order to get her point across. 
 
-ZALLA: Hark, and listen. A wretched play unfurls below the depths of the earth. Within, a vexing plague stalks thy halls once more. These asps serves a foul creature born in darkness, whom thy holy father abhors above all else. Thou shalt enter and slay them and consecrate this temple. Tis my command. Refuse it, and thou shall feel the wrath of the heavens bear down upon thee.
+ZALLA: A wretched play unfurls below the depths of the earth. Within, a vexing plague stalks thy halls once more. These asps serves a foul creature born in darkness, whom thy holy father abhors above all else. Thou shalt enter and slay them and consecrate this temple. Tis my command. Refuse it, and thou shall feel the wrath of the heavens bear down upon thee.
 
 If the party attempts to threaten [[Tazmikella 'Zalla Temik' the Copper]], they must succeed on a DC 24 Wisdom saving throw or become frightened of her. Party members who have raised the [[Mutated Dragon]] will feel a sense of familiarity emanate from her. On a successful DC 25 Arcana check, they will be able to feel her immense power. If Zalla is asked why she doesn't enter herself, she will remark that there is a hallow placed on the Temple which prevents 'her kind' from entering. As a reward, she promises to allow the party to keep any spoils from within and to not kill them upon exiting as she senses their 'corrupted spirits' from here.
 
 ZALLA: Thou art abominations, walking amongst the sheep. Were I not merciful, I would have cleaved thee from navel to neck, then given thy remains unto the Treefather’s embrace. Yet my generosity hath allowed thee to draw breath a while longer. Thou shouldst be grateful for the privilege.
 
-Carved into its base, the old temple’s entrance yawns ten feet wide by twenty feet high. A few feet inside, a rough-hewn staircase descends into the cold bedrock. Eerie green light emanates from goat skulls embedded in the walls at regular intervals.**
+*After dealing with the party, Zalla's eyes will flash green and she'll disappear into the snow. Khasar comes into view a few footsteps in as he stands at the base of the mountain. Carved into its base, the old temple’s entrance yawns ten feet wide by twenty feet high. A few feet inside, a rough-hewn staircase descends into the cold bedrock. Eerie green light emanates from goat skulls embedded in the walls at regular intervals.*
+
+KHASAR: There you all are. We're here. You've all got the numbers, so you lead the way.
+
 
 
 
