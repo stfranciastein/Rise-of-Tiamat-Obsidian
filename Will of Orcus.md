@@ -20,9 +20,11 @@ ALAIN: Zulkir or not, no common Necromancer can raise dead at this level. More t
 
 KHASAR: Exactly. I propose we visit this Temple and see what we're dealing with. If [[Venomfang]] was operating here, his phylactery is likely nearby. A Dragon is one thing, but a Dracolich is another problem entirely. He can't be allowed to continue his unnatural lifespan.
 
-After the meeting is concluded, [[Alain Gilfont]] will remark that he is able to assist them in this mission, but [[Khasar the Blooded]] will recommend against it, stating that there's a high chance that there may be another attack on [[Ironspine Keep]].  [[Corlie Halvachar]] will say whoever doesn't accompany them will instead pursue the 
+The Temple of Orcus is a day's travel away from [[Ironspine Keep]]. After the meeting is concluded, [[Alain Gilfont]] will remark that he is able to assist them in this mission, but [[Khasar the Blooded]] will recommend against it, stating that there's a high chance that there may be another attack on [[Ironspine Keep]]. [[Corlie Halvachar]] will say whoever doesn't accompany them will instead pursue [[Shadowsteel Citadel]].
 
+Prior to leaving, [[Renaer Neverember]] will remark that it's not safe for the [[Mutated Dragon]] to be close to the Zulkir and advises they're left behind there. Unless the Invisibility upgrade was purchased, [[Glass]] will also recommend against taking the caravan as it's far too conspicuous. Regardless of the amount of party members present, [[Khasar the Blooded]] will accompany the party.
 
+Doing this quest is entirely optional, though if the Zulkir is not killed they will simply resurrect [[Venomfang]] through his phylactery and attack [[Ironspine Keep]] once more. Alternatively, [[Khasar the Blooded]] and the able-bodied members of the convoy can be sent in place of the party. This will result in everyone except [[Khasar the Blooded]] and [[Alain Gilfont]] perishing.
 
 
 

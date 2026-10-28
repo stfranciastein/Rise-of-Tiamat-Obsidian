@@ -35,8 +35,7 @@
               "title": "Hold Back the Dead"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "azba",
+                "query": "chapter 2.0",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -214,10 +213,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8af5f083b41fc8f1",
+  "active": "aac4f82087c9c4d8",
   "lastOpenFiles": [
-    "Will of Orcus.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
+    "Will of Orcus.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/A New Duke.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 5.0 - Blood of the Wolf.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 2.0 - A Sea of Moving Ice.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
+    "04 - Locations/00 - Minor Locations/Towns/Shade Rest/Darine Torin.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
+    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 2.0 - Shade Rest.md",
     "08 - Beastiary/05 - Dragons/Venomfang.md",
     "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of Secrets.md",
@@ -225,7 +231,6 @@
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 11.md",
     "05 - Organisations/00 - Minor Organisations/Red Wizards of Thay/Defectors/Azbara Jos.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 11.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 2.0 - Tale of Two Cities.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 4.0 - Long and Winding Road.md",
     "05 - Organisations/01 - Major Allied Factions/07 - Court of Metal/Tazmikella 'Zalla Temik' the Copper.md",
     "02 - Adventurers/Group A/00 - Session Notes/Group A - Act 2 - Session 41.md",
@@ -234,14 +239,8 @@
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 3 - Rise of Tiamat/Chapter 4.0 - Dead in Thay.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 6.0 - The Mentor.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Chapter 5.0 - Masked Faces.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 5.0 - Blood of the Wolf.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 4.0 - Veins of Ice.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 1 - The Curse of Willowvale/Chapter 7.0 - Deathstruck.md",
     "Bush Whackers Sell List.md",
-    "Mod List for 2024 Rules.md",
-    "Plot Hooks.md",
-    "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 30.md",
-    "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
     "Untitled.canvas",
     "00 - Images/Hold Back the Dead-1791470057259.webp",
     "Untitled",
