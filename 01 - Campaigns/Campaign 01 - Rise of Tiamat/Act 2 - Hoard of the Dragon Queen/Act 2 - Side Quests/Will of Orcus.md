@@ -85,13 +85,47 @@ It's obvious now that Sammaster believed Maglas forsaw that Faerun would eventua
 ```
 This tome is written in a more recent version of Draconic, thought he majority of it still reads as far older than its modern counterparts. At first it reads like a history book, but it's blatantly skewed towards the Cult of the Dragon.
 
-The first few chapters describes the centuries of Sammaster's work with creating dracoliches before his first death at the hands of the Harpers lead by a Chosen of Lathander. It then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of several Chosens.
+The first few chapters describes the centuries of Sammaster's work with creating dracoliches before his first death at the hands of the Harpers lead by a Chosen of Lathander. It then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of Elminster and several Chosens of Mystra.
 
-The next few chapters then discuss the Time of Troubles just over 140 years ago and how Tiamat was forced to walk Toril temporarily as a 'mortal' being. It talks of how she was momentarily defeated by the demi-god Gilgeam before she brought herself back by 'ressambling' her avatar. It boldly proclaims there is no end to the Dragon Queen, and how nothing short of Asgorath itself could put an end to her.
-
-The thesis of the book is clear, if defeating Sammaster himself took nothing short of multiple Chosen, then the next Chosen of Tiamat would be equally as strong, if not more for Tiamat only chooses those who can match her in tenacity. Its author proports that the sages of the Cult believe that the arrival of the next Chosen is imminent and will be a Sorcerer come from the sandy ports of Calimshan.
+The thesis of the book is clear, if defeating Sammaster himself took nothing short of multiple Chosen, then the next Chosen of Tiamat would be equally as strong, if not more. For Tiamat only chooses those who can match her in tenacity and strength.
 ```
 
 ```
 This text is written in both Draconic and Sylvan, describing an agreement between the Cult of the Dragon and the Queen of the Unseelie Court. It discusses the creation of a fake 'King' who would wage war against Silverymoon in order to take out Alustriel Silverhand from the Material Plane.
+```
+
+```
+This religious text is very recent, written presumably less than a hundred years ago. It's written in several parts.
+
+The first describes a Calishite man passing through several 'tests' laid before him by fate. The loss of his wife, the death of his children, and finally his exile.
+
+The second part describes the man visiting an island in order to speak to a great Wyrm. It talks of how this man appeased the Wyrm, though it does not describe how.
+
+The third speaks of Tiamat whispering into this man's ear. In the opposite page, the silhouette of the man is illustrated as being surrounded by five circles, one representing each colour of the Chromatic Dragons. The next part depicts Tiamat emerging from what looks to be a gaping pit, with the accompanying text almost in the style of a sermon.
+
+The Queen lies silent as the grave.
+The pretender believed her defeated.
+She simply rests, biding, waiting.
+
+Five masks of scale lie scattered, hidden.
+Neither Dawn nor Midnight could unmake them.
+They remain unseen, unfed, unfound.
+
+Though sundered, their power is undeniable.
+Whoever wields one shall speak with the Queen's voice.
+Fed by the souls of the departed, they shall be restored.
+
+United, they bind the wearer to every one of her children.
+United, they unlock the doors to the First Lord's realm.
+United, they shall set her free.
+
+Too long has her voice gone unheard.
+No longer! Rejoice, brothers and sisters.
+For her Chosen has risen from the flames of vengeance.
+
+Severin shall lead us into salvation, for he alone has the Queen's ear.
+Through him shall the Queen ascend to her rightful place.
+Not merely the Goddess of Dragons, but the ruler of all.
+
+Unbound, unleashed, unrivaled.
 ```
