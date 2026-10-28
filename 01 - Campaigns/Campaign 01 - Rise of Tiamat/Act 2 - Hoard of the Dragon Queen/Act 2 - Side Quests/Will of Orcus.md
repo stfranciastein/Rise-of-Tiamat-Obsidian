@@ -85,7 +85,7 @@ It's obvious now that Sammaster believed Maglas forsaw that Faerun would eventua
 ```
 This tome is written in a more recent version of Draconic, thought he majority of it still reads as far older than its modern counterparts. At first it reads like a history book, but it's blatantly skewed towards the Cult of the Dragon.
 
-The first few chapters describes the centuries of Sammaster's work with creating dracoliches before his first death at the hands of the Harpers lead by a Chosen of Lathander. It then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of Elminster and several Chosens of Mystra.
+The first few chapters describes the centuries of Sammaster's ascension firstly as a Chosen of Mystra, after having met the Goddess of Magic herself. Later, Sammaster became 'awakened' to the truth after becoming a master of necromancy. It discusses his work with creating dracoliches before his first death at the hands of the Harpers, who were lead by a Chosen of Lathander. As the tome progresses, it then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of Elminster and several Chosens of Mystra.
 
 The thesis of the book is clear, if defeating Sammaster himself took nothing short of multiple Chosen, then the next Chosen of Tiamat would be equally as strong, if not more. For Tiamat only chooses those who can match her in tenacity and strength.
 ```
