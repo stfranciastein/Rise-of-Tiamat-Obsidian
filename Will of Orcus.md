@@ -10,7 +10,7 @@ ____
 
 *Khasar shuffles through a duffle bag and brings out a rudimentary map of what appears to be a temple. Marked on the bottom is obliterated script written in what you can only guess is an ancient language. Judging by age, it looks at least to be a few hundred years old but the map itself likely a traced copy of the original.*
 
-KHASAR: Second Talon Trevisa sent me up north to investigate a nearby temple for necromantic activity. This map here was given to us by a couple from the Western Heartlands who did battle with Cultists of Orcus.
+KHASAR: Second Talon Trevisa sent me up north to investigate a nearby temple for necromantic activity. This map here was given to us by a couple from the Western Heartlands who did battle with Cultists of Orcus over three decades ago.
 
 *Khasar spreads the map out fully and pins each end with four heavy marked stones in order to keep it open. His eyes gleam as the stones activate and projects what looks to be a floating hologram of the temple.*
 
