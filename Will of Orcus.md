@@ -18,11 +18,9 @@ KHASAR: I'll get to the point. The Second Talon sent me up north to investigate 
 
 ALAIN: Zulkir or not, no common Necromancer can raise dead at this level. More than likely this ancient Temple still carries some residual energy from when the Cultists were operating in the area. If the Zulkir is anywhere, they're likely deep within.
 
-KHASAR: Exactly. I propose we visit this Temple and see what we're dealing with. If [[Venomfang]] was operating here, his phylactery is likely nearby.
+KHASAR: Exactly. I propose we visit this Temple and see what we're dealing with. If [[Venomfang]] was operating here, his phylactery is likely nearby. A Dragon is one thing, but a Dracolich is another problem entirely. He can't be allowed to continue his unnatural lifespan.
 
-ALAIN: A Dragon is one thing, but a Dracolich is another problem entirely. He can't be allowed to continue his unnatural lifespan.
 
-KHASAR: If the Necromancer is anywhere, it'll be at the heart of the temple here. This'll also give us some insight as to why the [[Red Wizards of Thay]] are involved with the [[Cult of the Dragon]].
 
 
 
