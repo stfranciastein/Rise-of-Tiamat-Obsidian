@@ -35,7 +35,8 @@
               "title": "Hold Back the Dead"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac4f82087c9c4d8",
+  "active": "8af5f083b41fc8f1",
   "lastOpenFiles": [
-    "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
     "Will of Orcus.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Hold Back the Dead.md",
+    "08 - Beastiary/05 - Dragons/Venomfang.md",
+    "03 - Persons of Note/01 - Allies/Khasar the Blooded.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Keeper of Secrets.md",
     "02 - Adventurers/Group A/Zilliletha/Letter from Cormyc Ravenshade.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 11.md",
@@ -240,7 +242,6 @@
     "Plot Hooks.md",
     "02 - Adventurers/Group B/00 - Session Notes/Group B - Act 2 - Session 30.md",
     "01 - Campaigns/Campaign 01 - Rise of Tiamat/Act 2 - Hoard of the Dragon Queen/Act 2 - Side Quests/Twenty-Sided Trouble at the Big Bad Base.md",
-    "03 - Persons of Note/00 - Misc NPCs/04 - Waterdeep/Balthazaar's Convoy/Balthazaar Baradult.md",
     "Untitled.canvas",
     "00 - Images/Hold Back the Dead-1791470057259.webp",
     "Untitled",
