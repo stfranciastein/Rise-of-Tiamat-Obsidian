@@ -44,7 +44,54 @@ ZALLA: Thou art abominations, walking amongst the sheep. Were I not merciful, I 
 
 KHASAR: There you all are. We're here. You've all got the numbers, so you lead the way.
 
+```
+Zulkir Modar
+
+The markings you generously suggested are working well. The creatures we're raising are far more powerful than simple reanimated corpses. As long as we maintain this temple and fuel the rituals, the undead will continue to rise. There is a slight problem with the hunter outside our walls, but even she cannot penetrate the inner sanctum. We've made sure of it.
+
+Lord Severin was not exagerrating when he spoke of the genius of Sammaster's writings. Combined with Lady Rezmir's artifact, we've been able to recreate his 'recipes' and have begun with the Green Dragon Venomfang. This partnership with the Cult has proven quite fruitful. Soon we will be able to depose Szass Tam and return to Thaymount.
+
+Faithfully yours,
+Xia
+```
+
+```
+Xia,
+
+Worry not about Jos.
+Assassins have been dispatched to Waterdeep.
+This 'council' will not be privvy to our secrets. 
+
+Zulkir Modr
+```
+
+```
+The majority of this note is seemingly uninteresting inventory, though one paragraph at the end stands out to you. Written in Draconic, Infernal and Thieves Cant is the following: Continue the assault. Kasterel's plan is in effect. The knowledge within the archives will remain secure. They believe they're going to uncover our secrets but the drow will make sure that they don't even come close.
+```
 
 
 
 
+```
+This text seems to be written in Ancient Draconic, even if you understand the words parsing it is especially difficult given the dialect. However, the intention seems clear enough. This book describes the former Chosen of Mystra, Sammaster, becoming driven to fulfill a prophecy written in the time of Netheril by an ancient Archwizard named Maglas known as the 'Chronicle of Years to Come'.
+
+In this text, Maglas describes several cryptic prophecies. It took Sammaster decades to translate the text, but eventually he managed to get most of it. The majority of the prophecies are all lost to time, but Sammaster seems to have been hyper-focused on a specific line.
+
+"And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire, and…"
+
+It's obvious now that Sammaster believed Maglas forsaw that Faerun would eventually be subject to the rule of undead dragons. Thus, this was this spark that made him form the first Cult of the Dragon.
+```
+
+```
+This tome is written in a more recent version of Draconic, thought he majority of it still reads as far older than its modern counterparts. At first it reads like a history book, but it's blatantly skewed towards the Cult of the Dragon.
+
+The first few chapters describes the centuries of Sammaster's work with creating dracoliches before his first death at the hands of the Harpers lead by a Chosen of Lathander. It then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of several Chosens.
+
+The next few chapters then discuss the Time of Troubles just over 140 years ago and how Tiamat was forced to walk Toril temporarily as a 'mortal' being. It talks of how she was momentarily defeated by the demi-god Gilgeam before she brought herself back by 'ressambling' her avatar. It boldly proclaims there is no end to the Dragon Queen, and how nothing short of Asgorath itself could put an end to her.
+
+The thesis of the book is clear, if defeating Sammaster himself took nothing short of multiple Chosen, then the next Chosen of Tiamat would be equally as strong, if not more for Tiamat only chooses those who can match her in tenacity. Its author proports that the sages of the Cult believe that the arrival of the next Chosen is imminent and will be a Sorcerer come from the sandy ports of Calimshan.
+```
+
+```
+
+```
