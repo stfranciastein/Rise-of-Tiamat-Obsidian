@@ -85,9 +85,13 @@ It's obvious now that Sammaster believed Maglas forsaw that Faerun would eventua
 ```
 This tome is written in a more recent version of Draconic, thought he majority of it still reads as far older than its modern counterparts. At first it reads like a history book, but it's blatantly skewed towards the Cult of the Dragon.
 
-The first few chapters describes the centuries of Sammaster's ascension firstly as a Chosen of Mystra, after having met the Goddess of Magic herself. Later, Sammaster became 'awakened' to the truth after becoming a master of necromancy. It discusses his work with creating dracoliches before his first death at the hands of the Harpers, who were lead by a Chosen of Lathander. As the tome progresses, it then moves to several pages of his eventual resurrection as Lich and how he took advantage of the Dracorage in order to secure his power before being finally slain once more at the hands of Elminster and several Chosens of Mystra.
+The first few chapters describes the centuries of Sammaster's ascension firstly as a Chosen of Mystra. Later, after being abandoned by his God, Sammaster became 'awakened' to the truth and became a master of necromancy. After trascribing the words of Archwizard Maglas, he became a Chosen of Tiamat.
 
-The thesis of the book is clear, if defeating Sammaster himself took nothing short of multiple Chosen, then the next Chosen of Tiamat would be equally as strong, if not more. For Tiamat only chooses those who can match her in tenacity and strength.
+The tome speaks of Sammaster convincing several living dragons to partake in his experiments. How these Dragons went on to become dracoliches in order to fulfill his prophecy. Sammaster was able to convince more than a handful up until his first death at the hands of the Harpers, lead by an unnamed Chosen of Lathander. 
+
+As the tome progresses, it then moves to several pages of his eventual resurrection as Lich through raw power. It speaks of how in his new form he was able to muster an army large enough to threaten the Sword Coast. All seemed lost, especially after Sammaster took advantage of the Dracorage or 'Dragon Rage' to force every Dragon on Toril to fly into a mad frenzy. Towards the end of the tome, it boasts how it took Elminster and several Chosens of Mystra in order to finally destroy him.
+
+Reading through it, the thesis of the book is clear as day; defeating Sammaster took nothing short of multiple Chosen, a measure of his immense power. What the author implies - perhaps most frighteningly - is that the next Chosen of Tiamat would be equally as strong, if not more. For Tiamat only chooses those who can match her in tenacity and strength.
 ```
 
 ```
@@ -97,31 +101,31 @@ This text is written in both Draconic and Sylvan, describing an agreement betwee
 ```
 This religious text is very recent, written presumably less than a hundred years ago. It's written in several parts.
 
-The first describes a Calishite man passing through several 'tests' laid before him by fate. The loss of his wife, the death of his children, and finally his exile.
+The first describes a Calishite man passing through several 'tests' laid before him by fate. The loss of his wife, the death of his children, and finally his exile from home.
 
-The second part describes the man visiting an island in order to speak to a great Wyrm. It talks of how this man appeased the Wyrm, though it does not describe how.
+The second part describes the man visiting an island in order to speak to a great Wyrm. It talks of how this man appeased the Wyrm, though it does not describe how. This act is depicted as something worthy of praise, earning him the favour of a Queen.
 
-The third speaks of Tiamat whispering into this man's ear. In the opposite page, the silhouette of the man is illustrated as being surrounded by five circles, one representing each colour of the Chromatic Dragons. The next part depicts Tiamat emerging from what looks to be a gaping pit, with the accompanying text almost in the style of a sermon.
+The third speaks of the Queen whispering into this man's ear. In the opposite page, the silhouette of the man is illustrated as being surrounded by five circles, one representing each colour of the Chromatic Dragons. The next part depicts Tiamat emerging from what looks to be a gaping pit, with the accompanying text almost in the style of a sermon.
 
 The Queen lies silent as the grave.
 The pretender believed her defeated.
 She simply rests, biding, waiting.
 
 Five masks of scale lie scattered, hidden.
-Neither Dawn nor Midnight could unmake them.
+Neither the Justicemaker, nor Dawn nor Midnight could unmake them.
 They remain unseen, unfed, unfound.
 
 Though sundered, their power is undeniable.
-Whoever wields one shall speak with the Queen's voice.
 Fed by the souls of the departed, they shall be restored.
+Whoever wields one shall speak with the Queen's voice.
 
-United, they bind the wearer to every one of her children.
-United, they unlock the doors to the First Lord's realm.
+United, they bind the wearer to every one of her and her brother's children.
+United, they unlock the doors to the chains that bind.
 United, they shall set her free.
 
 Too long has her voice gone unheard.
 No longer! Rejoice, brothers and sisters.
-For her Chosen has risen from the flames of vengeance.
+For her Chosen has risen from the flames of vengeance. 
 
 Severin shall lead us into salvation, for he alone has the Queen's ear.
 Through him shall the Queen ascend to her rightful place.
